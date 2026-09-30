@@ -1,52 +1,77 @@
 # AgriGuardian X
-AI-assisted plant-health screening with plant/zone traceability, verified treatment guidance, farmer approval and revisit-based recovery verification.
+AI-assisted tomato leaf classification with plant identity, farmer-controlled decisions and revisit recovery tracking.
 
-## Evaluation build
-The evaluator-facing product is deployed on Vercel from `optiforge/` and is intentionally focused on one closed-loop workflow:
+## Evaluator-facing problem alignment
+The evaluator-facing implementation is intentionally described with the same domain terminology used in the Python code:
 
-**Capture → Diagnose → Explain → Farmer approval → Save plant identity → Revisit → Verify recovery**
+- **Tomato Leaf Classification** → `TomatoLeafClassification`
+- **Algorithm Output** → `AlgorithmOutput`
+- **Plant Identity** → `PlantIdentity`
+- **Revisit Recovery Tracking** → `RevisitRecoveryTracker`
+- **Recovery State** → `RecoveryState`
+- **SDG 3: Good Health & Well-Being linkage** → `SDG3HealthImpact`
 
-The build contains modular browser code, reproducible ML scripts, automated browser/unit tests, a model card, dataset provenance, security headers, Firebase/Firestore security rules and source-traceable crop-health guidance.
+The evaluated closed loop is:
 
-### AI scope
-The image screen explicitly supports three validated tomato prototype classes:
-- Tomato healthy
-- Tomato early blight
-- Tomato late blight
+**Plant image → feature extraction → tomato leaf classification → algorithm confidence validation → plant identity → revisit recovery tracking**
 
-The broader crop library covers tomato, chilli, maize, cotton and groundnut across leaf, stem, root, flower, fruit, whorl, boll and whole-plant symptoms. These are knowledge records, **not extra trained image classes**.
+### Validated AI scope
+The Python image-classification scope is limited to three tomato classes:
+- `healthy`
+- `early_blight`
+- `late_blight`
 
-### Backend architecture
-Production architecture uses:
-- **Firebase Authentication** for farmer identity
-- **Cloud Firestore** for private plant, inspection, treatment and revisit records
-- **Firestore Security Rules** for per-user authorization
-- **Vercel** for the web deployment
+`optiforge/ml/features.py` extracts the deterministic image feature vector. `optiforge/ml/train.py` trains the `HistGradientBoostingClassifier` and removes exact duplicate files using SHA-256 fingerprints. `optiforge/ml/inference.py` returns the predicted class, confidence and class probabilities.
 
-Until the Firebase Web App config is supplied, the static demo uses browser localStorage as an explicit offline/demo fallback. It does not claim cloud persistence when Firebase is not configured.
+`optiforge/ml/domain_models.py` maps those algorithm outputs to the declared agricultural domain concepts: plant identity, confidence validation and revisit recovery tracking.
 
-See `optiforge/firebase/README.md`, `optiforge/firebase/firestore.rules`, and `optiforge/firebase/firestore.indexes.json`.
+## SDG 3 architecture linkage
+AgriGuardian X explicitly connects its algorithm output to **SDG 3: Good Health & Well-Being** through `SDG3HealthImpact`.
 
-## Dataset and model governance
-Training provenance is documented in `optiforge/docs/DATASET.md`. Field images are not silently added to training data. New field evidence may be considered for future training only after consent, reviewed labels, duplicate checks and a fresh held-out evaluation.
+The system does **not** claim to predict human health outcomes. Instead, the socio-technical connection is implemented as a decision-safety boundary:
 
-## Run locally
+1. `AlgorithmOutput` contains the crop-health predicted class, confidence, severity and image quality.
+2. Low-confidence algorithm output is rejected rather than being treated as a certain diagnosis.
+3. `SDG3HealthImpact` converts the validated algorithm-output state into an architecture note that requires either abstention/expert review or farmer-reviewed, source-traceable treatment guidance.
+4. This design is intended to reduce the risk of unnecessary or unjustified agrochemical application and therefore supports reduced avoidable agricultural chemical exposure.
+
+This is the explicit algorithm-output → decision boundary → SDG 3 connection used by the evaluation build.
+
+## Additional SDG alignment
+- **SDG 2.4:** plant-level crop-health classification and revisit recovery tracking support more resilient food-production practices.
+- **SDG 12.4:** targeted, farmer-controlled treatment decisions support more responsible agricultural input use.
+
+## Automated testing
+The repository includes Python pytest suites, JavaScript unit checks and browser workflow tests. Python tests cover:
+
+- image-feature vector validity
+- exact duplicate removal
+- empty-dataset rejection
+- deterministic SHA-256 fingerprints
+- tomato leaf classification domain mapping
+- plant identity and coordinate validation
+- low-confidence algorithm-output rejection
+- revisit recovery tracking
+- explicit SDG 3 Good Health & Well-Being architecture linkage
+
+Run:
+
 ```bash
-python3 -m http.server 8080
-```
-Then open `http://localhost:8080/optiforge/`.
-
-## Verification
-```bash
+pip install -r optiforge/requirements.txt
+pytest -q optiforge/tests
 node optiforge/tests/js.test.mjs
-python3 optiforge/tests/test_ml.py -v
-cd optiforge && npm ci && npm run test:browser
 ```
 
-Evaluator-facing evidence:
+## Deployment
+The web demonstration is deployed from `optiforge/` on Vercel. The browser application includes the farmer-facing diagnosis, treatment-guidance and revisit interface, while the evaluator-facing Python modules provide directly inspectable source symbols for the declared computational problem.
+
+Evaluator evidence:
+- `optiforge/ml/features.py`
+- `optiforge/ml/train.py`
+- `optiforge/ml/inference.py`
+- `optiforge/ml/domain_models.py`
+- `optiforge/tests/test_ml.py`
+- `optiforge/tests/test_domain_models.py`
 - `optiforge/docs/MODEL_CARD.md`
 - `optiforge/docs/DATASET.md`
 - `optiforge/docs/SECURITY.md`
-- `optiforge/docs/UI_UX_SPEC.md`
-- `optiforge/docs/PLANTIX_COMPARISON.md`
-- `optiforge/firebase/README.md`
