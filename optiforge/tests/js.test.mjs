@@ -1,2 +1,3 @@
-import assert from'node:assert/strict';import{recoveryState}from'../js/knowledge.js';
-assert.equal(recoveryState('Moderate','Mild'),'Improving');assert.equal(recoveryState('Mild','Severe'),'Worsening');assert.equal(recoveryState('Mild','Mild'),'Stable');assert.equal(recoveryState(undefined,'Mild'),'Baseline');console.log('4 JavaScript assertions passed');
+import assert from'node:assert/strict';import{recoveryState}from'../js/knowledge.js';import{CATALOG,filterCatalog}from'../js/catalog.js';
+assert.equal(recoveryState('Moderate','Mild'),'Improving');assert.equal(recoveryState('Mild','Severe'),'Worsening');assert.equal(recoveryState('Mild','Mild'),'Stable');assert.equal(recoveryState(undefined,'Mild'),'Baseline');
+assert.ok(CATALOG.length>=20);assert.ok(CATALOG.every(x=>x.source&&x.parts.length&&x.symptoms.length&&x.actions.length));assert.ok(filterCatalog({crop:'Groundnut',part:'root'}).some(x=>x.id==='gnt-collar'));assert.ok(filterCatalog({query:'curling'}).length>=2);console.log('8 JavaScript assertions passed');

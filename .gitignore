@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+artifacts/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
