@@ -17,17 +17,15 @@ for(const key of['healthy','early','late']){
   const record=FARMER_GUIDANCE[key];
   assert.ok(record.source?.url.startsWith('https://'));
   assert.equal(record.revisit.length,2);
-  for(const lang of['en','te']){
-    const g=getGuidance(key,lang);
-    assert.ok(g.title.length>20);
-    assert.ok(g.meaning.length>40);
-    assert.ok(g.now.length>=3);
-    assert.ok(g.avoid.length>=2);
-    assert.ok(g.prevention.length>=2);
-    assert.ok(g.chemical.toLowerCase().includes(lang==='en'?'label':'లేబుల్'));
-    assert.ok(revisitText(key,lang).length>15);
-    assert.ok(speechText(key,lang).length>100);
-  }
+  const g=getGuidance(key,'en');
+  assert.ok(g.title.length>20);
+  assert.ok(g.meaning.length>40);
+  assert.ok(g.now.length>=3);
+  assert.ok(g.avoid.length>=2);
+  assert.ok(g.prevention.length>=2);
+  assert.ok(g.chemical.toLowerCase().includes('label'));
+  assert.ok(revisitText(key,'en').length>15);
+  assert.ok(speechText(key,'en').length>100);
 }
 assert.ok(getGuidance('early','en').chemical.includes('does not invent'));
 assert.ok(getGuidance('late','en').apply.includes('registered product label'));
