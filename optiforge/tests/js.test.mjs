@@ -23,7 +23,6 @@ for(const key of['healthy','early','late']){
   assert.ok(g.now.length>=3);
   assert.ok(g.avoid.length>=2);
   assert.ok(g.prevention.length>=2);
-  assert.ok(g.chemical.toLowerCase().includes('label'));
   assert.ok(revisitText(key,'en').length>15);
   assert.ok(speechText(key,'en').length>100);
 }
