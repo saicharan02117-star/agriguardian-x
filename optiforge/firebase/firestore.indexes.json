@@ -1,0 +1,29 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "inspections",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "plantId", "order": "ASCENDING"},
+        {"fieldPath": "createdAt", "order": "DESCENDING"}
+      ]
+    },
+    {
+      "collectionGroup": "treatmentPlans",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "plantId", "order": "ASCENDING"},
+        {"fieldPath": "createdAt", "order": "DESCENDING"}
+      ]
+    },
+    {
+      "collectionGroup": "revisits",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "plantId", "order": "ASCENDING"},
+        {"fieldPath": "createdAt", "order": "DESCENDING"}
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
