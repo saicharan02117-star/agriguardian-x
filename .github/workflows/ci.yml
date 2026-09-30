@@ -17,14 +17,15 @@ jobs:
       - run: pip install -r optiforge/requirements.txt
       - name: JavaScript unit checks
         run: node optiforge/tests/js.test.mjs
-      - name: ML preprocessing checks
-        run: python optiforge/tests/test_ml.py -v
+      - name: Pytest ML robustness checks
+        run: pytest -q optiforge/tests/test_ml.py
       - name: Syntax checks
         run: |
           node --check optiforge/js/app.js
           node --check optiforge/js/catalog.js
           node --check optiforge/js/farmerGuidance.js
           node --check optiforge/firebase/generate_seed.mjs
+          python -m py_compile optiforge/ml/features.py optiforge/ml/train.py optiforge/ml/inference.py
       - name: Verify Firestore seed export
         run: |
           node optiforge/firebase/generate_seed.mjs
