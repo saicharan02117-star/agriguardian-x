@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="AgriGuardian X plant-health screening, plant-level traceability and recovery verification.">
+  <title>AgriGuardian X | Field Intelligence</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="../"><span class="mark">AGX</span><span>AgriGuardian X<small>FIELD INTELLIGENCE</small></span></a>
+  <nav aria-label="Primary"><button class="nav active" data-view="diagnose">Diagnose</button><button class="nav" data-view="records">Field records</button><button class="nav" data-view="evidence">Model evidence</button></nav>
+  <span class="system"><i></i>Local demo ready</span>
+</header>
+<main>
+  <section id="diagnose" class="view active" aria-labelledby="diagnose-title">
+    <div class="intro"><div><span class="eyebrow">CLOSED-LOOP CROP HEALTH</span><h1 id="diagnose-title">See the symptom.<br><em>Track the outcome.</em></h1><p>Screen a tomato leaf, link the result to its field position, save the inspection and return to the same plant to verify recovery.</p></div><div class="loop" aria-label="Workflow"><span>01 Capture</span><span>02 Screen</span><span>03 Locate</span><span>04 Revisit</span></div></div>
+    <div class="workgrid">
+      <section class="card capture"><div class="cardhead"><div><b>New inspection</b><small>Plant image and field identity</small></div><span class="step">01</span></div>
+        <label class="drop" id="drop"><input id="imageInput" type="file" accept="image/png,image/jpeg,image/webp"><img id="preview" alt="Selected plant image"><span id="dropText"><strong>Choose a tomato leaf image</strong><small>JPG, PNG or WebP · image stays in this browser</small></span></label>
+        <div class="fields"><label>Field<input id="field" value="Field A" maxlength="30"></label><label>Row<input id="row" value="03" maxlength="10"></label><label>Plant / zone<input id="plant" value="12" maxlength="12"></label><label>Observation<select id="observation"><option>First inspection</option><option>Revisit</option></select></label></div>
+        <button id="locate" class="secondary">Use current location</button><span id="locationText" class="location">Location not captured</span>
+        <button id="analyse" class="primary" disabled>Run visual screening</button>
+        <p class="privacy">Screening support only. Confirm important crop-treatment decisions with a qualified local expert.</p>
+      </section>
+      <section class="card result" aria-live="polite"><div id="empty" class="empty"><span class="scanicon">⌁</span><h2>Awaiting an image</h2><p>Your screening result, confidence, visible evidence and safe next steps will appear here.</p></div>
+        <div id="report" hidden><div class="resulttop"><span class="eyebrow">SCREENING RESULT</span><span id="certainty" class="badge">—</span></div><h2 id="condition">—</h2><p id="scientific" class="scientific"></p>
+          <div class="metrics"><div><span>Confidence</span><b id="confidence">—</b></div><div><span>Severity</span><b id="severity">—</b></div><div><span>Image quality</span><b id="quality">—</b></div></div>
+          <div class="explain"><h3>Why this result</h3><ul id="reasons"></ul></div>
+          <div class="advice"><h3>Recommended next step</h3><p id="recommendation"></p><p id="caution" class="caution"></p></div>
+          <button id="save" class="primary">Save plant record</button>
+        </div>
+      </section>
+    </div>
+  </section>
+  <section id="records" class="view" aria-labelledby="records-title"><div class="sectionhead"><div><span class="eyebrow">FIELD MEMORY</span><h1 id="records-title">Every affected plant has a history.</h1></div><button id="clear" class="secondary danger">Clear demo records</button></div><div class="summary"><div><span>Saved inspections</span><b id="count">0</b></div><div><span>Plants tracked</span><b id="plants">0</b></div><div><span>Follow-ups due</span><b id="due">0</b></div></div><div id="recordList" class="recordlist"></div></section>
+  <section id="evidence" class="view" aria-labelledby="evidence-title"><div class="sectionhead"><div><span class="eyebrow">TRANSPARENT AI</span><h1 id="evidence-title">What the prototype can prove.</h1></div></div><div class="evidencegrid">
+    <article class="card"><h2>Supported screening scope</h2><div class="classrow"><span>Healthy</span><span>Early blight</span><span>Late blight</span></div><p>The browser demo uses explainable visual signals and safe uncertainty handling. The repository also includes a reproducible Python training/evaluation pipeline for a three-class model.</p></article>
+    <article class="card"><h2>Decision policy</h2><ol><li>Validate file and image quality.</li><li>Extract color, texture and lesion signals.</li><li>Estimate supported-class probabilities.</li><li>Abstain when confidence or image quality is low.</li><li>Store the result only after farmer confirmation.</li></ol></article>
+    <article class="card"><h2>Model boundaries</h2><p>A confidence score measures model certainty among supported classes. It does not prove the biological diagnosis. Field performance may differ from controlled leaf datasets.</p><a href="docs/MODEL_CARD.md">Read model card</a></article>
+    <article class="card"><h2>Data provenance</h2><p>Training instructions cite PlantVillage and preserve source, license and split information. Knowledge text cites Tamil Nadu Agricultural University crop-protection pages.</p><a href="docs/DATASET.md">Read dataset card</a></article>
+  </div></section>
+</main>
+<div id="toast" class="toast" role="status" hidden></div>
+<script type="module" src="js/app.js"></script>
+</body></html>

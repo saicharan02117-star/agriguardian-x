@@ -21,7 +21,7 @@ function topbar(){
   return `<header class="topbar">
     <div class="brand" onclick="home()" style="cursor:pointer"><div class="brand-mark">🌿</div><div><strong>AgriGuardian X</strong><small>FARM OPERATING SYSTEM</small></div></div>
     <nav class="navlinks"><a href="#problem">Problem</a><a href="#platform">Platform</a><a href="#market">Startup</a><a href="#crops">Crop Intelligence</a></nav>
-    <div class="top-actions"><button class="btn btn-soft" onclick="toast('AgriSathi is ready in local-language farmer mode.')">🎙 AgriSathi</button><button class="btn btn-primary" onclick="dash('overview')">Open Dashboard →</button></div>
+    <div class="top-actions"><a class="btn btn-soft" href="optiforge/">AI Field Lab</a><button class="btn btn-primary" onclick="dash('overview')">Open Dashboard</button></div>
   </header>`;
 }
 
