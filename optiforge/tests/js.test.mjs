@@ -1,3 +1,34 @@
-import assert from'node:assert/strict';import{recoveryState}from'../js/knowledge.js';import{CATALOG,filterCatalog}from'../js/catalog.js';
-assert.equal(recoveryState('Moderate','Mild'),'Improving');assert.equal(recoveryState('Mild','Severe'),'Worsening');assert.equal(recoveryState('Mild','Mild'),'Stable');assert.equal(recoveryState(undefined,'Mild'),'Baseline');
-assert.ok(CATALOG.length>=20);assert.ok(CATALOG.every(x=>x.source&&x.parts.length&&x.symptoms.length&&x.actions.length));assert.ok(filterCatalog({crop:'Groundnut',part:'root'}).some(x=>x.id==='gnt-collar'));assert.ok(filterCatalog({query:'curling'}).length>=2);console.log('8 JavaScript assertions passed');
+import assert from'node:assert/strict';
+import{recoveryState}from'../js/knowledge.js';
+import{CATALOG,filterCatalog}from'../js/catalog.js';
+import{FARMER_GUIDANCE,getGuidance,revisitText,speechText}from'../js/farmerGuidance.js';
+
+assert.equal(recoveryState('Moderate','Mild'),'Improving');
+assert.equal(recoveryState('Mild','Severe'),'Worsening');
+assert.equal(recoveryState('Mild','Mild'),'Stable');
+assert.equal(recoveryState(undefined,'Mild'),'Baseline');
+assert.ok(CATALOG.length>=20);
+assert.ok(CATALOG.every(x=>x.source&&x.parts.length&&x.symptoms.length&&x.actions.length));
+assert.ok(filterCatalog({crop:'Groundnut',part:'root'}).some(x=>x.id==='gnt-collar'));
+assert.ok(filterCatalog({query:'curling'}).length>=2);
+
+for(const key of['healthy','early','late']){
+  const record=FARMER_GUIDANCE[key];
+  assert.ok(record.source?.url.startsWith('https://'));
+  assert.equal(record.revisit.length,2);
+  for(const lang of['en','te']){
+    const g=getGuidance(key,lang);
+    assert.ok(g.title.length>20);
+    assert.ok(g.meaning.length>40);
+    assert.ok(g.now.length>=3);
+    assert.ok(g.avoid.length>=2);
+    assert.ok(g.prevention.length>=2);
+    assert.ok(g.chemical.toLowerCase().includes(lang==='en'?'label':'లేబుల్'));
+    assert.ok(revisitText(key,lang).length>15);
+    assert.ok(speechText(key,lang).length>100);
+  }
+}
+assert.ok(getGuidance('early','en').chemical.includes('does not invent'));
+assert.ok(getGuidance('late','en').apply.includes('registered product label'));
+assert.ok(getGuidance('healthy','en').chemical.includes('confirmed need'));
+console.log('Farmer guidance, catalog and recovery assertions passed');
