@@ -2,6 +2,7 @@ import assert from'node:assert/strict';
 import{recoveryState}from'../js/knowledge.js';
 import{CATALOG,filterCatalog}from'../js/catalog.js';
 import{FARMER_GUIDANCE,getGuidance,revisitText,speechText}from'../js/farmerGuidance.js';
+import{treatmentFor}from'../js/treatmentRecommendations.js';
 
 assert.equal(recoveryState('Moderate','Mild'),'Improving');
 assert.equal(recoveryState('Mild','Severe'),'Worsening');
@@ -31,4 +32,14 @@ for(const key of['healthy','early','late']){
 assert.ok(getGuidance('early','en').chemical.includes('does not invent'));
 assert.ok(getGuidance('late','en').apply.includes('registered product label'));
 assert.ok(getGuidance('healthy','en').chemical.includes('confirmed need'));
-console.log('Farmer guidance, catalog and recovery assertions passed');
+
+const early=treatmentFor('tom-early');
+assert.ok(early);
+assert.ok(early.chemical.some(x=>/copper oxychloride/i.test(x.name)));
+assert.ok(early.chemical.some(x=>/carbendazim/i.test(x.name)));
+assert.ok(early.chemical.every(x=>x.rate.length>3));
+assert.ok(early.nutrition.items.some(x=>/100:50:50/.test(x)));
+assert.ok(/does not cure/i.test(early.diagnosisNote));
+assert.ok(early.source.url.startsWith('https://'));
+
+console.log('Farmer guidance, treatment recommendations, catalog and recovery assertions passed');
