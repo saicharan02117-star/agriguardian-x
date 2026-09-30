@@ -15,12 +15,28 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
       - run: pip install -r optiforge/requirements.txt
-      - run: node optiforge/tests/js.test.mjs
-      - run: python optiforge/tests/test_ml.py -v
-      - run: node --check optiforge/js/app.js
-      - run: node --check optiforge/js/catalog.js
-      - run: cd optiforge && npm install
+      - name: JavaScript unit checks
+        run: node optiforge/tests/js.test.mjs
+      - name: ML preprocessing checks
+        run: python optiforge/tests/test_ml.py -v
+      - name: Syntax checks
+        run: |
+          node --check optiforge/js/app.js
+          node --check optiforge/js/catalog.js
+          node --check optiforge/js/farmerGuidance.js
+          node --check optiforge/firebase/generate_seed.mjs
+      - name: Verify Firestore seed export
+        run: |
+          node optiforge/firebase/generate_seed.mjs
+          test -s optiforge/firebase/seed-data.json
+      - run: cd optiforge && npm ci
       - run: cd optiforge && npx playwright install --with-deps chromium
-      - run: cd optiforge && npm run test:browser
-      - name: Reject common plaintext secrets
-        run: "! grep -RIE '(service_role|sk-[A-Za-z0-9_-]{20,}|SUPABASE_SERVICE_ROLE_KEY[[:space:]]*=)' --exclude='SECURITY.md' --exclude='ci.yml' ."
+      - name: Browser workflow tests
+        run: cd optiforge && npm run test:browser
+      - name: Reject plaintext credentials and private keys
+        run: |
+          ! grep -RIE '(BEGIN (RSA |EC |OPENSSH )?PRIVATE KEY|private_key_id|client_email.*iam.gserviceaccount.com|FIREBASE_ADMIN|GOOGLE_APPLICATION_CREDENTIALS[[:space:]]*=|service_role|sk-[A-Za-z0-9_-]{20,})' --exclude='SECURITY.md' --exclude='ci.yml' --exclude='firebase-config.example.js' .
+      - name: Verify deny-by-default Firestore rules
+        run: |
+          grep -q 'match /{document=\*\*}' optiforge/firebase/firestore.rules
+          grep -q 'allow read, write: if false' optiforge/firebase/firestore.rules
