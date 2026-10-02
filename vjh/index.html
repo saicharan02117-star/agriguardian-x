@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="AgriGuardian X crop and agricultural resource optimisation platform for farmer-led planning, market intelligence and field decisions.">
+  <title>AgriGuardian X | Crop & Resource Intelligence</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23123f2d'/%3E%3Cpath d='M17 39c17 1 28-8 31-24 7 21-2 35-22 34-5-1-8-4-9-10Z' fill='%23cbe878'/%3E%3Cpath d='M21 44c7-9 15-16 25-22' stroke='white' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/vjh/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/vjh/"><span class="mark">AGX</span><span>AgriGuardian X<small>CROP & RESOURCE INTELLIGENCE</small></span></a>
+    <nav aria-label="Primary navigation">
+      <button class="nav active" data-view="plan">Farm plan</button>
+      <button class="nav" data-view="optimizer">Optimizer</button>
+      <button class="nav" data-view="weather">Weather</button>
+      <button class="nav" data-view="market">Market</button>
+      <button class="nav" data-view="rover">Rover</button>
+      <button class="nav" data-view="health">Crop health</button>
+      <button class="nav" data-view="knowledge">Knowledge base</button>
+      <button class="nav" data-view="records">Field memory</button>
+      <button class="nav" data-view="evidence">Evidence</button>
+    </nav>
+    <div class="top-actions">
+      <label class="language-label">Language<select id="language"><option value="en">English</option><option value="te">తెలుగు</option></select></label>
+      <span class="system"><i></i>Prototype ready</span>
+    </div>
+  </header>
+
+  <main>
+    <section id="plan" class="view active" aria-labelledby="plan-title">
+      <div class="hero-shell">
+        <div class="hero-copy">
+          <span class="eyebrow">AI CROP PLANNING • FARMER-CONTROLLED</span>
+          <h1 id="plan-title">Plan every acre.<br><em>Protect every resource.</em></h1>
+          <p>Turn soil, season, land, water, fertilizer and budget limits into a practical crop plan with expected yield, cost, profit and resource savings.</p>
+          <div class="hero-badges"><span>Crop suitability</span><span>Constrained allocation</span><span>Profit scenarios</span><span>Explainable recommendations</span></div>
+        </div>
+        <div class="workflow-card" aria-label="Planning workflow">
+          <div><b>01</b><span>Describe the farm</span><small>Soil, season and available resources</small></div>
+          <div><b>02</b><span>Shortlist crops</span><small>Suitability and expected yield</small></div>
+          <div><b>03</b><span>Optimize resources</span><small>Land, water, fertilizer and budget</small></div>
+          <div><b>04</b><span>Compare outcomes</span><small>Production, profit and savings</small></div>
+        </div>
+      </div>
+
+      <div class="workgrid planner-grid">
+        <section class="card form-card">
+          <div class="cardhead"><div><span class="section-kicker">NEW FARM PLAN</span><b>Tell us what is available</b><small>All values remain editable. Optional soil-test values are entered manually and are not claimed as sensor readings.</small></div><span class="step">01</span></div>
+          <form id="farmForm">
+            <div class="fields">
+              <label>District<input id="district" value="Warangal" maxlength="40" required></label>
+              <label>Season<select id="season"><option>Kharif</option><option>Rabi</option><option>Summer</option></select></label>
+              <label>Land available (acres)<input id="land" type="number" value="5" min="0.5" max="500" step="0.25" required></label>
+              <label>Soil type<select id="soil"><option value="red">Red sandy loam</option><option value="black">Black cotton soil</option><option value="loam">Loamy soil</option><option value="clay">Clay soil</option></select></label>
+              <label>Soil pH<input id="ph" type="number" value="6.8" min="4" max="9.5" step="0.1"></label>
+              <label>Water available (lakh L)<input id="water" type="number" value="70" min="1" max="10000" step="1" required></label>
+              <label>Fertilizer limit (kg)<input id="fertilizer" type="number" value="450" min="1" max="100000" step="1" required></label>
+              <label>Total budget (₹)<input id="budget" type="number" value="250000" min="10000" max="100000000" step="1000" required></label>
+              <label>Previous crop<select id="previous"><option>Groundnut</option><option>Cotton</option><option>Maize</option><option>Paddy</option><option>Chilli</option><option>Tomato</option><option>Millet</option><option>Other / none</option></select></label>
+              <label>Planning priority<select id="priority"><option value="balanced">Balanced outcome</option><option value="profit">Maximum profit</option><option value="water">Save water</option><option value="budget">Low budget</option></select></label>
+            </div>
+            <details class="optional"><summary>Optional soil-test values</summary><div class="fields compact-fields"><label>Nitrogen index<input id="nitrogen" type="number" placeholder="Optional" min="0" max="300"></label><label>Phosphorus index<input id="phosphorus" type="number" placeholder="Optional" min="0" max="300"></label><label>Potassium index<input id="potassium" type="number" placeholder="Optional" min="0" max="300"></label></div></details>
+            <button class="primary" type="submit">Build optimized crop plan</button>
+          </form>
+          <div class="safety-note"><b>Planning boundary</b><span>Results are decision support. Verify soil tests, local agronomy, input labels and market conditions before cultivation.</span></div>
+        </section>
+
+        <section class="card results-card" aria-live="polite">
+          <div id="planEmpty" class="empty"><span class="scanicon">◌</span><span class="section-kicker">DECISION WORKSPACE</span><h2>Your crop plan starts here</h2><p>Use the sample farm values or enter your own. The system will show crop suitability, allocation, expected yield, cost, profit and unused resources.</p><div class="empty-flow"><span>Inputs</span><i></i><span>Predict</span><i></i><span>Optimize</span><i></i><span>Compare</span></div></div>
+          <div id="planReport" hidden>
+            <div class="resulttop"><div><span class="eyebrow">RECOMMENDED FARM PLAN</span><h2 id="planHeadline">Balanced allocation</h2><p id="planContext"></p></div><span id="planStatus" class="badge">Feasible plan</span></div>
+            <div class="metric-grid"><article><span>Expected production</span><b id="totalProduction">—</b><small>quintals across plan</small></article><article><span>Estimated profit</span><b id="totalProfit">—</b><small>market scenario estimate</small></article><article><span>Water saved</span><b id="waterSaved">—</b><small>against available water</small></article><article><span>Budget unused</span><b id="budgetSaved">—</b><small>remaining buffer</small></article></div>
+            <section class="recommendation-panel"><div><span class="guidance-label">TOP RECOMMENDATION</span><h3 id="topCrop">—</h3><p id="topReason"></p></div><button class="context-voice" data-context="recommendation">Ask AgriVoice about this plan</button></section>
+            <div id="cropCards" class="crop-cards"></div>
+            <section class="allocation-table-wrap"><div class="block-title"><div><span class="section-kicker">OPTIMAL ALLOCATION</span><h3>How the resources are divided</h3></div><button class="text-link" data-go="optimizer">Compare strategies</button></div><div class="table-scroll"><table><thead><tr><th>Crop</th><th>Land</th><th>Water</th><th>Fertilizer</th><th>Cost</th><th>Yield</th><th>Profit</th></tr></thead><tbody id="allocationRows"></tbody></table></div></section>
+            <section class="why-panel"><span class="guidance-label">WHY THIS PLAN?</span><div id="planReasons" class="big-steps"></div></section>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <section id="optimizer" class="view" aria-labelledby="optimizer-title">
+      <div class="sectionhead"><div><span class="eyebrow">RESOURCE ALLOCATION LAB</span><h1 id="optimizer-title">Compare the trade-offs before choosing.</h1><p class="lead">The same farm can produce different plans. Compare profit, water use, budget use and risk before the farmer approves one.</p></div><button class="context-voice" data-context="optimizer">Ask AgriVoice to compare</button></div>
+      <div id="strategyCards" class="strategy-grid"></div>
+      <div class="workgrid optimizer-lower">
+        <section class="card"><div class="cardhead"><div><span class="section-kicker">WHAT-IF SIMULATOR</span><b>Test a resource change</b><small>Adjust one constraint and recalculate without losing the original plan.</small></div><span class="step">02</span></div><div class="slider-group"><label>Water availability <output id="waterOut">70 lakh L</output><input id="waterScenario" type="range" min="10" max="200" value="70" step="5"></label><label>Budget <output id="budgetOut">₹2,50,000</output><input id="budgetScenario" type="range" min="50000" max="1000000" value="250000" step="10000"></label><label>Land <output id="landOut">5 acres</output><input id="landScenario" type="range" min="1" max="25" value="5" step="0.5"></label></div><button id="runScenario" class="primary">Run what-if plan</button></section>
+        <section class="card scenario-result"><span class="section-kicker">SCENARIO IMPACT</span><h2 id="scenarioTitle">Create a farm plan first</h2><div id="scenarioMetrics" class="scenario-metrics"></div><p id="scenarioNote" class="muted">The original and changed plan will be compared here.</p></section>
+      </div>
+    </section>
+
+    <section id="weather" class="view" aria-labelledby="weather-title">
+      <div class="sectionhead"><div><span class="eyebrow">WEATHER-TO-ACTION GUIDANCE</span><h1 id="weather-title">Know the weather. Know what to do next.</h1><p class="lead">Translate forecast conditions into field inspection, irrigation and application decisions for the current farm plan.</p></div><button class="context-voice" data-context="weather">Ask AgriVoice about today's weather</button></div>
+      <div class="data-disclosure"><b>Prototype forecast feed</b><span>The current build uses clearly labelled demonstration values. Connect an official forecast source before field deployment.</span></div>
+      <div class="weather-hero">
+        <section class="current-weather"><div><span class="section-kicker" id="weatherLocation">WARANGAL • TODAY</span><div class="temperature"><b id="weatherTemp">31°</b><span>Partly cloudy<br><small>Feels like 34°C</small></span></div></div><div class="weather-facts"><span><small>Rain chance</small><b id="rainChance">68%</b></span><span><small>Humidity</small><b>72%</b></span><span><small>Wind</small><b>18 km/h</b></span><span><small>Next rain window</small><b>4–7 PM</b></span></div></section>
+        <section class="weather-alert"><span class="alert-icon">!</span><div><span class="guidance-label">IMPORTANT FIELD ACTION</span><h2>Delay spraying this afternoon</h2><p>Rain and stronger wind may reduce application effectiveness and increase drift. Inspect the field now, but wait for a dry, low-wind window and follow the verified product label.</p><div class="action-tags"><span>Do: inspect drainage</span><span>Do: check disease spread</span><span class="avoid-tag">Avoid: afternoon spray</span></div></div></section>
+      </div>
+      <div class="weather-grid">
+        <section class="card"><div class="block-title"><div><span class="section-kicker">5-DAY FIELD OUTLOOK</span><h2>Forecast and recommended action</h2></div></div><div id="forecastList" class="forecast-list"></div></section>
+        <section class="card"><span class="section-kicker">TODAY'S FIELD TIMELINE</span><h2>Best time for each activity</h2><div class="field-timeline"><article><b>6–9 AM</b><span>Walk the affected rows, photograph symptoms and check soil moisture.</span><em>Recommended</em></article><article><b>10 AM–3 PM</b><span>Heat stress rises. Avoid unnecessary irrigation loss and strenuous field work.</span><em class="caution">Use caution</em></article><article><b>4–7 PM</b><span>Rain risk is higher. Keep drainage paths clear and postpone spraying.</span><em class="avoid">Avoid spraying</em></article><article><b>After rain</b><span>Recheck waterlogging and leaf wetness before deciding the next irrigation.</span><em>Inspect</em></article></div></section>
+      </div>
+      <section class="card irrigation-card"><div><span class="section-kicker">IRRIGATION DECISION</span><h2 id="irrigationTitle">Use soil condition before releasing water</h2><p id="irrigationAdvice">Rain is likely later today. Check root-zone moisture first and postpone routine irrigation when the soil is already moist. Protect low-lying areas from waterlogging.</p></div><div class="irrigation-metrics"><span><small>Suggested window</small><b>Tomorrow, 6–8 AM</b></span><span><small>Decision</small><b>Inspect before irrigating</b></span><span><small>Main risk</small><b>Waterlogging</b></span></div><button class="context-voice" data-context="irrigation">Ask why</button></section>
+    </section>
+
+    <section id="market" class="view" aria-labelledby="market-title">
+      <div class="sectionhead"><div><span class="eyebrow">MARKET & PROFIT INTELLIGENCE</span><h1 id="market-title">A crop plan needs a selling plan.</h1><p class="lead">Compare demonstration mandi prices, transport-adjusted value and profit risk. Official live feeds can replace the bundled prototype data without changing the interface.</p></div><button class="context-voice" data-context="market">Ask AgriVoice about market options</button></div>
+      <div class="data-disclosure"><b>Demonstration market dataset</b><span>Values are labelled prototype data, not guaranteed live prices. Confirm the current rate with the market before selling.</span></div>
+      <div class="filters"><label>Crop<select id="marketCrop"></select></label><label>Home district<select id="homeMarket"><option>Warangal</option><option>Khammam</option><option>Hyderabad</option><option>Nizamabad</option></select></label><label>Transport cost (₹/quintal)<input id="transportCost" type="number" value="180" min="0" max="5000" step="10"></label></div>
+      <div class="market-layout"><section class="card market-summary"><span class="section-kicker">SELLING DECISION</span><h2 id="marketSummaryTitle">Select a crop</h2><p id="marketSummaryText"></p><div id="marketKpis" class="metric-grid market-kpis"></div><div id="priceTrend" class="trend"></div></section><section class="card"><span class="section-kicker">MANDI COMPARISON</span><h2>Net price after transport</h2><div class="table-scroll"><table><thead><tr><th>Market</th><th>Modal rate</th><th>Arrival</th><th>Transport</th><th>Net rate</th></tr></thead><tbody id="marketRows"></tbody></table></div></section></div>
+      <section class="card profit-scenarios"><div class="block-title"><div><span class="section-kicker">PRICE RISK</span><h2>Low, expected and high-price outcomes</h2></div></div><div id="profitScenarios" class="scenario-grid"></div></section>
+    </section>
+
+    <section id="rover" class="view" aria-labelledby="rover-title">
+      <div class="sectionhead"><div><span class="eyebrow">DEVICE-INDEPENDENT FIELD LINK</span><h1 id="rover-title">One website. Any compatible rover or camera.</h1><p class="lead">The dashboard reads a standard photo-and-metadata format, so the camera, controller or communication method can change without rebuilding the farmer experience.</p></div><button class="context-voice" data-context="rover">Ask AgriVoice about rover status</button></div>
+      <div class="rover-status card"><div class="device-identity"><span id="roverDot" class="device-dot"></span><div><span class="section-kicker">CURRENT CONNECTION</span><h2 id="roverState">Demonstration rover ready</h2><p id="roverDetail">Mock mode supplies realistic device status until a live rover endpoint is configured.</p></div></div><div class="rover-kpis"><span><small>Camera</small><b id="cameraState">Compatible image source</b></span><span><small>Last contact</small><b id="lastContact">Just now</b></span><span><small>Pending captures</small><b id="pendingCaptures">0</b></span></div></div>
+      <div class="workgrid rover-grid">
+        <section class="card"><div class="cardhead"><div><span class="section-kicker">CONNECTION ADAPTER</span><b>Connect by a stable API</b><small>Use the rover's base URL. The website keeps the same commands even when the internal hardware changes.</small></div><span class="step">04</span></div><div class="fields"><label class="wide">Rover base URL<input id="roverUrl" type="url" placeholder="http://192.168.4.1" value="http://192.168.4.1"></label><label>Mode<select id="roverMode"><option value="mock">Demonstration mode</option><option value="live">Live rover API</option></select></label><label>Device label<input id="roverLabel" value="AGX Rover 01" maxlength="40"></label></div><button id="testRover" class="primary" type="button">Test rover connection</button><div class="endpoint-list"><span><code>GET /status</code> device and sensor state</span><span><code>POST /capture</code> request a plant photo</span><span><code>GET /latest-capture</code> image plus plant metadata</span><span><code>POST /command</code> optional rover movement command</span></div></section>
+        <section class="card capture-console"><span class="section-kicker">FIELD CAPTURE CONSOLE</span><h2>Request and inspect the latest plant photo</h2><div id="roverFrame" class="rover-frame"><div><span>◉</span><b>Camera preview</b><small>Waiting for a capture request</small></div></div><div class="capture-meta"><span><small>Field</small><b id="captureField">Field A</b></span><span><small>Row</small><b id="captureRow">03</b></span><span><small>Plant</small><b id="capturePlant">12</b></span><span><small>Source</small><b id="captureSource">Demo camera</b></span></div><div class="capture-actions"><button id="requestCapture" class="primary" type="button">Request rover photo</button><button id="openCapture" class="secondary" type="button" disabled>Analyse in crop health</button></div></section>
+      </div>
+      <section class="card payload-card"><span class="section-kicker">STANDARD CAPTURE RECORD</span><h2>What every compatible device sends</h2><pre id="payloadPreview">{
+  "deviceId": "AGX-R01",
+  "capturedAt": "ISO timestamp",
+  "fieldId": "Field A",
+  "rowId": "03",
+  "plantId": "12",
+  "location": { "latitude": null, "longitude": null },
+  "imageUrl": "/device/latest.jpg",
+  "sensors": { "soilMoisture": null, "soilTemperature": null }
+}</pre></section>
+    </section>
+
+    <section id="health" class="view" aria-labelledby="health-title">
+      <div class="sectionhead"><div><span class="eyebrow">POST-SOWING CROP SUPPORT</span><h1 id="health-title">Ask about the exact plant, where it grows.</h1><p class="lead">Upload a tomato leaf image, identify its field position and receive safe, source-traceable next steps. The supported image model remains limited to healthy, early blight and late blight.</p></div></div>
+      <div class="workgrid health-grid">
+        <section class="card form-card"><div class="cardhead"><div><span class="section-kicker">PLANT EVIDENCE</span><b>Capture and locate</b><small>The photo stays in the browser for this prototype.</small></div><span class="step">03</span></div><div class="source-choice" aria-label="Photo source"><button class="source-option active" type="button"><b>Manual photo upload</b><small>Available now</small></button><button class="source-option future" type="button" disabled><b>Rover capture</b><small>Connect after rover is ready</small></button></div><label class="drop" id="drop"><input id="imageInput" type="file" accept="image/png,image/jpeg,image/webp"><img id="preview" alt="Selected plant image"><span id="dropText"><strong>Upload a tomato leaf image</strong><small>JPG, PNG or WebP • clear leaf • good lighting</small></span></label><div class="fields"><label>Field<input id="field" value="Field A" maxlength="30"></label><label>Row<input id="row" value="03" maxlength="10"></label><label>Plant / zone<input id="plant" value="12" maxlength="12"></label><label>Observation<select id="observation"><option>First inspection</option><option>Revisit</option></select></label></div><button id="locate" class="secondary" type="button">Use current location</button><span id="locationText" class="location">Location not captured</span><button id="analyse" class="primary" type="button" disabled>Analyse uploaded image</button></section>
+        <section class="card results-card"><div id="healthEmpty" class="empty small-empty"><span class="scanicon">⌁</span><h2>Ready for plant evidence</h2><p>The diagnosis, confidence, immediate actions, actions to avoid and contextual AgriVoice answer will appear here.</p></div><div id="healthReport" hidden><div class="resulttop"><div><span class="eyebrow">CROP HEALTH RESULT</span><h2 id="condition">—</h2><p id="plantIdentity"></p></div><span id="confidence" class="badge">—</span></div><div class="health-metrics"><div><span>Severity</span><b id="severity">—</b></div><div><span>Image quality</span><b id="quality">—</b></div><div><span>Decision</span><b>Farmer approval</b></div></div><section class="farmer-block"><span class="guidance-label">WHAT TO DO NOW</span><div id="guideNow" class="big-steps"></div></section><section class="farmer-block warning-guidance"><span class="guidance-label">WHAT NOT TO DO</span><div id="guideAvoid" class="big-steps warning-steps"></div></section><section class="farmer-block"><span class="guidance-label">VERIFIED GUIDANCE</span><p id="guideMeaning"></p><a id="guideSource" target="_blank" rel="noopener noreferrer">Open source</a></section><section class="treatment-paths"><div class="block-title"><div><span class="guidance-label">CHOOSE A FARMING PATH</span><h3>Compare safe treatment approaches</h3></div></div><div class="treatment-tabs" role="tablist"><button class="treatment-tab active" data-treatment="natural" role="tab">Natural</button><button class="treatment-tab" data-treatment="integrated" role="tab">Integrated / IPM</button><button class="treatment-tab" data-treatment="conventional" role="tab">Conventional</button></div><div id="treatmentContent" class="treatment-content"></div><button class="context-voice" data-context="treatment">Explain this treatment by voice</button></section><section class="dose-calculator"><span class="guidance-label">VERIFIED LABEL CALCULATOR</span><h3>Calculate from the product label</h3><p>This calculator never selects a product or invents a dose. Enter the rate printed on a locally registered label or supplied by a qualified expert.</p><div class="fields"><label>Area to treat (acres)<input id="treatArea" type="number" min="0.01" max="10000" step="0.01" value="0.5"></label><label>Verified label rate / acre<input id="labelRate" type="number" min="0.001" max="100000" step="0.001" placeholder="Enter rate"></label><label>Unit<select id="rateUnit"><option>ml</option><option>g</option><option>kg</option><option>litre</option></select></label><label>Label / expert reference<input id="labelReference" maxlength="100" placeholder="Required reference"></label></div><button id="calculateDose" class="secondary" type="button">Calculate total quantity</button><div id="doseResult" class="dose-result">Enter a verified rate and reference.</div></section><div class="plant-actions"><button class="context-voice" data-context="plant">Ask AgriVoice about this plant</button><button id="savePlant" class="primary" type="button">Save plant and revisit plan</button></div></div></section>
+      </div>
+    </section>
+
+    <section id="knowledge" class="view" aria-labelledby="knowledge-title">
+      <div class="sectionhead"><div><span class="eyebrow">VERSIONED AGRICULTURAL DATASET</span><h1 id="knowledge-title">Guidance comes from reviewed records, not an open-web answer.</h1><p class="lead">Search the initial rover crop scope. Each record stores symptoms, confirmation checks, immediate actions and its agricultural source. Image-AI support remains separately labelled.</p></div><button class="context-voice" data-context="knowledge">Ask AgriVoice about the dataset</button></div>
+      <div class="data-disclosure"><b>Initial validated scope</b><span>Tomato, chilli, maize, cotton and groundnut. The database can expand only after source review and versioning.</span></div>
+      <div class="filters"><label>Crop<select id="knowledgeCrop"><option>All</option><option>Tomato</option><option>Chilli</option><option>Maize</option><option>Cotton</option><option>Groundnut</option></select></label><label class="wide">Search symptom or condition<input id="knowledgeSearch" placeholder="Example: curling, brown rings, root rot"></label></div>
+      <div class="knowledge-layout"><div id="knowledgeList" class="knowledge-list"></div><aside id="knowledgeDetail" class="card knowledge-detail"><span class="section-kicker">REVIEWED RECORD</span><h2>Select a condition</h2><p>Symptoms, field confirmation, safe actions and source provenance will appear here.</p></aside></div>
+    </section>
+
+    <section id="records" class="view" aria-labelledby="records-title">
+      <div class="sectionhead"><div><span class="eyebrow">FARM MEMORY</span><h1 id="records-title">Plans, plants and outcomes stay connected.</h1><p class="lead">Saved records help the farmer compare predicted and actual results and revisit the same plant or zone.</p></div></div>
+      <div class="summary"><div><span>Farm plans</span><b id="planCount">0</b></div><div><span>Plants tracked</span><b id="plantCount">0</b></div><div><span>Follow-ups due</span><b id="followupCount">0</b></div><div><span>Feedback records</span><b id="feedbackCount">0</b></div></div>
+      <div id="recordList" class="recordlist"></div>
+    </section>
+
+    <section id="evidence" class="view" aria-labelledby="evidence-title">
+      <div class="sectionhead"><div><span class="eyebrow">TRANSPARENT DECISION SUPPORT</span><h1 id="evidence-title">What the prototype calculates and what it does not claim.</h1></div></div>
+      <div class="evidencegrid">
+        <article class="card"><h2>Problem-statement coverage</h2><ul class="checklist"><li>Crop suitability from soil and season</li><li>Expected yield for shortlisted crops</li><li>Water, fertilizer and cultivation-cost estimates</li><li>Constrained allocation of land and resources</li><li>Production, profitability and savings</li><li>Strategy comparison in a farmer dashboard</li></ul></article>
+        <article class="card"><h2>Optimization method</h2><p>The prototype scores crop suitability, then allocates quarter-acre blocks while respecting available land, water, fertilizer and budget. Each strategy changes the objective weights, so the farmer can compare trade-offs.</p></article>
+        <article class="card"><h2>Explainability</h2><p>Each result shows the crop score, resource use, estimated output and the main factors behind the recommendation. A rejected or constrained option remains visible rather than disappearing silently.</p></article>
+        <article class="card"><h2>Market boundary</h2><p>Bundled market values demonstrate the workflow. The interface labels them as prototype data. Before field use, an official mandi feed and timestamped provenance must replace them.</p></article>
+        <article class="card"><h2>Voice safety</h2><p>AgriVoice explains the current screen and plant record. It does not invent pesticide products or doses. Chemical guidance requires a verified label or qualified local expert.</p></article>
+        <article class="card"><h2>Image-model boundary</h2><p>The image screen supports only three tomato classes. Confidence reflects certainty among those classes, not proof of a biological diagnosis. Low-quality or uncertain images trigger abstention.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <button id="voiceFab" class="voice-fab" type="button" aria-haspopup="dialog"><span>✦</span> Ask AgriVoice</button>
+  <aside id="voicePanel" class="voice-panel" role="dialog" aria-modal="true" aria-labelledby="voiceTitle" hidden>
+    <div class="voice-head"><div><span class="section-kicker">CONTEXTUAL FARM ASSISTANT</span><h2 id="voiceTitle">Ask AgriVoice</h2></div><button id="voiceClose" class="icon-button" aria-label="Close AgriVoice">×</button></div>
+    <div id="voiceContext" class="voice-context">Context: Farm planning</div>
+    <div id="voiceMessages" class="voice-messages"><div class="agent-message">Ask in English or Telugu. I will use the current farm plan, crop, market or plant record as context.</div></div>
+    <label class="voice-input-label">Your question<textarea id="voiceQuestion" rows="3" placeholder="Example: Which crop uses less water?"></textarea></label>
+    <div class="voice-controls"><button id="micButton" class="secondary" type="button">🎙 Tap to speak</button><button id="askButton" class="primary" type="button">Ask AgriVoice</button></div>
+    <label class="feedback-row">Was this useful?<select id="voiceFeedback"><option value="">Choose</option><option value="helpful">Helpful</option><option value="not-helpful">Needs improvement</option></select></label>
+    <p class="voice-boundary">Agricultural decision support only. Verify chemical use, product labels and urgent crop risks with a qualified local expert.</p>
+  </aside>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="/vjh/js/app.js"></script>
+</body>
+</html>
