@@ -2,20 +2,13 @@ import {extractSignals, classify} from '/optiforge/js/screening.js';
 import {getGuidance, revisitText} from '/optiforge/js/farmerGuidance.js';
 import {treatmentFor} from '/optiforge/js/treatmentRecommendations.js';
 import {CATALOG, SOURCES} from '/optiforge/js/catalog.js';
+import {CROPS, STRATEGIES, optimizeFarm} from '/vjh/js/planner.mjs';
 
 const $ = id => document.getElementById(id);
 const clamp = (n, min, max) => Math.max(min, Math.min(max, n));
 const money = n => new Intl.NumberFormat('en-IN', {style: 'currency', currency: 'INR', maximumFractionDigits: 0}).format(Math.round(n || 0));
 const number = n => new Intl.NumberFormat('en-IN', {maximumFractionDigits: 1}).format(n || 0);
 const today = () => new Date().toLocaleDateString('en-IN', {day: '2-digit', month: 'short', year: 'numeric'});
-
-const CROPS = [
-  {id:'groundnut',name:'Groundnut',seasons:['Kharif','Rabi'],soils:['red','loam','black'],ph:[6,7.5],yield:9.4,price:6320,cost:32500,water:11,fertilizer:58,risk:.22},
-  {id:'maize',name:'Maize',seasons:['Kharif','Rabi'],soils:['red','loam','black'],ph:[5.8,7.6],yield:24,price:2380,cost:36500,water:14,fertilizer:88,risk:.2},
-  {id:'cotton',name:'Cotton',seasons:['Kharif'],soils:['black','red','loam'],ph:[5.8,8],yield:8.2,price:7480,cost:45500,water:18,fertilizer:102,risk:.32},
-  {id:'chilli',name:'Chilli',seasons:['Kharif','Rabi'],soils:['red','loam'],ph:[6,7.3],yield:28,price:4100,cost:83500,water:22,fertilizer:122,risk:.42},
-  {id:'tomato',name:'Tomato',seasons:['Kharif','Rabi','Summer'],soils:['red','loam'],ph:[6,7.2],yield:102,price:1480,cost:89500,water:20,fertilizer:128,risk:.46}
-];
 
 const MARKET_DATA = {
   groundnut:{trend:[5950,6080,6010,6190,6250,6320],markets:[['Warangal',6320,840,12],['Khammam',6410,690,98],['Hyderabad',6550,520,155],['Nizamabad',6240,410,210]]},
@@ -35,12 +28,60 @@ const FORECAST = [
   ['Tuesday','31° / 24°','61%','Prepare drainage and check fungal-risk zones.']
 ];
 
-const STRATEGIES = {
-  balanced:{title:'Balanced plan',icon:'◎',description:'Balances suitability, profit, water use and crop risk.',weights:{score:.42,profit:.25,water:.18,budget:.1,risk:.05}},
-  profit:{title:'Maximum profit',icon:'₹',description:'Prioritises expected margin while retaining suitability and risk limits.',weights:{score:.28,profit:.52,water:.06,budget:.06,risk:.08}},
-  water:{title:'Water saver',icon:'◒',description:'Favours crops that produce value with lower irrigation demand.',weights:{score:.3,profit:.12,water:.48,budget:.06,risk:.04}},
-  budget:{title:'Low-budget plan',icon:'▤',description:'Keeps cultivation cost lower while protecting basic suitability.',weights:{score:.3,profit:.12,water:.08,budget:.45,risk:.05}}
-};
+const FIELD_CASES = [
+  {id:'AGX-A-R02-P08',field:'Field A',row:2,plant:8,crop:'Tomato',condition:'Early blight pattern',severity:'Moderate',confidence:91,quality:94,damage:18,recovery:42,status:'revisit',approved:true,next:'Revisit today',signals:['concentric brown lesions','lower leaves affected','two nearby cases']},
+  {id:'AGX-A-R03-P12',field:'Field A',row:3,plant:12,crop:'Tomato',condition:'Late blight risk',severity:'High',confidence:87,quality:90,damage:31,recovery:12,status:'pending',approved:false,next:'Farmer approval required',signals:['water-soaked patch','rapid edge browning','humid zone']},
+  {id:'AGX-A-R03-P13',field:'Field A',row:3,plant:13,crop:'Tomato',condition:'Late blight risk',severity:'Moderate',confidence:82,quality:86,damage:22,recovery:8,status:'pending',approved:false,next:'Capture reverse leaf image',signals:['adjacent case cluster','irregular lesion','leaf wetness risk']},
+  {id:'AGX-A-R05-P04',field:'Field A',row:5,plant:4,crop:'Tomato',condition:'Nutrient stress screening',severity:'Low',confidence:68,quality:78,damage:9,recovery:0,status:'review',approved:false,next:'Soil or tissue confirmation',signals:['interveinal yellowing','older leaf first','low model confidence']},
+  {id:'AGX-A-R06-P17',field:'Field A',row:6,plant:17,crop:'Tomato',condition:'Early blight pattern',severity:'Moderate',confidence:89,quality:92,damage:16,recovery:67,status:'revisit',approved:true,next:'Final recovery photo',signals:['lesion area reduced','new growth clear','isolated case']},
+  {id:'AGX-A-R01-P05',field:'Field A',row:1,plant:5,crop:'Tomato',condition:'Healthy',severity:'None',confidence:94,quality:96,damage:0,recovery:100,status:'recovered',approved:true,next:'Routine scouting',signals:['uniform colour','no lesion pattern','good image quality']}
+];
+
+const NEWS_ITEMS = [
+  {id:'disease-tomato',crop:'Tomato',type:'disease',regions:['telangana','south','india'],source:'Verified advisory feed placeholder',date:'Today',text:{
+    en:['Tomato disease watch: inspect after humid weather','Check lower leaves for expanding brown or water-soaked lesions. Photograph both sides before deciding any treatment.'],
+    te:['టమాటా వ్యాధి హెచ్చరిక: తేమ వాతావరణం తర్వాత పరిశీలించండి','కింది ఆకులపై పెరుగుతున్న గోధుమ లేదా నీటితో నిండిన మచ్చలను చూడండి. చికిత్స నిర్ణయానికి ముందు ఆకు రెండు వైపులా ఫోటో తీయండి.'],
+    hi:['टमाटर रोग चेतावनी: नमी के बाद निरीक्षण करें','निचली पत्तियों पर फैलते भूरे या पानी जैसे धब्बे देखें। उपचार से पहले पत्ती के दोनों ओर की फोटो लें।'],
+    ta:['தக்காளி நோய் எச்சரிக்கை: ஈரப்பதத்திற்குப் பின் ஆய்வு செய்யுங்கள்','கீழ் இலைகளில் விரியும் பழுப்பு அல்லது நீர்த்தழும்புகளைச் சரிபார்த்து, சிகிச்சைக்கு முன் இருபுறமும் படம் எடுக்கவும்.'],
+    kn:['ಟೊಮೇಟೊ ರೋಗ ಎಚ್ಚರಿಕೆ: ತೇವಾಂಶದ ನಂತರ ಪರಿಶೀಲಿಸಿ','ಕೆಳ ಎಲೆಗಳಲ್ಲಿ ಹರಡುವ ಕಂದು ಅಥವಾ ನೀರಿನಂತಿರುವ ಕಲೆಗಳನ್ನು ನೋಡಿ. ಚಿಕಿತ್ಸೆಗೆ ಮುನ್ನ ಎರಡೂ ಬದಿಯ ಚಿತ್ರ ತೆಗೆಯಿರಿ.']
+  }},
+  {id:'weather-field',crop:'All',type:'weather',regions:['telangana','south'],source:'IMD agromet feed placeholder',date:'Today',text:{
+    en:['Rain-window field advisory','Check drainage and root-zone moisture. Avoid routine spraying during rain or strong wind and follow the verified label window.'],
+    te:['వర్ష సమయపు వ్యవసాయ సూచన','డ్రైనేజ్ మరియు వేరు ప్రాంత తేమను తనిఖీ చేయండి. వర్షం లేదా బలమైన గాలిలో సాధారణ స్ప్రే చేయవద్దు.'],
+    hi:['वर्षा अवधि कृषि सलाह','जल निकासी और जड़ क्षेत्र की नमी जाँचें। वर्षा या तेज हवा में नियमित छिड़काव न करें।'],
+    ta:['மழைக்கால வயல் அறிவுரை','வடிகால் மற்றும் வேர்ப்பகுதி ஈரத்தைச் சரிபார்க்கவும். மழை அல்லது பலத்த காற்றில் தெளிப்பதைத் தவிர்க்கவும்.'],
+    kn:['ಮಳೆ ಅವಧಿಯ ಕೃಷಿ ಸಲಹೆ','ಒಳಚರಂಡಿ ಮತ್ತು ಬೇರು ವಲಯದ ತೇವಾಂಶ ಪರಿಶೀಲಿಸಿ. ಮಳೆ ಅಥವಾ ಬಲವಾದ ಗಾಳಿಯಲ್ಲಿ ಸಿಂಪಡಣೆ ತಪ್ಪಿಸಿ.']
+  }},
+  {id:'groundnut-watch',crop:'Groundnut',type:'disease',regions:['telangana','south','india'],source:'ICAR crop advisory placeholder',date:'This week',text:{
+    en:['Groundnut leaf-spot scouting window','Walk a fixed W-pattern and compare new spots across rows. Record the hotspot before considering a field-wide response.'],
+    te:['వేరుశెనగ ఆకుమచ్చల పరిశీలన సమయం','W ఆకారంలో పొలాన్ని పరిశీలించి వరుసల మధ్య కొత్త మచ్చలను పోల్చండి. మొత్తం పొలానికి చర్యకు ముందు హాట్‌స్పాట్‌ను నమోదు చేయండి.'],
+    hi:['मूंगफली पत्ती-धब्बा निरीक्षण समय','W पैटर्न में खेत देखें और कतारों में नए धब्बों की तुलना करें। पूरे खेत के उपचार से पहले हॉटस्पॉट दर्ज करें।'],
+    ta:['நிலக்கடலை இலைப்புள்ளி கண்காணிப்பு','W முறையில் வயலைச் சுற்றி வரிசைகளில் புதிய புள்ளிகளை ஒப்பிடவும். முழு வயல் நடவடிக்கைக்கு முன் பாதிப்பு இடத்தை பதிவு செய்யவும்.'],
+    kn:['ಕಡಲೆ ಎಲೆಚುಕ್ಕೆ ಪರಿಶೀಲನೆ','W ಮಾದರಿಯಲ್ಲಿ ಹೊಲ ಪರಿಶೀಲಿಸಿ ಸಾಲುಗಳಲ್ಲಿನ ಹೊಸ ಕಲೆಗಳನ್ನು ಹೋಲಿಸಿ. ಸಂಪೂರ್ಣ ಹೊಲ ಕ್ರಮಕ್ಕೂ ಮುನ್ನ ಹಾಟ್‌ಸ್ಪಾಟ್ ದಾಖಲಿಸಿ.']
+  }},
+  {id:'market-maize',crop:'Maize',type:'market',regions:['telangana','india'],source:'eNAM / Agmarknet feed placeholder',date:'This week',text:{
+    en:['Maize selling checklist before transport','Compare modal rate, grade, arrival volume and transport-adjusted net price before choosing a mandi.'],
+    te:['మొక్కజొన్న అమ్మకానికి ముందు తనిఖీ జాబితా','మార్కెట్ ఎంచుకునే ముందు మోడల్ ధర, గ్రేడ్, వచ్చిన పరిమాణం మరియు రవాణా తర్వాత నికర ధరను పోల్చండి.'],
+    hi:['मक्का बेचने से पहले जाँच सूची','मंडी चुनने से पहले मॉडल भाव, ग्रेड, आवक और परिवहन के बाद शुद्ध भाव की तुलना करें।'],
+    ta:['மக்காச்சோளம் விற்பனைக்கு முன் சரிபார்ப்பு','சந்தையைத் தேர்வதற்கு முன் மாதிரி விலை, தரம், வரத்து மற்றும் போக்குவரத்துக்குப் பிந்தைய நிகர விலையை ஒப்பிடவும்.'],
+    kn:['ಮೆಕ್ಕೆಜೋಳ ಮಾರಾಟದ ಮುನ್ನ ಪರಿಶೀಲನೆ','ಮಾರುಕಟ್ಟೆ ಆಯ್ಕೆಗೂ ಮುನ್ನ ಮಾದರಿ ದರ, ಗ್ರೇಡ್, ಆಗಮನ ಮತ್ತು ಸಾರಿಗೆ ನಂತರದ ನಿವ್ವಳ ದರ ಹೋಲಿಸಿ.']
+  }},
+  {id:'scheme-national',crop:'All',type:'scheme',regions:['india'],source:'Government agriculture feed placeholder',date:'National update',text:{
+    en:['Nationwide schemes and farmer-service updates','Review eligibility, official deadline and required documents only on the responsible government portal before applying.'],
+    te:['దేశవ్యాప్త పథకాలు మరియు రైతు సేవల సమాచారం','దరఖాస్తు ముందు అర్హత, అధికారిక గడువు మరియు పత్రాలను సంబంధిత ప్రభుత్వ పోర్టల్‌లో ధృవీకరించండి.'],
+    hi:['देशव्यापी योजनाएँ और किसान सेवा अपडेट','आवेदन से पहले पात्रता, आधिकारिक समय सीमा और दस्तावेज संबंधित सरकारी पोर्टल पर सत्यापित करें।'],
+    ta:['நாடு முழுவதும் திட்டங்கள் மற்றும் விவசாய சேவைகள்','விண்ணப்பிக்கும் முன் தகுதி, அதிகாரப்பூர்வ கடைசி தேதி மற்றும் ஆவணங்களை அரசு தளத்தில் சரிபார்க்கவும்.'],
+    kn:['ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಯೋಜನೆಗಳು ಮತ್ತು ರೈತ ಸೇವೆಗಳು','ಅರ್ಜಿ ಮೊದಲು ಅರ್ಹತೆ, ಅಧಿಕೃತ ಗಡುವು ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಸಂಬಂಧಿತ ಸರ್ಕಾರಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪರಿಶೀಲಿಸಿ.']
+  }}
+];
+
+const FARMER_GROUPS = [
+  {id:'FG-101',name:'Warangal Tomato Harvest Circle',crop:'Tomato',operation:'Harvesting',distance:6,members:7,acres:24,window:'12–15 Oct',saving:28},
+  {id:'FG-102',name:'Hanamkonda Maize Machine Share',crop:'Maize',operation:'Harvesting',distance:11,members:5,acres:31,window:'18–21 Oct',saving:24},
+  {id:'FG-103',name:'Parkal Groundnut Transport Pool',crop:'Groundnut',operation:'Transport',distance:19,members:9,acres:38,window:'20–24 Oct',saving:21},
+  {id:'FG-104',name:'Narsampet Cotton Labour Group',crop:'Cotton',operation:'Labour',distance:34,members:12,acres:46,window:'25–30 Oct',saving:18},
+  {id:'FG-105',name:'Warangal Chilli Load Share',crop:'Chilli',operation:'Transport',distance:8,members:4,acres:16,window:'14–17 Oct',saving:16}
+];
 
 const TARGET_CROPS=['Tomato','Chilli','Maize','Cotton','Groundnut'];
 const nutrientSource={name:'TNAU Agritech Portal — Mineral nutrition and deficiency diagnosis',url:'https://agritech.tnau.ac.in/agriculture/agri_min_nutri_def_symptoms.html'};
@@ -76,7 +117,8 @@ const state = {
   voiceContext:'plan',
   location:null,
   objectUrl:null,
-  roverCapture:null
+  roverCapture:null,
+  selectedCase:'AGX-A-R03-P12'
 };
 
 function toast(message){
@@ -93,6 +135,9 @@ function showView(id){
   if(id === 'market') renderMarket();
   if(id === 'knowledge') renderKnowledge();
   if(id === 'records') renderRecords();
+  if(id === 'command') renderCommandCentre();
+  if(id === 'news') renderNews();
+  if(id === 'connect') renderFarmerGroups();
 }
 
 document.querySelectorAll('.nav').forEach(button => button.addEventListener('click', () => showView(button.dataset.view)));
@@ -113,81 +158,24 @@ function readFarm(overrides={}){
     budget:Number($('budget').value),
     previous:$('previous').value,
     priority:$('priority').value,
+    n:$('nitrogen').value === '' ? null : Number($('nitrogen').value),
+    p:$('phosphorus').value === '' ? null : Number($('phosphorus').value),
+    k:$('potassium').value === '' ? null : Number($('potassium').value),
     ...overrides
   };
 }
 
-function scoreCrop(crop,farm){
-  let score = 12;
-  score += crop.seasons.includes(farm.season) ? 23 : 5;
-  score += crop.soils.includes(farm.soil) ? 20 : 7;
-  const phDistance = farm.ph < crop.ph[0] ? crop.ph[0] - farm.ph : farm.ph > crop.ph[1] ? farm.ph - crop.ph[1] : 0;
-  score += phDistance === 0 ? 15 : Math.max(2, 15 - phDistance * 12);
-  const waterPerAcre = farm.water / Math.max(.25, farm.land);
-  score += 15 * Math.min(1, waterPerAcre / crop.water);
-  const budgetPerAcre = farm.budget / Math.max(.25, farm.land);
-  score += 11 * Math.min(1, budgetPerAcre / crop.cost);
-  if(farm.previous.toLowerCase() === crop.name.toLowerCase()) score -= 5;
-  return Math.round(clamp(score, 18, 96));
-}
-
-function enrichedCrops(farm){
-  return CROPS.map(crop => {
-    const score = scoreCrop(crop,farm);
-    const yieldFactor = .7 + score * .0032;
-    const expectedYield = crop.yield * yieldFactor;
-    const revenue = expectedYield * crop.price;
-    const profit = revenue - crop.cost;
-    return {...crop,score,expectedYield,revenue,profit,waterEfficiency:1/crop.water,budgetEfficiency:1/crop.cost};
-  });
-}
-
-function utility(crop,strategy){
-  const w = STRATEGIES[strategy].weights;
-  const profitScore = clamp((crop.profit + 20000) / 90000, 0, 1);
-  const waterScore = clamp(7 / crop.water, 0, 1);
-  const budgetScore = clamp(25000 / crop.cost, 0, 1);
-  const riskScore = 1 - crop.risk;
-  return w.score * crop.score/100 + w.profit * profitScore + w.water * waterScore + w.budget * budgetScore + w.risk * riskScore;
-}
-
-export function optimizeFarm(farm,strategy='balanced'){
-  const crops = enrichedCrops(farm).map(crop => ({...crop,utility:utility(crop,strategy)})).sort((a,b)=>b.utility-a.utility);
-  const step = .25;
-  let remaining = farm.land;
-  const used = {water:0,fertilizer:0,budget:0};
-  const allocations = new Map();
-  let guard = 0;
-  while(remaining >= step - .001 && guard++ < 5000){
-    const candidates = crops.slice(0,5).filter(crop => {
-      const area = allocations.get(crop.id) || 0;
-      const cap = Math.max(step, farm.land * (strategy === 'profit' ? .7 : .58));
-      return area + step <= cap + .001 && used.water + crop.water*step <= farm.water+.001 && used.fertilizer + crop.fertilizer*step <= farm.fertilizer+.001 && used.budget + crop.cost*step <= farm.budget+.001;
-    });
-    if(!candidates.length) break;
-    candidates.sort((a,b) => (b.utility * (1-(allocations.get(b.id)||0)/(farm.land*.7))) - (a.utility * (1-(allocations.get(a.id)||0)/(farm.land*.7))));
-    const crop = candidates[0];
-    allocations.set(crop.id,(allocations.get(crop.id)||0)+step);
-    used.water += crop.water*step;
-    used.fertilizer += crop.fertilizer*step;
-    used.budget += crop.cost*step;
-    remaining -= step;
-  }
-  const rows = crops.filter(c=>allocations.has(c.id)).map(crop => {
-    const acres = allocations.get(crop.id);
-    return {...crop,acres,totalYield:crop.expectedYield*acres,totalRevenue:crop.revenue*acres,totalProfit:crop.profit*acres,totalWater:crop.water*acres,totalFertilizer:crop.fertilizer*acres,totalCost:crop.cost*acres};
-  }).sort((a,b)=>b.acres-a.acres);
-  const totals = rows.reduce((sum,row)=>({yield:sum.yield+row.totalYield,revenue:sum.revenue+row.totalRevenue,profit:sum.profit+row.totalProfit,cost:sum.cost+row.totalCost,water:sum.water+row.totalWater,fertilizer:sum.fertilizer+row.totalFertilizer}),{yield:0,revenue:0,profit:0,cost:0,water:0,fertilizer:0});
-  return {strategy,farm,crops,rows,totals,unused:{land:Math.max(0,farm.land-rows.reduce((s,r)=>s+r.acres,0)),water:Math.max(0,farm.water-totals.water),fertilizer:Math.max(0,farm.fertilizer-totals.fertilizer),budget:Math.max(0,farm.budget-totals.cost)},feasible:rows.length>0};
-}
-
 function planReasons(plan){
-  const top = plan.rows[0] || plan.crops[0];
+  const top = plan.crops[0];
+  const runnerUp = plan.crops[1];
+  const suppliedNutrients = ['n','p','k'].filter(key=>Number.isFinite(plan.farm[key])).map(key=>key.toUpperCase());
   const reasons = [
-    `${top.name} has the strongest combined score for ${plan.farm.soil} soil, ${plan.farm.season} season and the selected resource limits.`,
+    `${top.name} ranks first for the ${STRATEGIES[plan.strategy].title.toLowerCase()} with a ${top.score}% agronomic suitability score.`,
+    `Strong signals: ${top.strengths.slice(0,4).join(', ') || 'available farm resources'}.`,
+    runnerUp ? `${runnerUp.name} is the next alternative at ${runnerUp.score}% suitability${runnerUp.warnings.length ? `; watch ${runnerUp.warnings[0]}` : ''}.` : 'No second crop is available in the current dataset.',
     `${number(plan.totals.water)} lakh litres of the available ${number(plan.farm.water)} lakh litres are allocated; the remaining water stays visible as a buffer.`,
     `The plan keeps ${money(plan.unused.budget)} unallocated instead of assuming every rupee must be spent.`,
-    `The strategy can be changed to compare higher profit, lower water use or lower cultivation cost.`
+    suppliedNutrients.length ? `${suppliedNutrients.join(', ')} soil-test indices are included in crop ranking.` : 'NPK indices were not entered, so nutrient matching is neutral rather than guessed.'
   ];
   if(plan.unused.land > .01) reasons.push(`${number(plan.unused.land)} acres remain unallocated because one or more resource constraints prevent a safe additional crop block.`);
   return reasons;
@@ -198,7 +186,7 @@ function renderPlan(plan,save=true){
   state.strategy = plan.strategy;
   $('planEmpty').hidden = true;
   $('planReport').hidden = false;
-  const top = plan.rows[0] || plan.crops[0];
+  const top = plan.crops[0];
   $('planHeadline').textContent = STRATEGIES[plan.strategy].title;
   $('planContext').textContent = `${plan.farm.district} • ${plan.farm.season} • ${number(plan.farm.land)} acres • ${plan.farm.soil} soil`;
   $('planStatus').textContent = plan.feasible ? 'Feasible prototype plan' : 'Constraints need review';
@@ -207,8 +195,9 @@ function renderPlan(plan,save=true){
   $('waterSaved').textContent = `${number(plan.unused.water)} lakh L`;
   $('budgetSaved').textContent = money(plan.unused.budget);
   $('topCrop').textContent = top.name;
-  $('topReason').textContent = `${top.score}% suitability score. The allocation reflects the chosen ${STRATEGIES[plan.strategy].title.toLowerCase()} objective and the farm's visible constraints.`;
-  $('cropCards').innerHTML = plan.crops.slice(0,3).map((crop,index)=>`<article class="crop-card ${index===0?'top':''}"><span class="rank">#${index+1} suitability</span><h3>${crop.name}</h3><div class="score-track"><i style="width:${crop.score}%"></i></div><dl><dt>Suitability</dt><dd>${crop.score}%</dd><dt>Expected yield</dt><dd>${number(crop.expectedYield)} q/acre</dd><dt>Water</dt><dd>${crop.water} lakh L/acre</dd><dt>Estimated margin</dt><dd>${money(crop.profit)}/acre</dd></dl></article>`).join('');
+  $('topReason').textContent = `${top.score}% suitability. Selected using ${STRATEGIES[plan.strategy].title.toLowerCase()}, crop rotation and the entered resource limits.`;
+  $('decisionSignals').innerHTML = Object.entries(top.factors).map(([key,value])=>`<span class="signal ${value<50?'weak':value<75?'medium':''}"><b>${key.toUpperCase()}</b>${Math.round(value)}%</span>`).join('');
+  $('cropCards').innerHTML = plan.crops.slice(0,3).map((crop,index)=>`<article class="crop-card ${index===0?'top':''}"><span class="rank">#${index+1} recommendation</span><h3>${crop.name}</h3><div class="score-track"><i style="width:${crop.score}%"></i></div><dl><dt>Suitability</dt><dd>${crop.score}%</dd><dt>Expected yield</dt><dd>${number(crop.expectedYield)} q/acre</dd><dt>Water</dt><dd>${crop.water} lakh L/acre</dd><dt>Estimated margin</dt><dd>${money(crop.profit)}/acre</dd><dt>Decision</dt><dd>${crop.eligible?'Season-ready':'Review'}</dd></dl>${crop.warnings.length?`<p class="crop-warning">${crop.warnings.slice(0,2).join(' • ')}</p>`:'<p class="crop-ok">No major input constraint detected.</p>'}</article>`).join('');
   $('allocationRows').innerHTML = plan.rows.length ? plan.rows.map(row=>`<tr><td>${row.name}</td><td>${number(row.acres)} ac</td><td>${number(row.totalWater)} lakh L</td><td>${number(row.totalFertilizer)} kg</td><td>${money(row.totalCost)}</td><td>${number(row.totalYield)} q</td><td>${money(row.totalProfit)}</td></tr>`).join('') : '<tr><td colspan="7">No feasible allocation. Increase at least one constrained resource.</td></tr>';
   $('planReasons').innerHTML = planReasons(plan).map(reason=>`<p>${reason}</p>`).join('');
   $('waterScenario').value = clamp(plan.farm.water,10,200);
@@ -428,7 +417,7 @@ $('savePlant').onclick=()=>{
 
 function setVoiceContext(context){
   state.voiceContext=context;
-  const names={plan:'Farm planning',recommendation:'Current crop recommendation',optimizer:'Strategy comparison',market:'Market and profit analysis',weather:"Today's weather and field actions",irrigation:'Irrigation decision',plant:'Current plant diagnosis',treatment:`${state.treatment} treatment pathway`,rover:'Rover and camera connection'};
+  const names={plan:'Farm planning',recommendation:'Current crop recommendation',optimizer:'Strategy comparison',market:'Market and profit analysis',weather:"Today's weather and field actions",irrigation:'Irrigation decision',plant:'Current plant diagnosis',treatment:`${state.treatment} treatment pathway`,rover:'Rover and camera connection',command:'Closed-loop field command',news:'Personalised crop news',connect:'Nearby farmer collaboration'};
   $('voiceContext').textContent=`Context: ${names[context]||'Farm planning'}`;
 }
 
@@ -451,6 +440,8 @@ function contextualAnswer(question){
     if(q.includes('వాతావరణ')||q.includes('వర్ష')||q.includes('స్ప్రే')||state.voiceContext==='weather')return 'ఈ రోజు సాయంత్రం వర్షం మరియు గాలి ప్రమాదం ఉన్న prototype forecast చూపిస్తోంది. ఇప్పుడే field drainage, affected rows మరియు soil moisture పరిశీలించండి. మధ్యాహ్నం spray చేయవద్దు. Dry, low-wind window వచ్చిన తర్వాత verified product label ప్రకారం మాత్రమే నిర్ణయం తీసుకోండి.';
     if(q.includes('మందు')||q.includes('ట్రీట్మెంట్')||state.voiceContext==='treatment')return `మీరు ${state.treatment} treatment pathway చూస్తున్నారు. ముందుగా diagnosis మరియు severityను ధృవీకరించండి. లేబుల్ అనుమతి లేకుండా products కలపకండి. Exact quantity కోసం registered label rate, treated area మరియు referenceను calculatorలో ఇవ్వాలి.`;
     if(q.includes('మార్కెట్')||q.includes('ధర')||q.includes('లాభ')||state.voiceContext==='market')return `${market.crop.name} కోసం prototype data ప్రకారం ${market.best.name}లో transport తర్వాత net rate ${money(market.best.net)} per quintalగా ఉంది. ఇది guaranteed live rate కాదు. అమ్మే ముందు official mandi rate, quality grade మరియు transport chargeను confirm చేయండి.`;
+    if(q.includes('వార్త')||q.includes('న్యూస్')||state.voiceContext==='news')return 'Agri Newsలో పంట, ప్రాంతం, భాష మరియు సమాచారం రకాన్ని ఎంచుకోండి. ప్రస్తుతం ఉన్నవి prototype articles. Live deploymentలో ICAR, IMD, eNAM మరియు రాష్ట్ర వ్యవసాయ శాఖల verified feeds మాత్రమే ఉపయోగించాలి.';
+    if(q.includes('రైతు')||q.includes('హార్వెస్ట్')||state.voiceContext==='connect')return 'Nearby Farmers Connect ద్వారా ఒకే పంట మరియు సమీప harvest window ఉన్న రైతులు machinery, labour లేదా transport ఖర్చును పంచుకోవచ్చు. చేరే ముందు quotation, operator, తేదీ మరియు written cost splitను ధృవీకరించాలి.';
     if(q.includes('నీరు')||q.includes('water')||state.voiceContext==='irrigation')return plan?`ప్రస్తుత plan ${number(plan.totals.water)} లక్షల లీటర్ల నీరు allocate చేసి ${number(plan.unused.water)} లక్షల లీటర్ల buffer ఉంచుతోంది. ఈ రోజు rain chance ఉన్నందున soil moisture చూసి మాత్రమే irrigation ఇవ్వండి.`:'ముందుగా farm plan create చేయండి. తరువాత available water మరియు crop requirement ఆధారంగా allocation చెబుతాను.';
     if(state.voiceContext==='plant')return state.health?`${$('condition').textContent}. Confidence ${Math.round(state.health.confidence*100)} శాతం. ఇప్పుడు పక్క మొక్కలను పరిశీలించండి, clear symptomsను record చేయండి, మరియు verified guidance లేకుండా మొత్తం పొలానికి spray చేయవద్దు.`:'ముందుగా clear tomato leaf photo upload చేసి analyse చేయండి.';
     return plan?`${top.name} ప్రస్తుతం strongest recommendation. ${number(top.acres||0)} acres allocationతో expected total profit ${money(plan.totals.profit)}. Strategy మార్చి water-saving లేదా low-budget outcomeను compare చేయవచ్చు.`:'Farm details ఇవ్వండి. Soil, season, land, water, fertilizer మరియు budget ఆధారంగా crop plan తయారుచేస్తాను.';
@@ -458,6 +449,8 @@ function contextualAnswer(question){
   if(/weather|rain|spray|wind/.test(q)||state.voiceContext==='weather')return 'The prototype forecast shows a higher rain and wind risk this afternoon. Inspect drainage, affected rows and soil moisture now. Avoid spraying this afternoon. Use a dry, low-wind window and follow the verified product label.';
   if(/medicine|chemical|dose|treatment|mix/.test(q)||state.voiceContext==='treatment')return `You are viewing the ${state.treatment} treatment pathway. Confirm the diagnosis and severity first. Never mix products unless the current registered label expressly permits it. The calculator requires the verified label rate, treated area and reference before calculating quantity.`;
   if(/market|price|profit|mandi|sell/.test(q)||state.voiceContext==='market')return `For ${market.crop.name}, the prototype comparison currently shows ${market.best.name} with the best transport-adjusted rate of ${money(market.best.net)} per quintal. This is not a guaranteed live price. Confirm the official mandi rate, grade and transport charge before selling.`;
+  if(/news|alert|advisory|scheme/.test(q)||state.voiceContext==='news')return 'Choose the crop, region, language and news type in Agri News. The current articles demonstrate personalisation. A live release should accept only timestamped, verified feeds from ICAR, IMD, eNAM/Agmarknet and responsible agriculture departments.';
+  if(/nearby|farmer|harvest|share|group/.test(q)||state.voiceContext==='connect')return 'Nearby Farmers Connect groups farmers with a compatible crop, operation and date window to share machinery, labour or transport costs. Verify the quotation, operator, schedule and written cost split before sharing contact details or committing.';
   if(/water|irrigat/.test(q)||state.voiceContext==='irrigation')return plan?`The current plan allocates ${number(plan.totals.water)} lakh litres and retains ${number(plan.unused.water)} lakh litres as a buffer. Because rain is possible, inspect root-zone moisture before irrigation.`:'Create a farm plan first so I can compare crop water needs with the available water.';
   if(state.voiceContext==='plant')return state.health?`${$('condition').textContent} with ${Math.round(state.health.confidence*100)} percent model confidence. Inspect nearby plants, record clear symptoms and do not spray the whole field without confirmation and verified guidance.`:'Upload and analyse a clear tomato leaf image first.';
   if(state.voiceContext==='rover')return $('roverMode').value==='mock'?'The rover connector is in demonstration mode. Manual photo upload is active now. When the rover is ready, enter its base URL and enable live mode; the website will use the same capture record format.':'The site will request status and captures from the configured rover URL. If hardware changes, keep the standard API response format unchanged.';
@@ -539,11 +532,165 @@ $('requestCapture').onclick=()=>{
 
 $('openCapture').onclick=()=>{showView('health');toast('Rover integration is reserved. Upload the current plant photo manually for now.');};
 
+function readObject(key){
+  try{return JSON.parse(localStorage.getItem(key)||'{}')}catch{return{}}
+}
+
+function fieldCases(){
+  const overrides=readObject('agx-vjh-case-state');
+  return FIELD_CASES.map(item=>({...item,...(overrides[item.id]||{})}));
+}
+
+function saveCaseChange(id,change){
+  const overrides=readObject('agx-vjh-case-state');
+  overrides[id]={...(overrides[id]||{}),...change};
+  localStorage.setItem('agx-vjh-case-state',JSON.stringify(overrides));
+}
+
+function selectedFieldCase(){
+  return fieldCases().find(item=>item.id===state.selectedCase)||fieldCases()[0];
+}
+
+function renderCoverageMap(){
+  const critical=new Set([14,15]),monitor=new Set([7,28,35]),unscanned=new Set([38,39,40,41,42,43,44,45,46,47]);
+  $('coverageMap').innerHTML=Array.from({length:48},(_,index)=>{
+    const status=unscanned.has(index)?'unscanned':critical.has(index)?'critical':monitor.has(index)?'monitor':'healthy';
+    const row=Math.floor(index/6)+1,position=index%6+1;
+    return `<button class="field-cell ${status}" type="button" title="Row ${row}, scan block ${position}: ${status}" aria-label="Row ${row}, block ${position}, ${status}"><span>R${row}</span><b>${position}</b></button>`;
+  }).join('');
+  $('outbreakAlert').innerHTML='<b>Cluster warning • Row 3</b><span>Two neighbouring high-risk observations increase the prototype spread-risk score. Inspect the next five plants in both directions before any field-wide action.</span>';
+}
+
+function renderPassportDetail(item){
+  if(!item){$('passportDetail').innerHTML='<p>No plant matches this filter.</p>';return;}
+  state.selectedCase=item.id;
+  document.querySelectorAll('[data-passport]').forEach(button=>button.classList.toggle('active',button.dataset.passport===item.id));
+  const gate=item.confidence>=80?'Action may be reviewed':'Hold for recapture / expert review';
+  $('passportDetail').innerHTML=`<div class="passport-id"><span>${item.id}</span><em class="status-${item.status}">${item.status}</em></div><h3>${item.crop}: ${item.condition}</h3><p>${item.field} • Row ${item.row} • Plant ${item.plant}</p><div class="passport-metrics"><span>Severity<b>${item.severity}</b></span><span>AI confidence<b>${item.confidence}%</b></span><span>Affected area<b>${item.damage}%</b></span><span>Recovery<b>${item.recovery}%</b></span></div><div class="recovery-track"><i style="width:${item.recovery}%"></i></div><h4>Explainable signals</h4><ul>${item.signals.map(signal=>`<li>${signal}</li>`).join('')}</ul><div class="confidence-gate ${item.confidence<80?'hold':''}"><b>${gate}</b><span>${item.confidence>=80?'Image confidence clears the prototype review threshold; farmer approval is still required.':'Confidence is below the action threshold. Improve evidence before treatment selection.'}</span></div><p class="next-action"><b>Next:</b> ${item.next}</p>`;
+  renderCareTimeline(item);
+}
+
+function renderCareTimeline(item){
+  const stages=[
+    ['Detected',true,`${item.condition} • ${item.confidence}% confidence`],
+    ['Passport created',true,`${item.field}, Row ${item.row}, Plant ${item.plant}`],
+    ['Farmer approval',item.approved,item.approved?'Action approved and recorded':'Waiting for farmer decision'],
+    ['Targeted action',item.approved,item.approved?'Affected plant/zone only':'Not started'],
+    ['Revisit',item.status==='recovered',item.status==='recovered'?`Recovery verified at ${item.recovery}%`:item.next]
+  ];
+  $('careTimeline').innerHTML=stages.map(([name,done,detail],index)=>`<article class="${done?'done':''}"><i>${done?'✓':index+1}</i><div><b>${name}</b><span>${detail}</span></div></article>`).join('');
+  $('approveTreatment').disabled=item.approved||item.confidence<80;
+  $('approveTreatment').textContent=item.approved?'Action already approved':item.confidence<80?'Evidence required before approval':'Approve recommended action';
+  $('completeRevisit').disabled=!item.approved||item.status==='recovered';
+}
+
+function renderCommandCentre(){
+  const cases=fieldCases();
+  const filter=$('passportFilter').value;
+  const filtered=cases.filter(item=>filter==='all'||(filter==='pending'&&!item.approved)||(filter==='revisit'&&item.status==='revisit')||(filter==='recovered'&&item.status==='recovered'));
+  const pending=cases.filter(item=>!item.approved).length;
+  const completed=cases.filter(item=>item.recovery>0);
+  const recovery=completed.length?completed.reduce((sum,item)=>sum+item.recovery,0)/completed.length:0;
+  $('commandTracked').textContent=cases.length;
+  $('commandCoverage').textContent='79%';
+  $('commandApprovals').textContent=pending;
+  $('commandRecovery').textContent=`${Math.round(recovery)}%`;
+  $('commandRisk').textContent='High • R3';
+  renderCoverageMap();
+  $('passportList').innerHTML=filtered.length?filtered.map(item=>`<button type="button" data-passport="${item.id}" class="passport-item ${item.id===state.selectedCase?'active':''}"><span><b>${item.id}</b><small>${item.field} • R${item.row} • P${item.plant}</small></span><em class="status-${item.status}">${item.status}</em><strong>${item.recovery}%</strong></button>`).join(''):'<div class="empty-records">No plant matches this filter.</div>';
+  document.querySelectorAll('[data-passport]').forEach(button=>button.onclick=()=>renderPassportDetail(cases.find(item=>item.id===button.dataset.passport)));
+  const selected=filtered.find(item=>item.id===state.selectedCase)||filtered[0]||cases[0];
+  renderPassportDetail(selected);
+  calculateInputSavings();
+}
+
+function calculateInputSavings(){
+  const field=Number($('savingFieldArea').value),affected=Number($('savingAffectedArea').value),rate=Number($('savingRate').value),unitCost=Number($('savingUnitCost').value);
+  if(!field||!affected||affected>field||rate<0||unitCost<0){$('savingsResult').innerHTML='<b>Check the areas</b><span>Affected area must be greater than zero and no larger than the field.</span>';return;}
+  const whole=field*rate,targeted=affected*rate,avoided=whole-targeted,costSaved=avoided*unitCost;
+  $('savingsResult').innerHTML=`<div><span>Whole-field input</span><b>${number(whole)} units</b></div><div><span>Targeted input</span><b>${number(targeted)} units</b></div><div><span>Input avoided</span><b>${number(avoided)} units</b></div><div><span>Estimated saving</span><b>${money(costSaved)}</b></div><p>${Math.round((avoided/whole)*100)}% of the entered input is potentially avoided by treating only the affected ${number(affected)} acres. Verify diagnosis, product label and measured field area.</p>`;
+}
+
+$('passportFilter').onchange=renderCommandCentre;
+$('approveTreatment').onclick=()=>{
+  const item=selectedFieldCase();
+  if(item.confidence<80){toast('Confidence is below the approval threshold. Capture better evidence first.');return;}
+  saveCaseChange(item.id,{approved:true,status:'revisit',next:'Revisit in 3 days'});
+  renderCommandCentre();toast('Farmer approval recorded. Targeted follow-up is now scheduled.');
+};
+$('completeRevisit').onclick=()=>{
+  const item=selectedFieldCase();
+  const recovery=Math.min(100,Math.max(item.recovery+25,72));
+  saveCaseChange(item.id,{status:'recovered',recovery,damage:Math.max(0,item.damage-12),next:'Routine scouting'});
+  renderCommandCentre();toast('Recovery revisit recorded and passport updated.');
+};
+$('calculateSavings').onclick=calculateInputSavings;
+$('syncRecords').onclick=()=>{$('offlineQueue').textContent='0';toast('Prototype field queue synchronized.');};
+$('printFieldReport').onclick=()=>{
+  const cases=fieldCases();
+  const report=['AGRIGUARDIAN X — FIELD HEALTH REPORT',`Generated: ${new Date().toLocaleString('en-IN')}`,'',`Plants tracked: ${cases.length}`,'Field coverage: 79%','Outbreak risk: High in Row 3','',...cases.map(item=>`${item.id} | ${item.condition} | severity ${item.severity} | confidence ${item.confidence}% | recovery ${item.recovery}% | ${item.next}`),'','Decision-support prototype: verify diagnoses and all treatment choices with reviewed sources, product labels and qualified local guidance.'].join('\n');
+  const url=URL.createObjectURL(new Blob([report],{type:'text/plain'}));
+  const link=document.createElement('a');link.href=url;link.download='AgriGuardian-X-Field-Report.txt';link.click();setTimeout(()=>URL.revokeObjectURL(url),500);
+  toast('Field report downloaded.');
+};
+
+function renderNews(){
+  const crop=$('newsCrop').value,type=$('newsType').value,region=$('newsRegion').value,lang=$('newsLanguage').value;
+  const items=NEWS_ITEMS.filter(item=>(crop==='all'||item.crop==='All'||item.crop===crop)&&(type==='all'||item.type===type)&&item.regions.includes(region));
+  const labels={en:'updates matched',te:'సరిపోలిన సమాచారం',hi:'मिलान किए गए अपडेट',ta:'பொருந்திய செய்திகள்',kn:'ಹೊಂದಾಣಿಕೆಯ ಸುದ್ದಿಗಳು'};
+  $('newsBrief').innerHTML=`<div><span class="section-kicker">PERSONALISED BRIEF</span><h2>${crop==='all'?'All selected crops':crop} • ${items.length} ${labels[lang]}</h2><p>${region==='india'?'Nationwide India':region==='south'?'South India':'Telangana'} • disease, weather, market and scheme filters remain under farmer control.</p></div><span class="news-count">${items.length}</span>`;
+  $('newsList').innerHTML=items.length?items.map(item=>{const copy=item.text[lang]||item.text.en;return`<article class="news-card"><div><span class="news-type ${item.type}">${item.type}</span><span>${item.crop}</span><time>${item.date}</time></div><h3>${copy[0]}</h3><p>${copy[1]}</p><footer><span>${item.source}</span><button type="button" class="text-link" data-news-save="${item.id}">Save update</button></footer></article>`}).join(''):'<div class="empty-records"><h2>No matching update</h2><p>Try All crops, All updates or a wider region.</p></div>';
+  document.querySelectorAll('[data-news-save]').forEach(button=>button.onclick=()=>{const saved=load('agx-vjh-saved-news');if(!saved.includes(button.dataset.newsSave))saved.push(button.dataset.newsSave);localStorage.setItem('agx-vjh-saved-news',JSON.stringify(saved));toast('News update saved on this device.');});
+  const watch=readObject('agx-vjh-watchlist');
+  if(watch.crop){$('watchlistStatus').innerHTML=`<b>${watch.crop} watchlist active</b><span>${watch.district} • ${watch.languageLabel}</span>`;}
+}
+
+['newsCrop','newsRegion','newsLanguage','newsType'].forEach(id=>$(id).addEventListener('change',renderNews));
+$('saveWatchlist').onclick=()=>{
+  const languageLabel=$('newsLanguage').selectedOptions[0].textContent;
+  const watch={crop:$('watchCrop').value,district:$('watchDistrict').value.trim()||'Warangal',language:$('newsLanguage').value,languageLabel};
+  localStorage.setItem('agx-vjh-watchlist',JSON.stringify(watch));
+  $('newsCrop').value=watch.crop;$('watchlistStatus').innerHTML=`<b>${watch.crop} watchlist active</b><span>${watch.district} • ${languageLabel}</span>`;renderNews();toast('Personalised crop watchlist saved.');
+};
+
+function renderFarmerGroups(){
+  const crop=$('connectCrop').value,operation=$('connectOperation').value,radius=Number($('connectRadius').value),joined=load('agx-vjh-joined-groups');
+  const groups=FARMER_GROUPS.filter(item=>(crop==='all'||item.crop===crop)&&(operation==='all'||item.operation===operation)&&item.distance<=radius);
+  $('farmerGroups').innerHTML=groups.length?groups.map(group=>`<article class="farmer-group"><div class="group-main"><span class="group-crop">${group.crop}</span><h3>${group.name}</h3><p>${group.operation} • ${group.window} • approximately ${group.distance} km away</p></div><div class="group-stats"><span>Members<b>${group.members+(joined.includes(group.id)?1:0)}</b></span><span>Combined land<b>${group.acres} ac</b></span><span>Estimated saving<b>${group.saving}%</b></span></div><button type="button" data-join-group="${group.id}" ${joined.includes(group.id)?'disabled':''}>${joined.includes(group.id)?'Interest recorded':'Request to join'}</button></article>`).join(''):'<div class="empty-records"><h2>No compatible group in this range</h2><p>Increase the distance or create a local group below.</p></div>';
+  document.querySelectorAll('[data-join-group]').forEach(button=>button.onclick=()=>{const items=load('agx-vjh-joined-groups');if(!items.includes(button.dataset.joinGroup))items.push(button.dataset.joinGroup);localStorage.setItem('agx-vjh-joined-groups',JSON.stringify(items));renderFarmerGroups();toast('Interest recorded privately on this device. No contact details were shared.');});
+  calculateGroupSavings();
+}
+
+function calculateGroupSavings(){
+  const acres=Number($('yourAcres').value),nearby=Number($('groupAcres').value),individual=Number($('individualCost').value),group=Number($('groupCost').value);
+  if(!acres||individual<0||group<0){$('groupSavingsResult').textContent='Enter valid acreage and costs.';return;}
+  const solo=acres*individual,shared=acres*group,saved=Math.max(0,solo-shared),percent=solo?Math.round(saved/solo*100):0;
+  $('groupSavingsResult').innerHTML=`<div><span>Individual estimate</span><b>${money(solo)}</b></div><div><span>Your group estimate</span><b>${money(shared)}</b></div><div><span>Your estimated saving</span><b>${money(saved)}</b></div><p>${number(acres+nearby)} combined acres could reduce your entered operation cost by approximately ${percent}%. Confirm quotations, operator, transport and the written split before committing.</p>`;
+}
+
+['connectCrop','connectOperation','connectRadius'].forEach(id=>$(id).addEventListener('change',renderFarmerGroups));
+$('calculateGroupSavings').onclick=calculateGroupSavings;
+$('createFarmerGroup').onclick=()=>{
+  const crop=$('newGroupCrop').value,operation=$('newGroupOperation').value,acres=Number($('newGroupAcres').value),date=$('newGroupDate').value;
+  if(!acres||!date){toast('Enter acreage and a preferred date.');return;}
+  const record={crop,operation,acres,date,createdAt:new Date().toISOString()};localStorage.setItem('agx-vjh-created-group',JSON.stringify(record));
+  const formattedDate=new Date(date+'T00:00:00').toLocaleDateString('en-IN');
+  $('createdGroupStatus').innerHTML=`<b>${crop} ${operation.toLowerCase()} group drafted</b><span>${number(acres)} acres • preferred date ${formattedDate} • contact remains private</span>`;
+  toast('Demonstration farmer group created on this device.');
+};
+
+const savedGroup=readObject('agx-vjh-created-group');
+if(savedGroup.crop){const savedDate=new Date(savedGroup.date+'T00:00:00').toLocaleDateString('en-IN');$('createdGroupStatus').innerHTML=`<b>${savedGroup.crop} ${savedGroup.operation.toLowerCase()} group drafted</b><span>${number(savedGroup.acres)} acres • preferred date ${savedDate} • contact remains private</span>`;}
+const groupDate=new Date();groupDate.setDate(groupDate.getDate()+7);$('newGroupDate').value=groupDate.toISOString().slice(0,10);
+
 populateMarket();
 renderStrategies();
 renderMarket();
 renderRecords();
 renderKnowledge();
+renderNews();
+renderFarmerGroups();
+renderCommandCentre();
 updateWeatherLocation();
 bindContextButtons();
 renderTreatment();
