@@ -83,6 +83,74 @@ const FARMER_GROUPS = [
   {id:'FG-105',name:'Warangal Chilli Load Share',crop:'Chilli',operation:'Transport',distance:8,members:4,acres:16,window:'14–17 Oct',saving:16}
 ];
 
+const FIELD_CONFIG={id:'A',name:'Field A',rows:8,plantsPerRow:18,area:5,length:182,width:111,perimeter:586,baseLat:17.9682,baseLng:79.5941,coverage:79};
+const PHOTO_URLS={
+  late:'https://veggiescout.mgcafe.uky.edu/sites/veggiescout.ca.uky.edu/files/inline-images/43a%20late%20blight%20leaf%20%28GHolmes%20bgwd%29%205610439.jpg',
+  early:'https://veggiescout.mgcafe.uky.edu/sites/veggiescout.ca.uky.edu/files/inline-images/39a%20early%20blight%20%28Gauthier%29%20IMG_8505.jpg',
+  bollworm:'https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/bltb82122cf4ef8ae70/638f9a40bfc85c01ad499d21/bollworm-cotton-02-scott-stewart-utenn_1.jpg',
+  aphid:'https://www.cropscience.bayer.eg/en-eg/pests/pests/cotton-aphid/_jcr_content/root/responsivegrid/responsivegrid/responsivegrid_copy_/image.coreimg.jpeg/1636560784844/variouslarvalstagesofthecottonaphidaphisgossypii-2021-bcs-emea.jpeg',
+  groundnut:'https://celkau.in/ecropdoctor/Cropsimg/Oilseedsimg/Groundnut/disease/leaf%20spot/symptoms/2.png',
+  seeds:'https://image.made-in-china.com/365f3j00eKVGghLBZlun/Good-Quality-Seed-Processing-Production-Line-for-Agriculture-and-Farm.webp',
+  fertilizer:'https://eng.ruralvoice.in/uploads/images/2023/05/image_750x_6464cbd4a7637.jpg',
+  manure:'https://www.mittigoldorganic.com/assets/images/blog/how-to-make-organic-vermicompost-bio-fertilizer.png',
+  pesticide:'https://sp-ao.shortpixel.ai/client/to_webp%2Cq_glossy%2Cret_img%2Cw_640%2Ch_426/https%3A/cultivafuturo.com/wp-content/uploads/2023/07/etiqueta-plaguicida-fitosanitario.jpg'
+};
+
+const SPECIAL_CASES=new Map(FIELD_CASES.map(item=>[item.id,item]));
+const ALL_PLANTS=Array.from({length:FIELD_CONFIG.rows*FIELD_CONFIG.plantsPerRow},(_,index)=>{
+  const row=Math.floor(index/FIELD_CONFIG.plantsPerRow)+1;
+  const plant=index%FIELD_CONFIG.plantsPerRow+1;
+  const id=`AGX-${FIELD_CONFIG.id}-R${String(row).padStart(2,'0')}-P${String(plant).padStart(2,'0')}`;
+  const special=SPECIAL_CASES.get(id);
+  const scanned=index<Math.round(FIELD_CONFIG.rows*FIELD_CONFIG.plantsPerRow*FIELD_CONFIG.coverage/100);
+  const latitude=FIELD_CONFIG.baseLat+(row-1)*0.000012;
+  const longitude=FIELD_CONFIG.baseLng+(plant-1)*0.000014*(row%2?-1:1);
+  return special||{id,field:FIELD_CONFIG.name,row,plant,crop:'Tomato',condition:scanned?'Healthy':'Not scanned',severity:'None',confidence:scanned?92:0,quality:scanned?90:0,damage:0,recovery:scanned?100:0,status:scanned?'recovered':'unscanned',approved:scanned,next:scanned?'Routine scouting':'Pending rover scan',signals:scanned?['uniform canopy','no visible lesion pattern','location recorded']:['no image captured'],latitude:Number(latitude.toFixed(6)),longitude:Number(longitude.toFixed(6)),scanned};
+}).map(item=>item.latitude?item:{...item,latitude:Number((FIELD_CONFIG.baseLat+(item.row-1)*0.000012).toFixed(6)),longitude:Number((FIELD_CONFIG.baseLng+(item.plant-1)*0.000014*(item.row%2?-1:1)).toFixed(6)),scanned:true});
+
+const VISUAL_DIAGNOSIS=[
+  {id:'vis-late',crop:'Tomato',type:'Disease',name:'Late blight reference',image:PHOTO_URLS.late,signs:'Irregular water-soaked lesions that can expand rapidly in cool, humid conditions.',check:'Photograph upper and lower leaf surfaces, stem and nearby plants. Confirm locally before treatment.',source:'University of Kentucky / Bugwood photo'},
+  {id:'vis-early',crop:'Tomato',type:'Disease',name:'Early blight reference',image:PHOTO_URLS.early,signs:'Dark brown lesions with concentric rings, commonly beginning on older foliage.',check:'Check lesion rings, leaf age pattern and spread upward through the canopy.',source:'University of Kentucky photo'},
+  {id:'vis-groundnut',crop:'Groundnut',type:'Disease',name:'Groundnut leaf spot reference',image:PHOTO_URLS.groundnut,signs:'Circular dark leaf spots that may merge as severity increases.',check:'Walk a fixed route, compare new lesions across rows and record the hotspot.',source:'Kerala Agricultural University portal'},
+  {id:'vis-bollworm',crop:'Cotton',type:'Pest',name:'Cotton bollworm reference',image:PHOTO_URLS.bollworm,signs:'Larva, bore hole, frass and feeding damage around buds or developing bolls.',check:'Count affected fruiting bodies and larvae; use a local economic threshold before action.',source:'University of Tennessee extension photo'},
+  {id:'vis-aphid',crop:'Cotton',type:'Pest',name:'Cotton aphid reference',image:PHOTO_URLS.aphid,signs:'Colonies of small sap-feeding insects, curling leaves and sticky honeydew.',check:'Inspect leaf undersides and conserve natural enemies; confirm density before control.',source:'Bayer Crop Science identification photo'},
+  {id:'vis-nutrient',crop:'Maize',type:'Nutrient',name:'Nutrient stress pattern',image:'https://images.unsplash.com/photo-1601593768799-76bc7d98e1c4?auto=format&fit=crop&w=900&q=80',signs:'Colour pattern, affected leaf age and margin or interveinal symptoms can suggest nutrient stress.',check:'Use a soil or tissue test and rule out root injury, salinity, drought and disease.',source:'Illustrative crop photo; diagnosis requires testing'}
+];
+
+const INPUT_CATALOG=[
+  {id:'seed-certified',category:'seed',crop:'all',name:'Certified crop seed',analysis:'Certification tag, lot number, germination and purity',purpose:'Foundation for reliable establishment across cereals, pulses, oilseeds and vegetables.',use:'Choose a crop, locally recommended variety or hybrid, maturity duration and lot suited to the season. Use the seed rate on the certified label or extension recommendation.',cost:'Compare cost per viable plant, not packet price',image:PHOTO_URLS.seeds},
+  {id:'fert-urea',category:'fertilizer',crop:'all',name:'Urea',analysis:'Typical 46% nitrogen — verify bag',purpose:'Concentrated nitrogen source for crop growth when a soil/crop-stage recommendation shows need.',use:'Split timing and placement matter. Do not add because leaves look pale without checking water, roots, disease and other nutrients.',cost:'Low cost per unit N; overuse can waste money',image:PHOTO_URLS.fertilizer},
+  {id:'fert-dap',category:'fertilizer',crop:'all',name:'DAP',analysis:'Typical 18-46-0 — verify bag',purpose:'Nitrogen and phosphorus source, often considered for basal application where soil phosphorus is needed.',use:'Base quantity on soil test, crop and existing phosphorus. Avoid concentrated contact with seed or roots.',cost:'Compare nutrient need before bag price',image:PHOTO_URLS.fertilizer},
+  {id:'fert-mop',category:'fertilizer',crop:'all',name:'MOP / potash',analysis:'Typical 0-0-60 K₂O — verify bag',purpose:'Potassium source for crops and soils with confirmed requirement.',use:'Confirm potassium need, salinity risk and chloride sensitivity. Place according to local crop guidance.',cost:'Use only measured requirement',image:PHOTO_URLS.fertilizer},
+  {id:'fert-ssp',category:'fertilizer',crop:'all',name:'Single super phosphate',analysis:'Typical 16% P₂O₅ plus sulfur and calcium — verify bag',purpose:'Phosphorus option where sulfur or calcium contribution also fits the soil recommendation.',use:'Compare with DAP using required nutrients, soil reaction, transport and current local price.',cost:'Can be economical when sulfur is also needed',image:PHOTO_URLS.fertilizer},
+  {id:'fert-npk',category:'fertilizer',crop:'all',name:'NPK complex blends',analysis:'Grades vary: e.g. 10-26-26, 12-32-16, 20-20-0-13',purpose:'Multiple nutrients in one granule; the correct grade depends on the soil-test gap.',use:'Read the grade on the bag. Do not treat all NPK products as interchangeable.',cost:'Optimize grade against actual N-P-K need',image:PHOTO_URLS.fertilizer},
+  {id:'manure-fym',category:'manure',crop:'all',name:'Well-decomposed farmyard manure',analysis:'Organic matter and variable nutrients',purpose:'Supports soil structure, biological activity and water-holding capacity.',use:'Use only well-decomposed, clean material. Nutrient content varies, so include it in the nutrient budget after testing where possible.',cost:'Local material may reduce purchased inputs',image:PHOTO_URLS.manure},
+  {id:'manure-vermi',category:'manure',crop:'all',name:'Vermicompost',analysis:'Organic amendment; composition varies',purpose:'Adds stabilized organic matter and contributes nutrients depending on feedstock and quality.',use:'Check moisture, maturity, contaminants and trustworthy analysis. Do not assume every bag has identical nutrients.',cost:'Compare analysis and transport cost',image:PHOTO_URLS.manure},
+  {id:'manure-neem',category:'manure',crop:'all',name:'Neem cake',analysis:'Organic amendment with variable N and bioactive compounds',purpose:'Used as an organic amendment in some crop and soil programs.',use:'Confirm crop suitability, quality and local recommendation. Include nutrient contribution in the total plan.',cost:'Use when both agronomic purpose and cost fit',image:PHOTO_URLS.manure},
+  {id:'bio-tricho',category:'manure',crop:'all',name:'Trichoderma bio-input',analysis:'Living biological product; strain and count matter',purpose:'Some registered products support seed, soil or root-zone disease management.',use:'Use only a registered crop/purpose label. Check expiry, storage, viable count and compatibility with other treatments.',cost:'Quality and viability matter more than cheapest pack',image:PHOTO_URLS.manure},
+  {id:'pest-neem',category:'pesticide',crop:'all',name:'Azadirachtin / neem-based product',analysis:'Concentration and registration vary',purpose:'Botanical option for specified pests and crops on the registered label.',use:'Identify the pest, crop and growth stage first. Follow the exact formulation label; neem oil and azadirachtin products are not interchangeable.',cost:'Compare active concentration and labelled coverage',image:PHOTO_URLS.pesticide},
+  {id:'pest-bt',category:'pesticide',crop:'all',name:'Bacillus thuringiensis product',analysis:'Strain, potency and formulation vary',purpose:'Biological insecticide for specific susceptible larval stages where the label permits.',use:'Timing against young larvae is important. Confirm target pest, crop, sunlight/rain conditions and storage.',cost:'Use only when pest stage matches',image:PHOTO_URLS.pesticide},
+  {id:'pest-fungicide',category:'pesticide',crop:'all',name:'Registered fungicide',analysis:'Active ingredient and FRAC group vary',purpose:'Protectant or systemic disease management only for crops and diseases on the current label.',use:'Confirm disease, rotate mode-of-action groups, respect pre-harvest and re-entry intervals, and never copy a dose from another formulation.',cost:'Avoid routine sprays without risk evidence',image:PHOTO_URLS.pesticide},
+  {id:'pest-insecticide',category:'pesticide',crop:'all',name:'Registered insecticide',analysis:'Active ingredient and IRAC group vary',purpose:'Targeted pest management after field identification and threshold decision.',use:'Protect pollinators and natural enemies. Verify crop, pest, stage, label, PPE, weather and waiting period.',cost:'Treat affected zone after threshold, not automatically',image:PHOTO_URLS.pesticide},
+  {id:'micro-zinc',category:'nutrient',crop:'all',name:'Zinc source',analysis:'Zn concentration varies by product',purpose:'Corrects confirmed zinc deficiency using a crop-specific plan.',use:'Check soil/tissue zinc, pH and phosphorus balance. Use the exact product analysis and verified rate.',cost:'Small measured dose; avoid blanket repeat use',image:PHOTO_URLS.fertilizer},
+  {id:'micro-boron',category:'nutrient',crop:'all',name:'Boron source',analysis:'B concentration varies; narrow safe range',purpose:'Corrects laboratory-confirmed boron deficiency in crops with a known requirement.',use:'Measure precisely. The gap between deficiency and toxicity can be narrow; never diagnose or dose from a photo alone.',cost:'Testing prevents costly toxicity',image:PHOTO_URLS.fertilizer},
+  {id:'amend-gypsum',category:'nutrient',crop:'Groundnut',name:'Agricultural gypsum',analysis:'Calcium and sulfur; purity varies',purpose:'Can supply calcium/sulfur and may support sodic-soil reclamation when testing shows a requirement.',use:'Use a soil-test or crop-specific recommendation; gypsum is not a universal pH correction.',cost:'Compare purity, need and transport',image:PHOTO_URLS.fertilizer},
+  {id:'amend-lime',category:'nutrient',crop:'all',name:'Agricultural lime',analysis:'Neutralizing value and fineness vary',purpose:'Raises acidic soil pH when a laboratory lime requirement supports application.',use:'Do not apply from pH alone. Use buffer-pH/lime requirement, material quality, placement and timing guidance.',cost:'Correct quantity prevents under/over-liming',image:PHOTO_URLS.fertilizer}
+];
+
+const SEED_OPTIONS={
+  Groundnut:[['Public notified variety','budget',78,3200,'Stable cost and certified-lot availability'],['Short-duration certified variety','water',86,3600,'Lower seasonal exposure where locally recommended'],['High-oil certified variety','yield',84,4200,'Quality goal with verified local suitability']],
+  Maize:[['Public composite / OPV','budget',76,1800,'Lower seed cost and reusable only when rules and varietal type permit'],['Single-cross hybrid','yield',91,4200,'Higher potential with higher input and management need'],['Stress-tolerant hybrid','water',87,4600,'Risk-focused option where officially recommended']],
+  Cotton:[['Certified non-hybrid variety','budget',72,1400,'Lower seed cost where agronomically suitable'],['Approved hybrid seed','yield',88,2500,'Compare duration, refuge and current regulation'],['Short-duration approved seed','water',82,2300,'May reduce late-season exposure']],
+  Paddy:[['Certified public variety','budget',80,1600,'Lower cost and locally tested option'],['Short-duration variety','water',89,1900,'Useful where season or water window is limited'],['Certified hybrid','yield',90,3600,'Higher seed cost; management and market fit required']],
+  Tomato:[['Certified open-pollinated variety','budget',78,2400,'Lower seed cost for suitable markets'],['Disease-tolerant hybrid','balanced',91,5200,'Compare resistance claims against local disease pressure'],['Heat-set hybrid','yield',87,5900,'For verified seasonal suitability']],
+  Chilli:[['Certified public variety','budget',77,2800,'Lower cost with locally proven fit'],['Disease-tolerant hybrid','balanced',90,6200,'Check resistance package and market type'],['High-pungency hybrid','yield',86,6800,'Market-specific quality option']],
+  Millet:[['Certified public variety','budget',84,1200,'Affordable and locally adaptable'],['Early-maturing hybrid','water',90,2100,'Shorter duration and drought-risk focus'],['High-yield hybrid','yield',88,2400,'Requires matching fertility and market']],
+  'Red gram':[['Certified public variety','budget',82,1800,'Affordable pulse seed with local notification'],['Short-duration variety','water',88,2200,'Fits shorter rain window'],['Wilt-tolerant variety','balanced',91,2500,'Choose only with verified local recommendation']],
+  'Green gram':[['Certified public variety','budget',84,1900,'Low-cost pulse option'],['Yellow-mosaic-tolerant variety','balanced',91,2400,'Disease-risk focused'],['Short-duration variety','water',89,2300,'Fits a narrow seasonal window']],
+  Soybean:[['Certified public variety','budget',82,2600,'Compare germination and local maturity group'],['Early variety','water',88,3000,'Shorter duration risk management'],['High-yield certified variety','yield',89,3400,'Higher potential with verified local fit']]
+};
+
 const TARGET_CROPS=['Tomato','Chilli','Maize','Cotton','Groundnut'];
 const nutrientSource={name:'TNAU Agritech Portal — Mineral nutrition and deficiency diagnosis',url:'https://agritech.tnau.ac.in/agriculture/agri_min_nutri_def_symptoms.html'};
 const salinitySource={name:'TNAU Agritech Portal — Salinity and sodicity',url:'https://agritech.tnau.ac.in/agriculture/agri_salinity_about.html'};
@@ -118,7 +186,12 @@ const state = {
   location:null,
   objectUrl:null,
   roverCapture:null,
-  selectedCase:'AGX-A-R03-P12'
+  selectedCase:'AGX-A-R03-P12',
+  roverConnected:false,
+  roverDriveMode:'manual',
+  roverMissionTimer:null,
+  roverMissionStep:0,
+  mapLayer:'route'
 };
 
 function toast(message){
@@ -417,7 +490,7 @@ $('savePlant').onclick=()=>{
 
 function setVoiceContext(context){
   state.voiceContext=context;
-  const names={plan:'Farm planning',recommendation:'Current crop recommendation',optimizer:'Strategy comparison',market:'Market and profit analysis',weather:"Today's weather and field actions",irrigation:'Irrigation decision',plant:'Current plant diagnosis',treatment:`${state.treatment} treatment pathway`,rover:'Rover and camera connection',command:'Closed-loop field command',news:'Personalised crop news',connect:'Nearby farmer collaboration'};
+  const names={plan:'Farm planning',recommendation:'Current crop recommendation',optimizer:'Strategy comparison',market:'Market and profit analysis',weather:"Today's weather and field actions",irrigation:'Irrigation decision',plant:'Current plant diagnosis',treatment:`${state.treatment} treatment pathway`,rover:'Rover and camera connection',command:'Closed-loop field command',inputs:'Seeds, fertilizers and crop protection',news:'Personalised crop news',connect:'Nearby farmer collaboration'};
   $('voiceContext').textContent=`Context: ${names[context]||'Farm planning'}`;
 }
 
@@ -455,6 +528,7 @@ function contextualAnswer(question){
   if(state.voiceContext==='plant')return state.health?`${$('condition').textContent} with ${Math.round(state.health.confidence*100)} percent model confidence. Inspect nearby plants, record clear symptoms and do not spray the whole field without confirmation and verified guidance.`:'Upload and analyse a clear tomato leaf image first.';
   if(state.voiceContext==='rover')return $('roverMode').value==='mock'?'The rover connector is in demonstration mode. Manual photo upload is active now. When the rover is ready, enter its base URL and enable live mode; the website will use the same capture record format.':'The site will request status and captures from the configured rover URL. If hardware changes, keep the standard API response format unchanged.';
   if(state.voiceContext==='knowledge')return `The reviewed knowledge base currently contains ${KNOWLEDGE_RECORDS.length} disease, pest and nutrient-stress records across tomato, chilli, maize, cotton and groundnut. Nutrient guidance includes primary, secondary and micronutrients plus sodium and salinity toxicity risk. Only three tomato image classes are currently validated for automatic screening.`;
+  if(state.voiceContext==='inputs')return 'Use the input catalog to compare purpose, nutrient analysis, cost logic and safety. For quantity, first select the product, then enter acreage and the exact rate from the current crop-specific label, soil-test recommendation or qualified local expert. The dashboard multiplies the verified rate; it does not invent a dose.';
   return plan?`${top.name} is the current strongest recommendation. The plan estimates ${money(plan.totals.profit)} total profit and keeps ${number(plan.unused.water)} lakh litres of water unused. Compare the other strategies before approval.`:'Enter the farm soil, season, land, water, fertilizer and budget so I can build a constrained crop plan.';
 }
 
@@ -491,14 +565,58 @@ $('voiceFeedback').onchange=()=>{
   toast('Feedback saved for review.');
 };
 
+const AUTO_STEPS=[
+  ['Drive row','Front, rear, left and right views monitor the mapped corridor.'],
+  ['Plant detected','Rover slows and assigns the next passport location.'],
+  ['Stop motors','Drive output changes to zero before the camera moves.'],
+  ['Scan plant','Inspection camera captures the plant and nearby context.'],
+  ['Create passport','Image, position, GPS and sensor metadata are recorded.'],
+  ['Resume drive','Camera returns to navigation and the rover continues the route.']
+];
+
+function renderAutoStages(){
+  $('autoStages').innerHTML=AUTO_STEPS.map(([name,detail],index)=>`<article class="${index<state.roverMissionStep?'done':index===state.roverMissionStep?'active':''}"><i>${index<state.roverMissionStep?'✓':index+1}</i><div><b>${name}</b><span>${detail}</span></div></article>`).join('');
+}
+
+function setRoverConnection(connected,detail=''){
+  state.roverConnected=connected;
+  $('roverDot').classList.toggle('disconnected',!connected);
+  $('roverState').textContent=connected?`${$('roverLabel').value} connected`:'Rover disconnected';
+  $('roverDetail').textContent=detail||(connected?'Command, camera and mission controls are enabled.':'Choose demonstration or live API mode, then connect.');
+  $('cameraState').textContent=connected?'5 views ready':'Offline';
+  $('cameraArrayBadge').textContent=connected?'● Camera array ready':'● Offline';
+  $('cameraArrayBadge').classList.toggle('offline',!connected);
+  $('lastContact').textContent=connected?'Just now':'Not connected';
+  $('testRover').disabled=connected;
+  $('disconnectRover').disabled=!connected;
+  document.querySelectorAll('[data-rover-command],#startMission,#requestCapture').forEach(button=>button.disabled=!connected);
+}
+
+async function postRoverCommand(command,payload={}){
+  if(!state.roverConnected){toast('Connect the rover before sending a command.');return false;}
+  if($('roverMode').value==='mock'){
+    $('lastContact').textContent='Just now';
+    return true;
+  }
+  const base=$('roverUrl').value.replace(/\/$/,'');
+  try{
+    const controller=new AbortController();setTimeout(()=>controller.abort(),5000);
+    const response=await fetch(`${base}/command`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({command,...payload}),signal:controller.signal});
+    if(!response.ok)throw new Error(`Status ${response.status}`);
+    $('lastContact').textContent='Just now';
+    return true;
+  }catch(error){
+    toast('Rover command failed. The rover has been marked disconnected.');
+    setRoverConnection(false,'Command response failed. Check power, Wi-Fi, API URL and the physical emergency stop.');
+    return false;
+  }
+}
+
 $('testRover').onclick=async()=>{
   const mode=$('roverMode').value;
   if(mode==='mock'){
-    $('roverState').textContent='Demonstration rover ready';
-    $('roverDetail').textContent='Manual image upload is active. Live rover capture can be enabled after the rover is assembled.';
-    $('cameraState').textContent='Manual upload active';
-    $('lastContact').textContent='Just now';
-    toast('Mock adapter is ready; no hardware connection was attempted.');
+    setRoverConnection(true,'Demonstration connection active. Controls update the dashboard but cannot move hardware.');
+    toast('Demonstration rover connected safely.');
     return;
   }
   const base=$('roverUrl').value.replace(/\/$/,'');
@@ -508,29 +626,73 @@ $('testRover').onclick=async()=>{
     const response=await fetch(`${base}/status`,{signal:controller.signal});
     if(!response.ok)throw new Error(`Status ${response.status}`);
     const data=await response.json();
-    $('roverState').textContent='Live rover connected';
-    $('roverDetail').textContent=`${data.deviceId||$('roverLabel').value} responded with a compatible status record.`;
-    $('cameraState').textContent=data.camera?.status||'Connected';
-    $('lastContact').textContent='Just now';
+    setRoverConnection(true,`${data.deviceId||$('roverLabel').value} responded. Live commands are enabled; keep the physical emergency stop ready.`);
+    $('cameraState').textContent=data.cameras?.ready?`${data.cameras.ready} views ready`:'Connected';
     toast('Live rover connection verified.');
   }catch(error){
-    $('roverState').textContent='Live rover not reachable';
-    $('roverDetail').textContent='Keep manual upload active. Check the rover URL, power, Wi-Fi and CORS configuration after the hardware is ready.';
-    toast('Could not reach the rover. Manual upload remains available.');
+    setRoverConnection(false,'Live rover could not be reached. Check URL, power, Wi-Fi and CORS; demonstration mode remains available.');
+    toast('Could not reach the live rover.');
   }
 };
 
-$('requestCapture').onclick=()=>{
-  if($('roverMode').value==='live'){toast('Live capture will be enabled after the rover endpoint is available.');return;}
-  state.roverCapture={field:'Field A',row:'03',plant:'12',source:'Mock rover adapter',capturedAt:new Date().toISOString()};
-  $('roverFrame').innerHTML='<div><span>✓</span><b>Capture metadata received</b><small>Use manual upload for the actual image in this build</small></div>';
-  $('captureSource').textContent='Mock rover adapter';
-  $('lastContact').textContent='Just now';
-  $('pendingCaptures').textContent='1';
-  $('openCapture').disabled=false;
+$('disconnectRover').onclick=async()=>{
+  if(state.roverConnected)await postRoverCommand('stop',{reason:'disconnect'});
+  if(state.roverMissionTimer)clearInterval(state.roverMissionTimer);
+  state.roverMissionTimer=null;state.roverMissionStep=0;
+  setRoverConnection(false,'Connection closed and stop command issued.');
+  $('missionState').textContent='Mission idle';renderAutoStages();
+  toast('Rover disconnected.');
 };
 
-$('openCapture').onclick=()=>{showView('health');toast('Rover integration is reserved. Upload the current plant photo manually for now.');};
+document.querySelectorAll('[data-drive-mode]').forEach(button=>button.onclick=async()=>{
+  const mode=button.dataset.driveMode;
+  if(state.roverConnected&&!await postRoverCommand('mode',{mode}))return;
+  state.roverDriveMode=mode;
+  $('driveModeState').textContent=mode==='manual'?'Manual':'Autonomous';
+  $('manualControl').hidden=mode!=='manual';$('autonomousControl').hidden=mode!=='autonomous';
+  document.querySelectorAll('[data-drive-mode]').forEach(item=>item.classList.toggle('active',item===button));
+});
+
+document.querySelectorAll('[data-rover-command]').forEach(button=>button.onclick=async()=>{
+  if(state.roverDriveMode!=='manual'){toast('Switch to manual control before driving.');return;}
+  const command=button.dataset.roverCommand,speed=Number($('roverSpeed').value);
+  if(await postRoverCommand(command,{speed})){
+    $('missionState').textContent=command==='stop'?'Manual stop':'Manual: '+command;
+    toast(command==='stop'?'Stop command sent.':`${command} command sent at ${speed}% speed.`);
+  }
+});
+
+$('roverSpeed').oninput=()=>{$('speedValue').textContent=`${$('roverSpeed').value}%`;};
+
+$('startMission').onclick=async()=>{
+  if(state.roverDriveMode!=='autonomous'){toast('Select autonomous control first.');return;}
+  if(!await postRoverCommand('mission-start',{fieldId:'Field A'}))return;
+  if(state.roverMissionTimer)clearInterval(state.roverMissionTimer);
+  state.roverMissionStep=0;$('startMission').disabled=true;$('pauseMission').disabled=false;$('missionState').textContent='Autonomous mission running';renderAutoStages();
+  state.roverMissionTimer=setInterval(()=>{
+    state.roverMissionStep+=1;renderAutoStages();
+    $('missionState').textContent=state.roverMissionStep===3?'Scan mode':state.roverMissionStep===5?'Passport saved':'Autonomous mission running';
+    if(state.roverMissionStep>=AUTO_STEPS.length){clearInterval(state.roverMissionTimer);state.roverMissionTimer=null;$('startMission').disabled=false;$('pauseMission').disabled=true;$('missionState').textContent='Cycle complete • driving';$('pendingCaptures').textContent='1';}
+  },900);
+};
+
+$('pauseMission').onclick=async()=>{
+  await postRoverCommand('stop',{reason:'farmer-pause'});
+  if(state.roverMissionTimer)clearInterval(state.roverMissionTimer);state.roverMissionTimer=null;
+  $('startMission').disabled=false;$('pauseMission').disabled=true;$('missionState').textContent='Paused safely';toast('Autonomous mission paused and stop command sent.');
+};
+
+$('requestCapture').onclick=async()=>{
+  if(!state.roverConnected){toast('Connect the rover before scanning.');return;}
+  if(!await postRoverCommand('capture',{field:'Field A',row:'03',plant:'12'}))return;
+  state.roverCapture={field:'Field A',row:'03',plant:'12',source:$('roverMode').value==='mock'?'Demonstration camera':'Live rover camera',capturedAt:new Date().toISOString()};
+  $('roverFrame').classList.add('captured');$('roverFrame').innerHTML='<span>✓ SCANNED</span>';
+  $('scanCameraDetail').textContent='Plant AGX-A-R03-P12 captured with passport metadata';
+  $('captureSource').textContent=state.roverCapture.source;$('lastContact').textContent='Just now';$('pendingCaptures').textContent='1';$('openCapture').disabled=false;
+};
+
+$('openCapture').onclick=()=>{showView('health');toast('Passport location copied. Upload the live image when the camera endpoint provides it.');};
+renderAutoStages();setRoverConnection(false);
 
 function readObject(key){
   try{return JSON.parse(localStorage.getItem(key)||'{}')}catch{return{}}
@@ -538,7 +700,7 @@ function readObject(key){
 
 function fieldCases(){
   const overrides=readObject('agx-vjh-case-state');
-  return FIELD_CASES.map(item=>({...item,...(overrides[item.id]||{})}));
+  return ALL_PLANTS.map(item=>({...item,...(overrides[item.id]||{})}));
 }
 
 function saveCaseChange(id,change){
@@ -552,12 +714,22 @@ function selectedFieldCase(){
 }
 
 function renderCoverageMap(){
-  const critical=new Set([14,15]),monitor=new Set([7,28,35]),unscanned=new Set([38,39,40,41,42,43,44,45,46,47]);
-  $('coverageMap').innerHTML=Array.from({length:48},(_,index)=>{
-    const status=unscanned.has(index)?'unscanned':critical.has(index)?'critical':monitor.has(index)?'monitor':'healthy';
-    const row=Math.floor(index/6)+1,position=index%6+1;
-    return `<button class="field-cell ${status}" type="button" title="Row ${row}, scan block ${position}: ${status}" aria-label="Row ${row}, block ${position}, ${status}"><span>R${row}</span><b>${position}</b></button>`;
+  const cases=fieldCases();
+  const rows=Array.from({length:FIELD_CONFIG.rows},(_,rowIndex)=>{
+    const rowCases=cases.filter(item=>item.row===rowIndex+1);
+    const plants=rowCases.map(item=>{
+      const status=item.status==='unscanned'?'unscanned':item.severity==='High'?'critical':item.severity==='Moderate'||item.status==='review'?'monitor':'healthy';
+      return `<button class="plant-node ${status}" type="button" data-map-plant="${item.id}" title="${item.id}: ${item.condition}" aria-label="${item.id}, ${item.condition}"><i></i><span>${state.mapLayer==='passport'?item.plant:''}</span></button>`;
+    }).join('');
+    return `<div class="crop-row ${rowIndex%2?'reverse':''}"><b>R${String(rowIndex+1).padStart(2,'0')}</b><div>${plants}</div></div>`;
   }).join('');
+  $('coverageMap').innerHTML=`<svg class="route-overlay" viewBox="0 0 1000 420" preserveAspectRatio="none" aria-hidden="true"><polyline points="65,35 935,35 935,85 65,85 65,135 935,135 935,185 65,185 65,235 935,235 935,285 65,285 65,335 680,335"/><circle cx="680" cy="335" r="9"/></svg>${rows}`;
+  document.querySelectorAll('[data-map-plant]').forEach(button=>button.onclick=()=>{
+    const item=cases.find(entry=>entry.id===button.dataset.mapPlant);if(!item)return;
+    state.selectedCase=item.id;
+    $('mapPlantInfo').innerHTML=`<b>${item.id}</b><span>${item.condition} • Row ${item.row}, Plant ${item.plant} • ${item.latitude.toFixed(6)}, ${item.longitude.toFixed(6)} • ${item.scanned===false?'scan pending':'passport mapped'}</span>`;
+    renderPassportDetail(item);
+  });
   $('outbreakAlert').innerHTML='<b>Cluster warning • Row 3</b><span>Two neighbouring high-risk observations increase the prototype spread-risk score. Inspect the next five plants in both directions before any field-wide action.</span>';
 }
 
@@ -565,8 +737,9 @@ function renderPassportDetail(item){
   if(!item){$('passportDetail').innerHTML='<p>No plant matches this filter.</p>';return;}
   state.selectedCase=item.id;
   document.querySelectorAll('[data-passport]').forEach(button=>button.classList.toggle('active',button.dataset.passport===item.id));
-  const gate=item.confidence>=80?'Action may be reviewed':'Hold for recapture / expert review';
-  $('passportDetail').innerHTML=`<div class="passport-id"><span>${item.id}</span><em class="status-${item.status}">${item.status}</em></div><h3>${item.crop}: ${item.condition}</h3><p>${item.field} • Row ${item.row} • Plant ${item.plant}</p><div class="passport-metrics"><span>Severity<b>${item.severity}</b></span><span>AI confidence<b>${item.confidence}%</b></span><span>Affected area<b>${item.damage}%</b></span><span>Recovery<b>${item.recovery}%</b></span></div><div class="recovery-track"><i style="width:${item.recovery}%"></i></div><h4>Explainable signals</h4><ul>${item.signals.map(signal=>`<li>${signal}</li>`).join('')}</ul><div class="confidence-gate ${item.confidence<80?'hold':''}"><b>${gate}</b><span>${item.confidence>=80?'Image confidence clears the prototype review threshold; farmer approval is still required.':'Confidence is below the action threshold. Improve evidence before treatment selection.'}</span></div><p class="next-action"><b>Next:</b> ${item.next}</p>`;
+  const unscanned=item.status==='unscanned';
+  const gate=unscanned?'Rover scan required':item.confidence>=80?'Action may be reviewed':'Hold for recapture / expert review';
+  $('passportDetail').innerHTML=`<div class="passport-id"><span>${item.id}</span><em class="status-${item.status}">${item.status}</em></div><h3>${item.crop}: ${item.condition}</h3><p>${item.field} • Row ${item.row} • Plant ${item.plant}</p><div class="passport-geotag"><span>Latitude<b>${item.latitude.toFixed(6)}</b></span><span>Longitude<b>${item.longitude.toFixed(6)}</b></span><span>GPS state<b>${unscanned?'Estimated row point':'Recorded / demo'}</b></span></div><div class="passport-metrics"><span>Severity<b>${item.severity}</b></span><span>AI confidence<b>${unscanned?'—':item.confidence+'%'}</b></span><span>Affected area<b>${item.damage}%</b></span><span>Recovery<b>${item.recovery}%</b></span></div><div class="recovery-track"><i style="width:${item.recovery}%"></i></div><h4>Explainable signals</h4><ul>${item.signals.map(signal=>`<li>${signal}</li>`).join('')}</ul><div class="confidence-gate ${(item.confidence<80||unscanned)?'hold':''}"><b>${gate}</b><span>${unscanned?'The ID and estimated row position exist, but no health image has been captured.':item.confidence>=80?'Image confidence clears the prototype review threshold; farmer approval is still required.':'Confidence is below the action threshold. Improve evidence before treatment selection.'}</span></div><p class="next-action"><b>Next:</b> ${item.next}</p>`;
   renderCareTimeline(item);
 }
 
@@ -592,12 +765,12 @@ function renderCommandCentre(){
   const completed=cases.filter(item=>item.recovery>0);
   const recovery=completed.length?completed.reduce((sum,item)=>sum+item.recovery,0)/completed.length:0;
   $('commandTracked').textContent=cases.length;
-  $('commandCoverage').textContent='79%';
+  $('commandCoverage').textContent=`${FIELD_CONFIG.coverage}%`;
   $('commandApprovals').textContent=pending;
   $('commandRecovery').textContent=`${Math.round(recovery)}%`;
   $('commandRisk').textContent='High • R3';
   renderCoverageMap();
-  $('passportList').innerHTML=filtered.length?filtered.map(item=>`<button type="button" data-passport="${item.id}" class="passport-item ${item.id===state.selectedCase?'active':''}"><span><b>${item.id}</b><small>${item.field} • R${item.row} • P${item.plant}</small></span><em class="status-${item.status}">${item.status}</em><strong>${item.recovery}%</strong></button>`).join(''):'<div class="empty-records">No plant matches this filter.</div>';
+  $('passportList').innerHTML=filtered.length?filtered.map(item=>`<button type="button" data-passport="${item.id}" class="passport-item ${item.id===state.selectedCase?'active':''}"><span><b>${item.id}</b><small>${item.field} • R${item.row} • P${item.plant}</small></span><em class="status-${item.status}">${item.status}</em><strong>${item.status==='unscanned'?'—':item.recovery+'%'}</strong></button>`).join(''):'<div class="empty-records">No plant matches this filter.</div>';
   document.querySelectorAll('[data-passport]').forEach(button=>button.onclick=()=>renderPassportDetail(cases.find(item=>item.id===button.dataset.passport)));
   const selected=filtered.find(item=>item.id===state.selectedCase)||filtered[0]||cases[0];
   renderPassportDetail(selected);
@@ -628,10 +801,66 @@ $('calculateSavings').onclick=calculateInputSavings;
 $('syncRecords').onclick=()=>{$('offlineQueue').textContent='0';toast('Prototype field queue synchronized.');};
 $('printFieldReport').onclick=()=>{
   const cases=fieldCases();
-  const report=['AGRIGUARDIAN X — FIELD HEALTH REPORT',`Generated: ${new Date().toLocaleString('en-IN')}`,'',`Plants tracked: ${cases.length}`,'Field coverage: 79%','Outbreak risk: High in Row 3','',...cases.map(item=>`${item.id} | ${item.condition} | severity ${item.severity} | confidence ${item.confidence}% | recovery ${item.recovery}% | ${item.next}`),'','Decision-support prototype: verify diagnoses and all treatment choices with reviewed sources, product labels and qualified local guidance.'].join('\n');
+  const report=['AGRIGUARDIAN X — FIELD, PLANT & SOIL REPORT',`Generated: ${new Date().toLocaleString('en-IN')}`,'',`Plants/passport IDs: ${cases.length}`,`Field boundary: ${FIELD_CONFIG.area.toFixed(2)} acres`,`Mapped coverage: ${FIELD_CONFIG.coverage}% (${(FIELD_CONFIG.area*FIELD_CONFIG.coverage/100).toFixed(2)} acres)`,`Field length/depth: ${FIELD_CONFIG.length} m`,`Average width: ${FIELD_CONFIG.width} m`,`Perimeter: ${FIELD_CONFIG.perimeter} m`,'Outbreak risk: High in Row 3','',...cases.map(item=>`${item.id} | ${item.latitude.toFixed(6)}, ${item.longitude.toFixed(6)} | ${item.condition} | severity ${item.severity} | confidence ${item.confidence}% | recovery ${item.recovery}% | ${item.next}`),'','Decision-support prototype: live area and geotags require a compatible GNSS rover. Verify diagnoses and all treatment choices with reviewed sources, product labels and qualified local guidance.'].join('\n');
   const url=URL.createObjectURL(new Blob([report],{type:'text/plain'}));
   const link=document.createElement('a');link.href=url;link.download='AgriGuardian-X-Field-Report.txt';link.click();setTimeout(()=>URL.revokeObjectURL(url),500);
   toast('Field report downloaded.');
+};
+
+document.querySelectorAll('[data-map-layer]').forEach(button=>button.onclick=()=>{
+  state.mapLayer=button.dataset.mapLayer;
+  document.querySelectorAll('[data-map-layer]').forEach(item=>item.classList.toggle('active',item===button));
+  $('coverageMap').classList.toggle('health-layer',state.mapLayer==='health');
+  $('coverageMap').classList.toggle('passport-layer',state.mapLayer==='passport');
+  renderCoverageMap();
+});
+
+function renderSoilReport(){
+  const ph=Number($('soilReportPh').value),moisture=Number($('soilMoisture').value),temperature=Number($('soilTemperature').value),ec=Number($('soilEc').value),n=Number($('soilN').value),p=Number($('soilP').value),k=Number($('soilK').value);
+  const metrics=[
+    ['Soil pH',ph,ph>=6&&ph<=7.5?'Suitable range':ph<6?'Acidic; confirm lime requirement':'Alkaline; check nutrient availability',clamp((ph-3)/7*100,0,100)],
+    ['Moisture',moisture+'%',moisture>=25&&moisture<=35?'Suitable for example crop':moisture<25?'Below target; calculate irrigation':'High; check drainage',clamp(moisture,0,100)],
+    ['Temperature',temperature+'°C',temperature>=20&&temperature<=32?'Root-zone range acceptable':'Review crop-stage comfort range',clamp(temperature/45*100,0,100)],
+    ['Salinity / EC',ec+' dS/m',ec<=1?'Low salinity risk':ec<=2?'Moderate; crop sensitivity matters':'Elevated; test soil and water',clamp(ec/4*100,0,100)],
+    ['Nitrogen index',n,n<45?'Low; confirm crop-stage N need':n<70?'Moderate':'High / sufficient index',n],
+    ['Phosphorus index',p,p<45?'Low':p<70?'Moderate':'High / sufficient index',p],
+    ['Potassium index',k,k<45?'Low':k<70?'Moderate':'High / sufficient index',k]
+  ];
+  $('soilBars').innerHTML=metrics.map(([name,value,note,width])=>`<label><span>${name}<b>${value}</b></span><i><em style="width:${clamp(width,3,100)}%"></em></i><small>${note}</small></label>`).join('');
+  const area=Number($('savingFieldArea').value)||FIELD_CONFIG.area,target=Number($('targetMoisture').value),rootDepth=Number($('rootDepth').value)/100,efficiency=Number($('irrigationEfficiency').value)/100;
+  const deficit=Math.max(0,(target-moisture)/100),areaM2=area*4046.856;
+  const litres=efficiency>0?areaM2*rootDepth*deficit/efficiency*1000:0;
+  $('irrigationReport').innerHTML=deficit?`<span class="section-kicker">CALIBRATED-MOISTURE ESTIMATE</span><h3>${number(litres)} litres estimated</h3><p>For ${number(area)} acres, raising calibrated volumetric root-zone moisture from ${moisture}% to ${target}% across ${number(rootDepth*100)} cm depth at ${Math.round(efficiency*100)}% application efficiency requires approximately <b>${number(litres/100000)} lakh litres</b>.</p><ul><li>Irrigate in measured stages and recheck moisture.</li><li>Subtract effective rainfall and existing stored water.</li><li>Stop if runoff, ponding or waterlogging appears.</li></ul>`:`<span class="section-kicker">IRRIGATION DECISION</span><h3>No moisture deficit calculated</h3><p>Current moisture is at or above the entered target. Inspect drainage and crop condition before adding water.</p>`;
+}
+
+$('soilReportForm').onsubmit=event=>{event.preventDefault();renderSoilReport();toast('Soil and irrigation report recalculated.');};
+
+function renderInputCatalog(){
+  const category=$('inputCategory').value,crop=$('inputCrop').value,query=$('inputSearch').value.trim().toLowerCase();
+  const items=INPUT_CATALOG.filter(item=>(category==='all'||item.category===category)&&(crop==='all'||item.crop==='all'||item.crop===crop)&&(!query||[item.name,item.analysis,item.purpose,item.use].join(' ').toLowerCase().includes(query)));
+  $('inputCatalog').innerHTML=items.length?items.map(item=>`<article class="input-card"><img src="${item.image}" alt="${item.name} visual reference" loading="lazy" referrerpolicy="no-referrer"><div><span class="input-type ${item.category}">${item.category}</span><h3>${item.name}</h3><b>${item.analysis}</b><p>${item.purpose}</p><details><summary>How and when to use</summary><p>${item.use}</p><small>${item.cost}</small></details><button type="button" data-use-input="${item.id}" class="secondary">Use in quantity calculator</button></div></article>`).join(''):'<div class="empty-records"><h2>No matching input</h2><p>Try a broader crop, category or search term.</p></div>';
+  document.querySelectorAll('[data-use-input]').forEach(button=>button.onclick=()=>{const item=INPUT_CATALOG.find(entry=>entry.id===button.dataset.useInput);$('inputProduct').value=item.name;toast(`${item.name} selected. Enter only a verified rate.`);});
+}
+
+function renderVisualDiagnosis(){
+  $('visualDiagnosis').innerHTML=VISUAL_DIAGNOSIS.map(item=>`<article class="visual-card"><img src="${item.image}" alt="${item.crop} ${item.name}" loading="lazy" referrerpolicy="no-referrer"><div><span>${item.crop} • ${item.type}</span><h3>${item.name}</h3><p><b>Visible signs:</b> ${item.signs}</p><p><b>Field confirmation:</b> ${item.check}</p><small>${item.source}</small><button type="button" data-photo-passport="${item.id}" class="text-link">Record against a plant passport</button></div></article>`).join('');
+  document.querySelectorAll('[data-photo-passport]').forEach(button=>button.onclick=()=>{showView('command');toast('Select the matching plant icon to open its passport and record location.');});
+}
+
+function optimizeSeedChoice(){
+  const crop=$('seedCrop').value,goal=$('seedGoal').value,budget=Number($('seedBudget').value),season=$('seedSeason').value;
+  const options=(SEED_OPTIONS[crop]||[]).map(([name,strength,score,cost,note])=>({name,strength,score,cost,note,final:score+(strength===goal?10:0)+(cost<=budget?6:-Math.min(20,(cost-budget)/200))})).sort((a,b)=>b.final-a.final);
+  const best=options[0];
+  $('seedRecommendation').innerHTML=`<article class="seed-best"><span>TOP FIT • ${season}</span><h3>${crop}: ${best.name}</h3><p>${best.note}. Estimated seed-budget reference: ${money(best.cost)}/acre; verify current local lot price, certification and seed rate.</p><div><b>${Math.round(best.final)} fit score</b><em>${best.cost<=budget?'Within entered budget':'Above entered budget'}</em></div></article><div class="seed-alternatives">${options.slice(1).map(option=>`<span><b>${option.name}</b><small>${money(option.cost)}/acre reference • ${option.note}</small></span>`).join('')}</div>`;
+}
+
+['inputCategory','inputCrop'].forEach(id=>$(id).onchange=renderInputCatalog);
+$('inputSearch').oninput=renderInputCatalog;
+$('optimizeSeed').onclick=optimizeSeedChoice;
+$('calculateInputDose').onclick=()=>{
+  const product=$('inputProduct').value.trim(),area=Number($('inputArea').value),rate=Number($('inputRate').value),unit=$('inputUnit').value,reference=$('inputReference').value.trim();
+  if(!product||!area||!rate||!reference){$('inputDoseResult').textContent='Enter the product, area, exact verified rate and label/soil-test/expert reference.';return;}
+  $('inputDoseResult').innerHTML=`Required ${product}: <b>${number(area*rate)} ${unit}</b> for ${number(area)} acres at ${number(rate)} ${unit}/acre. Record the formulation, crop, target, PPE, waiting period and reference before use.`;
 };
 
 function renderNews(){
@@ -691,6 +920,10 @@ renderKnowledge();
 renderNews();
 renderFarmerGroups();
 renderCommandCentre();
+renderSoilReport();
+renderInputCatalog();
+renderVisualDiagnosis();
+optimizeSeedChoice();
 updateWeatherLocation();
 bindContextButtons();
 renderTreatment();
