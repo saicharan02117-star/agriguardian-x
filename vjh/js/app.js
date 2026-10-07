@@ -3,12 +3,15 @@ import {getGuidance, revisitText} from '/optiforge/js/farmerGuidance.js';
 import {treatmentFor} from '/optiforge/js/treatmentRecommendations.js';
 import {CATALOG, SOURCES} from '/optiforge/js/catalog.js';
 import {CROPS, STRATEGIES, optimizeFarm} from '/vjh/js/planner.mjs';
+import {FARM_INPUT_CATALOG, SEED_LIBRARY, INPUT_CROPS, INPUT_SUBGROUPS, CATALOG_STATS} from '/vjh/js/farm-input-catalog.mjs';
 
 const $ = id => document.getElementById(id);
 const clamp = (n, min, max) => Math.max(min, Math.min(max, n));
 const money = n => new Intl.NumberFormat('en-IN', {style: 'currency', currency: 'INR', maximumFractionDigits: 0}).format(Math.round(n || 0));
 const number = n => new Intl.NumberFormat('en-IN', {maximumFractionDigits: 1}).format(n || 0);
 const today = () => new Date().toLocaleDateString('en-IN', {day: '2-digit', month: 'short', year: 'numeric'});
+const escapeHtml = value => String(value??'').replace(/[&<>'"]/g,character=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[character]));
+const safeUrl = value => {try{const url=new URL(String(value||''),location.origin);return ['http:','https:'].includes(url.protocol)?url.href:'';}catch{return'';}};
 
 const MARKET_DATA = {
   groundnut:{trend:[5950,6080,6010,6190,6250,6320],markets:[['Warangal',6320,840,12],['Khammam',6410,690,98],['Hyderabad',6550,520,155],['Nizamabad',6240,410,210]]},
@@ -74,6 +77,8 @@ const NEWS_ITEMS = [
     kn:['ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಯೋಜನೆಗಳು ಮತ್ತು ರೈತ ಸೇವೆಗಳು','ಅರ್ಜಿ ಮೊದಲು ಅರ್ಹತೆ, ಅಧಿಕೃತ ಗಡುವು ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ಸಂಬಂಧಿತ ಸರ್ಕಾರಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪರಿಶೀಲಿಸಿ.']
   }}
 ];
+let LIVE_NEWS=[];
+let NEWS_DATA_META={};
 
 const FARMER_GROUPS = [
   {id:'FG-101',name:'Warangal Tomato Harvest Circle',crop:'Tomato',operation:'Harvesting',distance:6,members:7,acres:24,window:'12–15 Oct',saving:28},
@@ -85,11 +90,11 @@ const FARMER_GROUPS = [
 
 const FIELD_CONFIG={id:'A',name:'Field A',rows:8,plantsPerRow:18,area:5,length:182,width:111,perimeter:586,baseLat:17.9682,baseLng:79.5941,coverage:79};
 const PHOTO_URLS={
-  late:'https://veggiescout.mgcafe.uky.edu/sites/veggiescout.ca.uky.edu/files/inline-images/43a%20late%20blight%20leaf%20%28GHolmes%20bgwd%29%205610439.jpg',
-  early:'https://veggiescout.mgcafe.uky.edu/sites/veggiescout.ca.uky.edu/files/inline-images/39a%20early%20blight%20%28Gauthier%29%20IMG_8505.jpg',
-  bollworm:'https://eu-images.contentstack.com/v3/assets/bltdd43779342bd9107/bltb82122cf4ef8ae70/638f9a40bfc85c01ad499d21/bollworm-cotton-02-scott-stewart-utenn_1.jpg',
-  aphid:'https://www.cropscience.bayer.eg/en-eg/pests/pests/cotton-aphid/_jcr_content/root/responsivegrid/responsivegrid/responsivegrid_copy_/image.coreimg.jpeg/1636560784844/variouslarvalstagesofthecottonaphidaphisgossypii-2021-bcs-emea.jpeg',
-  groundnut:'https://celkau.in/ecropdoctor/Cropsimg/Oilseedsimg/Groundnut/disease/leaf%20spot/symptoms/2.png',
+  late:'/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg',
+  early:'/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg',
+  bollworm:'/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg',
+  aphid:'/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg',
+  groundnut:'/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg',
   seeds:'https://image.made-in-china.com/365f3j00eKVGghLBZlun/Good-Quality-Seed-Processing-Production-Line-for-Agriculture-and-Farm.webp',
   fertilizer:'https://eng.ruralvoice.in/uploads/images/2023/05/image_750x_6464cbd4a7637.jpg',
   manure:'https://www.mittigoldorganic.com/assets/images/blog/how-to-make-organic-vermicompost-bio-fertilizer.png',
@@ -109,12 +114,12 @@ const ALL_PLANTS=Array.from({length:FIELD_CONFIG.rows*FIELD_CONFIG.plantsPerRow}
 }).map(item=>item.latitude?item:{...item,latitude:Number((FIELD_CONFIG.baseLat+(item.row-1)*0.000012).toFixed(6)),longitude:Number((FIELD_CONFIG.baseLng+(item.plant-1)*0.000014*(item.row%2?-1:1)).toFixed(6)),scanned:true});
 
 const VISUAL_DIAGNOSIS=[
-  {id:'vis-late',crop:'Tomato',type:'Disease',name:'Late blight reference',image:PHOTO_URLS.late,signs:'Irregular water-soaked lesions that can expand rapidly in cool, humid conditions.',check:'Photograph upper and lower leaf surfaces, stem and nearby plants. Confirm locally before treatment.',source:'University of Kentucky / Bugwood photo'},
-  {id:'vis-early',crop:'Tomato',type:'Disease',name:'Early blight reference',image:PHOTO_URLS.early,signs:'Dark brown lesions with concentric rings, commonly beginning on older foliage.',check:'Check lesion rings, leaf age pattern and spread upward through the canopy.',source:'University of Kentucky photo'},
-  {id:'vis-groundnut',crop:'Groundnut',type:'Disease',name:'Groundnut leaf spot reference',image:PHOTO_URLS.groundnut,signs:'Circular dark leaf spots that may merge as severity increases.',check:'Walk a fixed route, compare new lesions across rows and record the hotspot.',source:'Kerala Agricultural University portal'},
-  {id:'vis-bollworm',crop:'Cotton',type:'Pest',name:'Cotton bollworm reference',image:PHOTO_URLS.bollworm,signs:'Larva, bore hole, frass and feeding damage around buds or developing bolls.',check:'Count affected fruiting bodies and larvae; use a local economic threshold before action.',source:'University of Tennessee extension photo'},
-  {id:'vis-aphid',crop:'Cotton',type:'Pest',name:'Cotton aphid reference',image:PHOTO_URLS.aphid,signs:'Colonies of small sap-feeding insects, curling leaves and sticky honeydew.',check:'Inspect leaf undersides and conserve natural enemies; confirm density before control.',source:'Bayer Crop Science identification photo'},
-  {id:'vis-nutrient',crop:'Maize',type:'Nutrient',name:'Nutrient stress pattern',image:'https://images.unsplash.com/photo-1601593768799-76bc7d98e1c4?auto=format&fit=crop&w=900&q=80',signs:'Colour pattern, affected leaf age and margin or interveinal symptoms can suggest nutrient stress.',check:'Use a soil or tissue test and rule out root injury, salinity, drought and disease.',source:'Illustrative crop photo; diagnosis requires testing'}
+  {id:'vis-late',crop:'Tomato',type:'Disease',name:'Late blight reference',image:PHOTO_URLS.late,sprite:'0% 0%',signs:'Irregular water-soaked lesions that can expand rapidly in cool, humid conditions.',check:'Photograph upper and lower leaf surfaces, stem and nearby plants. Confirm locally before treatment.',source:'AI-generated field reference panel; not diagnostic proof'},
+  {id:'vis-early',crop:'Tomato',type:'Disease',name:'Early blight reference',image:PHOTO_URLS.early,sprite:'50% 0%',signs:'Dark brown lesions with concentric rings, commonly beginning on older foliage.',check:'Check lesion rings, leaf age pattern and spread upward through the canopy.',source:'AI-generated field reference panel; not diagnostic proof'},
+  {id:'vis-groundnut',crop:'Groundnut',type:'Disease',name:'Groundnut leaf spot reference',image:PHOTO_URLS.groundnut,sprite:'100% 0%',signs:'Circular dark leaf spots that may merge as severity increases.',check:'Walk a fixed route, compare new lesions across rows and record the hotspot.',source:'AI-generated field reference panel; not diagnostic proof'},
+  {id:'vis-bollworm',crop:'Cotton',type:'Pest',name:'Cotton bollworm reference',image:PHOTO_URLS.bollworm,sprite:'0% 100%',signs:'Larva, bore hole, frass and feeding damage around buds or developing bolls.',check:'Count affected fruiting bodies and larvae; use a local economic threshold before action.',source:'AI-generated field reference panel; not diagnostic proof'},
+  {id:'vis-aphid',crop:'Cotton',type:'Pest',name:'Cotton aphid reference',image:PHOTO_URLS.aphid,sprite:'50% 100%',signs:'Colonies of small sap-feeding insects, curling leaves and sticky honeydew.',check:'Inspect leaf undersides and conserve natural enemies; confirm density before control.',source:'AI-generated field reference panel; diagnosis requires field confirmation'},
+  {id:'vis-nutrient',crop:'Maize',type:'Nutrient',name:'Nutrient stress pattern',image:PHOTO_URLS.aphid,sprite:'100% 100%',signs:'Colour pattern, affected leaf age and margin or interveinal symptoms can suggest nutrient stress.',check:'Use a soil or tissue test and rule out root injury, salinity, drought and disease.',source:'AI-generated field reference panel; diagnosis requires testing'}
 ];
 
 const INPUT_CATALOG=[
@@ -172,7 +177,8 @@ const NUTRIENT_RECORDS=[
   nutrient('nut-ni','Nickel deficiency',['young leaf','seed'],['Field deficiency is rare; poor seed viability or unusual leaf-tip symptoms may occur','Symptoms are not reliable for visual diagnosis'],'Require laboratory tissue analysis and qualified interpretation.',['Do not apply nickel from a photo diagnosis','Use specialist, crop-specific advice only','Record the laboratory result and product analysis']),
   nutrient('stress-na','Sodium / salinity toxicity risk',['older leaf','root','whole plant'],['Marginal leaf burn, stunting or apparent drought despite wet soil','Poor germination, root growth and nutrient imbalance in saline or sodic soil'],'Test soil electrical conductivity, pH, exchangeable sodium and irrigation-water quality. Sodium deficiency is not the normal diagnosis for these target crops.',['Improve drainage and use a soil-reclamation plan based on testing','Select crop and variety according to measured salinity tolerance','Do not add gypsum or other amendments without a soil-based requirement'],salinitySource)
 ];
-const KNOWLEDGE_RECORDS=[...CATALOG,...NUTRIENT_RECORDS];
+let KNOWLEDGE_RECORDS=[...CATALOG,...NUTRIENT_RECORDS];
+let CROP_HEALTH_META={};
 
 const state = {
   farm:null,
@@ -394,8 +400,30 @@ function showKnowledgeRecord(id){
   $('knowledgeDetail').innerHTML=`<span class="section-kicker">REVIEWED RECORD • ${record.type.toUpperCase()}</span><h2>${record.crop}: ${record.name}</h2><div class="knowledge-meta">${record.parts.map(part=>`<span>${part}</span>`).join('')}<span>Dataset v1.0</span><span>Knowledge guidance</span></div><h3>Common field signs</h3><ul>${record.symptoms.map(item=>`<li>${item}</li>`).join('')}</ul><h3>How to confirm in the field</h3><p>${record.confirm}</p><h3>Safe next actions</h3><ul>${record.actions.map(item=>`<li>${item}</li>`).join('')}</ul><h3>Source provenance</h3><p><a href="${source.url}" target="_blank" rel="noopener noreferrer">${source.name}</a></p><div class="safety-note"><b>Model boundary</b><span>This reviewed record supports farmer guidance. It is not an additional trained image class unless the Evidence page explicitly says so.</span></div>`;
 }
 
+async function loadCropHealthDataset(force=false){
+  $('healthDatasetStatus').textContent='Loading saved crop-health dataset…';
+  try{
+    const response=await fetch(`/vjh/data/crop-health-dataset.json${force?`?refresh=${Date.now()}`:''}`,{cache:force?'no-store':'default'});
+    if(!response.ok)throw new Error(`Crop-health dataset ${response.status}`);
+    const dataset=await response.json();
+    const primarySource=Array.isArray(dataset.sources)&&dataset.sources.length?dataset.sources[0]:{name:'Reviewed agricultural sources',url:'https://agritech.tnau.ac.in/'};
+    const records=Array.isArray(dataset.records)?dataset.records:[];
+    if(!records.length)throw new Error('Crop-health dataset is empty');
+    KNOWLEDGE_RECORDS=records.map(record=>({...record,sourceInfo:record.sourceInfo||primarySource}));
+    CROP_HEALTH_META=dataset;
+    $('healthDatasetStatus').textContent=`${records.length} pest, disease and nutrient records saved`;
+    $('healthDatasetUpdated').textContent=`Dataset ${dataset.schemaVersion||'1.0'} • updated ${new Date(dataset.updatedAt).toLocaleDateString('en-IN')} • free JSON knowledge file`;
+  }catch{
+    KNOWLEDGE_RECORDS=[...CATALOG,...NUTRIENT_RECORDS];
+    $('healthDatasetStatus').textContent=`${KNOWLEDGE_RECORDS.length} bundled reviewed records available`;
+    $('healthDatasetUpdated').textContent='The saved crop-health JSON could not be loaded; safe bundled guidance is shown.';
+  }
+  renderKnowledge();
+}
+
 $('knowledgeCrop').addEventListener('change',renderKnowledge);
 $('knowledgeSearch').addEventListener('input',renderKnowledge);
+$('reloadHealthDataset').onclick=()=>loadCropHealthDataset(true);
 
 let objectUrl=null;
 $('imageInput').onchange=event=>{
@@ -527,7 +555,7 @@ function contextualAnswer(question){
   if(/water|irrigat/.test(q)||state.voiceContext==='irrigation')return plan?`The current plan allocates ${number(plan.totals.water)} lakh litres and retains ${number(plan.unused.water)} lakh litres as a buffer. Because rain is possible, inspect root-zone moisture before irrigation.`:'Create a farm plan first so I can compare crop water needs with the available water.';
   if(state.voiceContext==='plant')return state.health?`${$('condition').textContent} with ${Math.round(state.health.confidence*100)} percent model confidence. Inspect nearby plants, record clear symptoms and do not spray the whole field without confirmation and verified guidance.`:'Upload and analyse a clear tomato leaf image first.';
   if(state.voiceContext==='rover')return $('roverMode').value==='mock'?'The rover connector is in demonstration mode. Manual photo upload is active now. When the rover is ready, enter its base URL and enable live mode; the website will use the same capture record format.':'The site will request status and captures from the configured rover URL. If hardware changes, keep the standard API response format unchanged.';
-  if(state.voiceContext==='knowledge')return `The reviewed knowledge base currently contains ${KNOWLEDGE_RECORDS.length} disease, pest and nutrient-stress records across tomato, chilli, maize, cotton and groundnut. Nutrient guidance includes primary, secondary and micronutrients plus sodium and salinity toxicity risk. Only three tomato image classes are currently validated for automatic screening.`;
+  if(state.voiceContext==='knowledge')return `The reviewed knowledge base currently contains ${KNOWLEDGE_RECORDS.length} disease, pest and nutrient-stress records across groundnut, maize, cotton, paddy, tomato and chilli. Nutrient guidance includes primary, secondary and micronutrients plus salinity and water stress. Only three tomato image classes are currently validated for automatic screening.`;
   if(state.voiceContext==='inputs')return 'Use the input catalog to compare purpose, nutrient analysis, cost logic and safety. For quantity, first select the product, then enter acreage and the exact rate from the current crop-specific label, soil-test recommendation or qualified local expert. The dashboard multiplies the verified rate; it does not invent a dose.';
   return plan?`${top.name} is the current strongest recommendation. The plan estimates ${money(plan.totals.profit)} total profit and keeps ${number(plan.unused.water)} lakh litres of water unused. Compare the other strategies before approval.`:'Enter the farm soil, season, land, water, fertilizer and budget so I can build a constrained crop plan.';
 }
@@ -836,25 +864,34 @@ function renderSoilReport(){
 $('soilReportForm').onsubmit=event=>{event.preventDefault();renderSoilReport();toast('Soil and irrigation report recalculated.');};
 
 function renderInputCatalog(){
-  const category=$('inputCategory').value,crop=$('inputCrop').value,query=$('inputSearch').value.trim().toLowerCase();
-  const items=INPUT_CATALOG.filter(item=>(category==='all'||item.category===category)&&(crop==='all'||item.crop==='all'||item.crop===crop)&&(!query||[item.name,item.analysis,item.purpose,item.use].join(' ').toLowerCase().includes(query)));
-  $('inputCatalog').innerHTML=items.length?items.map(item=>`<article class="input-card"><img src="${item.image}" alt="${item.name} visual reference" loading="lazy" referrerpolicy="no-referrer"><div><span class="input-type ${item.category}">${item.category}</span><h3>${item.name}</h3><b>${item.analysis}</b><p>${item.purpose}</p><details><summary>How and when to use</summary><p>${item.use}</p><small>${item.cost}</small></details><button type="button" data-use-input="${item.id}" class="secondary">Use in quantity calculator</button></div></article>`).join(''):'<div class="empty-records"><h2>No matching input</h2><p>Try a broader crop, category or search term.</p></div>';
-  document.querySelectorAll('[data-use-input]').forEach(button=>button.onclick=()=>{const item=INPUT_CATALOG.find(entry=>entry.id===button.dataset.useInput);$('inputProduct').value=item.name;toast(`${item.name} selected. Enter only a verified rate.`);});
+  const category=$('inputCategory').value,subgroup=$('inputSubgroup').value,crop=$('inputCrop').value,query=$('inputSearch').value.trim().toLowerCase();
+  const items=FARM_INPUT_CATALOG.filter(item=>(category==='all'||item.category===category)&&(subgroup==='all'||item.subgroup===subgroup)&&(crop==='all'||item.crops.includes(crop))&&(!query||[item.name,item.subgroup,item.analysis,item.purpose,item.use].join(' ').toLowerCase().includes(query)));
+  $('catalogCount').textContent=`${items.length} of ${CATALOG_STATS.total} inputs shown`;
+  $('inputCatalog').innerHTML=items.length?items.map(item=>`<article class="input-card"><img src="${item.image}" alt="${item.name} agricultural reference photograph" loading="lazy"><div><div class="input-card-tags"><span class="input-type ${item.category}">${item.category}</span><span class="input-subtype">${item.subgroup}</span></div><h3>${item.name}</h3><b>${item.analysis}</b><p>${item.purpose}</p><small class="crop-fit">Crops: ${item.crops.length===INPUT_CROPS.length?'Use only where the label permits':item.crops.join(', ')}</small><details><summary>Safe selection and use</summary><p>${item.use}</p><small>${item.cost}</small></details><small class="photo-credit">${item.photoCredit}</small><button type="button" data-use-input="${item.id}" class="secondary">Use in quantity calculator</button></div></article>`).join(''):'<div class="empty-records"><h2>No matching input</h2><p>Try a broader crop, category, type or search term.</p></div>';
+  document.querySelectorAll('[data-use-input]').forEach(button=>button.onclick=()=>{const item=FARM_INPUT_CATALOG.find(entry=>entry.id===button.dataset.useInput);$('inputProduct').value=item.name;toast(`${item.name} selected. Enter only a verified label rate.`);});
 }
 
 function renderVisualDiagnosis(){
-  $('visualDiagnosis').innerHTML=VISUAL_DIAGNOSIS.map(item=>`<article class="visual-card"><img src="${item.image}" alt="${item.crop} ${item.name}" loading="lazy" referrerpolicy="no-referrer"><div><span>${item.crop} • ${item.type}</span><h3>${item.name}</h3><p><b>Visible signs:</b> ${item.signs}</p><p><b>Field confirmation:</b> ${item.check}</p><small>${item.source}</small><button type="button" data-photo-passport="${item.id}" class="text-link">Record against a plant passport</button></div></article>`).join('');
+  $('visualDiagnosis').innerHTML=VISUAL_DIAGNOSIS.map(item=>`<article class="visual-card">${item.sprite?`<div class="diagnosis-photo" role="img" aria-label="${item.crop} ${item.name}" style="background-image:url('${item.image}');background-position:${item.sprite}"></div>`:`<img src="${item.image}" alt="${item.crop} ${item.name}" loading="lazy">`}<div><span>${item.crop} • ${item.type}</span><h3>${item.name}</h3><p><b>Visible signs:</b> ${item.signs}</p><p><b>Field confirmation:</b> ${item.check}</p><small>${item.source}</small><button type="button" data-photo-passport="${item.id}" class="text-link">Record against a plant passport</button></div></article>`).join('');
   document.querySelectorAll('[data-photo-passport]').forEach(button=>button.onclick=()=>{showView('command');toast('Select the matching plant icon to open its passport and record location.');});
 }
 
 function optimizeSeedChoice(){
   const crop=$('seedCrop').value,goal=$('seedGoal').value,budget=Number($('seedBudget').value),season=$('seedSeason').value;
-  const options=(SEED_OPTIONS[crop]||[]).map(([name,strength,score,cost,note])=>({name,strength,score,cost,note,final:score+(strength===goal?10:0)+(cost<=budget?6:-Math.min(20,(cost-budget)/200))})).sort((a,b)=>b.final-a.final);
+  const options=(SEED_LIBRARY[crop]||[]).map(([name,strength,score,cost,note])=>({name,strength,score,cost,note,final:score+(strength===goal?10:0)+(cost<=budget?6:-Math.min(20,(cost-budget)/200))})).sort((a,b)=>b.final-a.final);
   const best=options[0];
   $('seedRecommendation').innerHTML=`<article class="seed-best"><span>TOP FIT • ${season}</span><h3>${crop}: ${best.name}</h3><p>${best.note}. Estimated seed-budget reference: ${money(best.cost)}/acre; verify current local lot price, certification and seed rate.</p><div><b>${Math.round(best.final)} fit score</b><em>${best.cost<=budget?'Within entered budget':'Above entered budget'}</em></div></article><div class="seed-alternatives">${options.slice(1).map(option=>`<span><b>${option.name}</b><small>${money(option.cost)}/acre reference • ${option.note}</small></span>`).join('')}</div>`;
 }
 
-['inputCategory','inputCrop'].forEach(id=>$(id).onchange=renderInputCatalog);
+function initializeFarmInputLibrary(){
+  $('inputSubgroup').innerHTML='<option value="all">All types</option>'+INPUT_SUBGROUPS.map(type=>`<option value="${type}">${type.replace(/(^|\s)\S/g,letter=>letter.toUpperCase())}</option>`).join('');
+  $('inputCrop').innerHTML='<option value="all">All crops</option>'+INPUT_CROPS.map(crop=>`<option>${crop}</option>`).join('');
+  $('seedCrop').innerHTML=Object.keys(SEED_LIBRARY).map(crop=>`<option>${crop}</option>`).join('');
+  const tiles=[['Total references',CATALOG_STATS.total],['Seed groups',CATALOG_STATS.seed],['Fertilizers',CATALOG_STATS.fertilizer],['Organic & bio',CATALOG_STATS.manure],['Crop protection',CATALOG_STATS.pesticide],['Nutrients',CATALOG_STATS.nutrient]];
+  $('catalogStats').innerHTML=tiles.map(([label,value])=>`<span><b>${value}</b>${label}</span>`).join('');
+}
+
+['inputCategory','inputSubgroup','inputCrop'].forEach(id=>$(id).onchange=renderInputCatalog);
 $('inputSearch').oninput=renderInputCatalog;
 $('optimizeSeed').onclick=optimizeSeedChoice;
 $('calculateInputDose').onclick=()=>{
@@ -865,16 +902,38 @@ $('calculateInputDose').onclick=()=>{
 
 function renderNews(){
   const crop=$('newsCrop').value,type=$('newsType').value,region=$('newsRegion').value,lang=$('newsLanguage').value;
-  const items=NEWS_ITEMS.filter(item=>(crop==='all'||item.crop==='All'||item.crop===crop)&&(type==='all'||item.type===type)&&item.regions.includes(region));
+  const liveMatches=LIVE_NEWS.filter(item=>(item.language||'en')===lang&&(crop==='all'||item.crop==='All'||item.crop===crop)&&(type==='all'||item.type===type)&&item.regions.includes(region));
+  const fallbackItems=NEWS_ITEMS.filter(item=>(crop==='all'||item.crop==='All'||item.crop===crop)&&(type==='all'||item.type===type)&&item.regions.includes(region)).map(item=>{const copy=item.text[lang]||item.text.en;return{...item,title:copy[0],summary:copy[1],publishedAt:item.date,articleUrl:'',imageUrl:'/vjh/assets/catalog/agriculture.jpg',source:item.source||'Bundled advisory'};});
+  const items=liveMatches.length||['en','te'].includes(lang)?liveMatches:fallbackItems;
   const labels={en:'updates matched',te:'సరిపోలిన సమాచారం',hi:'मिलान किए गए अपडेट',ta:'பொருந்திய செய்திகள்',kn:'ಹೊಂದಾಣಿಕೆಯ ಸುದ್ದಿಗಳು'};
   $('newsBrief').innerHTML=`<div><span class="section-kicker">PERSONALISED BRIEF</span><h2>${crop==='all'?'All selected crops':crop} • ${items.length} ${labels[lang]}</h2><p>${region==='india'?'Nationwide India':region==='south'?'South India':'Telangana'} • disease, weather, market and scheme filters remain under farmer control.</p></div><span class="news-count">${items.length}</span>`;
-  $('newsList').innerHTML=items.length?items.map(item=>{const copy=item.text[lang]||item.text.en;return`<article class="news-card"><div><span class="news-type ${item.type}">${item.type}</span><span>${item.crop}</span><time>${item.date}</time></div><h3>${copy[0]}</h3><p>${copy[1]}</p><footer><span>${item.source}</span><button type="button" class="text-link" data-news-save="${item.id}">Save update</button></footer></article>`}).join(''):'<div class="empty-records"><h2>No matching update</h2><p>Try All crops, All updates or a wider region.</p></div>';
+  $('newsList').innerHTML=items.length?items.map(item=>{const published=item.publishedAt&&!Number.isNaN(Date.parse(item.publishedAt))?new Date(item.publishedAt).toLocaleString(lang==='te'?'te-IN':'en-IN',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):item.publishedAt||'Saved update';const articleUrl=safeUrl(item.articleUrl),imageUrl=safeUrl(item.imageUrl)||'/vjh/assets/catalog/agriculture.jpg';return`<article class="news-card news-card-live"><img class="news-thumbnail" src="${escapeHtml(imageUrl)}" alt="Thumbnail for ${escapeHtml(item.title)}" loading="lazy" referrerpolicy="no-referrer"><div class="news-card-body"><div><span class="news-type ${escapeHtml(item.type)}">${escapeHtml(item.type)}</span><span>${escapeHtml(item.crop)}</span><time>${escapeHtml(published)}</time></div><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary)}</p><footer><span>${escapeHtml(item.source)}</span><div><button type="button" class="text-link" data-news-save="${escapeHtml(item.id)}">Save</button>${articleUrl?`<a class="text-link" href="${escapeHtml(articleUrl)}" target="_blank" rel="noopener noreferrer">Open original</a>`:''}</div></footer></div></article>`}).join(''):'<div class="empty-records"><h2>No matching live update</h2><p>Try All crops, All updates or a wider region. The saved dataset refreshes daily.</p></div>';
+  document.querySelectorAll('.news-thumbnail').forEach(image=>image.addEventListener('error',()=>{image.src='/vjh/assets/catalog/agriculture.jpg';},{once:true}));
   document.querySelectorAll('[data-news-save]').forEach(button=>button.onclick=()=>{const saved=load('agx-vjh-saved-news');if(!saved.includes(button.dataset.newsSave))saved.push(button.dataset.newsSave);localStorage.setItem('agx-vjh-saved-news',JSON.stringify(saved));toast('News update saved on this device.');});
   const watch=readObject('agx-vjh-watchlist');
   if(watch.crop){$('watchlistStatus').innerHTML=`<b>${watch.crop} watchlist active</b><span>${watch.district} • ${watch.languageLabel}</span>`;}
 }
 
+async function loadNewsDataset(force=false){
+  $('newsDatasetStatus').textContent='Refreshing saved agriculture news…';
+  try{
+    const response=await fetch(`/vjh/data/agri-news.json${force?`?refresh=${Date.now()}`:''}`,{cache:force?'no-store':'default'});
+    if(!response.ok)throw new Error(`News dataset ${response.status}`);
+    const dataset=await response.json();
+    LIVE_NEWS=Array.isArray(dataset.items)?dataset.items:[];
+    NEWS_DATA_META=dataset;
+    $('newsDatasetStatus').textContent=`${LIVE_NEWS.length} real news records saved`;
+    $('newsUpdatedAt').textContent=`Last dataset refresh: ${new Date(dataset.generatedAt).toLocaleString('en-IN')} • daily automatic update`;
+  }catch{
+    LIVE_NEWS=[];
+    $('newsDatasetStatus').textContent='Saved live-news dataset is temporarily unavailable';
+    $('newsUpdatedAt').textContent='Showing safe bundled advisories where available';
+  }
+  renderNews();
+}
+
 ['newsCrop','newsRegion','newsLanguage','newsType'].forEach(id=>$(id).addEventListener('change',renderNews));
+$('refreshNews').onclick=()=>loadNewsDataset(true);
 $('saveWatchlist').onclick=()=>{
   const languageLabel=$('newsLanguage').selectedOptions[0].textContent;
   const watch={crop:$('watchCrop').value,district:$('watchDistrict').value.trim()||'Warangal',language:$('newsLanguage').value,languageLabel};
@@ -916,11 +975,12 @@ populateMarket();
 renderStrategies();
 renderMarket();
 renderRecords();
-renderKnowledge();
-renderNews();
+loadCropHealthDataset();
+loadNewsDataset();
 renderFarmerGroups();
 renderCommandCentre();
 renderSoilReport();
+initializeFarmInputLibrary();
 renderInputCatalog();
 renderVisualDiagnosis();
 optimizeSeedChoice();

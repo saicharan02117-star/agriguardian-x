@@ -1,0 +1,38 @@
+name: Refresh daily agriculture news
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-agri-news
+  cancel-in-progress: true
+
+jobs:
+  update-news-dataset:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+
+      - name: Collect latest agriculture news
+        run: node scripts/update-agri-news.mjs
+
+      - name: Commit changed dataset
+        run: |
+          if git diff --quiet -- vjh/data/agri-news.json; then
+            echo "News dataset is already current."
+            exit 0
+          fi
+          git config user.name "agriguardian-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add vjh/data/agri-news.json
+          git commit -m "data: refresh daily agriculture news"
+          git push origin main
