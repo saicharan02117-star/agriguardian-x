@@ -13,15 +13,19 @@ const [html,js,css,healthDatasetText,newsDatasetText]=await Promise.all([
 const healthDataset=JSON.parse(healthDatasetText);
 const newsDataset=JSON.parse(newsDatasetText);
 
-for(const id of ['disconnectRover','manualControl','autonomousControl','startMission','coverageMap','soilReportForm','inputCatalog','visualDiagnosis']){
+for(const id of ['cameraBaseUrl','localCameraStream','captureLocalFrame','soilReportForm','healthSoilMount','inputCatalog','visualDiagnosis']){
   assert.match(html,new RegExp(`id="${id}"`),`missing ${id}`);
 }
+
+assert.doesNotMatch(html,/data-view="rover"/,'rover controls must not appear in primary navigation');
+assert.match(html,/<section id="rover"[^>]* hidden>/,'legacy rover console must stay inaccessible');
 
 assert.match(js,/plantsPerRow:18/);
 assert.match(js,/const ALL_PLANTS=/);
 assert.match(js,/const INPUT_CATALOG=/);
 assert.match(js,/const VISUAL_DIAGNOSIS=/);
-assert.match(js,/postRoverCommand\('stop'/);
+assert.match(js,/\/capture/);
+assert.match(js,/TextDetector/);
 assert.match(js,/verified rate/i);
 assert.match(css,/\.plant-node::before/);
 assert.match(css,/\.route-overlay polyline/);
@@ -50,6 +54,7 @@ assert.match(js,/agri-news\.json/);
 const htmlIds=[...html.matchAll(/\bid="([^"]+)"/g)].map(match=>match[1]);
 assert.equal(new Set(htmlIds).size,htmlIds.length,'duplicate HTML ids');
 const jsRefs=[...js.matchAll(/\$\('([^']+)'\)/g)].map(match=>match[1]);
-assert.deepEqual([...new Set(jsRefs.filter(id=>!htmlIds.includes(id)))],[],'JavaScript references missing HTML ids');
+const dynamicIds=['soilReportImage','soilReportPreview','soilUploadText','extractSoilValues','soilExtractionStatus'];
+assert.deepEqual([...new Set(jsRefs.filter(id=>!htmlIds.includes(id)&&!dynamicIds.includes(id)))],[],'JavaScript references missing HTML ids');
 
 console.log('rover, mapping, input catalog and soil report structural tests passed');

@@ -426,17 +426,93 @@ $('knowledgeSearch').addEventListener('input',renderKnowledge);
 $('reloadHealthDataset').onclick=()=>loadCropHealthDataset(true);
 
 let objectUrl=null;
-$('imageInput').onchange=event=>{
-  const file=event.target.files[0];
+let activePlantImageFile=null;
+
+function setPlantEvidence(file,source='Manual upload'){
   if(!file)return;
+  activePlantImageFile=file;
   if(objectUrl)URL.revokeObjectURL(objectUrl);
   objectUrl=URL.createObjectURL(file);
   $('preview').src=objectUrl;
   $('preview').style.display='block';
   $('dropText').style.display='none';
   $('analyse').disabled=false;
+  $('analyse').textContent=source==='ESP32 screenshot'?'Analyse ESP32 screenshot':'Analyse uploaded image';
   $('healthReport').hidden=true;
   $('healthEmpty').hidden=false;
+}
+
+$('imageInput').onchange=event=>{
+  const file=event.target.files[0];
+  setPlantEvidence(file,'Manual upload');
+};
+
+function localCameraUrls(){
+  const base=$('cameraBaseUrl').value.trim().replace(/\/$/,'')||'http://192.168.4.1';
+  const port=Number($('cameraStreamPort').value)||81;
+  let stream;
+  try{const url=new URL(base);stream=`${url.protocol}//${url.hostname}:${port}/stream`;}catch{stream=`${base}:${port}/stream`;}
+  return{base,stream,capture:`${base}/capture`};
+}
+
+function updateCameraEndpointHelp(){
+  const urls=localCameraUrls();
+  $('cameraEndpointHelp').textContent=`Stream: ${urls.stream} • Screenshot: ${urls.capture}`;
+}
+
+$('cameraBaseUrl').addEventListener('input',updateCameraEndpointHelp);
+$('cameraStreamPort').addEventListener('input',updateCameraEndpointHelp);
+$('startLocalCamera').onclick=()=>{
+  const urls=localCameraUrls();
+  $('localCameraStream').src=`${urls.stream}?t=${Date.now()}`;
+  $('localCameraStream').hidden=false;
+  $('cameraPlaceholder').hidden=true;
+  $('localCameraStatus').textContent='Local stream requested';
+  $('captureLocalFrame').disabled=false;
+  $('stopLocalCamera').disabled=false;
+  $('startLocalCamera').disabled=true;
+  toast('Local ESP32 camera stream requested.');
+};
+
+$('localCameraStream').onload=()=>{$('localCameraStatus').textContent='Live camera';};
+$('localCameraStream').onerror=()=>{
+  $('localCameraStatus').textContent='Camera not reachable';
+  $('cameraPlaceholder').hidden=false;
+  $('cameraPlaceholder').innerHTML='<b>Camera not reachable</b><span>Connect this device to the ESP32 hotspot and confirm the local stream URL.</span>';
+};
+
+$('stopLocalCamera').onclick=()=>{
+  $('localCameraStream').src='';
+  $('localCameraStream').hidden=true;
+  $('cameraPlaceholder').hidden=false;
+  $('cameraPlaceholder').innerHTML='<b>ESP32 live video</b><span>Camera stopped locally.</span>';
+  $('localCameraStatus').textContent='Camera stopped';
+  $('captureLocalFrame').disabled=true;
+  $('stopLocalCamera').disabled=true;
+  $('startLocalCamera').disabled=false;
+};
+
+$('captureLocalFrame').onclick=async()=>{
+  const urls=localCameraUrls();
+  $('captureLocalFrame').disabled=true;
+  $('captureLocalFrame').textContent='Taking screenshot…';
+  try{
+    const response=await fetch(`${urls.capture}?t=${Date.now()}`,{cache:'no-store'});
+    if(!response.ok)throw new Error(`Camera returned ${response.status}`);
+    const blob=await response.blob();
+    if(!blob.type.startsWith('image/'))throw new Error('Capture endpoint did not return an image');
+    const file=new File([blob],`agx-esp32-${Date.now()}.jpg`,{type:blob.type||'image/jpeg'});
+    setPlantEvidence(file,'ESP32 screenshot');
+    $('localCameraStatus').textContent='Screenshot captured';
+    await $('analyse').click();
+  }catch(error){
+    console.error(error);
+    toast('Screenshot failed. Open the site from the ESP32 local server and check /capture.');
+    $('localCameraStatus').textContent='Screenshot failed';
+  }finally{
+    $('captureLocalFrame').disabled=false;
+    $('captureLocalFrame').textContent='Take screenshot & analyse';
+  }
 };
 
 $('locate').onclick=()=>{
@@ -451,7 +527,7 @@ $('locate').onclick=()=>{
 function titleForHealth(key){return key==='early'?'Suspected Tomato Early Blight':key==='late'?'Suspected Tomato Late Blight':'Tomato leaf appears healthy';}
 
 $('analyse').onclick=async()=>{
-  const file=$('imageInput').files[0];
+  const file=activePlantImageFile;
   if(!file)return;
   $('analyse').disabled=true;
   $('analyse').textContent='Analysing uploaded image…';
@@ -863,6 +939,64 @@ function renderSoilReport(){
 
 $('soilReportForm').onsubmit=event=>{event.preventDefault();renderSoilReport();toast('Soil and irrigation report recalculated.');};
 
+function parseSoilReportText(text){
+  const normalized=String(text||'').replace(/,/g,'.').replace(/\s+/g,' ');
+  const fields={
+    soilReportPh:/(?:soil\s*)?ph\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilMoisture:/(?:soil\s*)?(?:moisture|vwc)\s*(?:\(%\))?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilTemperature:/(?:soil\s*)?(?:temperature|temp)\s*(?:\(?(?:°?c|celsius)\)?)?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilEc:/(?:electrical\s+conductivity|ec)\s*(?:\(?ds\/?m\)?)?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilN:/(?:nitrogen|\bn\b)\s*(?:index|value)?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilP:/(?:phosphorus|\bp\b)\s*(?:index|value)?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i,
+    soilK:/(?:potassium|\bk\b)\s*(?:index|value)?\s*[:=-]?\s*(\d+(?:\.\d+)?)/i
+  };
+  let applied=0;
+  for(const [id,pattern] of Object.entries(fields)){
+    const match=normalized.match(pattern);
+    if(match&&Number.isFinite(Number(match[1]))){$(id).value=match[1];applied+=1;}
+  }
+  return applied;
+}
+
+function installSoilScreenshotWorkspace(){
+  const card=document.querySelector('.soil-report-card');
+  if(!card)return;
+  $('healthSoilMount').append(card);
+  card.querySelector('.block-title h2').textContent='Upload a soil-test report screenshot, confirm values and generate the soil report';
+  card.querySelector('.badge').textContent='Local screenshot + confirmation';
+  const panel=document.createElement('section');
+  panel.className='soil-screenshot-panel';
+  panel.innerHTML=`<div><span class="section-kicker">SOIL REPORT IMAGE</span><h3>Read values from a report or sensor-display screenshot</h3><p>A normal soil photograph cannot reveal pH, NPK, EC, moisture or temperature. Upload only a readable laboratory report or sensor-display screenshot; confirm every extracted value below.</p></div><label class="soil-upload"><input id="soilReportImage" type="file" accept="image/png,image/jpeg,image/webp"><img id="soilReportPreview" alt="Uploaded soil report screenshot" hidden><span id="soilUploadText"><b>Upload soil report screenshot</b><small>JPG, PNG or WebP • local processing only</small></span></label><div class="soil-capture-actions"><button id="extractSoilValues" class="secondary" type="button" disabled>Extract values locally</button><span id="soilExtractionStatus">Waiting for a screenshot</span></div>`;
+  card.querySelector('.block-title').after(panel);
+  let soilImageUrl=null;
+  $('soilReportImage').onchange=event=>{
+    const file=event.target.files[0];
+    if(!file)return;
+    if(soilImageUrl)URL.revokeObjectURL(soilImageUrl);
+    soilImageUrl=URL.createObjectURL(file);
+    $('soilReportPreview').src=soilImageUrl;$('soilReportPreview').hidden=false;$('soilUploadText').hidden=true;
+    $('extractSoilValues').disabled=false;$('soilExtractionStatus').textContent='Screenshot ready for local text extraction';
+  };
+  $('extractSoilValues').onclick=async()=>{
+    const file=$('soilReportImage').files[0];
+    if(!file)return;
+    $('extractSoilValues').disabled=true;$('soilExtractionStatus').textContent='Reading visible text on this device…';
+    try{
+      if(!('TextDetector' in window))throw new Error('LOCAL_OCR_UNAVAILABLE');
+      const bitmap=await createImageBitmap(file);
+      const detector=new window.TextDetector();
+      const results=await detector.detect(bitmap);bitmap.close?.();
+      const text=results.map(item=>item.rawValue||'').join(' ');
+      const applied=parseSoilReportText(text);
+      if(!applied)throw new Error('NO_VALUES');
+      $('soilExtractionStatus').textContent=`${applied} values extracted. Confirm every value, then generate the report.`;
+      renderSoilReport();
+    }catch(error){
+      $('soilExtractionStatus').textContent=error.message==='LOCAL_OCR_UNAVAILABLE'?'This browser has no offline text detector. Read the screenshot and enter the values manually below.':'No labelled values were found. Enter the report values manually below.';
+    }finally{$('extractSoilValues').disabled=false;}
+  };
+}
+
 function renderInputCatalog(){
   const category=$('inputCategory').value,subgroup=$('inputSubgroup').value,crop=$('inputCrop').value,query=$('inputSearch').value.trim().toLowerCase();
   const items=FARM_INPUT_CATALOG.filter(item=>(category==='all'||item.category===category)&&(subgroup==='all'||item.subgroup===subgroup)&&(crop==='all'||item.crops.includes(crop))&&(!query||[item.name,item.subgroup,item.analysis,item.purpose,item.use].join(' ').toLowerCase().includes(query)));
@@ -979,6 +1113,7 @@ loadCropHealthDataset();
 loadNewsDataset();
 renderFarmerGroups();
 renderCommandCentre();
+installSoilScreenshotWorkspace();
 renderSoilReport();
 initializeFarmInputLibrary();
 renderInputCatalog();

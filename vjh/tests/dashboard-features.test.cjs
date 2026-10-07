@@ -12,18 +12,13 @@ const {chromium} = require('../../optiforge/node_modules/playwright');
   await page.getByRole('button',{name:'Build optimized crop plan'}).click();
   assert.equal(await page.locator('#topCrop').textContent(),'Maize');
 
-  await page.getByRole('button',{name:'Rover'}).click();
-  await page.locator('#testRover').click();
-  assert.match(await page.locator('#roverState').textContent(),/connected/i);
-  await page.locator('[data-rover-command="forward"]').click();
-  assert.match(await page.locator('#missionState').textContent(),/Manual: forward/);
-  await page.locator('[data-drive-mode="autonomous"]').click();
-  await page.locator('#startMission').click();
-  assert.match(await page.locator('#missionState').textContent(),/Autonomous mission running/);
-  await page.locator('#pauseMission').click();
-  assert.match(await page.locator('#missionState').textContent(),/Paused safely/);
-  await page.locator('#disconnectRover').click();
-  assert.match(await page.locator('#roverState').textContent(),/disconnected/i);
+  assert.equal(await page.getByRole('button',{name:'Rover',exact:true}).count(),0);
+  await page.getByRole('button',{name:'Crop health'}).click();
+  assert.equal(await page.locator('#cameraBaseUrl').inputValue(),'http://192.168.4.1');
+  assert.match(await page.locator('#cameraEndpointHelp').textContent(),/\/stream.*\/capture/);
+  assert.equal(await page.locator('#healthSoilMount .soil-report-card').count(),1);
+  await page.locator('#soilReportForm button[type="submit"]').click();
+  assert.match(await page.locator('#irrigationReport').textContent(),/litres estimated/);
 
   await page.getByRole('button',{name:'Field command'}).click();
   assert.equal(await page.locator('.plant-node').count(),144);
@@ -34,9 +29,6 @@ const {chromium} = require('../../optiforge/node_modules/playwright');
   assert.match(await page.locator('#approveTreatment').textContent(),/already approved/);
   await page.locator('#completeRevisit').click();
   assert.match(await page.locator('#passportDetail').textContent(),/recovered/i);
-  await page.locator('#soilReportForm button[type="submit"]').click();
-  assert.match(await page.locator('#irrigationReport').textContent(),/litres estimated/);
-
   await page.getByRole('button',{name:'Inputs & seeds'}).click();
   assert.ok(await page.locator('.input-card').count()>=15);
   assert.equal(await page.locator('.visual-card').count(),6);

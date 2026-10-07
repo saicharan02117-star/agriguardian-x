@@ -4,6 +4,7 @@ __pycache__/
 artifacts/
 test-results/
 playwright-report/
+esp32-local-site/data/
 .env
 .env.*
 !.env.example

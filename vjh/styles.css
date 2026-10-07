@@ -461,6 +461,26 @@ td:first-child { font-weight: 900; }
 .report-bars { display:grid; gap:11px; }.report-bars label { color:var(--muted); font-size:.7rem; }.report-bars label > span { float:right; font-weight:900; color:var(--green); }.report-bars i { display:block; height:8px; margin-top:6px; border-radius:999px; background:#e4e9e5; overflow:hidden; }.report-bars i b { display:block; height:100%; border-radius:inherit; background:linear-gradient(90deg,#d89b33,#53a868); }.report-description { margin-top:16px; padding:14px; border-radius:13px; background:#f4f7f4; }.report-description b { display:block; margin-bottom:6px; }
 .soil-report-card { margin-top:20px; }.soil-report-layout { display:grid; grid-template-columns:.72fr 1.28fr; gap:22px; }.soil-inputs { display:grid; grid-template-columns:1fr 1fr; gap:10px; align-content:start; }.soil-inputs label { color:var(--muted); font-size:.68rem; font-weight:900; text-transform:uppercase; }.soil-inputs .primary { grid-column:1/-1; margin:0; }.soil-bars { display:grid; gap:11px; }.soil-bars label > span { display:flex; justify-content:space-between; gap:10px; font-size:.73rem; }.soil-bars label > i { display:block; height:10px; margin:6px 0 3px; border-radius:999px; background:#e5eae6; overflow:hidden; }.soil-bars em { display:block; height:100%; border-radius:inherit; background:linear-gradient(90deg,#d69a36,#5daa6b); }.soil-bars small { color:var(--muted); }.irrigation-report { margin-top:17px; padding:17px; border:1px solid #cfe1d1; border-radius:15px; background:#eff8f0; }.irrigation-report h3 { margin:7px 0; font-size:1.5rem; }.irrigation-report p,.irrigation-report ul { color:var(--muted); line-height:1.6; font-size:.76rem; }.irrigation-report ul { padding-left:19px; }
 
+/* Local ESP32 camera and soil-report screenshot workflow */
+.local-camera-card { margin-bottom:20px; }
+.health-grid .source-choice { display:none; }
+.local-camera-controls { display:grid; grid-template-columns:2fr .55fr auto auto; gap:10px; align-items:end; margin:16px 0; }
+.local-camera-controls label { color:var(--muted); font-size:.72rem; font-weight:900; }
+.local-camera-controls button { margin:0; min-height:46px; }
+.local-camera-stage { position:relative; overflow:hidden; min-height:360px; border-radius:20px; background:#102c21; }
+.local-camera-stage img { display:block; width:100%; height:clamp(360px,55vw,650px); object-fit:contain; background:#081a13; }
+.camera-placeholder { min-height:360px; display:grid; place-content:center; gap:8px; padding:30px; text-align:center; color:#e9f4ec; }
+.camera-placeholder b { font-family:var(--display); font-size:2rem; }.camera-placeholder span { color:#b8cfc0; }
+.camera-actions,.soil-capture-actions { display:flex; align-items:center; gap:14px; flex-wrap:wrap; margin-top:13px; }
+.camera-actions button,.soil-capture-actions button { margin:0; }.camera-actions span,.soil-capture-actions span { color:var(--muted); font-size:.74rem; line-height:1.5; }
+#healthSoilMount { margin-top:20px; }
+#healthSoilMount .soil-report-card { margin-top:0; }
+.soil-screenshot-panel { display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:center; padding:18px; margin:16px 0 20px; border:1px solid #cfe1d1; border-radius:17px; background:#f1f8f2; }
+.soil-screenshot-panel h3 { margin:6px 0 8px; }.soil-screenshot-panel p { margin:0; color:var(--muted); line-height:1.55; }
+.soil-upload { position:relative; overflow:hidden; min-height:190px; display:grid; place-content:center; text-align:center; border:2px dashed #94b49d; border-radius:15px; background:#fff; cursor:pointer; }
+.soil-upload input { position:absolute; inset:0; opacity:0; cursor:pointer; }.soil-upload img { width:100%; height:230px; object-fit:contain; }.soil-upload span { display:grid; gap:6px; padding:18px; }.soil-upload small { color:var(--muted); }
+.soil-capture-actions { grid-column:1/-1; }
+
 /* Seeds, inputs and visual diagnosis */
 .seed-optimizer { margin-bottom:20px; }.optimizer-controls { display:grid; grid-template-columns:repeat(4,1fr) auto; gap:10px; align-items:end; }.optimizer-controls label,.input-filters label,.label-calculator label { color:var(--muted); font-size:.68rem; font-weight:900; text-transform:uppercase; }.optimizer-controls .primary { margin:0; min-height:46px; }.seed-recommendation { display:grid; grid-template-columns:1.2fr .8fr; gap:12px; margin-top:15px; }.seed-best { padding:20px; border-radius:18px; color:#fff; background:linear-gradient(135deg,#123f2d,#286a4a); }.seed-best > span { color:var(--lime); font-size:.66rem; font-weight:900; }.seed-best h3 { font-family:Georgia,serif; font-size:1.7rem; margin:8px 0; }.seed-best p { color:#dce9df; line-height:1.55; }.seed-best div { display:flex; gap:9px; flex-wrap:wrap; }.seed-best b,.seed-best em { padding:7px 9px; border-radius:999px; background:rgba(255,255,255,.12); font-size:.67rem; font-style:normal; }.seed-alternatives { display:grid; gap:8px; }.seed-alternatives span { display:grid; gap:4px; padding:13px; border:1px solid var(--line); border-radius:13px; background:#f8faf8; }.seed-alternatives small { color:var(--muted); }.company-strip { display:flex; gap:7px; flex-wrap:wrap; margin-top:14px; }.company-strip b { width:100%; }.company-strip span { padding:7px 9px; border-radius:999px; background:#eef4ef; color:var(--green); font-size:.66rem; font-weight:800; }
 .catalog-stats { display:grid; grid-template-columns:repeat(6,1fr); gap:10px; margin:0 0 18px; }
@@ -494,7 +514,8 @@ td:first-child { font-weight: 900; }
   .create-group { grid-template-columns: 1fr; }
   .create-group-fields { grid-template-columns: repeat(3, 1fr); }
   .camera-grid { grid-template-columns: repeat(3,1fr); }
-  .field-survey-grid, .soil-report-layout, .input-layout { grid-template-columns: 1fr; }
+  .field-survey-grid, .soil-report-layout, .input-layout, .soil-screenshot-panel { grid-template-columns: 1fr; }
+  .local-camera-controls { grid-template-columns:1fr 1fr; }
   .label-calculator { position: static; }
   .visual-diagnosis { grid-template-columns: repeat(2,1fr); }
   .optimizer-controls { grid-template-columns: repeat(2,1fr); }
@@ -579,6 +600,7 @@ td:first-child { font-weight: 900; }
   .news-brief { align-items: flex-start; }
   .group-stats { grid-template-columns: 1fr; }
   .connection-actions, .mission-actions, .mode-switch, .soil-inputs, .input-filters, .optimizer-controls { grid-template-columns: 1fr; }
+  .local-camera-controls { grid-template-columns:1fr; }
   .soil-inputs .primary, .optimizer-controls .primary { grid-column: 1; }
   .camera-grid, .mission-flow, .survey-metrics { grid-template-columns: 1fr; }
   .passport-geotag { grid-template-columns: 1fr; }
