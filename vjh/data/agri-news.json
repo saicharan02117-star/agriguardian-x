@@ -1,106 +1,357 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T09:55:00.000Z",
+  "generatedAt": "2026-10-08T06:24:39.521Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
-  "sourcePolicy": "Headlines and links are collected from agriculture news RSS queries. The original publisher remains authoritative.",
+  "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "ap-drought-21-districts-2026",
-      "title": "Andhra Pradesh declares drought in 21 districts; 283 mandals severely affected",
-      "summary": "The state declaration covers 388 mandals after a major South-West Monsoon rainfall deficit. Farmers should rely on district notices for relief eligibility and local crop advisories.",
-      "crop": "All",
-      "type": "weather",
-      "regions": ["south", "india"],
-      "language": "en",
-      "source": "The Indian Express",
-      "publishedAt": "2026-10-07T05:30:00.000Z",
-      "articleUrl": "https://indianexpress.com/article/india/andhra-government-declares-drought-in-21-districts-10909939/",
-      "imageUrl": "https://assets.hmtvlive.com/h-upload/2020/08/08/295532-farmers.webp",
-      "imageKind": "contextual-source"
-    },
-    {
-      "id": "tb-dam-water-standing-crops-2026",
-      "title": "Farmers seek water release from Tungabhadra dam to save standing crops",
-      "summary": "Growers have requested additional water release as inadequate rainfall threatens standing crops. Verify irrigation schedules with the responsible local authority before planning field operations.",
-      "crop": "All",
-      "type": "weather",
-      "regions": ["south", "india"],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T04:30:00.000Z",
-      "articleUrl": "https://timesofindia.indiatimes.com/city/hubballi/farmers-seek-9500-cusecs-from-tb-dam-to-save-standing-crops/articleshow/134746328.cms",
-      "imageUrl": "https://assets.hmtvlive.com/h-upload/2020/08/08/295532-farmers.webp",
-      "imageKind": "contextual-source"
-    },
-    {
-      "id": "rabi-msp-2027-28",
-      "title": "Centre approves MSPs for six rabi crops for the 2027–28 season",
-      "summary": "The approved support prices include a wheat MSP of ₹2,610 per quintal. Farmers should check the official crop-wise notification, procurement window and local purchase centre before sale.",
-      "crop": "Wheat",
-      "type": "market",
-      "regions": ["india"],
-      "language": "en",
-      "source": "The Indian Express",
-      "publishedAt": "2026-10-01T06:00:00.000Z",
-      "articleUrl": "https://indianexpress.com/article/india/rabi-msp-2027-28-wheat-safflower-crop-rates-10900699/",
-      "imageUrl": "https://pbs.twimg.com/media/HIHBm4KaYAAWKwH.jpg",
-      "imageKind": "official-context"
-    },
-    {
-      "id": "foodgrain-target-el-nino-2026",
-      "title": "Government sets a lower 2026–27 foodgrain target amid El Niño risks",
-      "summary": "The national target reflects rainfall, soil-moisture and water-availability concerns, with added attention to pulses, oilseeds and balanced fertilizer use.",
+      "id": "el-nino-2026-10-08",
+      "title": "El Nino: ఎల్‌నినో ఎఫెక్ట్.. ఈ ఏడాది సీతాఫలాలు కూడా తినేటట్టు లేదుగా..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
       "crop": "All",
       "type": "scheme",
-      "regions": ["india"],
-      "language": "en",
-      "source": "The Indian Express",
-      "publishedAt": "2026-09-29T06:00:00.000Z",
-      "articleUrl": "https://indianexpress.com/article/india/government-sets-lower-foodgrain-target-for-2026-27-10899231/",
-      "imageUrl": "https://media.assettype.com/freepressjournal/2026-06-23/5dj26ea9/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-06-23T202909.787.jpg",
-      "imageKind": "contextual-source"
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-08T05:27:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkljd0pBVEotcGtSTlF3UW10QWJfZjc5dWp3R2kzd1VJRTZueWpIenpFT2dzWUdvMnBpc0wwSVdfQUcySWNDbzJoQ21UU3NRZkdUOE82RkJKeDZDY2NnSUdKNkNuZkMzakRwVnMzaVVEZkdOV2YtZEl2aTBvT2Z4bmgyWDVTamZTbER6RGVZdWRxM3JsVWxMNFlha2Z6cTVTeWRuUHBPNGpVTHVMNFpidWJrTXJsQXBWMHfSAboBQVVfeXFMT1JJY3dKQVRKLXBrUk5Rd1FtdEFiX2Y3OXVqd0dpM3dVSUU2bnlqSHp6RU9nc1lHbzJwaXNMMElXX0FHMkljQ28yaENtVFNzUWZHVDhPNkZCSng2Q2NjZ0lHSjZDbmZDM2pEcFZzM2lVRGZHTldmLWRJdmkwb09meG5oMlg1U2pmU2xEekRlWXVkcTNybFVsTDRZYWtmenE1U3lkblBwTzRqVUx1TDRaYnVia01ybEFwVjB3?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "rice-output-drop-2026",
-      "title": "India rice output faces its biggest drop in two decades, while stocks cushion supply",
-      "summary": "Rainfall deficits and reduced cultivated area are expected to lower output. Farmers should compare local mandi prices, procurement rules and water availability before changing crop plans.",
+      "id": "telangana-farmers-a-call-away-from-agri-experts-2026-10-07",
+      "title": "Telangana farmers a call away from agri experts",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-10-07T23:54:35.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk9ObkQzaGcxMGtiSXMwbkM1S3NmNXFXWWl5WS00MW45dDFkWVdwaTdFWGpxSWpNaTByeEZVWm0zREtkOEhZeEgxRzRuMXM2bDFMM1VHcWwzQmJja29BR3VKbEdkOTFQdEYyTlFoX0c1YWtMNGxFSUJqUjZ5Ym9JWkNKUGMwZU9aS19aSHV1c1pWajhoaDBnSUJQWGpHNDVEcFhBWkJ4RWJHUQ?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "super-el-nin-o-2026-27-global-agriculture-prepares-for-an-event-that-cou",
+      "title": "Super El Niño 2026-27: global agriculture prepares for an event that could be historic",
+      "summary": "&nbsp;&nbsp; AgroLatam",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroLatam",
+      "publishedAt": "2026-10-07T23:24:23.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnkxdW5zVWNielRSaURXUXZ3czJlSDhNNDN0aVd6bWgyZmhhUXViOWJVdnJqNHpfSy1pbW9WRWU4RkZQcDFyTVFDdTFwNmd2WGRlRFJmejBUSEg0RFlSWURGUUR2aEU1MDB1Xy1PR2t2OWxBMWlyOTZzdW9Eb0FJNER3VEpVUUdCblJyTExxdWFKTUNWZUNuZVY0Y2RKZUhCLXc?oc=5",
+      "sourceHome": "https://www.agrolatam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "what-agricultural-innovation-looks-like-up-close-2026-10-07",
+      "title": "What Agricultural Innovation Looks Like Up Close",
+      "summary": "&nbsp;&nbsp; SeedWorld",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "SeedWorld",
+      "publishedAt": "2026-10-07T23:20:54.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGMtQVFBcHg4UW42WXp4N3RjWmtlS3UxcjB1UGR5amxFdmxwcVQ3Y2dLbGpwN293STJ0X2I2ZWszT1JoYmQzRW00RjNhVnRUeHgzRGhiTmtocm5oM1NvMkI1UXc5Z0lTZnV1MXJXMjg2dXRoTF9KMDFkWkVTTDB4WXVDVVlMUjlZalg3Rzh2cWgtckg1SERB?oc=5",
+      "sourceHome": "https://www.seedworld.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "why-a-20-crop-loss-can-wipe-out-2-3rd-of-farm-income-2026-10-07",
+      "title": "Why a 20% crop loss can wipe out 2/3rd of farm income",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T18:26:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0g5VXBjdFNyNWlxMlUwYUNfX0FUanMwdFA0b3dvUU1YZE5NNWNnSmszRllkMGtKdUhfTUhmNTVMVjY1dEU2bTQ2VTVOLTdzYTlTR1RGdXJtYnlGTk5iN3JseDMydTM4SHdXYnVuWTdtYzVFNmZ0V1ZDRnpIVmM3Tl95d1c2Y1NsZ0pvVjhCUXNBaW5CRkk4RVM5NUhoeU55ZjdZU3lkWjE5TFRMVGFxdkQ5U3V0RjFjU1lhTXpfTTV0SThuUW81N9IBzgFBVV95cUxNR2RxRzhNU2trYnBtV010bXdjY2l3bzA2TU1EOTdGQklXYnNyMFFRVHFuTnpNX04xYy03dkNqdmFJS2x1N05LakZxMWxTSVhOR0p6SVZZOElVTjVPS1lncmRSVW9reUpXamQ3U2ZvYXdxLThINFFMUEJPemw0eTFmOXdxem1Za3lnYmxHeVBteDJ1V0Z1VDUzc05HOTZLRkVnc3FyOFZtcnlxckVpdGZNdFFsanFwZVJkWXpFbnhDU3RPekNZazJQRTVpZG5Cdw?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "haryana-cm-ensure-smooth-crop-procurement-bajra-msp-2026-10-07",
+      "title": "Haryana CM: Ensure Smooth Crop Procurement, Bajra MSP",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "Millet",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-07T15:25:10.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFduZDFnaWlHMFB4d2tNcDJHZUNHeGk0SDBNZnltb3ZlMWViT3lHdkozT1VaWC1mQTF0VmJ2eXVab1FCRlN3Z2VTYzVZV0hnbnNfNThOMkxmNmVjdTZOZU96TE5ncWZLXzZrT1Jkb3pJRGxOVVJSSU5YUm5xWDBsajU1dzJQMEVWYmJWRlZCTlJoamNfSEhzWHY1NG5mdU45Z0tBTUpacEpRVzTSAasBQVVfeXFMUGRXbmQxZ2lpRzBQeHdrTXAyR2VDR3hpNEgwTWZ5bW92ZTFlYk95R3ZKM09VWlgtZkExdFZidnl1Wm9RQkZTd2dlU2M1WVdIZ25zXzU4TjJMZjZlY3U2TmVPekxOZ3FmS182a09SZG96SURsTlVSUklOWFJucVgwbGo1NXcyUDBFVmJiVkZWQk5SaGpjX0hIc1h2NTRuZnVOOWdLQU1KWnBKUVc0?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "govt-should-allow-htbt-cotton-cultivation-farmers-need-tech-seed-bodies-",
+      "title": "Govt should allow HTBt cotton cultivation; farmers need tech: Seed bodies",
+      "summary": "&nbsp;&nbsp; Business Standard",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-07T13:27:48.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEZrUV9kQm5feU1zNVhYM2RCLVJNQzFZQ0ZhZGtXNXRFbzZpc0QyYjhYTkhCMFlsV1dhdzcxMktBUVhkb19LaXBSbERGcEVUSHY4TDlSV0I5eGFGa1JCbHJIWkFwMWhWTHBjQVpZVl9BMXVXUTdUTGdOVGo1REV4c0djQlN1V0FHMVFiQ2dEUXZDTWFIa1ZrNU1vejZaZEplYVpFYkUwZjJjcjBnWE5CU09rQU5Oa1doRjhaVGhNY0FObnRzR2xnRDAwbzFRcy14TTY0NDhQZUFTR1g4eDFB0gHkAUFVX3lxTE40eE8tdFM2aW42TU4zbjdGVEQ3VnlYRGlhQVpEdWFYRVlqQjhqU0hMZmpybFVZNTJ5SzhmNy1xckRWbm9kdWxYRnhRcXdTX0wwZ3hPeUh3WlJral9tRmtvX1M4ZXU5bXd1Q09GYktOWXNZTXBlUjRPUTRIS0FDdlJSUnUyS2ViOERjTGdpNk9XdWhtZ1JXay13TUVVOWd1Q0dRYTI4b19vV2NyTGE3dzJXeEpmelNOWGpFT01pZEpRNXVUVnNlU0pBeDNKU2t1U09vSlpycC1kQW5HWVhQV2pBQjVlTQ?oc=5",
+      "sourceHome": "https://www.business-standard.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pib-backgrounder-2026-10-07",
+      "title": "PIB Backgrounder",
+      "summary": "&nbsp;&nbsp; PIB",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "PIB",
+      "publishedAt": "2026-10-07T11:26:41.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2dzcDJKb202UGdKMzQxWjBqNmluVzhXMlBTYW4zb3pBZllpUndxRURiS0pwM05qd1BXUjZPUWN6aVJfQlpPTVo4YlprOHJiVmc2RlI2VHJ2ZWRGaG9fbGdqcmpOLUZ0YmhmajRsWGVpbG1HWTRIQ0tSeGk2Rzdwd29NUUdSRGo1S3FZ?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-07",
+      "title": "రైతులకు గుడ్ న్యూస్ .. ఒక్క ఫోన్ కాల్ తో వ్యవసాయ సలహాలు, పథకాల సమాచారం",
+      "summary": "&nbsp;&nbsp; V6 Velugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "V6 Velugu",
+      "publishedAt": "2026-10-07T11:24:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS05xcFV6cjg0U0FvZ3JnSkxMTW9GRE5oTEVjaE5iWV9UTWo3T1RreDFJYnAzVXhRRjU1TExkOUQzR01mbmRzV0lxY3FfSVVEbDFrWEZaenUzUEM3R0VkUy1oYWVRRjhLZFB1SnhXOEUzNjR6ZUdwU3dYeFBzWF9ndno3bWNGQkxwcFRwNENMYmxiNURfQkZsWi1JVEhvc2ZYbjF6dU1EX1lJM1pJNU10WTZrRmNVeDJGNk9fZnRRTFNFQXhJTmxURjlR?oc=5",
+      "sourceHome": "https://www.v6velugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-07",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; PIB",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "PIB",
+      "publishedAt": "2026-10-07T10:50:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "80-2026-10-07",
+      "title": "కన్నీళ్లు పెట్టిస్తున్న తెల్లబంగారం.. నల్లగొండలో 80 శాతం పత్తిపంట నష్టం!",
+      "summary": "&nbsp;&nbsp; BigTvLive",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "BigTvLive",
+      "publishedAt": "2026-10-07T09:50:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlc1RElldjBmN1JVNkYzMnpnN2ZLQ0UzTWFPLTlPWW1UWVZ6N3YyR3IzeXVlRi1EYk8wU2JVNk53TkgwUVp3OTU0bVZYUlhfeHFWSDM2Mk1ZdlljczU3QW5uNTcxZmVXWjFjaTFETDE1QjdfXy10WVZIOXFfYXhUdThvNVJXekYtbDBodE95alhidXZqZnZic0lSSzdQd2NiZkdZR0hXRQ?oc=5",
+      "sourceHome": "https://www.bigtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "climate-change-threatens-nigeria-s-food-systems-as-farmers-count-losses-",
+      "title": "Climate change threatens Nigeria’s food systems as farmers count losses",
+      "summary": "&nbsp;&nbsp; Vanguard News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Vanguard News",
+      "publishedAt": "2026-10-07T06:49:05.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDFmczdndlJHemtNWUJwVFVJMmQ4VXpoOV93bHlLSHh4MW9jWk5nMVJ0VE94SEhfODhZQWdHSi1Ga1h1YmVKRF85b3lkTUpwUW9Lb3VSSUdWQm9xR05BczlxbE03N240cm8yWnpWUThrYnpRVzdpUDhVTFp3N1loWTRpcmRmSVo0MTJEMTB0ZmppLVJ3X3lDS1hzT25uRHhjb3hjOU9jcnNGa3PSAbABQVVfeXFMTjIzekZkM0g2MmQ0dDBKUXRtSG1QS0JKV21Gb0pEdGVqOVpiazhuaE1Pc0VxemZZRmZucXNVNHNHRFhxYWx4ZF94UVpHbnh4bnZLaTNJb05fWGw2OGlaZ200SUdGaUt5WnpmWWFsVFc0MEV6dkZlV3RzVjA1Q2J4YnAtaHdvNFhDRTg4d3cyOWQ1d1NTMHBwLWxua0FVZFZuQ0pmeF9xaWhmOWk2ZEdfTVU?oc=5",
+      "sourceHome": "https://www.vanguardngr.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "world-cotton-day-2026-10-07",
+      "title": "World Cotton Day: నేల నుంచి నేత వరకు.. తెల్ల బంగారం తెలంగాణ గుండెచప్పుడు..!",
+      "summary": "&nbsp;&nbsp; NTV Telugu",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "NTV Telugu",
+      "publishedAt": "2026-10-07T00:30:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHNCdzJqTERlRW1YYnAtaHA4eHFEaXBjc2VqX2xBUlYyclNSRXhKR1JCVGd0R2ZJSGJsLUQtRkpTQjhlZngxTlgwNk5kSDRXcDlDZG15cVBKV1ZycEd6V3RfQ2w1ZVhzYzVFUTcybkpRYnc3Vkd3MENfYk5rZXA2S2JDU1pUdWpCbFdJZlpaMVgzTFl6UmlvbFlIUVZiRzNpQ3R1NUV1d2IwUdIBqgFBVV95cUxOUHNCdzJqTERlRW1YYnAtaHA4eHFEaXBjc2VqX2xBUlYyclNSRXhKR1JCVGd0R2ZJSGJsLUQtRkpTQjhlZngxTlgwNk5kSDRXcDlDZG15cVBKV1ZycEd6V3RfQ2w1ZVhzYzVFUTcybkpRYnc3Vkd3MENfYk5rZXA2S2JDU1pUdWpCbFdJZlpaMVgzTFl6UmlvbFlIUVZiRzNpQ3R1NUV1d2IwUQ?oc=5",
+      "sourceHome": "https://ntvtelugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "young-farmer-2026-10-06",
+      "title": "Young Farmer: అందరూ పత్తి.. సోయా వైపు.. ఈ యువరైతు మాత్రం డిఫరెంట్ రూట్.. పంట ఏంటో తెలిస్తే షాకవుతారు..!",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-10-06T15:26:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0liMW1FaG5nb2FLaFFiTTJlcTF5TXNoTVBoRzd6S0VRa3BuVkVHaFhjTjhsOVJXMXcxZmpLSG5jakF0MjRsOEMxVXdqRlBGTVpOSG1BdkgzVnpxVE4tOGFiM2w4T1NQd01CYllvMmI3NFhvOUU0UjRHOHM4UzE4RE9NOHNKUVF2amNSNXpGbG1iTVJ4TTJOcVNiR3M0amo4RThWOUZDYjhFbWxHVVNBUDdxMGlNNkhiLUEybXBXYmlwZ1g2NlRFa0ZxZjJwb2dyWW5Rb1VNZw?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "favourable-weather-gives-kashmir-s-paddy-farmers-their-best-harvest-in-y",
+      "title": "Favourable weather gives Kashmir’s paddy farmers their best harvest in years",
+      "summary": "&nbsp;&nbsp; Down To Earth",
+      "crop": "Paddy",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Down To Earth",
+      "publishedAt": "2026-10-06T06:26:02.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3EzSjF4TGxaNDYtOUhRVmVFaXl5R041YmlNZ0tCLTJGaEhEWkswZ0lBRFpOdnlzUlFCR0YtTmRzelBncXFZTGpGMG5QV0FVdExYTG5qUnZiSmpOSEF6QVF4N1R0eWFRUVp5ZXFPUjZwcVRVMEtQRDc2Z3Z5X0lrU1JTRTRRckJHbmpWWHZ6UWpYcE5SdWlGR0lGMXJlUjhYTmRNdEVqNVNJaURrbW9QSEk3YWJqaGQyOUHSAccBQVVfeXFMUDdSUGtqTk00UVhEa1pCRnRaMVQtUWVXYzFnbHZTS1B3dXlZSFBoLWFDUm5vWHdBMWhzeXhDajN5VjFzMks2LVRxcHZHd1o0TGRDY2xoUmVqTkZIWVR1MGVxM09lb3RtUFk2cndTbGxYSkY1WXVzdHV1akkwVm4xX3ZmbWhsaVExeTRfT1ZWRWpkT2IwaF9fSUlNNFhKcGV2THJWYkpMOGlYekVkQW1rQWJsRlFrVmFRUi1DRGwycGpLeEwzdGRiSQ?oc=5",
+      "sourceHome": "https://www.downtoearth.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-crop-prices-rise-but-low-yields-threaten-farmer-gains-2026-10-",
+      "title": "Telangana Crop Prices Rise, But Low Yields Threaten Farmer Gains",
+      "summary": "&nbsp;&nbsp; Urban Acres",
       "crop": "Paddy",
       "type": "market",
-      "regions": ["south", "india"],
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
       "language": "en",
-      "source": "Reuters",
-      "publishedAt": "2026-09-17T06:00:00.000Z",
-      "articleUrl": "https://www.reuters.com/world/india/india-rice-output-faces-biggest-drop-two-decades-stocks-cushion-exports-2026-09-17/",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
+      "source": "Urban Acres",
+      "publishedAt": "2026-10-05T23:46:25.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWs1YmhIWFJ6QWhXN2JaQWc2cHJQbk0wT1k3OEVKNzQtbzNaVHdtanNfeUwwbUxFdzVqaVhkU0Vqc19hcGlyMFh4MjIyV3p1ZUFnTmlFVUZ5TGh1N25UR2k3WEpoSTdycjBZQXpqOU94NTV4SG9xSU41VDMxdXRpM3lpUktoVTRDeE1zX2VqTQ?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "telangana-crop-procurement-2026",
-      "title": "Centre clears procurement of pulses, groundnut and sunflower from Telangana",
-      "summary": "The Price Support Scheme approval covers more than 1.25 lakh metric tonnes of crops. Farmers must confirm current registration, quantity and procurement-centre instructions locally.",
-      "crop": "Groundnut",
+      "id": "el-nino-effect-crop-prices-soar-10-30-above-msp-in-t-gana-but-low-yields",
+      "title": "El Nino effect: Crop prices soar 10-30% above MSP in T’gana, but low yields blunt farmers’ gains",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "Paddy",
       "type": "market",
-      "regions": ["telangana", "south", "india"],
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
       "language": "en",
       "source": "The Times of India",
-      "publishedAt": "2026-04-10T06:00:00.000Z",
-      "articleUrl": "https://timesofindia.indiatimes.com/city/hyderabad/centre-clears-procurement-of-1-25-lakh-mt-crops-from-t/articleshow/129477636.cms",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
+      "publishedAt": "2026-10-05T18:06:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbjJwYk0zRElnNTVtMU9rbW5uUlNqMmNLeGE1Q2NCdW8wbVRPSzg0WFhueWRiM3J3dkZsNk5HSXR1ZnBsaFBRQ0hnbUIySUZmMF9kaDFhc1dxaEF6VWlKSUd3U2tmbE11SWRxNE5VSWJ5SWRUWkNIWFNYMFc3V0ZnYVZVUDR5NFN2YkctQmhUS2NWRzc2dko5dGJacFpKZkMwZjZ5X3gyN29TYjZZR0NkTURZUXp4MmxpU2x1LTJEZUlCQzlGNlZ4dWxTY2Rkb2Y0VlJoaVhwSDloSFRzb2ZxdGZrZEM4TEp5d1lseExfVTFlb0U0ZUI2ZEI2M2g2b3F3d1HSAYICQVVfeXFMT24ycGJNM0RJZzU1bTFPa21ublJTajJjS3hhNUNjQnVvMG1UT0s4NFhYbnlkYjNyd3ZGbDZOR0l0dWZwbGhQUUNIZ21CMklGZjBfZGgxYXNXcWhBelVpSklHd1NrZmxNdUlkcTROVUlieUlkVFpDSFhTWDBXN1dGZ2FWVVA0eTRTdmJHLUJoVEtjVkc3NnZKOXRiWnBaSmZDMGY2eV94MjdvU2I2WUdDZE1EWVF6eDJsaVNsdS0yRGVJQkM5RjZWeHVsU2NkZG9mNFZSaGlYcEg5aEhUc29mcXRma2RDOExKeXdZbHhMX1UxZW9FNGVCNmRCNjNoNm9xd3dR?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "telugu-daily-farm-news",
-      "title": "రోజువారీ వ్యవసాయ వార్తలు: పంట, వాతావరణం, మార్కెట్ సమాచారాన్ని మూలంతో తనిఖీ చేయండి",
-      "summary": "డాష్‌బోర్డ్ రోజూ కొత్త వ్యవసాయ వార్తలను సేకరిస్తుంది. ఏ నిర్ణయం తీసుకునే ముందు అసలు వార్తా లింక్ మరియు అధికారిక స్థానిక సూచనను చూడండి.",
+      "id": "25-2026-10-05",
+      "title": "25 రోజుల్లోనే పంట చేతికి.. ఈ ట్రిక్స్ తెలిస్తే పాలకూర సాగుతో రైతన్నకు అదిరే లాభాలు..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
       "crop": "All",
       "type": "scheme",
-      "regions": ["telangana", "south", "india"],
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
       "language": "te",
-      "source": "AgriGuardian daily news pipeline",
-      "publishedAt": "2026-10-07T09:55:00.000Z",
-      "articleUrl": "https://icar.gov.in/en",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-05T10:59:46.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzNZYUZ4SjVwRERYMDFiRFNpSzB6Q3ZhMkhjQmhOMjA3cDBSQWg4ZjJSZWg2VGp5dnVxN29WUGxQRHNIVkxBTkdyYXVmMXA1MURmMFdXSnlOYTJYU05aeUdEWWl0cXRBNDRSdzEwUmJDWXhMREZyN1hmX2dCZkVkdWx3MWZDLXEtSHJBUGQ1TWctVkZGa1cxNDB3ejFaZlJybG5yRllHeFRwOFhHMXNGQjhPTm1UTWhOUlBKUHNINHdDdVYwRXY00gHHAUFVX3lxTFBPM1lhRnhKNXBERFgwMWJEU2lLMHpDdmEySGNCaE4yMDdwMFJBaDhmMlJlaDZUanl2dXE3b1ZQbFBEc0hWTEFOR3JhdWYxcDUxRGYwV1dKeU5hMlhTTlp5R0RZaXRxdEE0NFJ3MTBSYkNZeExERnI3WGZfZ0JmRWR1bHcxZkMtcS1IckFQZDVNZy1WRkZrVzE0MHd6MVpmUnJsbnJGWUd4VHA4WEcxc0ZCOE9ObVRNaE5SUEpQc0g0d0N1VjBFdjQ?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "digital-agriculture-market-expands-as-us-259-million-invested-in-agtech-",
+      "title": "Digital Agriculture Market Expands as US$259 Million Invested in AgTech Startups",
+      "summary": "&nbsp;&nbsp; openPR.com",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "openPR.com",
+      "publishedAt": "2026-10-05T10:37:06.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3ZST3JlTi1YbngyM1Q2N1R3UWVFSWVydVVwcWJ1cUFwLXRBcFl2bzhUNzJnUEItSHNHRG9FWGllTE9VTWhHV1lRWlZsbGxOT0x4VE5LWTZYRWpiaTFUTWR0RGxlOVZFdGpJS2lHNzRMRXhiQlh1U05oaVN6STJlTUI4Q21mWGFuaFE1TFZWUS03WWZSMEFjSXVhbjhHZw?oc=5",
+      "sourceHome": "https://www.openpr.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     }
   ]
 }
