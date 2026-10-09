@@ -1,9 +1,120 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T06:24:39.521Z",
+  "generatedAt": "2026-10-09T06:25:50.169Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-09",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; PIB",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "PIB",
+      "publishedAt": "2026-10-09T00:19:19.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "success-story-how-nihal-singh-achieved-up-to-70-lakh-annual-turnover-fro",
+      "title": "Success Story: How Nihal Singh Achieved Up to ₹70 Lakh Annual Turnover from 20-Acre Pomegranate Farming Using Biological Products",
+      "summary": "&nbsp;&nbsp; Krishi Jagran",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Krishi Jagran",
+      "publishedAt": "2026-10-08T11:20:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV204NXpWSEpQSFRQMERqMUlVMmZmNHBtU0dqZ1dOMFg4aXZXaEtUV2Nld01reVVCUXZyMEI5X2ppX1J0UWNwS05Eb0FieWpHZXpEazZqc1lnVXROMGpyaU9rSUt4QlpmMVg4SE9qUXBZaXM3WjFsbndDczB6d1h1Mmo4SjFYMS1yU2gwMEpPYVhNbWJFbzRzTHQyVmR2eDNmT0FBX194MDM1SUp1bmRkVHZCcVNlVWJNcEVkNWpNbExlZi1kbzZ5ZWdORVZGMTNQRGFadVo4Q3hmRTd1NGZfWk5Zc1VnS3ZqV2JPRlc2c29qUzd3MWxUSVNVUdIBgwJBVV95cUxNcFBjeGpiUmZKVDVYZFFpQmItOEJJaDdnTXc1a0RFZ3c5WEJSOTEwOV8yd0g2WG1nQ1pOOTRpdl9GeVVtRUFCaV92c0s4d0IxNTdqVUJWU25sbnU5S1VIOHJYd3ZKbjlQcmIxZ3ExSjQ5dHcxTGhSLXhwMmN1WnBOMkp3cmpxVjQtRGpjbDI0UWhpNkk0WFlfaFNqSDlQcTFvczdER0QyWFRoSnpNdUhxRVhpdXlTZTRNYVRXLVlKSm9UeVJQRVZhSUdTd1hxdEdYRUZqYVp4WkZmLVV6VmRLOTVkR1NoelNYRS1qbV8wTVhIdzFDTnNRd2tXdzBDUXdhMU5V?oc=5",
+      "sourceHome": "https://krishijagran.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "andhra-2026-10-08",
+      "title": "Andhra: దానిమ్మ పంట ఈ రైతు దశను దిశను మార్చేసింది..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-08T10:12:26.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjdtb2duUUFPNTJmMUk0SkNrdTY1a0ZQMWdkelgzY2VLMEdIMFRFT1VpS0FGdS05QjhETk9pWFk0cEFpbjRSQWV6LU45QTBJZFFadHJ1MWRfLVlmZENta21LVkF6V0oxUENoNzFxazFmQWxZcUZOd3dIYS1kUTdERHhqTjg5bG9TYm5zQXVJS2xjYzZla1BwSTllZVVPVUhDeVR5dlJVRzZzRXRNczNtQWZlYUVrWVNYOTV6QmpyWEk2RFJIaXNlNy1nY2tGbDVUaWcw0gHTAUFVX3lxTE8yN21vZ25RQU81MmYxSTRKQ2t1NjVrRlAxZ2R6WDNjZUswR0gwVEVPVWlLQUZ1LTlCOEROT2lYWTRwQWluNFJBZXotTjlBMElkUVp0cnUxZF8tWWZkQ21rbUtWQXpXSjFQQ2g3MXFrMWZBbFlxRk53d0hhLWRRN0REeGpOODlsb1NibnNBdUlLbGNjNmVrUHBJOWVlVU9VSEN5VHl2UlVHNnNFdE1zM21BZmVhRWtZU1g5NXpCanJYSTZEUkhpc2U3LWdja0ZsNVRpZzA?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-08",
+      "title": "ఇదేం విచిత్రం వరికే అగ్రతాంబూలమా.. ఆ పంటలపై వ్యవసాయ పరిశోధకులు శీతకన్ను..?",
+      "summary": "&nbsp;&nbsp; BigTvLive",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "BigTvLive",
+      "publishedAt": "2026-10-08T09:31:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1RUWWg4RTRWLWNBTTg0bF82S2xuSVg3MzhvQURPckpzV1dOd0hjRUZETkJ6bWJuZWF6dWtGbGtqZTF1cW80U3NLTjctT0kzQ1lhc2t0NllWb3V1V252QkhhRERXbWxzOTRMelhqaERnbEUzMTBkT1dzeVQtY3BoSGdSdU81X1FEUUJPWHRIS2ZnSjdiMXZPY2VFekNDU1FjZ3BQYjNhMHFGWWk5VUFWdUZUekJJMHM?oc=5",
+      "sourceHome": "https://www.bigtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "azim-premji-foundation-seeks-12-acres-in-kalaburagi-for-500-bed-hospital",
+      "title": "Azim Premji Foundation seeks 12 acres in Kalaburagi for 500-bed hospital",
+      "summary": "&nbsp;&nbsp; Medical Buyer",
+      "crop": "Millet",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Medical Buyer",
+      "publishedAt": "2026-10-08T09:11:22.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTZlTnlfMjIzYzVCWjNzaGV1ZHJxM0JySTBXWml5dHZLajdPMXBqaTRQS2RGVC1RNUluT1FINnp4Z3BIWDY5QWE3LVhRZE1hMGxaVTNTSXNIa1dTODVwa0JKRlRMX01OR09xUkdhekVZLXh2a0Y4Rk14S1ZSdGJrYW4zY05XR3VZRmw5NVFORmFrbkNpbVV5REdLSXdpdENNWkE?oc=5",
+      "sourceHome": "https://medicalbuyer.co.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "bioagri-2026-hyderabad-brings-together-india-s-biological-agriculture-ec",
+      "title": "BIOAGRI 2026: Hyderabad Brings Together India’s Biological Agriculture Ecosystem for a Sustainable and Smarter Farming Future",
+      "summary": "&nbsp;&nbsp; Krishi Jagran",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Krishi Jagran",
+      "publishedAt": "2026-10-08T09:09:51.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGI2a2xmQnhqUEhkZDRvTmxUTzJZVXp2dnNrMFpNQ2ZBRjd2SjN2YWdHLU9kYTYzbHd2SDYwajZJbE9mUVNudk0yeG1kWFN0ZW1hZG95LXd6QzI2Ym5CZUoyRHZUMzlwMmZIbzVNV2swbVJFS2t0d2RfLWoyQ0JxYjlzNTBNQmpocjlxdWFDOEN1S0J6S29iMFBwTF9NVmtwNi0wa2owVmpjTl9oN0x4OUNaTUZ2c1Vwam4ybFYzd0Y0Wmp0QmxILTlhWXVmTGE3bFZkOElDNmpoNllKU1c1eGMwenBHZDF5elpZ0gHzAUFVX3lxTE16TXl3QUlqUFVxZ3FqSk1KeWJGMjlCck1ORlhFN3RmeG9tUTRQaGNkU1pMRXRaRFgySTF2Xzd2TkVXVDJ3aFlmcm5IbDJGQVlhbDVxSmtrMGd3NVF1TGNUbUUxVjBQVlhuUFoxWDh4LXRBT1ViTU1TNXZDdG4zMFRfendvczY0RUJxbDltZVBHWFZCNEk4ZzhqLXRBMkVpa0NKSllfUXhUY3QtYWJ1MVFkZk45VFJxM0tTTG9pbjFMckVkUUx6YkNBMWRRbGhzaDQ4UTI1czNmdWZtSURfRGxua2pjdVE5bVZoOW1YbnAzSW1uZw?oc=5",
+      "sourceHome": "https://krishijagran.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "el-nino-2026-10-08",
       "title": "El Nino: ఎల్‌నినో ఎఫెక్ట్.. ఈ ఏడాది సీతాఫలాలు కూడా తినేటట్టు లేదుగా..",
@@ -20,6 +131,24 @@
       "publishedAt": "2026-10-08T05:27:03.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkljd0pBVEotcGtSTlF3UW10QWJfZjc5dWp3R2kzd1VJRTZueWpIenpFT2dzWUdvMnBpc0wwSVdfQUcySWNDbzJoQ21UU3NRZkdUOE82RkJKeDZDY2NnSUdKNkNuZkMzakRwVnMzaVVEZkdOV2YtZEl2aTBvT2Z4bmgyWDVTamZTbER6RGVZdWRxM3JsVWxMNFlha2Z6cTVTeWRuUHBPNGpVTHVMNFpidWJrTXJsQXBWMHfSAboBQVVfeXFMT1JJY3dKQVRKLXBrUk5Rd1FtdEFiX2Y3OXVqd0dpM3dVSUU2bnlqSHp6RU9nc1lHbzJwaXNMMElXX0FHMkljQ28yaENtVFNzUWZHVDhPNkZCSng2Q2NjZ0lHSjZDbmZDM2pEcFZzM2lVRGZHTldmLWRJdmkwb09meG5oMlg1U2pmU2xEekRlWXVkcTNybFVsTDRZYWtmenE1U3lkblBwTzRqVUx1TDRaYnVia01ybEFwVjB3?oc=5",
       "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "we-have-not-yet-built-the-capacity-to-absorb-ai-philanthropy-2026-10-08",
+      "title": "We Have Not Yet Built The Capacity to Absorb AI Philanthropy",
+      "summary": "&nbsp;&nbsp; ICTworks",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "ICTworks",
+      "publishedAt": "2026-10-08T04:47:34.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmxzYW1QS2lncHdBaXg2TzZ1YXJmMWRNbTlFQnVKQVNxSDhlUXdRUWZ6Sk1vVm5SbGhNOTFCU0dWZ1BLZXlJdUdCX1B6X3M1Zk1nMDdIQ24wSXlLRUowdGV0REtYRHZNVzVqVkU1WUQxV1VpMFRNdVREamtfcnpoeVh5Zlp4N3VBQkF4MVh6Zw?oc=5",
+      "sourceHome": "https://www.ictworks.org",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -79,6 +208,24 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "orange-country-dying-trees-axed-in-5-000ha-orchards-wilt-2026-10-07",
+      "title": "Orange Country Dying? Trees Axed In 5,000ha, Orchards Wilt",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T18:57:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS19xN1VIVVp0QlFlcWlNaE8tZ1M0ekl2ZGhDcTFpbUtjejB1eVZFMVBXNEpILXcyUXRJdEFRRWsyUTlmRk9nSURSVzZfcFY3TFVISG5QdkdTLWxmcWxFYU1XZHYtT2FWQ01JUTJjaUM4N3ZpdC0yR255VV9XNEJ0U1lBZXdPMU5XdzFXLUd0dFBUaUF0dW1iTjFlXzRTTWRIVXp4d0hSbFgwUzNtaTJjRlBHeVBGS2pla1RFanBtdXJvaGdGbnlWTdIBzgFBVV95cUxQcFVEOWFpZVZqZzNZN2VybmV6c2NSU1JlYll0cm5ndFc3UHc4cXNTTWVLZEZMM2EtZE0zTThLZXd4QklPcjhpQXNzWFZRU3ViYm9OQ0t4TEtmaEt3dDBoMUJjTnMyNUZDNko0YXowSV9EWWVnZmVaazBialJpQlhEUUhwX1JBdVJtcFpSWEtqXzFIMDl2WTJfVXM3My05dHNHZjJmSm54QldKQVkxNzg0ZkxQU1JrMDkzeHM0VDR6R2l5Uk5ZaGRaUVBOekkwQQ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "why-a-20-crop-loss-can-wipe-out-2-3rd-of-farm-income-2026-10-07",
       "title": "Why a 20% crop loss can wipe out 2/3rd of farm income",
       "summary": "&nbsp;&nbsp; The Times of India",
@@ -125,7 +272,7 @@
       ],
       "language": "en",
       "source": "Business Standard",
-      "publishedAt": "2026-10-07T13:27:48.000Z",
+      "publishedAt": "2026-10-07T13:27:18.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEZrUV9kQm5feU1zNVhYM2RCLVJNQzFZQ0ZhZGtXNXRFbzZpc0QyYjhYTkhCMFlsV1dhdzcxMktBUVhkb19LaXBSbERGcEVUSHY4TDlSV0I5eGFGa1JCbHJIWkFwMWhWTHBjQVpZVl9BMXVXUTdUTGdOVGo1REV4c0djQlN1V0FHMVFiQ2dEUXZDTWFIa1ZrNU1vejZaZEplYVpFYkUwZjJjcjBnWE5CU09rQU5Oa1doRjhaVGhNY0FObnRzR2xnRDAwbzFRcy14TTY0NDhQZUFTR1g4eDFB0gHkAUFVX3lxTE40eE8tdFM2aW42TU4zbjdGVEQ3VnlYRGlhQVpEdWFYRVlqQjhqU0hMZmpybFVZNTJ5SzhmNy1xckRWbm9kdWxYRnhRcXdTX0wwZ3hPeUh3WlJral9tRmtvX1M4ZXU5bXd1Q09GYktOWXNZTXBlUjRPUTRIS0FDdlJSUnUyS2ViOERjTGdpNk9XdWhtZ1JXay13TUVVOWd1Q0dRYTI4b19vV2NyTGE3dzJXeEpmelNOWGpFT01pZEpRNXVUVnNlU0pBeDNKU2t1U09vSlpycC1kQW5HWVhQV2pBQjVlTQ?oc=5",
       "sourceHome": "https://www.business-standard.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -144,42 +291,6 @@
       "source": "PIB",
       "publishedAt": "2026-10-07T11:26:41.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2dzcDJKb202UGdKMzQxWjBqNmluVzhXMlBTYW4zb3pBZllpUndxRURiS0pwM05qd1BXUjZPUWN6aVJfQlpPTVo4YlprOHJiVmc2RlI2VHJ2ZWRGaG9fbGdqcmpOLUZ0YmhmajRsWGVpbG1HWTRIQ0tSeGk2Rzdwd29NUUdSRGo1S3FZ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-07",
-      "title": "రైతులకు గుడ్ న్యూస్ .. ఒక్క ఫోన్ కాల్ తో వ్యవసాయ సలహాలు, పథకాల సమాచారం",
-      "summary": "&nbsp;&nbsp; V6 Velugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "V6 Velugu",
-      "publishedAt": "2026-10-07T11:24:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS05xcFV6cjg0U0FvZ3JnSkxMTW9GRE5oTEVjaE5iWV9UTWo3T1RreDFJYnAzVXhRRjU1TExkOUQzR01mbmRzV0lxY3FfSVVEbDFrWEZaenUzUEM3R0VkUy1oYWVRRjhLZFB1SnhXOEUzNjR6ZUdwU3dYeFBzWF9ndno3bWNGQkxwcFRwNENMYmxiNURfQkZsWi1JVEhvc2ZYbjF6dU1EX1lJM1pJNU10WTZrRmNVeDJGNk9fZnRRTFNFQXhJTmxURjlR?oc=5",
-      "sourceHome": "https://www.v6velugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-07",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; PIB",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "PIB",
-      "publishedAt": "2026-10-07T10:50:33.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
       "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -274,82 +385,6 @@
       "publishedAt": "2026-10-06T06:26:02.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3EzSjF4TGxaNDYtOUhRVmVFaXl5R041YmlNZ0tCLTJGaEhEWkswZ0lBRFpOdnlzUlFCR0YtTmRzelBncXFZTGpGMG5QV0FVdExYTG5qUnZiSmpOSEF6QVF4N1R0eWFRUVp5ZXFPUjZwcVRVMEtQRDc2Z3Z5X0lrU1JTRTRRckJHbmpWWHZ6UWpYcE5SdWlGR0lGMXJlUjhYTmRNdEVqNVNJaURrbW9QSEk3YWJqaGQyOUHSAccBQVVfeXFMUDdSUGtqTk00UVhEa1pCRnRaMVQtUWVXYzFnbHZTS1B3dXlZSFBoLWFDUm5vWHdBMWhzeXhDajN5VjFzMks2LVRxcHZHd1o0TGRDY2xoUmVqTkZIWVR1MGVxM09lb3RtUFk2cndTbGxYSkY1WXVzdHV1akkwVm4xX3ZmbWhsaVExeTRfT1ZWRWpkT2IwaF9fSUlNNFhKcGV2THJWYkpMOGlYekVkQW1rQWJsRlFrVmFRUi1DRGwycGpLeEwzdGRiSQ?oc=5",
       "sourceHome": "https://www.downtoearth.org.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-crop-prices-rise-but-low-yields-threaten-farmer-gains-2026-10-",
-      "title": "Telangana Crop Prices Rise, But Low Yields Threaten Farmer Gains",
-      "summary": "&nbsp;&nbsp; Urban Acres",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Urban Acres",
-      "publishedAt": "2026-10-05T23:46:25.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWs1YmhIWFJ6QWhXN2JaQWc2cHJQbk0wT1k3OEVKNzQtbzNaVHdtanNfeUwwbUxFdzVqaVhkU0Vqc19hcGlyMFh4MjIyV3p1ZUFnTmlFVUZ5TGh1N25UR2k3WEpoSTdycjBZQXpqOU94NTV4SG9xSU41VDMxdXRpM3lpUktoVTRDeE1zX2VqTQ?oc=5",
-      "sourceHome": "https://urbanacres.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "el-nino-effect-crop-prices-soar-10-30-above-msp-in-t-gana-but-low-yields",
-      "title": "El Nino effect: Crop prices soar 10-30% above MSP in T’gana, but low yields blunt farmers’ gains",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-05T18:06:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbjJwYk0zRElnNTVtMU9rbW5uUlNqMmNLeGE1Q2NCdW8wbVRPSzg0WFhueWRiM3J3dkZsNk5HSXR1ZnBsaFBRQ0hnbUIySUZmMF9kaDFhc1dxaEF6VWlKSUd3U2tmbE11SWRxNE5VSWJ5SWRUWkNIWFNYMFc3V0ZnYVZVUDR5NFN2YkctQmhUS2NWRzc2dko5dGJacFpKZkMwZjZ5X3gyN29TYjZZR0NkTURZUXp4MmxpU2x1LTJEZUlCQzlGNlZ4dWxTY2Rkb2Y0VlJoaVhwSDloSFRzb2ZxdGZrZEM4TEp5d1lseExfVTFlb0U0ZUI2ZEI2M2g2b3F3d1HSAYICQVVfeXFMT24ycGJNM0RJZzU1bTFPa21ublJTajJjS3hhNUNjQnVvMG1UT0s4NFhYbnlkYjNyd3ZGbDZOR0l0dWZwbGhQUUNIZ21CMklGZjBfZGgxYXNXcWhBelVpSklHd1NrZmxNdUlkcTROVUlieUlkVFpDSFhTWDBXN1dGZ2FWVVA0eTRTdmJHLUJoVEtjVkc3NnZKOXRiWnBaSmZDMGY2eV94MjdvU2I2WUdDZE1EWVF6eDJsaVNsdS0yRGVJQkM5RjZWeHVsU2NkZG9mNFZSaGlYcEg5aEhUc29mcXRma2RDOExKeXdZbHhMX1UxZW9FNGVCNmRCNjNoNm9xd3dR?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "25-2026-10-05",
-      "title": "25 రోజుల్లోనే పంట చేతికి.. ఈ ట్రిక్స్ తెలిస్తే పాలకూర సాగుతో రైతన్నకు అదిరే లాభాలు..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-05T10:59:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzNZYUZ4SjVwRERYMDFiRFNpSzB6Q3ZhMkhjQmhOMjA3cDBSQWg4ZjJSZWg2VGp5dnVxN29WUGxQRHNIVkxBTkdyYXVmMXA1MURmMFdXSnlOYTJYU05aeUdEWWl0cXRBNDRSdzEwUmJDWXhMREZyN1hmX2dCZkVkdWx3MWZDLXEtSHJBUGQ1TWctVkZGa1cxNDB3ejFaZlJybG5yRllHeFRwOFhHMXNGQjhPTm1UTWhOUlBKUHNINHdDdVYwRXY00gHHAUFVX3lxTFBPM1lhRnhKNXBERFgwMWJEU2lLMHpDdmEySGNCaE4yMDdwMFJBaDhmMlJlaDZUanl2dXE3b1ZQbFBEc0hWTEFOR3JhdWYxcDUxRGYwV1dKeU5hMlhTTlp5R0RZaXRxdEE0NFJ3MTBSYkNZeExERnI3WGZfZ0JmRWR1bHcxZkMtcS1IckFQZDVNZy1WRkZrVzE0MHd6MVpmUnJsbnJGWUd4VHA4WEcxc0ZCOE9ObVRNaE5SUEpQc0g0d0N1VjBFdjQ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "digital-agriculture-market-expands-as-us-259-million-invested-in-agtech-",
-      "title": "Digital Agriculture Market Expands as US$259 Million Invested in AgTech Startups",
-      "summary": "&nbsp;&nbsp; openPR.com",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "openPR.com",
-      "publishedAt": "2026-10-05T10:37:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3ZST3JlTi1YbngyM1Q2N1R3UWVFSWVydVVwcWJ1cUFwLXRBcFl2bzhUNzJnUEItSHNHRG9FWGllTE9VTWhHV1lRWlZsbGxOT0x4VE5LWTZYRWpiaTFUTWR0RGxlOVZFdGpJS2lHNzRMRXhiQlh1U05oaVN6STJlTUI4Q21mWGFuaFE1TFZWUS03WWZSMEFjSXVhbjhHZw?oc=5",
-      "sourceHome": "https://www.openpr.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
