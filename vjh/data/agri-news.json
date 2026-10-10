@@ -1,9 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T06:25:50.169Z",
+  "generatedAt": "2026-10-10T06:08:27.354Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "hurricane-isaias-threatens-u-s-cotton-and-poultry-as-corn-and-soybean-ha",
+      "title": "Hurricane Isaias Threatens U.S. Cotton and Poultry as Corn and Soybean Harvests Advance",
+      "summary": "&nbsp;&nbsp; AgroLatam",
+      "crop": "Maize",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroLatam",
+      "publishedAt": "2026-10-09T21:06:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNclJkdUhQSXRuVnZENFZLVU5ZQjd5SFFHczdqTWktdWdVaGliU3ZWQWd2ZWFQUUdlSTlyT0hIbWJvc25ITkhyZnpSMnlYMERpTkZIWjNRd3pySXpLZnVzZjdUWkdBN0lNcWx0cWtSV21iakk0S1pqM0FtcXpLbE1tRU85a2NTR2pRZi05X2YtTzlFN1d0cmFnQUZR?oc=5",
+      "sourceHome": "https://www.agrolatam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "one-el-nin-o-and-so-many-consequences-2026-10-09",
+      "title": "One El Niño and so many consequences",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-10-09T20:52:11.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmVPcmdwQUVUMXk5T19SZDRXN3NVbmpqdFhONjlsS0otMzhuZ1lzaHIxOVVjRTBvM1ZXajVRNkZXdS1tRGFMa05qUFpGU0tReXRQNUVqWHlsSDY0clRQb3QzbE5vb0FnVU9fZlJSakFhNnhGNFJqQXV6blBMM05fSzB2eHNnZXVZaXlkbmpqNnFMUFlCUHV4OHQ4Y0FpRlBQ?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
+      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-10-09T12:19:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-09",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
@@ -135,24 +189,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "we-have-not-yet-built-the-capacity-to-absorb-ai-philanthropy-2026-10-08",
-      "title": "We Have Not Yet Built The Capacity to Absorb AI Philanthropy",
-      "summary": "&nbsp;&nbsp; ICTworks",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "ICTworks",
-      "publishedAt": "2026-10-08T04:47:34.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmxzYW1QS2lncHdBaXg2TzZ1YXJmMWRNbTlFQnVKQVNxSDhlUXdRUWZ6Sk1vVm5SbGhNOTFCU0dWZ1BLZXlJdUdCX1B6X3M1Zk1nMDdIQ24wSXlLRUowdGV0REtYRHZNVzVqVkU1WUQxV1VpMFRNdVREamtfcnpoeVh5Zlp4N3VBQkF4MVh6Zw?oc=5",
-      "sourceHome": "https://www.ictworks.org",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "telangana-farmers-a-call-away-from-agri-experts-2026-10-07",
       "title": "Telangana farmers a call away from agri experts",
       "summary": "&nbsp;&nbsp; The Hans India",
@@ -186,24 +222,6 @@
       "publishedAt": "2026-10-07T23:24:23.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnkxdW5zVWNielRSaURXUXZ3czJlSDhNNDN0aVd6bWgyZmhhUXViOWJVdnJqNHpfSy1pbW9WRWU4RkZQcDFyTVFDdTFwNmd2WGRlRFJmejBUSEg0RFlSWURGUUR2aEU1MDB1Xy1PR2t2OWxBMWlyOTZzdW9Eb0FJNER3VEpVUUdCblJyTExxdWFKTUNWZUNuZVY0Y2RKZUhCLXc?oc=5",
       "sourceHome": "https://www.agrolatam.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "what-agricultural-innovation-looks-like-up-close-2026-10-07",
-      "title": "What Agricultural Innovation Looks Like Up Close",
-      "summary": "&nbsp;&nbsp; SeedWorld",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "SeedWorld",
-      "publishedAt": "2026-10-07T23:20:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGMtQVFBcHg4UW42WXp4N3RjWmtlS3UxcjB1UGR5amxFdmxwcVQ3Y2dLbGpwN293STJ0X2I2ZWszT1JoYmQzRW00RjNhVnRUeHgzRGhiTmtocm5oM1NvMkI1UXc5Z0lTZnV1MXJXMjg2dXRoTF9KMDFkWkVTTDB4WXVDVVlMUjlZalg3Rzh2cWgtckg1SERB?oc=5",
-      "sourceHome": "https://www.seedworld.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -245,29 +263,14 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "haryana-cm-ensure-smooth-crop-procurement-bajra-msp-2026-10-07",
-      "title": "Haryana CM: Ensure Smooth Crop Procurement, Bajra MSP",
-      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
-      "crop": "Millet",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-07T15:25:10.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFduZDFnaWlHMFB4d2tNcDJHZUNHeGk0SDBNZnltb3ZlMWViT3lHdkozT1VaWC1mQTF0VmJ2eXVab1FCRlN3Z2VTYzVZV0hnbnNfNThOMkxmNmVjdTZOZU96TE5ncWZLXzZrT1Jkb3pJRGxOVVJSSU5YUm5xWDBsajU1dzJQMEVWYmJWRlZCTlJoamNfSEhzWHY1NG5mdU45Z0tBTUpacEpRVzTSAasBQVVfeXFMUGRXbmQxZ2lpRzBQeHdrTXAyR2VDR3hpNEgwTWZ5bW92ZTFlYk95R3ZKM09VWlgtZkExdFZidnl1Wm9RQkZTd2dlU2M1WVdIZ25zXzU4TjJMZjZlY3U2TmVPekxOZ3FmS182a09SZG96SURsTlVSUklOWFJucVgwbGo1NXcyUDBFVmJiVkZWQk5SaGpjX0hIc1h2NTRuZnVOOWdLQU1KWnBKUVc0?oc=5",
-      "sourceHome": "https://money.rediff.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "govt-should-allow-htbt-cotton-cultivation-farmers-need-tech-seed-bodies-",
       "title": "Govt should allow HTBt cotton cultivation; farmers need tech: Seed bodies",
       "summary": "&nbsp;&nbsp; Business Standard",
       "crop": "Cotton",
       "type": "scheme",
       "regions": [
+        "telangana",
+        "south",
         "india"
       ],
       "language": "en",
@@ -275,23 +278,6 @@
       "publishedAt": "2026-10-07T13:27:18.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEZrUV9kQm5feU1zNVhYM2RCLVJNQzFZQ0ZhZGtXNXRFbzZpc0QyYjhYTkhCMFlsV1dhdzcxMktBUVhkb19LaXBSbERGcEVUSHY4TDlSV0I5eGFGa1JCbHJIWkFwMWhWTHBjQVpZVl9BMXVXUTdUTGdOVGo1REV4c0djQlN1V0FHMVFiQ2dEUXZDTWFIa1ZrNU1vejZaZEplYVpFYkUwZjJjcjBnWE5CU09rQU5Oa1doRjhaVGhNY0FObnRzR2xnRDAwbzFRcy14TTY0NDhQZUFTR1g4eDFB0gHkAUFVX3lxTE40eE8tdFM2aW42TU4zbjdGVEQ3VnlYRGlhQVpEdWFYRVlqQjhqU0hMZmpybFVZNTJ5SzhmNy1xckRWbm9kdWxYRnhRcXdTX0wwZ3hPeUh3WlJral9tRmtvX1M4ZXU5bXd1Q09GYktOWXNZTXBlUjRPUTRIS0FDdlJSUnUyS2ViOERjTGdpNk9XdWhtZ1JXay13TUVVOWd1Q0dRYTI4b19vV2NyTGE3dzJXeEpmelNOWGpFT01pZEpRNXVUVnNlU0pBeDNKU2t1U09vSlpycC1kQW5HWVhQV2pBQjVlTQ?oc=5",
       "sourceHome": "https://www.business-standard.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pib-backgrounder-2026-10-07",
-      "title": "PIB Backgrounder",
-      "summary": "&nbsp;&nbsp; PIB",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "PIB",
-      "publishedAt": "2026-10-07T11:26:41.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2dzcDJKb202UGdKMzQxWjBqNmluVzhXMlBTYW4zb3pBZllpUndxRURiS0pwM05qd1BXUjZPUWN6aVJfQlpPTVo4YlprOHJiVmc2RlI2VHJ2ZWRGaG9fbGdqcmpOLUZ0YmhmajRsWGVpbG1HWTRIQ0tSeGk2Rzdwd29NUUdSRGo1S3FZ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -329,62 +315,6 @@
       "publishedAt": "2026-10-07T06:49:05.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDFmczdndlJHemtNWUJwVFVJMmQ4VXpoOV93bHlLSHh4MW9jWk5nMVJ0VE94SEhfODhZQWdHSi1Ga1h1YmVKRF85b3lkTUpwUW9Lb3VSSUdWQm9xR05BczlxbE03N240cm8yWnpWUThrYnpRVzdpUDhVTFp3N1loWTRpcmRmSVo0MTJEMTB0ZmppLVJ3X3lDS1hzT25uRHhjb3hjOU9jcnNGa3PSAbABQVVfeXFMTjIzekZkM0g2MmQ0dDBKUXRtSG1QS0JKV21Gb0pEdGVqOVpiazhuaE1Pc0VxemZZRmZucXNVNHNHRFhxYWx4ZF94UVpHbnh4bnZLaTNJb05fWGw2OGlaZ200SUdGaUt5WnpmWWFsVFc0MEV6dkZlV3RzVjA1Q2J4YnAtaHdvNFhDRTg4d3cyOWQ1d1NTMHBwLWxua0FVZFZuQ0pmeF9xaWhmOWk2ZEdfTVU?oc=5",
       "sourceHome": "https://www.vanguardngr.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "world-cotton-day-2026-10-07",
-      "title": "World Cotton Day: నేల నుంచి నేత వరకు.. తెల్ల బంగారం తెలంగాణ గుండెచప్పుడు..!",
-      "summary": "&nbsp;&nbsp; NTV Telugu",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "NTV Telugu",
-      "publishedAt": "2026-10-07T00:30:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHNCdzJqTERlRW1YYnAtaHA4eHFEaXBjc2VqX2xBUlYyclNSRXhKR1JCVGd0R2ZJSGJsLUQtRkpTQjhlZngxTlgwNk5kSDRXcDlDZG15cVBKV1ZycEd6V3RfQ2w1ZVhzYzVFUTcybkpRYnc3Vkd3MENfYk5rZXA2S2JDU1pUdWpCbFdJZlpaMVgzTFl6UmlvbFlIUVZiRzNpQ3R1NUV1d2IwUdIBqgFBVV95cUxOUHNCdzJqTERlRW1YYnAtaHA4eHFEaXBjc2VqX2xBUlYyclNSRXhKR1JCVGd0R2ZJSGJsLUQtRkpTQjhlZngxTlgwNk5kSDRXcDlDZG15cVBKV1ZycEd6V3RfQ2w1ZVhzYzVFUTcybkpRYnc3Vkd3MENfYk5rZXA2S2JDU1pUdWpCbFdJZlpaMVgzTFl6UmlvbFlIUVZiRzNpQ3R1NUV1d2IwUQ?oc=5",
-      "sourceHome": "https://ntvtelugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "young-farmer-2026-10-06",
-      "title": "Young Farmer: అందరూ పత్తి.. సోయా వైపు.. ఈ యువరైతు మాత్రం డిఫరెంట్ రూట్.. పంట ఏంటో తెలిస్తే షాకవుతారు..!",
-      "summary": "&nbsp;&nbsp; News18 Telugu",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "News18 Telugu",
-      "publishedAt": "2026-10-06T15:26:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0liMW1FaG5nb2FLaFFiTTJlcTF5TXNoTVBoRzd6S0VRa3BuVkVHaFhjTjhsOVJXMXcxZmpLSG5jakF0MjRsOEMxVXdqRlBGTVpOSG1BdkgzVnpxVE4tOGFiM2w4T1NQd01CYllvMmI3NFhvOUU0UjRHOHM4UzE4RE9NOHNKUVF2amNSNXpGbG1iTVJ4TTJOcVNiR3M0amo4RThWOUZDYjhFbWxHVVNBUDdxMGlNNkhiLUEybXBXYmlwZ1g2NlRFa0ZxZjJwb2dyWW5Rb1VNZw?oc=5",
-      "sourceHome": "https://telugu.news18.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "favourable-weather-gives-kashmir-s-paddy-farmers-their-best-harvest-in-y",
-      "title": "Favourable weather gives Kashmir’s paddy farmers their best harvest in years",
-      "summary": "&nbsp;&nbsp; Down To Earth",
-      "crop": "Paddy",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Down To Earth",
-      "publishedAt": "2026-10-06T06:26:02.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3EzSjF4TGxaNDYtOUhRVmVFaXl5R041YmlNZ0tCLTJGaEhEWkswZ0lBRFpOdnlzUlFCR0YtTmRzelBncXFZTGpGMG5QV0FVdExYTG5qUnZiSmpOSEF6QVF4N1R0eWFRUVp5ZXFPUjZwcVRVMEtQRDc2Z3Z5X0lrU1JTRTRRckJHbmpWWHZ6UWpYcE5SdWlGR0lGMXJlUjhYTmRNdEVqNVNJaURrbW9QSEk3YWJqaGQyOUHSAccBQVVfeXFMUDdSUGtqTk00UVhEa1pCRnRaMVQtUWVXYzFnbHZTS1B3dXlZSFBoLWFDUm5vWHdBMWhzeXhDajN5VjFzMks2LVRxcHZHd1o0TGRDY2xoUmVqTkZIWVR1MGVxM09lb3RtUFk2cndTbGxYSkY1WXVzdHV1akkwVm4xX3ZmbWhsaVExeTRfT1ZWRWpkT2IwaF9fSUlNNFhKcGV2THJWYkpMOGlYekVkQW1rQWJsRlFrVmFRUi1DRGwycGpLeEwzdGRiSQ?oc=5",
-      "sourceHome": "https://www.downtoearth.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
