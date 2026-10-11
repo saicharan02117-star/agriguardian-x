@@ -1,9 +1,118 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T06:08:27.354Z",
+  "generatedAt": "2026-10-11T06:05:56.053Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "2026-10-11",
+      "title": "షాకింగ్‌ న్యూస్‌.. రైస్‌ ధరలు పెరుగుతున్నాయ్‌!",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-11T03:37:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY1J3SmNKc255S1czX2xUMWxSd1Z4ZC1NMm1lbGpMTEpILVdUMGI1VFJJZEJmQ2V1V25yaGp0TWpjQ1llcmZ5VWFfVGptZDdGZkdGWFpVcHowY0hIRmhoWEFVRTQxd29kNDRKd2tMZDAzM1VkMmNxNG1SZ2tMZWl4VWlPektweElDRnR4ZC16MWxWbGsxaHh5cUQ4S2RYZkZfZGdjZ1B0a2lfRTZlQ3Q4Q2VLTUpKQmRRSjRxbjNGdjlIckJkX1lpWkRTUGhSZHlrNGlzNGRmcURLcllEOTA5WkJ4Yzh2aW4zR0paM3ZCWHBfWWFQU05SNGRsMzFtSlZRbWVCSktfSkd1anI2djBfQlFzMm16R3Z10gGYAkFVX3lxTE9jUndKY0pzbnlLVzNfbFQxbFJ3VnhkLU0ybWVsakxMSkgtV1QwYjVUUklkQmZDZXVXbnJoanRNamNDWWVyZnlVYV9Uam1kN0ZmR0ZYWlVwejBjSEhGaGhYQVVFNDF3b2Q0NEp3a0xkMDMzVWQyY3E0bVJna0xlaXhVaU96S3B4SUNGdHhkLXoxbFZsazFoeHlxRDhLZFhmRl9kZ2NnUHRraV9FNmVDdDhDZUtNSkpCZFFKNHFuM0Z2OUhyQmRfWWlaRFNQaFJkeWs0aXM0ZGZxREtyWUQ5MDlaQnhjOHZpbjNHSlozdkJYcF9ZYVBTTlI0ZGwzMW1KVlFtZUJKS19KR3VqcjZ2MF9CUXMybXpHdnU?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "fading-aroma-of-black-cardamom-a-480-million-market-may-bloom-while-indi",
+      "title": "Fading Aroma of Black Cardamom: A $480 million market may bloom while India's 'black gold' wilts",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-11T02:06:52.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaTZWS2FYUDJ3a0g5dEtTYmFoTVdRdktIQk52VWtFYjZjSW1LMkhlajJ5dnV3TWtsaEpfcExUYzVETUVCLVFJdHlKb1plUkZLMTNtUzhYSzl1MGlEYllNcW5WM2pOY1hYN3JmY003TjNzaDJLRVFCbWg2NWs3QVlOVktUM3kzbXNsckIwRk9rSnYwZ1lBZVpnbWFzZmZVc2xzYjE2eEJVcEFzbTVBUk1sX3FrdkhsOWgwbExGY0I0WG04dUdIWEhtcl84bUloa2NJYWFoaUx6T1ZxNkpYQ3FNb0M1UnZOVkZnSjdNaS1GWnBSa0xobmgyRDZSdmJ0ZFHSAYQCQVVfeXFMT2ZrNUl2YkR5RTR6ZVdDWjQyRkRsNmt3elpQYXcyRThacGhHSThycEoyWktVLTlSbkdsUkVWX2Vwd0dQYXc0X04zVFBBU0UweWFlNUVVdE03Z2NxTEdqTzIwUEZnWEVvR1d4b2pjVjJEbjNCUUNNUGVKaXdjNk9LVFFRcW54Y19jcjdrQWZ0UFAzbGE3Tk9qRzhrWEFHb1FmSi1mdk1ScFRSTDNhUUpibHh3Y09fcmY2RG9IMGxEUVdwQU1idXlDOV9kNGxwRWFPT202anI2d2tPVGVicWVwVnVZc3l4dW8xNDl2eGJ5bzJtNU1fUjF0SFBtcTVsWHZFZV9rRWI?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-10",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; PIB",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "PIB",
+      "publishedAt": "2026-10-10T12:07:48.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-farmers-face-paddy-cultivation-dilemma-ahead-of-yasangi-season",
+      "title": "Telangana farmers face paddy cultivation dilemma ahead of Yasangi season",
+      "summary": "&nbsp;&nbsp; Telangana Today",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telangana Today",
+      "publishedAt": "2026-10-10T11:39:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHppN0lTMi1HV0ZpYy1vTkNiXzRQODZjX3dwRmZ3TFZ6STJBS2cxTkNRYjJ0TW4yc1lwV3RtT0IwVTJHMi1QM21sQkRuS0pTWW9HbFBSYmhkVU44eC1iMDgzTUlWNU5BS0JfM0hjakJMM3BkenpSNEZscm9DVDhRTEZlRVlmYmFRNWYwVTNhSUNKelNhMFctUXlyUmluYXpZ?oc=5",
+      "sourceHome": "https://telanganatoday.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "andhra-2026-10-10",
+      "title": "Andhra: ప్రస్తుతం ధర లేదు.. అయినా లాభమే..! బంతిపూలతో రైతు సక్సెస్..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-10T09:46:08.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGdQWUtZTVN0NHhrdG5tZk9wWUFFR0M1OG9fMHl0bTdPUG9HVEZYTUo4cTNPQzdnV29SSDVsdUlZUnMzQkdMNnJSSlNJd1VoRXc5Ti1RdTFvSUU0dUU0U3IxTWxIMXJtRmdSbVhCckdHNDVfTWk2UjlqV2FITTFZOVJ1T2M3enVMQ2NxRGtmUHktbWIzUG5sdVNrRE9UT28zY2lJdzNoMTFnc2NxRzdvanY4eERpMW9aWEZ6QWlBVWUzYmfSAcMBQVVfeXFMT0xnUFlLWU1TdDR4a3RubWZPcFlBRUdDNThvXzB5dG03T1BvR1RGWE1KOHEzT0M3Z1dvUkg1bHVJWVJzM0JHTDZyUkpTSXdVaEV3OU4tUXUxb0lFNHVFNFNyMU1sSDFybUZnUm1YQnJHRzQ1X01pNlI5aldhSE0xWTlSdU9jN3p1TENjcURrZlB5LW1iM1BubHVTa0RPVE9vM2NpSXczaDExZ3NjcUc3b2p2OHhEaTFvWlhGekFpQVVlM2Jn?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "india-s-cereal-markets-diverge-as-paddy-gains-momentum-while-wheat-exten",
+      "title": "India’s cereal markets diverge as paddy gains momentum while wheat extends decline",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-10-09T21:09:50.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHFqWVBQUXZCcjJ4dm1MUlhLYWx0RmV0ZFNNU0xSRkViS3BILXhVRExrREJCeDZEc0g2SnN5Ym9hVXlOTXNLTXc4SDhGWW1FNVFhcldlbFBGa1pRQXM4TGxMeU41R1hySzE4NGE1WGthekR6SFVjb1ZudkNTUGJzRzNrY0hUVUwyOGtKeVNqTnpkUDdjZ0tkbTB6MXVzODVmZzVHYjlzVndpUGFHQ2JHSFhKV0pCWV9KZkVDZzFlTU54NkVzcnhiVmFR?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "hurricane-isaias-threatens-u-s-cotton-and-poultry-as-corn-and-soybean-ha",
       "title": "Hurricane Isaias Threatens U.S. Cotton and Poultry as Corn and Soybean Harvests Advance",
@@ -59,19 +168,21 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-09",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; PIB",
+      "id": "el-nino-effect-2026-10-09",
+      "title": "El Nino effect | ఎల్‌నినో ఎఫెక్ట్‌తో నూనెగింజల సాగుకు సవాల్‌",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "telangana",
+        "south",
         "india"
       ],
-      "language": "en",
-      "source": "PIB",
-      "publishedAt": "2026-10-09T00:19:19.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-10-09T11:01:02.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xRE9yZjk1dVRQdDNidFIza0F1dTAzWUZnY1o4MjlULTBzcTVvUXc2Um5lc1EzTUVSYURqREFRb1Q3dUVCYUZzcV9ya01yU3RHQ3NHNGt3YUVUUWs4aXg4aUhsWXhiSzNvRXJRYlFJYUg?oc=5",
+      "sourceHome": "https://prabhanews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -95,62 +206,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "andhra-2026-10-08",
-      "title": "Andhra: దానిమ్మ పంట ఈ రైతు దశను దిశను మార్చేసింది..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-08T10:12:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjdtb2duUUFPNTJmMUk0SkNrdTY1a0ZQMWdkelgzY2VLMEdIMFRFT1VpS0FGdS05QjhETk9pWFk0cEFpbjRSQWV6LU45QTBJZFFadHJ1MWRfLVlmZENta21LVkF6V0oxUENoNzFxazFmQWxZcUZOd3dIYS1kUTdERHhqTjg5bG9TYm5zQXVJS2xjYzZla1BwSTllZVVPVUhDeVR5dlJVRzZzRXRNczNtQWZlYUVrWVNYOTV6QmpyWEk2RFJIaXNlNy1nY2tGbDVUaWcw0gHTAUFVX3lxTE8yN21vZ25RQU81MmYxSTRKQ2t1NjVrRlAxZ2R6WDNjZUswR0gwVEVPVWlLQUZ1LTlCOEROT2lYWTRwQWluNFJBZXotTjlBMElkUVp0cnUxZF8tWWZkQ21rbUtWQXpXSjFQQ2g3MXFrMWZBbFlxRk53d0hhLWRRN0REeGpOODlsb1NibnNBdUlLbGNjNmVrUHBJOWVlVU9VSEN5VHl2UlVHNnNFdE1zM21BZmVhRWtZU1g5NXpCanJYSTZEUkhpc2U3LWdja0ZsNVRpZzA?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-08",
-      "title": "ఇదేం విచిత్రం వరికే అగ్రతాంబూలమా.. ఆ పంటలపై వ్యవసాయ పరిశోధకులు శీతకన్ను..?",
-      "summary": "&nbsp;&nbsp; BigTvLive",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "BigTvLive",
-      "publishedAt": "2026-10-08T09:31:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1RUWWg4RTRWLWNBTTg0bF82S2xuSVg3MzhvQURPckpzV1dOd0hjRUZETkJ6bWJuZWF6dWtGbGtqZTF1cW80U3NLTjctT0kzQ1lhc2t0NllWb3V1V252QkhhRERXbWxzOTRMelhqaERnbEUzMTBkT1dzeVQtY3BoSGdSdU81X1FEUUJPWHRIS2ZnSjdiMXZPY2VFekNDU1FjZ3BQYjNhMHFGWWk5VUFWdUZUekJJMHM?oc=5",
-      "sourceHome": "https://www.bigtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "azim-premji-foundation-seeks-12-acres-in-kalaburagi-for-500-bed-hospital",
-      "title": "Azim Premji Foundation seeks 12 acres in Kalaburagi for 500-bed hospital",
-      "summary": "&nbsp;&nbsp; Medical Buyer",
-      "crop": "Millet",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Medical Buyer",
-      "publishedAt": "2026-10-08T09:11:22.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTTZlTnlfMjIzYzVCWjNzaGV1ZHJxM0JySTBXWml5dHZLajdPMXBqaTRQS2RGVC1RNUluT1FINnp4Z3BIWDY5QWE3LVhRZE1hMGxaVTNTSXNIa1dTODVwa0JKRlRMX01OR09xUkdhekVZLXh2a0Y4Rk14S1ZSdGJrYW4zY05XR3VZRmw5NVFORmFrbkNpbVV5REdLSXdpdENNWkE?oc=5",
-      "sourceHome": "https://medicalbuyer.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "bioagri-2026-hyderabad-brings-together-india-s-biological-agriculture-ec",
       "title": "BIOAGRI 2026: Hyderabad Brings Together India’s Biological Agriculture Ecosystem for a Sustainable and Smarter Farming Future",
       "summary": "&nbsp;&nbsp; Krishi Jagran",
@@ -166,155 +221,6 @@
       "publishedAt": "2026-10-08T09:09:51.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGI2a2xmQnhqUEhkZDRvTmxUTzJZVXp2dnNrMFpNQ2ZBRjd2SjN2YWdHLU9kYTYzbHd2SDYwajZJbE9mUVNudk0yeG1kWFN0ZW1hZG95LXd6QzI2Ym5CZUoyRHZUMzlwMmZIbzVNV2swbVJFS2t0d2RfLWoyQ0JxYjlzNTBNQmpocjlxdWFDOEN1S0J6S29iMFBwTF9NVmtwNi0wa2owVmpjTl9oN0x4OUNaTUZ2c1Vwam4ybFYzd0Y0Wmp0QmxILTlhWXVmTGE3bFZkOElDNmpoNllKU1c1eGMwenBHZDF5elpZ0gHzAUFVX3lxTE16TXl3QUlqUFVxZ3FqSk1KeWJGMjlCck1ORlhFN3RmeG9tUTRQaGNkU1pMRXRaRFgySTF2Xzd2TkVXVDJ3aFlmcm5IbDJGQVlhbDVxSmtrMGd3NVF1TGNUbUUxVjBQVlhuUFoxWDh4LXRBT1ViTU1TNXZDdG4zMFRfendvczY0RUJxbDltZVBHWFZCNEk4ZzhqLXRBMkVpa0NKSllfUXhUY3QtYWJ1MVFkZk45VFJxM0tTTG9pbjFMckVkUUx6YkNBMWRRbGhzaDQ4UTI1czNmdWZtSURfRGxua2pjdVE5bVZoOW1YbnAzSW1uZw?oc=5",
       "sourceHome": "https://krishijagran.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "el-nino-2026-10-08",
-      "title": "El Nino: ఎల్‌నినో ఎఫెక్ట్.. ఈ ఏడాది సీతాఫలాలు కూడా తినేటట్టు లేదుగా..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-08T05:27:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUkljd0pBVEotcGtSTlF3UW10QWJfZjc5dWp3R2kzd1VJRTZueWpIenpFT2dzWUdvMnBpc0wwSVdfQUcySWNDbzJoQ21UU3NRZkdUOE82RkJKeDZDY2NnSUdKNkNuZkMzakRwVnMzaVVEZkdOV2YtZEl2aTBvT2Z4bmgyWDVTamZTbER6RGVZdWRxM3JsVWxMNFlha2Z6cTVTeWRuUHBPNGpVTHVMNFpidWJrTXJsQXBWMHfSAboBQVVfeXFMT1JJY3dKQVRKLXBrUk5Rd1FtdEFiX2Y3OXVqd0dpM3dVSUU2bnlqSHp6RU9nc1lHbzJwaXNMMElXX0FHMkljQ28yaENtVFNzUWZHVDhPNkZCSng2Q2NjZ0lHSjZDbmZDM2pEcFZzM2lVRGZHTldmLWRJdmkwb09meG5oMlg1U2pmU2xEekRlWXVkcTNybFVsTDRZYWtmenE1U3lkblBwTzRqVUx1TDRaYnVia01ybEFwVjB3?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-farmers-a-call-away-from-agri-experts-2026-10-07",
-      "title": "Telangana farmers a call away from agri experts",
-      "summary": "&nbsp;&nbsp; The Hans India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hans India",
-      "publishedAt": "2026-10-07T23:54:35.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk9ObkQzaGcxMGtiSXMwbkM1S3NmNXFXWWl5WS00MW45dDFkWVdwaTdFWGpxSWpNaTByeEZVWm0zREtkOEhZeEgxRzRuMXM2bDFMM1VHcWwzQmJja29BR3VKbEdkOTFQdEYyTlFoX0c1YWtMNGxFSUJqUjZ5Ym9JWkNKUGMwZU9aS19aSHV1c1pWajhoaDBnSUJQWGpHNDVEcFhBWkJ4RWJHUQ?oc=5",
-      "sourceHome": "https://www.thehansindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "super-el-nin-o-2026-27-global-agriculture-prepares-for-an-event-that-cou",
-      "title": "Super El Niño 2026-27: global agriculture prepares for an event that could be historic",
-      "summary": "&nbsp;&nbsp; AgroLatam",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroLatam",
-      "publishedAt": "2026-10-07T23:24:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnkxdW5zVWNielRSaURXUXZ3czJlSDhNNDN0aVd6bWgyZmhhUXViOWJVdnJqNHpfSy1pbW9WRWU4RkZQcDFyTVFDdTFwNmd2WGRlRFJmejBUSEg0RFlSWURGUUR2aEU1MDB1Xy1PR2t2OWxBMWlyOTZzdW9Eb0FJNER3VEpVUUdCblJyTExxdWFKTUNWZUNuZVY0Y2RKZUhCLXc?oc=5",
-      "sourceHome": "https://www.agrolatam.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "orange-country-dying-trees-axed-in-5-000ha-orchards-wilt-2026-10-07",
-      "title": "Orange Country Dying? Trees Axed In 5,000ha, Orchards Wilt",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T18:57:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS19xN1VIVVp0QlFlcWlNaE8tZ1M0ekl2ZGhDcTFpbUtjejB1eVZFMVBXNEpILXcyUXRJdEFRRWsyUTlmRk9nSURSVzZfcFY3TFVISG5QdkdTLWxmcWxFYU1XZHYtT2FWQ01JUTJjaUM4N3ZpdC0yR255VV9XNEJ0U1lBZXdPMU5XdzFXLUd0dFBUaUF0dW1iTjFlXzRTTWRIVXp4d0hSbFgwUzNtaTJjRlBHeVBGS2pla1RFanBtdXJvaGdGbnlWTdIBzgFBVV95cUxQcFVEOWFpZVZqZzNZN2VybmV6c2NSU1JlYll0cm5ndFc3UHc4cXNTTWVLZEZMM2EtZE0zTThLZXd4QklPcjhpQXNzWFZRU3ViYm9OQ0t4TEtmaEt3dDBoMUJjTnMyNUZDNko0YXowSV9EWWVnZmVaazBialJpQlhEUUhwX1JBdVJtcFpSWEtqXzFIMDl2WTJfVXM3My05dHNHZjJmSm54QldKQVkxNzg0ZkxQU1JrMDkzeHM0VDR6R2l5Uk5ZaGRaUVBOekkwQQ?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "why-a-20-crop-loss-can-wipe-out-2-3rd-of-farm-income-2026-10-07",
-      "title": "Why a 20% crop loss can wipe out 2/3rd of farm income",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T18:26:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0g5VXBjdFNyNWlxMlUwYUNfX0FUanMwdFA0b3dvUU1YZE5NNWNnSmszRllkMGtKdUhfTUhmNTVMVjY1dEU2bTQ2VTVOLTdzYTlTR1RGdXJtYnlGTk5iN3JseDMydTM4SHdXYnVuWTdtYzVFNmZ0V1ZDRnpIVmM3Tl95d1c2Y1NsZ0pvVjhCUXNBaW5CRkk4RVM5NUhoeU55ZjdZU3lkWjE5TFRMVGFxdkQ5U3V0RjFjU1lhTXpfTTV0SThuUW81N9IBzgFBVV95cUxNR2RxRzhNU2trYnBtV010bXdjY2l3bzA2TU1EOTdGQklXYnNyMFFRVHFuTnpNX04xYy03dkNqdmFJS2x1N05LakZxMWxTSVhOR0p6SVZZOElVTjVPS1lncmRSVW9reUpXamQ3U2ZvYXdxLThINFFMUEJPemw0eTFmOXdxem1Za3lnYmxHeVBteDJ1V0Z1VDUzc05HOTZLRkVnc3FyOFZtcnlxckVpdGZNdFFsanFwZVJkWXpFbnhDU3RPekNZazJQRTVpZG5Cdw?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "govt-should-allow-htbt-cotton-cultivation-farmers-need-tech-seed-bodies-",
-      "title": "Govt should allow HTBt cotton cultivation; farmers need tech: Seed bodies",
-      "summary": "&nbsp;&nbsp; Business Standard",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-07T13:27:18.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOEZrUV9kQm5feU1zNVhYM2RCLVJNQzFZQ0ZhZGtXNXRFbzZpc0QyYjhYTkhCMFlsV1dhdzcxMktBUVhkb19LaXBSbERGcEVUSHY4TDlSV0I5eGFGa1JCbHJIWkFwMWhWTHBjQVpZVl9BMXVXUTdUTGdOVGo1REV4c0djQlN1V0FHMVFiQ2dEUXZDTWFIa1ZrNU1vejZaZEplYVpFYkUwZjJjcjBnWE5CU09rQU5Oa1doRjhaVGhNY0FObnRzR2xnRDAwbzFRcy14TTY0NDhQZUFTR1g4eDFB0gHkAUFVX3lxTE40eE8tdFM2aW42TU4zbjdGVEQ3VnlYRGlhQVpEdWFYRVlqQjhqU0hMZmpybFVZNTJ5SzhmNy1xckRWbm9kdWxYRnhRcXdTX0wwZ3hPeUh3WlJral9tRmtvX1M4ZXU5bXd1Q09GYktOWXNZTXBlUjRPUTRIS0FDdlJSUnUyS2ViOERjTGdpNk9XdWhtZ1JXay13TUVVOWd1Q0dRYTI4b19vV2NyTGE3dzJXeEpmelNOWGpFT01pZEpRNXVUVnNlU0pBeDNKU2t1U09vSlpycC1kQW5HWVhQV2pBQjVlTQ?oc=5",
-      "sourceHome": "https://www.business-standard.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "80-2026-10-07",
-      "title": "కన్నీళ్లు పెట్టిస్తున్న తెల్లబంగారం.. నల్లగొండలో 80 శాతం పత్తిపంట నష్టం!",
-      "summary": "&nbsp;&nbsp; BigTvLive",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "BigTvLive",
-      "publishedAt": "2026-10-07T09:50:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlc1RElldjBmN1JVNkYzMnpnN2ZLQ0UzTWFPLTlPWW1UWVZ6N3YyR3IzeXVlRi1EYk8wU2JVNk53TkgwUVp3OTU0bVZYUlhfeHFWSDM2Mk1ZdlljczU3QW5uNTcxZmVXWjFjaTFETDE1QjdfXy10WVZIOXFfYXhUdThvNVJXekYtbDBodE95alhidXZqZnZic0lSSzdQd2NiZkdZR0hXRQ?oc=5",
-      "sourceHome": "https://www.bigtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "climate-change-threatens-nigeria-s-food-systems-as-farmers-count-losses-",
-      "title": "Climate change threatens Nigeria’s food systems as farmers count losses",
-      "summary": "&nbsp;&nbsp; Vanguard News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Vanguard News",
-      "publishedAt": "2026-10-07T06:49:05.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDFmczdndlJHemtNWUJwVFVJMmQ4VXpoOV93bHlLSHh4MW9jWk5nMVJ0VE94SEhfODhZQWdHSi1Ga1h1YmVKRF85b3lkTUpwUW9Lb3VSSUdWQm9xR05BczlxbE03N240cm8yWnpWUThrYnpRVzdpUDhVTFp3N1loWTRpcmRmSVo0MTJEMTB0ZmppLVJ3X3lDS1hzT25uRHhjb3hjOU9jcnNGa3PSAbABQVVfeXFMTjIzekZkM0g2MmQ0dDBKUXRtSG1QS0JKV21Gb0pEdGVqOVpiazhuaE1Pc0VxemZZRmZucXNVNHNHRFhxYWx4ZF94UVpHbnh4bnZLaTNJb05fWGw2OGlaZ200SUdGaUt5WnpmWWFsVFc0MEV6dkZlV3RzVjA1Q2J4YnAtaHdvNFhDRTg4d3cyOWQ1d1NTMHBwLWxua0FVZFZuQ0pmeF9xaWhmOWk2ZEdfTVU?oc=5",
-      "sourceHome": "https://www.vanguardngr.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
