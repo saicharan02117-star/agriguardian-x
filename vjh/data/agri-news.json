@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T06:05:56.053Z",
+  "generatedAt": "2026-10-12T06:15:50.619Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "2026-10-11",
-      "title": "షాకింగ్‌ న్యూస్‌.. రైస్‌ ధరలు పెరుగుతున్నాయ్‌!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "id": "hindustan-times-telugu-2026-10-11",
+      "title": "మార్కెట్‌కు రావడం తగ్గిన ఉల్లి.. ఎల్ నినో ప్రభావంతో పడిపోయిన దిగుబడులు.. కిలో ఉల్లి ఎంతంటే? | Hindustan Times Telugu",
+      "summary": "&nbsp;&nbsp; Hindustan Times",
       "crop": "All",
       "type": "market",
       "regions": [
@@ -16,10 +16,65 @@
         "india"
       ],
       "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-11T03:37:30.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY1J3SmNKc255S1czX2xUMWxSd1Z4ZC1NMm1lbGpMTEpILVdUMGI1VFJJZEJmQ2V1V25yaGp0TWpjQ1llcmZ5VWFfVGptZDdGZkdGWFpVcHowY0hIRmhoWEFVRTQxd29kNDRKd2tMZDAzM1VkMmNxNG1SZ2tMZWl4VWlPektweElDRnR4ZC16MWxWbGsxaHh5cUQ4S2RYZkZfZGdjZ1B0a2lfRTZlQ3Q4Q2VLTUpKQmRRSjRxbjNGdjlIckJkX1lpWkRTUGhSZHlrNGlzNGRmcURLcllEOTA5WkJ4Yzh2aW4zR0paM3ZCWHBfWWFQU05SNGRsMzFtSlZRbWVCSktfSkd1anI2djBfQlFzMm16R3Z10gGYAkFVX3lxTE9jUndKY0pzbnlLVzNfbFQxbFJ3VnhkLU0ybWVsakxMSkgtV1QwYjVUUklkQmZDZXVXbnJoanRNamNDWWVyZnlVYV9Uam1kN0ZmR0ZYWlVwejBjSEhGaGhYQVVFNDF3b2Q0NEp3a0xkMDMzVWQyY3E0bVJna0xlaXhVaU96S3B4SUNGdHhkLXoxbFZsazFoeHlxRDhLZFhmRl9kZ2NnUHRraV9FNmVDdDhDZUtNSkpCZFFKNHFuM0Z2OUhyQmRfWWlaRFNQaFJkeWs0aXM0ZGZxREtyWUQ5MDlaQnhjOHZpbjNHSlozdkJYcF9ZYVBTTlI0ZGwzMW1KVlFtZUJKS19KR3VqcjZ2MF9CUXMybXpHdnU?oc=5",
-      "sourceHome": "https://tv9telugu.com",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-11T16:18:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNjJWM2dyUjEzemFTdGlXZkVtYW5rMVRqYk1ockpKM0hBVWRydGkzWTJtTnppVlFMS0lyRUFPWlkyN0VmN2Ziem9YNzhuTkV6Q2tPeGNVa08wdWtHb3NiOXZrM1Z5dXVZa0V2dHA0aUplRDY2NWwzbTBRd3FFa0pFRm9yRVhCOEdPN2JhTXFhdEZxVG9QN0VlRzdHRTlTR3U1R3ZoMmZMZUhzenRDNUlKUXF3X1BQLWwwMHFUY2xpV1hEZGFOYmJEcVA1VzQzUzQySFhhOU95MEpvem9aalEybnZaSVBjcFRYb3pCdUNBbkFoaDVKbWd4XzhQbGszQ2lDbUtqNldn0gGGAkFVX3lxTE02MlYzZ3JSMTN6YVN0aVdmRW1hbmsxVGpiTWhySkozSEFVZHJ0aTNZMm1OemlWUUxLSXJFQU9aWTI3RWY3ZmJ6b1g3OG5ORXpDa094Y1VrTzB1a0dvc2I5dmszVnl1dVlrRXZ0cDRpSmVENjY1bDNtMFF3cUVrSkVGb3JFWEI4R083YmFNcWF0RnFUb1A3RWVHN0dFOVNHdTVHdmgyZkxlSHN6dEM1SUpRcXdfUFAtbDAwcVRjbGlXWERkYU5iYkRxUDVXNDNTNDJIWGE5T3kwSm96b1pqUTJudlpJUGNwVFhvekJ1Q0FuQWhoNUptZ3hfOFBsazNDaUNtS2o2V2c?oc=5",
+      "sourceHome": "https://www.hindustantimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-11",
+      "title": "ఎల్‌నినో ప్రభావంపై.. రైతులకు అవగాహన కార్యక్రమం",
+      "summary": "&nbsp;&nbsp; Suryaa News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Suryaa News",
+      "publishedAt": "2026-10-11T14:15:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk5NMmhPdDAxNWVjOGJoQXRCN2c2ZDFjU1FpU01sTFd0TGF1LUkxVUpaY2wtR0ZDbFNMd3dBWU1KOUhGX2pHVmVNblpkR3MxLTdlQ2hGSHJ3cEE5WUg0M1pxTWRkeW0wU19QZHg1M2hxaUQzZzh4cl83RUFCb2JGa1FhSTdmWE5MRW1IVzBzaG0xcURf0gGUAUFVX3lxTFBSTk0yaE90MDE1ZWM4YmhBdEI3ZzZkMWNTUWlTTWxMV3RMYXUtSTFVSlpjbC1HRkNsU0x3d0FZTUo5SEZfakdWZU1uWmRHczEtN2VDaEZIcndwQTlZSDQzWnFNZGR5bTBTX1BkeDUzaHFpRDNnOHhyXzdFQUJvYkZrUWFJN2ZYTkxFbUhXMHNobTFxRF8?oc=5",
+      "sourceHome": "https://www.suryaa.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "shabad-2026-10-11",
+      "title": "Shabad: షాబాద్ మండల రైతు వేదికల్లో సీఎం రేవంత్ రెడ్డి లైవ్ ప్రసారం!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-10-11T07:02:58.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjJmakxwUi14Nmlzd2J3R2Rma1B3R21hcFFyU2RURGdDd0dJQWo5ZHVHMkExRWtFQWxZdjJYLXlPNHBhMTJUWjhaMUpodFdZOGktYmVDV3BvVVhLeGd2RGRQX3FoclZvNjdSVmdFRnJUTC12ajMtZmxWd0JoWTlOeTI5SnFDRHBkZU9tU2tOTkFVZF9hUDA4OXhDNUlNNGR0VjNF?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cm-mohan-yadav-pushes-modern-farming-and-food-processing-to-boost-farmer",
+      "title": "CM Mohan Yadav Pushes Modern Farming and Food Processing to Boost Farmers’ Income in Shajapur",
+      "summary": "&nbsp;&nbsp; Indianmasterminds",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indianmasterminds",
+      "publishedAt": "2026-10-11T06:39:19.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0U1eVB3WjJzY3Myc2xQcW5ra0ozLVRfZmVoSENZeFF5QThuTlEtZWM3Z0VJcjN0T19KcUtfNXNfVjBhTnZjWU9KZDhuZ05mM2dBX1BDZFlNTTRXS2R3YjNEUHo5MnJzU2ZPM3pfdm8wRVhtM0dfak1hV1ZlTG1oeDVlck9ncXhKejF1TUZiSGJBdWR5d3FoQ3drWU9kZk5qcWdWZlliZlozdw?oc=5",
+      "sourceHome": "https://indianmasterminds.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -35,8 +90,8 @@
       ],
       "language": "en",
       "source": "The Economic Times",
-      "publishedAt": "2026-10-11T02:06:52.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaTZWS2FYUDJ3a0g5dEtTYmFoTVdRdktIQk52VWtFYjZjSW1LMkhlajJ5dnV3TWtsaEpfcExUYzVETUVCLVFJdHlKb1plUkZLMTNtUzhYSzl1MGlEYllNcW5WM2pOY1hYN3JmY003TjNzaDJLRVFCbWg2NWs3QVlOVktUM3kzbXNsckIwRk9rSnYwZ1lBZVpnbWFzZmZVc2xzYjE2eEJVcEFzbTVBUk1sX3FrdkhsOWgwbExGY0I0WG04dUdIWEhtcl84bUloa2NJYWFoaUx6T1ZxNkpYQ3FNb0M1UnZOVkZnSjdNaS1GWnBSa0xobmgyRDZSdmJ0ZFHSAYQCQVVfeXFMT2ZrNUl2YkR5RTR6ZVdDWjQyRkRsNmt3elpQYXcyRThacGhHSThycEoyWktVLTlSbkdsUkVWX2Vwd0dQYXc0X04zVFBBU0UweWFlNUVVdE03Z2NxTEdqTzIwUEZnWEVvR1d4b2pjVjJEbjNCUUNNUGVKaXdjNk9LVFFRcW54Y19jcjdrQWZ0UFAzbGE3Tk9qRzhrWEFHb1FmSi1mdk1ScFRSTDNhUUpibHh3Y09fcmY2RG9IMGxEUVdwQU1idXlDOV9kNGxwRWFPT202anI2d2tPVGVicWVwVnVZc3l4dW8xNDl2eGJ5bzJtNU1fUjF0SFBtcTVsWHZFZV9rRWI?oc=5",
+      "publishedAt": "2026-10-11T02:06:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZms1SXZiRHlFNHplV0NaNDJGRGw2a3d6WlBhdzJFOFpwaEdJOHJwSjJaS1UtOVJuR2xSRVZfZXB3R1BhdzRfTjNUUEFTRTB5YWU1RVV0TTdnY3FMR2pPMjBQRmdYRW9HV3hvamNWMkRuM0JRQ01QZUppd2M2T0tUUVFxbnhjX2NyN2tBZnRQUDNsYTdOT2pHOGtYQUdvUWZKLWZ2TVJwVFJMM2FRSmJseHdjT19yZjZEb0gwbERRV3BBTWJ1eUM5X2Q0bHBFYU9PbTZqcjZ3a09UZWJxZXBWdVlzeXh1bzE0OXZ4YnlvMm01TV9SMXRIUG1xNWxYdkVlX2tFYtIBhAJBVV95cUxPZms1SXZiRHlFNHplV0NaNDJGRGw2a3d6WlBhdzJFOFpwaEdJOHJwSjJaS1UtOVJuR2xSRVZfZXB3R1BhdzRfTjNUUEFTRTB5YWU1RVV0TTdnY3FMR2pPMjBQRmdYRW9HV3hvamNWMkRuM0JRQ01QZUppd2M2T0tUUVFxbnhjX2NyN2tBZnRQUDNsYTdOT2pHOGtYQUdvUWZKLWZ2TVJwVFJMM2FRSmJseHdjT19yZjZEb0gwbERRV3BBTWJ1eUM5X2Q0bHBFYU9PbTZqcjZ3a09UZWJxZXBWdVlzeXh1bzE0OXZ4YnlvMm01TV9SMXRIUG1xNWxYdkVlX2tFYg?oc=5",
       "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -44,14 +99,14 @@
     {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-10",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; PIB",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
       "crop": "All",
       "type": "scheme",
       "regions": [
         "india"
       ],
       "language": "en",
-      "source": "PIB",
+      "source": "Press Information Bureau",
       "publishedAt": "2026-10-10T12:07:48.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
       "sourceHome": "https://www.pib.gov.in",
@@ -74,42 +129,6 @@
       "publishedAt": "2026-10-10T11:39:30.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHppN0lTMi1HV0ZpYy1vTkNiXzRQODZjX3dwRmZ3TFZ6STJBS2cxTkNRYjJ0TW4yc1lwV3RtT0IwVTJHMi1QM21sQkRuS0pTWW9HbFBSYmhkVU44eC1iMDgzTUlWNU5BS0JfM0hjakJMM3BkenpSNEZscm9DVDhRTEZlRVlmYmFRNWYwVTNhSUNKelNhMFctUXlyUmluYXpZ?oc=5",
       "sourceHome": "https://telanganatoday.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "andhra-2026-10-10",
-      "title": "Andhra: ప్రస్తుతం ధర లేదు.. అయినా లాభమే..! బంతిపూలతో రైతు సక్సెస్..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-10T09:46:08.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGdQWUtZTVN0NHhrdG5tZk9wWUFFR0M1OG9fMHl0bTdPUG9HVEZYTUo4cTNPQzdnV29SSDVsdUlZUnMzQkdMNnJSSlNJd1VoRXc5Ti1RdTFvSUU0dUU0U3IxTWxIMXJtRmdSbVhCckdHNDVfTWk2UjlqV2FITTFZOVJ1T2M3enVMQ2NxRGtmUHktbWIzUG5sdVNrRE9UT28zY2lJdzNoMTFnc2NxRzdvanY4eERpMW9aWEZ6QWlBVWUzYmfSAcMBQVVfeXFMT0xnUFlLWU1TdDR4a3RubWZPcFlBRUdDNThvXzB5dG03T1BvR1RGWE1KOHEzT0M3Z1dvUkg1bHVJWVJzM0JHTDZyUkpTSXdVaEV3OU4tUXUxb0lFNHVFNFNyMU1sSDFybUZnUm1YQnJHRzQ1X01pNlI5aldhSE0xWTlSdU9jN3p1TENjcURrZlB5LW1iM1BubHVTa0RPVE9vM2NpSXczaDExZ3NjcUc3b2p2OHhEaTFvWlhGekFpQVVlM2Jn?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-s-cereal-markets-diverge-as-paddy-gains-momentum-while-wheat-exten",
-      "title": "India’s cereal markets diverge as paddy gains momentum while wheat extends decline",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-10-09T21:09:50.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHFqWVBQUXZCcjJ4dm1MUlhLYWx0RmV0ZFNNU0xSRkViS3BILXhVRExrREJCeDZEc0g2SnN5Ym9hVXlOTXNLTXc4SDhGWW1FNVFhcldlbFBGa1pRQXM4TGxMeU41R1hySzE4NGE1WGthekR6SFVjb1ZudkNTUGJzRzNrY0hUVUwyOGtKeVNqTnpkUDdjZ0tkbTB6MXVzODVmZzVHYjlzVndpUGFHQ2JHSFhKV0pCWV9KZkVDZzFlTU54NkVzcnhiVmFR?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -151,19 +170,38 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
-      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
-      "summary": "&nbsp;&nbsp; DD News",
+      "id": "planting-and-growing-cantaloupes-sweet-summer-melons-2026-10-09",
+      "title": "Planting and Growing Cantaloupes: Sweet Summer Melons",
+      "summary": "&nbsp;&nbsp; The Old Farmer’s Almanac",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-09T12:19:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
+      "source": "The Old Farmer’s Almanac",
+      "publishedAt": "2026-10-09T17:05:05.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMlBwUWNnYloxY2hBeFBUU3pLZTdPcHd3UkJoOTRmS2FsNjBpOTgxUU1HWDZ0Z1FXbjNOc2RIdXpmRWZUWERlNzhnb2FTOEJ1TVpr?oc=5",
+      "sourceHome": "https://www.almanac.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-ciari-sri-vijaya-puram-promotes-sustainable-agriculture-under-khet-",
+      "title": "ICAR-CIARI, Sri Vijaya Puram Promotes Sustainable Agriculture Under Khet Bachao Abhiyan at Tushnabad Village",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-10-09T11:48:53.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYU53UnlKTVlTMXFMd2x6b1JmTzZ0STlwQkNqdUNvZDJOSHl1YmdlSnloQTZTWjU4bWE4R05rNjBIQnBpSGNvSXkzWEIxanZQaS1NaFNOT1BtYk5XaHhRcEFkX1RVQ1c1Umh4WWdjLWpzby1JcThBRHdGZVZCSy1tdlJWMmh3M1BQd3F4S3JsOG1fX2JnZHptRjNLYzZ2dHM5Q081VUtEMzFvb1d0aFFqMUZjTFEtVUZHZ0tV?oc=5",
+      "sourceHome": "https://icar.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -187,40 +225,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "success-story-how-nihal-singh-achieved-up-to-70-lakh-annual-turnover-fro",
-      "title": "Success Story: How Nihal Singh Achieved Up to ₹70 Lakh Annual Turnover from 20-Acre Pomegranate Farming Using Biological Products",
-      "summary": "&nbsp;&nbsp; Krishi Jagran",
-      "crop": "All",
+      "id": "wasde-whiplash-leaves-corn-bleeding-out-2026-10-09",
+      "title": "WASDE whiplash leaves corn bleeding out",
+      "summary": "&nbsp;&nbsp; Farm Progress",
+      "crop": "Maize",
       "type": "scheme",
       "regions": [
-        "telangana",
         "south",
         "india"
       ],
       "language": "en",
-      "source": "Krishi Jagran",
-      "publishedAt": "2026-10-08T11:20:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV204NXpWSEpQSFRQMERqMUlVMmZmNHBtU0dqZ1dOMFg4aXZXaEtUV2Nld01reVVCUXZyMEI5X2ppX1J0UWNwS05Eb0FieWpHZXpEazZqc1lnVXROMGpyaU9rSUt4QlpmMVg4SE9qUXBZaXM3WjFsbndDczB6d1h1Mmo4SjFYMS1yU2gwMEpPYVhNbWJFbzRzTHQyVmR2eDNmT0FBX194MDM1SUp1bmRkVHZCcVNlVWJNcEVkNWpNbExlZi1kbzZ5ZWdORVZGMTNQRGFadVo4Q3hmRTd1NGZfWk5Zc1VnS3ZqV2JPRlc2c29qUzd3MWxUSVNVUdIBgwJBVV95cUxNcFBjeGpiUmZKVDVYZFFpQmItOEJJaDdnTXc1a0RFZ3c5WEJSOTEwOV8yd0g2WG1nQ1pOOTRpdl9GeVVtRUFCaV92c0s4d0IxNTdqVUJWU25sbnU5S1VIOHJYd3ZKbjlQcmIxZ3ExSjQ5dHcxTGhSLXhwMmN1WnBOMkp3cmpxVjQtRGpjbDI0UWhpNkk0WFlfaFNqSDlQcTFvczdER0QyWFRoSnpNdUhxRVhpdXlTZTRNYVRXLVlKSm9UeVJQRVZhSUdTd1hxdEdYRUZqYVp4WkZmLVV6VmRLOTVkR1NoelNYRS1qbV8wTVhIdzFDTnNRd2tXdzBDUXdhMU5V?oc=5",
-      "sourceHome": "https://krishijagran.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "bioagri-2026-hyderabad-brings-together-india-s-biological-agriculture-ec",
-      "title": "BIOAGRI 2026: Hyderabad Brings Together India’s Biological Agriculture Ecosystem for a Sustainable and Smarter Farming Future",
-      "summary": "&nbsp;&nbsp; Krishi Jagran",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Krishi Jagran",
-      "publishedAt": "2026-10-08T09:09:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGI2a2xmQnhqUEhkZDRvTmxUTzJZVXp2dnNrMFpNQ2ZBRjd2SjN2YWdHLU9kYTYzbHd2SDYwajZJbE9mUVNudk0yeG1kWFN0ZW1hZG95LXd6QzI2Ym5CZUoyRHZUMzlwMmZIbzVNV2swbVJFS2t0d2RfLWoyQ0JxYjlzNTBNQmpocjlxdWFDOEN1S0J6S29iMFBwTF9NVmtwNi0wa2owVmpjTl9oN0x4OUNaTUZ2c1Vwam4ybFYzd0Y0Wmp0QmxILTlhWXVmTGE3bFZkOElDNmpoNllKU1c1eGMwenBHZDF5elpZ0gHzAUFVX3lxTE16TXl3QUlqUFVxZ3FqSk1KeWJGMjlCck1ORlhFN3RmeG9tUTRQaGNkU1pMRXRaRFgySTF2Xzd2TkVXVDJ3aFlmcm5IbDJGQVlhbDVxSmtrMGd3NVF1TGNUbUUxVjBQVlhuUFoxWDh4LXRBT1ViTU1TNXZDdG4zMFRfendvczY0RUJxbDltZVBHWFZCNEk4ZzhqLXRBMkVpa0NKSllfUXhUY3QtYWJ1MVFkZk45VFJxM0tTTG9pbjFMckVkUUx6YkNBMWRRbGhzaDQ4UTI1czNmdWZtSURfRGxua2pjdVE5bVZoOW1YbnAzSW1uZw?oc=5",
-      "sourceHome": "https://krishijagran.com",
+      "source": "Farm Progress",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
