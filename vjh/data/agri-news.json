@@ -1,9 +1,136 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T06:56:48.641Z",
+  "generatedAt": "2026-10-14T05:09:02.305Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "telangana-rains-5-2026-10-14",
+      "title": "Telangana Rains: తెలంగాణకు వర్ష సూచన.. 5 రోజుల పాటు వానలు, పలు జిల్లాలకు ఎల్లో అలర్ట్",
+      "summary": "&nbsp;&nbsp; Samayam Telugu",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Samayam Telugu",
+      "publishedAt": "2026-10-14T02:15:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1Q0M21SVlg3R0JaS3dVRG5Qb2YySkQzQmZFVlB1ZlJSUWF0WVlneXU5d3RVYTZPYklFaHJvX3dQQXAyNGFhMkV4a19UZVNRbE1hVjI5elJFaG9iNFFIZlM1amYweUQxOVFjN2lUbWo3bS1BMHVIek9vNC1DajV5ZS1VaWVsbHlGOHp1cFRCS28xVkFiNEVuc1oxSlE1OXJuMThwMTdGQXlBdWllZUFGNHFCVmtPbXJBNmZEemdQQWpxUXNoNS1QZ1Jxb1BsdFp3bU8xalZtNDdpQ2xaei1XRktKZDdvWll1MDhGMXdwTWhCaVE?oc=5",
+      "sourceHome": "https://telugu.samayam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "bks-rejects-bhavantar-scheme-puts-govt-on-spot-over-msp-procurement-2026",
+      "title": "BKS rejects Bhavantar scheme, puts govt on spot over MSP procurement",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-13T17:54:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQempuSFdFTjhyX0R1UHotV3JpMzZ2Uk51eG50ZGlPTkYxMV9ad1VzVUgyZ0xmV1VmWWdnVjVZT0c4WGlIcjRUR3dmSHJCRkpZbjdybV9SaWtGN1JoZzk4enZIbEI4Vy12dXZuWFptUnJ3aUhPQmdmVExqUDYwbmpGVzNKdFRoMjlSWDNJU3RQNlBkSTdsUHBBUFVIOU82ZU4zWlFFVm94cFRtUTV4X2VXZExZRzBYanpneUZ2bzdCeXdyTEM4UEI4SEpyT2tpVzJuR25WTEh1djfSAd4BQVVfeXFMT1ltN0gzRjVtUTk0S0RRZzBrWFVvdU1mT0RWcUh1dkZaUEt6UmRIbkczYkRyWURBUnQ0ZjQtdVNFUnV6VUY1SHhZeGQ5MDZWWDBxQ05hcm16TW0yX0VzTUV0Nll3aUZyWWdsUGF4dXZ5YlFvTENwRDZUSWc5ZFRYRlVYUjNNZjZwTkNhYUdiRE9CUmxaSWJ6Nzd0SlpJYkktQ2RFUEU5Y09XOHNtWm1DWEJKX1RUUDBRckNTLUwzTFhMazc0RnpuNzc0TFRrSTdmVkZKZGdTSmt1cEIyMFB3?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-faces-costly-year-as-el-nin-o-preparedness-lags-2026-10-13",
+      "title": "Telangana faces costly year as El Niño preparedness lags",
+      "summary": "&nbsp;&nbsp; Telangana Today",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telangana Today",
+      "publishedAt": "2026-10-13T14:48:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUlJbWhQYlVGa3plRzM1MzlpenpZR1BQV1BvVkt2cHRQRUJPQ09rQW5hal9COGprYXROU2RncUxCWWxBRzBKVXpuSkZhaHJVeGFxd1AwODdEU3Fqd0RCSngwR201TFRob0poLTEwUC10SUFoblFVd3lJTC1yYmpSTzBvNVFsSEQ3VlBB?oc=5",
+      "sourceHome": "https://telanganatoday.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-13",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-13T09:41:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "farmers-union-gives-govt-dussehra-deadline-over-power-cuts-threatens-str",
+      "title": "Farmers’ union gives govt Dussehra deadline over power cuts: Threatens street protests if issues remain unr...",
+      "summary": "&nbsp;&nbsp; Bhaskar English",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Bhaskar English",
+      "publishedAt": "2026-10-13T08:11:40.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTRyYWpaOWRCc216UXprTXZFZmctQUlEclZIOGpWWE0xRm05M05HQ0E1d3FPNzhjVGdPLVB1dW9YMS1LbVJFaTIzSEpMejVaMWFobW9wVkl4STJvcmd2NFY0bnBNSF9QNkxMZUR0Y1JqWkNnQmdBZXIyMTZfR3NuNVN4RnBOeE1XbW5aQTFoT0pTc1VhUWxoeGxtbGNNV2VjeXNUQnZrVFNrS1VtSndXM1VsU3ZRbXd5WDlVM9IBwgFBVV95cUxQMC1VbWZLTUtVNmpQRzdxNWZXWVBYU0tkblF5QU1pa21wM3RzdTVnQW5XZVJDNjJDZS1YLUNXQ3pOd1RWVGVCVlUxVHRtZXRuQWhFZklOWEJkVnhQQ0J2WGdlUXVRd2VTT2hIYjB1TXk0bk5pSDkxMm5SN3JQMWs5MTlsVF9ySEtwVDVOWkhLMmxnRXlZYlRnTFVPVk8xNi03cXZQcGlLMWNHSkZwb1RScXZOMlpXV2sxUmRuYThCaC00QQ?oc=5",
+      "sourceHome": "https://www.bhaskarenglish.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "warangal-cotton-price-9-060-2026-10-13",
+      "title": "Warangal Cotton Price: పత్తి ధర రికార్డు.. క్వింటాకు రూ.9,060.. అయినా రైతులకు మిగిలేది ఎంత?",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
+      "crop": "Cotton",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-10-13T06:11:57.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHZ3YXpvYmo4N1h6UllNZVA5ZFhNeFZLRm1EdUdIekpXM25vNzFydEJ3bnYwdGgyREN4TXZBRV85MHMxUkIycjh6bTJJOG9RUFRJeHk5cTN3U3J3dUZtODNDSTBNUGxvcDVlWGp3R2tibWk4WjhDOFVfZnRLNlRMTDk2c1dSUzhidXhUdllpdS1GQWV6al80OEJEcHZCZzNXWFJ6c2lQRmRNS0I2Mmtzei0wa3h1UdIBtgFBVV95cUxPRHZ3YXpvYmo4N1h6UllNZVA5ZFhNeFZLRm1EdUdIekpXM25vNzFydEJ3bnYwdGgyREN4TXZBRV85MHMxUkIycjh6bTJJOG9RUFRJeHk5cTN3U3J3dUZtODNDSTBNUGxvcDVlWGp3R2tibWk4WjhDOFVfZnRLNlRMTDk2c1dSUzhidXhUdllpdS1GQWV6al80OEJEcHZCZzNXWFJ6c2lQRmRNS0I2Mmtzei0wa3h1UQ?oc=5",
+      "sourceHome": "https://vaartha.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-13",
+      "title": "చొప్పదండి: పంటల ఎంపికలో రైతులు జాగ్రత్త వహించాలి",
+      "summary": "&nbsp;&nbsp; Lokal Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Lokal Telugu",
+      "publishedAt": "2026-10-13T03:46:59.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFE4QWZobnJBa09tcmJzbW1BS1hvYXZjTFFuZmV4VzdveXNBb0U5VllZQmVHWnFPTkozeFpyaHpQZS0tclBkNS04OWtNX2dFVEhaSkxxeFNHVlRRZ2RtczdaSGVuLTZFYXp0SkxUaENOaWt6M3h6NmlfVjBIY0tPV054dlB0VjlPSVRnV3FrYWdJcE95Umw4V2Uwc0ZyWVRwekt6WE9fVG9seTdrb3FfMWI0M092eG5oUVdjTVZLQmJuc0J5a2ozVNIBzgFBVV95cUxNZmIwVlNLYkloOXRrbjN1b2lfeUJqMVJrS0ZETWl3LVdmNnFQWU1tOEJSbXhGdDBCdS1PdFN3NU5EVWVSY0l6cXVlYTRONXM1bFlJTWlDTDE0cEhvMnJSTGpDYm50N0dJMU1HZG1zLVI2Z05hMnpzOThFQXhkbmpTVlplRng5U1hheWQzdlo1ZkhRR0ZmaGV3NFRjc1NLekt2QkJnQkZBY0FQU3lYTFI2ZmRHdUQ1dk1VR19mN0Z3SU9ZUHlQcFFvWV84bWI0dw?oc=5",
+      "sourceHome": "https://telugu.getlokalapp.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "farm-procurement-financial-assistance-fueled-agricultural-growth-in-the-",
       "title": "Farm procurement, financial assistance fueled agricultural growth in the state, says Uttar Pradesh CM Yogi Adityanath",
@@ -60,6 +187,23 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "pigeon-pea-market-size-to-reach-9-50-billion-by-2031-driven-by-plant-bas",
+      "title": "Pigeon Pea Market Size to Reach $9.50 Billion by 2031, Driven by Plant-Based Proteins Demand & East African Exports – Mordor Intelligence",
+      "summary": "&nbsp;&nbsp; StreetInsider",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "StreetInsider",
+      "publishedAt": "2026-10-12T20:32:49.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNajlrcWd3cWhHY0tINlh5SWs1YXFiZk5Mc042VUZGR1J0Tl9yRkZHMUlkMWJmM21VQ0c5ZTdEY3d2SXBnRnUzX2o4VmJrZVJUdXVJeFNFS2cxYm9BZ2ZtakdrSEZ2MVIzd2VHZmg0RHhTcTMzU3VQMnpaekxYRExqek9ERXFKd0h0QXY1MEsxejlwZU5Xd2c0bHNQWWtlM05zdlYyX2NHTDdNVTI2V0RnVXhJRjJQQk5Celp1eW4ycUNLLTRFcVlGWlJzQnduenJLNlRTRE1OYWpQSG9MdGtfM3ctZTEwVnlhYWZVZGFCSkVtWXhRNXFkZF9TZzRxNnc2cE1TbzBFY3NsQWhfbVd1R1R6am91NFpfR1hjMWFyNlZWRjQ1c0F1UHlsTQ?oc=5",
+      "sourceHome": "https://www.streetinsider.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "wheat-sowing-faces-heat-from-water-shortage-this-winter-2026-10-12",
       "title": "Wheat sowing faces heat from water shortage this winter",
       "summary": "&nbsp;&nbsp; The Economic Times",
@@ -111,42 +255,6 @@
       "publishedAt": "2026-10-12T14:01:40.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY0xjTlZFWm9CZFZodTFTenFTbVdLSGpzanhsQ01MWXMxNW5fdmxlMlM1aWI0RzhVXzR0NFF2NWhPQmlweFNFa3BjeGlkVHMwZ0JwbVBqNXoxODVvd3F4Q2hVT05LdnJNaHJEcE42NGdnLTJON25DTEo2TS1haWFfRW1MRVNmWWd6RlB3c3A0cDhUekNxek5LTWlTZ3hZU1AzQjR6RXBoYmY1TUdkQ2hGY0JHc29jN1luMG1jWnVFZw?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-12",
-      "title": "కరెంటు కోతలు కాంగ్రెస్ ప్రభుత్వ వైఫల్యమే",
-      "summary": "&nbsp;&nbsp; Suryaa News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Suryaa News",
-      "publishedAt": "2026-10-12T13:35:18.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnRxV2VKbUcxdFdPbTdueVpxZEJDYTl4QnZVVjBQcUdJN3ZqMHFfMnVwa25DTEkwM3dIRXJNcGp1VkF5VmwtZ1l0U2Z3bkRDZC01YndfRjdRM1NsUV81UVBEM0VNSDRzb0gyMTQ3LXNNN2pYdGNITnBZOUJxbTV2VHZSMnlDQy1lZ3fSAYoBQVVfeXFMT1J0cVdlSm1HMXRXT203bnlacWRCQ2E5eEJ2VVYwUHFHSTd2ajBxXzJ1cGtuQ0xJMDN3SEVyTXBqdVZBeVZsLWdZdFNmd25EQ2QtNWJ3X0Y3UTNTbFFfNVFQRDNFTUg0c29IMjE0Ny1zTTdqWHRjSE5wWTlCcW01dlR2UjJ5Q0MtZWd3?oc=5",
-      "sourceHome": "https://www.suryaa.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "mission-for-aatmanirbharta-in-pulses-2026-2026-10-12",
-      "title": "Mission for Aatmanirbharta in Pulses 2026",
-      "summary": "&nbsp;&nbsp; Utkarsh Classes",
-      "crop": "Pulses",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Utkarsh Classes",
-      "publishedAt": "2026-10-12T10:33:57.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWdRRkplaEFaQTF5THh6Q1V3VlhBRWoyRUtaTjlKNE9wQUdaNF9pOG4tS09pZHI0eVhjZkFlTHRVQ0hUeC1qVmE1dEc5UTJvbVJVSFpjY2p6NzM0dWhaclZUM1dHS3o5bEtuajBSMV9yZ1Rvc3U4TjZ1VGdhYVBDd19lVUZYN1RNUzFtc3d4NXRueGtrM1dpbE9pcHJySDlld3dTeEpDMUM?oc=5",
-      "sourceHome": "https://utkarsh.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -239,23 +347,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "centre-clears-large-scale-potato-chana-and-tur-procurement-to-stabilise-",
-      "title": "Centre clears large-scale potato, chana and tur procurement to stabilise prices, support farmers",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-12T02:57:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmI3UWxpcTZRWjZiWGZiZFQwNk5BWFhIWllQdG5sWVdKZ0R6X1Nud1dPdmQxRWFvMGZEYlk2a1JFRG4xTTJUNGV6SWxmVzZCMzlaYnk4cC1KMlZrUjNNVzJvTjM4akRsQzNadnlfalZIREdNZXdfZllGaTkzYnFVc3Fnb3ZOdkJ3QldsUTRpaE4wYWpsTmo4VkVZV2Z5MGgxNVVCQ0ZVblY0a09EaVBPaFpJMmRqSk1ycmlsWg?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "hindustan-times-telugu-2026-10-11",
       "title": "మార్కెట్‌కు రావడం తగ్గిన ఉల్లి.. ఎల్ నినో ప్రభావంతో పడిపోయిన దిగుబడులు.. కిలో ఉల్లి ఎంతంటే? | Hindustan Times Telugu",
       "summary": "&nbsp;&nbsp; Hindustan Times",
@@ -271,62 +362,6 @@
       "publishedAt": "2026-10-11T16:18:04.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNjJWM2dyUjEzemFTdGlXZkVtYW5rMVRqYk1ockpKM0hBVWRydGkzWTJtTnppVlFMS0lyRUFPWlkyN0VmN2Ziem9YNzhuTkV6Q2tPeGNVa08wdWtHb3NiOXZrM1Z5dXVZa0V2dHA0aUplRDY2NWwzbTBRd3FFa0pFRm9yRVhCOEdPN2JhTXFhdEZxVG9QN0VlRzdHRTlTR3U1R3ZoMmZMZUhzenRDNUlKUXF3X1BQLWwwMHFUY2xpV1hEZGFOYmJEcVA1VzQzUzQySFhhOU95MEpvem9aalEybnZaSVBjcFRYb3pCdUNBbkFoaDVKbWd4XzhQbGszQ2lDbUtqNldn0gGGAkFVX3lxTE02MlYzZ3JSMTN6YVN0aVdmRW1hbmsxVGpiTWhySkozSEFVZHJ0aTNZMm1OemlWUUxLSXJFQU9aWTI3RWY3ZmJ6b1g3OG5ORXpDa094Y1VrTzB1a0dvc2I5dmszVnl1dVlrRXZ0cDRpSmVENjY1bDNtMFF3cUVrSkVGb3JFWEI4R083YmFNcWF0RnFUb1A3RWVHN0dFOVNHdTVHdmgyZkxlSHN6dEM1SUpRcXdfUFAtbDAwcVRjbGlXWERkYU5iYkRxUDVXNDNTNDJIWGE5T3kwSm96b1pqUTJudlpJUGNwVFhvekJ1Q0FuQWhoNUptZ3hfOFBsazNDaUNtS2o2V2c?oc=5",
       "sourceHome": "https://www.hindustantimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "shabad-2026-10-11",
-      "title": "Shabad: షాబాద్ మండల రైతు వేదికల్లో సీఎం రేవంత్ రెడ్డి లైవ్ ప్రసారం!",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-10-11T07:02:58.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjJmakxwUi14Nmlzd2J3R2Rma1B3R21hcFFyU2RURGdDd0dJQWo5ZHVHMkExRWtFQWxZdjJYLXlPNHBhMTJUWjhaMUpodFdZOGktYmVDV3BvVVhLeGd2RGRQX3FoclZvNjdSVmdFRnJUTC12ajMtZmxWd0JoWTlOeTI5SnFDRHBkZU9tU2tOTkFVZF9hUDA4OXhDNUlNNGR0VjNF?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "fading-aroma-of-black-cardamom-a-480-million-market-may-bloom-while-indi",
-      "title": "Fading Aroma of Black Cardamom: A $480 million market may bloom while India's 'black gold' wilts",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-11T02:06:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZms1SXZiRHlFNHplV0NaNDJGRGw2a3d6WlBhdzJFOFpwaEdJOHJwSjJaS1UtOVJuR2xSRVZfZXB3R1BhdzRfTjNUUEFTRTB5YWU1RVV0TTdnY3FMR2pPMjBQRmdYRW9HV3hvamNWMkRuM0JRQ01QZUppd2M2T0tUUVFxbnhjX2NyN2tBZnRQUDNsYTdOT2pHOGtYQUdvUWZKLWZ2TVJwVFJMM2FRSmJseHdjT19yZjZEb0gwbERRV3BBTWJ1eUM5X2Q0bHBFYU9PbTZqcjZ3a09UZWJxZXBWdVlzeXh1bzE0OXZ4YnlvMm01TV9SMXRIUG1xNWxYdkVlX2tFYtIBhAJBVV95cUxPZms1SXZiRHlFNHplV0NaNDJGRGw2a3d6WlBhdzJFOFpwaEdJOHJwSjJaS1UtOVJuR2xSRVZfZXB3R1BhdzRfTjNUUEFTRTB5YWU1RVV0TTdnY3FMR2pPMjBQRmdYRW9HV3hvamNWMkRuM0JRQ01QZUppd2M2T0tUUVFxbnhjX2NyN2tBZnRQUDNsYTdOT2pHOGtYQUdvUWZKLWZ2TVJwVFJMM2FRSmJseHdjT19yZjZEb0gwbERRV3BBTWJ1eUM5X2Q0bHBFYU9PbTZqcjZ3a09UZWJxZXBWdVlzeXh1bzE0OXZ4YnlvMm01TV9SMXRIUG1xNWxYdkVlX2tFYg?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-farmers-face-paddy-cultivation-dilemma-ahead-of-yasangi-season",
-      "title": "Telangana farmers face paddy cultivation dilemma ahead of Yasangi season",
-      "summary": "&nbsp;&nbsp; Telangana Today",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Telangana Today",
-      "publishedAt": "2026-10-10T11:39:30.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHppN0lTMi1HV0ZpYy1vTkNiXzRQODZjX3dwRmZ3TFZ6STJBS2cxTkNRYjJ0TW4yc1lwV3RtT0IwVTJHMi1QM21sQkRuS0pTWW9HbFBSYmhkVU44eC1iMDgzTUlWNU5BS0JfM0hjakJMM3BkenpSNEZscm9DVDhRTEZlRVlmYmFRNWYwVTNhSUNKelNhMFctUXlyUmluYXpZ?oc=5",
-      "sourceHome": "https://telanganatoday.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
