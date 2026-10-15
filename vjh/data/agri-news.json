@@ -1,9 +1,63 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T05:09:02.305Z",
+  "generatedAt": "2026-10-15T04:57:20.343Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "act-before-el-nin-o-expert-worries-about-deepening-hunger-in-east-and-so",
+      "title": "Act before El Niño: Expert worries about deepening hunger in East and South Africa",
+      "summary": "&nbsp;&nbsp; news - Mongabay",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "news - Mongabay",
+      "publishedAt": "2026-10-14T19:51:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1k1MzY4MFQ0RnJvNkxNSW1jVG9vc1JDbkI3M19tTXJ3aHk1bnRHQ3M4ZmVubnNwcU83MHpNSGp2NXlaYW1UZ0VaLUtZUXh1b0ZSTlZlajliNlJCb3o4R3RWTGlhNG5JX1ExLV9DYWZ2VFBodU9LVHYtNEt2Yk1lQ3ZYTTNEbU53UktCdy11R0Y1NXFYNEhITjFHVm9keG93UTF3c19ETm5zaFI2MlZSN3hKUEdreDDSAbwBQVVfeXFMT0J1Y1BqQUtKUjN3anAtNjVVMmpMUUczN0Q4OUE1eER6NXNTdWN6SlI3bkZGRldHRjhrM29BOWx2a2l6bUpFWlN0QjJVU2JITzI1RjFHbGk5Qi1ZMl81eDVjd0g5b1VnZnhoN1hVOWtBeS1lOE93cTYzaDAtZkJ6VjNIMWFhMVJyY2tMSmgwVE02Y25VM21WRkNxSU84dnEzdGt3U3ZrTlpRSGdmU2FzdmFOWlhnS0xsZ0V4WXQ?oc=5",
+      "sourceHome": "https://news.mongabay.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "maharashtra-over-950-msp-procurement-centres-planned-for-kharif-2026-27-",
+      "title": "Maharashtra: Over 950 MSP Procurement Centres Planned For Kharif 2026-27; 15.28 Lakh Tonnes Storage Capacity",
+      "summary": "&nbsp;&nbsp; Free Press Journal",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-10-14T18:45:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNQWnk5Zm5Fb0pKZjM3UklJMmo4eWxnZ0UtY3FhbHFkbkR1NXVzRWFDYzI0dU4taFFhdlU4TjJhdElObzBZSzFSVUgtYVBCNUlsNTJXV0FhZ2EyMmVsZ0tSeTBqWjc2UVJIeWV6LXNRSEltWHg1Y2ZyeElsNjJ4V00xY1BIQnQ3WUxleHlxZ3FhT2M0QmRadkZockcyc20xSWhEZ1VlZVlMRm5URjFRTl8wcXB1X0taMXpiS0M4aWN0X0o1bjNSR05xY1laWUk3Rl90ZnlwVk5XN1kzTktBTm5wbmpqNy1ZZ2dHbDFn0gHuAUFVX3lxTFBBU1BaeTlmbkVvSkpmMzdSSUkyajh5bGdnRS1jcWFscWRuRHU1dXNFYUNjMjR1Ti1oUWF2VThOMmF0SU5vMFlLMVJVSC1hUEI1SWw1MldXQWFnYTIyZWxnS1J5MGpaNzZRUkh5ZXotc1FISW1YeDVjZnJ4SWw2MnhXTTFjUEhCdDdZTGV4eXFncWFPYzRCZFp2RmhyRzJzbTFJaERnVWVlWUxGblRGMVFOXzBxcHVfS1oxemJLQzhpY3RfSjVuM1JHTnFjWVpZSTdGX3RmeXBWTlc3WTNOS0FObnBuamo3LVlnZ0dsMWc?oc=5",
+      "sourceHome": "https://www.freepressjournal.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "jagtial-2026-10-14",
+      "title": "Jagtial: ప్రత్యామ్నాయ పంటలపై దృష్టి సారించాలి: మంత్రి అడ్లూరి!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-10-14T12:49:50.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWNBSkVVNm1fcFNfdHVORWtPNWtTS0xSQ2w5YTFEQ1RENk1wV2p6Rk02WWtSRUYzMDJwOVg4WVVqWlA3NGlHN1cyc1RyeFlXVHlSTnI5dE90QVp2d1JyMDNKWVNKYUlZREgyTHRBTkdlckppSlZrZVRxd0w5NzlEMWZNM1dLdWZIc1BGV25VV2h3Tk5YQVdaZ3VtazlZOWhGMFRTRFI3ZmR3eEZrbjBZMGFnVmRhbkRkYjVYZElDUE01dw?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "telangana-rains-5-2026-10-14",
       "title": "Telangana Rains: తెలంగాణకు వర్ష సూచన.. 5 రోజుల పాటు వానలు, పలు జిల్లాలకు ఎల్లో అలర్ట్",
@@ -41,6 +95,24 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "weather-disruptions-threaten-mango-and-grape-harvests-in-india-2026-10-1",
+      "title": "Weather disruptions threaten mango and grape harvests in India",
+      "summary": "&nbsp;&nbsp; FreshPlaza",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "FreshPlaza",
+      "publishedAt": "2026-10-13T15:30:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGVnd2ZYRGxLZnBHZzJudF9NNEExZXliVmpLbnozZWtEVlMzNFpKZFNzS2RzanU4NWt5UnhweFBBNUlCSUh1Y2I0bGRmU0I4N3FrTThhRjVmdmVTUVhmU29vTGdDa1g1YnlNY25jSWRoRkRUelJobUJYMUJhQ1pFX1RoN3EtMU1peG9DTUVQT19rTE5mSXF5VndMYlF6YmIxN09WRUZFUkVQMGpobGsxbQ?oc=5",
+      "sourceHome": "https://www.freshplaza.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "telangana-faces-costly-year-as-el-nin-o-preparedness-lags-2026-10-13",
       "title": "Telangana faces costly year as El Niño preparedness lags",
       "summary": "&nbsp;&nbsp; Telangana Today",
@@ -62,14 +134,14 @@
     {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-13",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
       "crop": "All",
       "type": "scheme",
       "regions": [
         "india"
       ],
       "language": "en",
-      "source": "Press Information Bureau",
+      "source": "www.pib.gov.in",
       "publishedAt": "2026-10-13T09:41:31.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
       "sourceHome": "https://www.pib.gov.in",
@@ -132,23 +204,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farm-procurement-financial-assistance-fueled-agricultural-growth-in-the-",
-      "title": "Farm procurement, financial assistance fueled agricultural growth in the state, says Uttar Pradesh CM Yogi Adityanath",
-      "summary": "&nbsp;&nbsp; Livemint",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Livemint",
-      "publishedAt": "2026-10-13T03:28:02.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSUNPS3J2RU8wV2JDWk9wR21EeVBXRFVRbWV0d25IUmc3UHB5MVl5dTNYaGJnc1k4NHhXUjBuSDRHTmZYbkFrWW43b2JZb2d4VEM2Sjg0NnlQd1JsR3ZPVkdlenM2ckMxXzJYZFEzVUdhSHdkalZzOWNrc3JnZWFodWExTEpKQ3ZaOF9Yd3NQeXpwYnBHek0xWUhwVW9nb0xvbERnWndJX0NsUzZjSV9FenlPWHEzMk9nTWVDSV9YNWhlZzVoTzJqdnNwNGhuUFhSUUg3MnY2LWNpajIwamlYYXkzX09sblYzeGUyaGM1SEVhcDdPQnpn?oc=5",
-      "sourceHome": "https://www.livemint.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "9060-2026-10-13",
       "title": "పత్తి @ రూ.9060.. మద్దతు కన్నా అధిక ధరలు",
       "summary": "&nbsp;&nbsp; Disha daily",
@@ -183,40 +238,6 @@
       "publishedAt": "2026-10-13T01:50:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2VmdGdXd3JrNEJtbTZ4VXozRjlRekRLY3hrVUstR2pRRUw1SkhDX01WWFhPLXBzbjZ6VnkyRHdwNUhJbmFuY2I4Z3ZjVmNnUV93S0tlRmgzNGVCMlpSMTJHbFN1R1FjMF83RnlFVEpIc0M3eDU3ekJMMWViNUIwdGpyWnhPYW11RGphcjhXVjTSAZYBQVVfeXFMTldEaUJRMHN6QnJ1bFRidGlkVmhmN3FvUVdtYmE2Yk5ZQ3RkWmU2aEtGcHpqWG9BUlppSm9mNnVFNU5BbWVZa0NEbURFRGZWMW9meEZ1RjJCRExVM2l4X2FfMHhodmlvek9CUzZSbm1OTTVsU3ZVcm4yMWFvSGVkSWJVNTItc1ktQVR5alV5WG8wNHBRTWdn?oc=5",
       "sourceHome": "https://vaartha.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pigeon-pea-market-size-to-reach-9-50-billion-by-2031-driven-by-plant-bas",
-      "title": "Pigeon Pea Market Size to Reach $9.50 Billion by 2031, Driven by Plant-Based Proteins Demand & East African Exports – Mordor Intelligence",
-      "summary": "&nbsp;&nbsp; StreetInsider",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "StreetInsider",
-      "publishedAt": "2026-10-12T20:32:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNajlrcWd3cWhHY0tINlh5SWs1YXFiZk5Mc042VUZGR1J0Tl9yRkZHMUlkMWJmM21VQ0c5ZTdEY3d2SXBnRnUzX2o4VmJrZVJUdXVJeFNFS2cxYm9BZ2ZtakdrSEZ2MVIzd2VHZmg0RHhTcTMzU3VQMnpaekxYRExqek9ERXFKd0h0QXY1MEsxejlwZU5Xd2c0bHNQWWtlM05zdlYyX2NHTDdNVTI2V0RnVXhJRjJQQk5Celp1eW4ycUNLLTRFcVlGWlJzQnduenJLNlRTRE1OYWpQSG9MdGtfM3ctZTEwVnlhYWZVZGFCSkVtWXhRNXFkZF9TZzRxNnc2cE1TbzBFY3NsQWhfbVd1R1R6am91NFpfR1hjMWFyNlZWRjQ1c0F1UHlsTQ?oc=5",
-      "sourceHome": "https://www.streetinsider.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "wheat-sowing-faces-heat-from-water-shortage-this-winter-2026-10-12",
-      "title": "Wheat sowing faces heat from water shortage this winter",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "Wheat",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-12T19:22:24.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ2t4V3ZQdkd5dzc4X2I3VUg0UmpwZGVDUC13aUhTWkp3MWw1U3ZWR0liQ3JoUkkwX0dfVkdONE9HQ0g4Ym5RM1k1T2dvNlhSRDNWeDVDRFpuVFdxOE5uakpsZ2M2ZGRHbDFOYm81Umpqc0xMMkVsaHgwNmNYOVd0T3JaUXVWMTJhNjk2OFJXS3hCczgwMDBWTGx1ZVBlNzVhUm1TYU43QlcwRk05TFFIMUlscWEtVEEtVFBnTW9oN19Ecy1jNjhYLUFLZnZ2QUJGUjUtYjZGcWM2M1lfSC1rZzg4MjR4MDBia3RZNzhn0gHzAUFVX3lxTE5Gc3JtUTBwMDlhQmxYMTNVQ2FpM0ZRSFdwSVFMeV91OER0QnZyRHJvYXhBcVVwaktpQkV5TTJTOUNKZnZ1THZZckR5dVg1bnZSVVpVdEUzTmlUamVNY2pIR2pKd0VRd0h4bzNTWXVHYXVDQ21rTU15cWFKd3B4clVlNDFHeHNGNmdwTDBPWHl3MEFVMnJneFlHLXBzT1VncUd3dWhxZUtRcG84SXZvbTZSbktwZDNWQXZLOTF2Q3REaTJGa2N6SmM1YmN5S2Y1ODFCNm16emU0LUR5RzI3QzV0QlRIVlFjUXhvY3ZaZThlQ1ZITQ?oc=5",
-      "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -259,40 +280,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
-      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-12T10:17:05.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "farmers-incomes-have-doubled-government-ensuring-fair-prices-shivraj-sin",
-      "title": "Farmers’ incomes have doubled, government ensuring fair prices: Shivraj Singh Chouhan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-12T10:09:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmpUcXZhejkxaUg4Nko5SzkyN1BPS0ZXSFVJQzh2aTRNS3FBRlBUZ3JWZmlYQVZvaURlSWF0OENUMW9lZUsyNEhmTTlNNVBBOXBCNTZ5UEcteEpLU1EtN1ZETXBMcnhvMk5WYlNOLUl1WDgwbjJUd2lYa0hmellmbVNVWFdQY2NZWDNCWU10RllzdXBMZXhJaTBVdF9LeENRckJBVUlIakl2RkVK?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "black-cardamom-crisis-threatens-sikkim-s-rural-economy-2026-10-12",
       "title": "Black Cardamom Crisis Threatens Sikkim’s Rural Economy",
       "summary": "&nbsp;&nbsp; Urban Acres",
@@ -311,57 +298,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "blogdescription-2026-10-12",
-      "title": "BlogDescription",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "id": "agriculture-in-south-africa-by-crop-and-region-2026-10-12",
+      "title": "Agriculture in South Africa by Crop and Region",
+      "summary": "&nbsp;&nbsp; Farmonaut",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "Press Information Bureau",
-      "publishedAt": "2026-10-12T08:44:28.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidVJmQTBtQ1ZhdnFmY3pXSTlGTlVsNlRuQXAwVVprZXAweXhNdGxwUGh5TElENUF1bUVFUUNzOWhvRUo1ODdYeng4RFJMT2hibHVVSkdJQVdOR29hVnY0V1Y4RUNKUQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "30-2026-10-12",
-      "title": "ఉద్యోగం వదిలి వ్యవసాయం.. ఎకరాకు రూ.30 లక్షలు ఆదాయం.. ఆంధ్రా యువకుడి భలే ఐడియా",
-      "summary": "&nbsp;&nbsp; BigTvLive",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "BigTvLive",
-      "publishedAt": "2026-10-12T04:15:33.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTlKOHVBYm1XUmUyNWV4Z2R6eW8xWnVwb0lJWmV2MEhKR0RQOUk0N19yVEU3RnpDTjRGLUdwcVZvMXZBM2dvQjlSYUUzemtGa29aMWJhSXNKcDRhR3Q1VHBJdXZRM3FMSUpZb3ZFYzE1dXd4RHNLTDI1ZU5sdTJabFRDaklvMXpRbFVjMWdrd0FiVHNURHZnRXUxRXE0M0ZhbVFPRm5zWQ?oc=5",
-      "sourceHome": "https://www.bigtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "hindustan-times-telugu-2026-10-11",
-      "title": "మార్కెట్‌కు రావడం తగ్గిన ఉల్లి.. ఎల్ నినో ప్రభావంతో పడిపోయిన దిగుబడులు.. కిలో ఉల్లి ఎంతంటే? | Hindustan Times Telugu",
-      "summary": "&nbsp;&nbsp; Hindustan Times",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-11T16:18:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNjJWM2dyUjEzemFTdGlXZkVtYW5rMVRqYk1ockpKM0hBVWRydGkzWTJtTnppVlFMS0lyRUFPWlkyN0VmN2Ziem9YNzhuTkV6Q2tPeGNVa08wdWtHb3NiOXZrM1Z5dXVZa0V2dHA0aUplRDY2NWwzbTBRd3FFa0pFRm9yRVhCOEdPN2JhTXFhdEZxVG9QN0VlRzdHRTlTR3U1R3ZoMmZMZUhzenRDNUlKUXF3X1BQLWwwMHFUY2xpV1hEZGFOYmJEcVA1VzQzUzQySFhhOU95MEpvem9aalEybnZaSVBjcFRYb3pCdUNBbkFoaDVKbWd4XzhQbGszQ2lDbUtqNldn0gGGAkFVX3lxTE02MlYzZ3JSMTN6YVN0aVdmRW1hbmsxVGpiTWhySkozSEFVZHJ0aTNZMm1OemlWUUxLSXJFQU9aWTI3RWY3ZmJ6b1g3OG5ORXpDa094Y1VrTzB1a0dvc2I5dmszVnl1dVlrRXZ0cDRpSmVENjY1bDNtMFF3cUVrSkVGb3JFWEI4R083YmFNcWF0RnFUb1A3RWVHN0dFOVNHdTVHdmgyZkxlSHN6dEM1SUpRcXdfUFAtbDAwcVRjbGlXWERkYU5iYkRxUDVXNDNTNDJIWGE5T3kwSm96b1pqUTJudlpJUGNwVFhvekJ1Q0FuQWhoNUptZ3hfOFBsazNDaUNtS2o2V2c?oc=5",
-      "sourceHome": "https://www.hindustantimes.com",
+      "source": "Farmonaut",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjd6Y29vUnFhZ2NwclhwVTBEY1haU3c5cDFhWEpDTHRMVUhwNjgxSWI1U0RvVnNUZm1Rb2toX0Y5dFItemhsaUNXdDdhNG96STdmbjRGZEl3QmNzZ21rbkhvc3VqQmZQbV82b0JaemxHc0djX0VXSzgwSldWTmt1dEdwaEM?oc=5",
+      "sourceHome": "https://farmonaut.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
