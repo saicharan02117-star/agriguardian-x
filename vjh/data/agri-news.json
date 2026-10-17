@@ -1,9 +1,160 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T04:47:01.375Z",
+  "generatedAt": "2026-10-17T04:46:10.239Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "2026-10-17",
+      "title": "వెలుగు స్పెషల్: ఆయిల్ పామ్ తోట కరువు తట్టుకునే పంట",
+      "summary": "&nbsp;&nbsp; V6 Velugu",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "V6 Velugu",
+      "publishedAt": "2026-10-17T02:38:45.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaFEzRUVBcVlDVEEtckFwSVdkTzh6NXMtM3gxRVQzZlJKclBhUzdoQ1hrR0N5NkVwVDJTdjVHQUQ3Xzl1MzJIOHUtMko5M0pET0RWN3JiRVQ2cFFJcFVtUHBLRFBvRVVzeUJ2bDdSRlhvbnlYa0lPNlpEeldKUlZmVFh6d20yb2FnV3pTUElZQkd1VVV5SVE5aDktUjNJbmQ4TzBEdFIxMHR1TndhazJDUUtfeFEwN2JURXZoaTdBZ3lXcVdCRFUyQ05Pd19rQmM0c3c?oc=5",
+      "sourceHome": "https://www.v6velugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "rice-loses-acreage-pulses-and-bajra-gain-in-india-s-kharif-sowing-season",
+      "title": "Rice loses acreage, pulses and bajra gain in India’s Kharif sowing season",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-10-16T23:55:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGZTRjVTdUE3YTMwcmdkU2tqbEdEOE5URWR3eG5xUHFFUUFEU2c3ODB6elJVd1ZURHBkTHZwcUVoWW9mSkVUM3dQSHdrVnZjZkVIcXVxSkM5cnhfZ3dXVUJYN3pXNDJybzVRc3FBa1FMcXR5aTQ1TzRSTUhVTXVzc0N6WGJHLS03WmRMR0l1Q3o1WFNkcG5aVGs4c0oxNnFocWVSUHdzOEZLbmFqdXNOX2JiVGI3NUVDMGR2eA?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "kerala-agriculture-policy-takes-aim-at-climate-risk-and-farm-losses-2026",
+      "title": "Kerala Agriculture Policy Takes Aim at Climate Risk and Farm Losses",
+      "summary": "&nbsp;&nbsp; urbanacres.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "urbanacres.in",
+      "publishedAt": "2026-10-16T23:38:10.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNW5MeWJrS1J1YTVCRWVyMjROTmRiZ2Uxc05KUUFyazBLOWg4RldJNTFaRENQTnRhUlQ3Skl6UnJSczdwS0d6dVJBRkZmUjE3Z1JEODZjSEZXVnBaTzYyS2s5dGd4dXhtSktlb1dra0NVYy1Yc3FQMHNROWllTWloLXByX3ZiQkhhSWJ1V1ZHMkc0TnAz?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "tpcc-chief-calls-for-statewide-water-conservation-drive-amid-el-nin-o-20",
+      "title": "TPCC chief calls for statewide water conservation drive amid El Niño",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-10-16T23:21:29.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjNRQkpUelN4RW9ESjUzM3hCYUREMjA5SE1uUzNCWE50R3FYLW8td2pLcWlQekYtNnFzcU5ld3lreHE0dG1BbXJKdXdMOUFyM05icWtLemdXMTlIcDBWN2lYTmxUU0plQ2J5cVM4akN4eUlQa0ota213ck1HZi1XdFJpNU4tSTVjLUFQME92WFdmVDZDNVRHd214bEt6dFJuMnZ1VzJLdVlBbDNjOGhxZjVKZTR3cFZwNzJOcmMxaURMb0pP?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-accounts-for-half-of-india-s-rabi-paddy-acreage-2026-10-16",
+      "title": "Telangana accounts for half of India’s rabi paddy acreage",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T17:33:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYndkcVRqMlFKOXVIb0pwYXVmemdVR2JmYURnZkhsbFVJUUxpeHpZZ0x0TUVwNm1nNUlWWjl5U1JYT0cycG90ZzdOa1p2SE1NNC12aUExbV82aEpfTmNwVlNXc3dNMzhlWG5fTnAzcjE0Ymd0V1VXVG1pdElPOFBMRWQwRk1EaWZfVXFBYkNVTVpyYzdkNXJRbWg3SWd3T2hacHR1UzEtekF1SVAtck5Qc1hsZ1UxM2ZZSUFZdlprVTdsZUJoOC0ySklJZHpoUdIB0wFBVV95cUxPNWt5MTNLczcwbnlGRDRRM2dPdzdldzRoY0RuY29tek9zd0tfWUxBbV8wb3NaZHRKYmZBZnFxYURMSjJRQzM0T0RIRC1aMm83Rm94aDRGOTh2MzM5MktmRWZDcUdsTU1XWXdmYUdZbmwyN0RuS3RVYjJySTVBN1NKQ2E5YnZQbUp3Ujdrckp4RFA2MFNEaTFGMWxUS3hMRktfbEVmLVhLVFppb3c2LUc1b25kaXBIUnpINHlxN0xWQnlQcnFHMTlEMnkyaXByZWM2TTFZ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2-6-2026-10-16",
+      "title": "ఆదిలాబాద్ బంతిపూలకు అయోధ్య నుంచి ఆర్డర్.. 2 ఎకరాల్లో సాగుచేసిన రైతుకు రూ.6 లక్షల ఆదాయం",
+      "summary": "&nbsp;&nbsp; Samayam Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Samayam Telugu",
+      "publishedAt": "2026-10-16T11:05:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2tjOTk3Y2pQazBKN1JaaHZUQy1TN3MxRjhITmtzaFEyOFlRZ1dXYjRRemRZRjBZajJGOWNCZGZmb1NidHE5SDJualpETmNVX09UWDBLZzRoYUdaOUVSSFE2Qmk4dWJ6Rm8xc0JsVmV3YW1qNmtOWS1WWEhISGlXX0lHUjl2YmZFMi0tMTllU0EwNVZtWHgzRURfbXRkbTNsaVRFOVFEaFUwNEt1b0lJYW13M2I5cWVvdE1MSG1La1o2SVJsVTd5Z2xCMG1GV0dXVnVrRXZTR1c?oc=5",
+      "sourceHome": "https://telugu.samayam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "button-mushroom-farming-2026-10-16",
+      "title": "Button Mushroom Farming: మార్కెట్లో విపరీతమైన డిమాండ్.. ఇంట్లోనే మష్రూమ్ సాగు చేయడం ఎలా?",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-10-16T08:51:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdThPajhNcXczd0xrVDNrQmNFeXVORFU3eHN0THdmZGh5RHpGTzh1eEJCek1vV2dreS1zZHNCTi1pVEFGSFZyMDc4ZkN5ZV9RT2c2QjZPNUM1NTRlYjJMRkt3M2haaGhsNDJ4NmUyRmUwdHA3enZsY3F3RHlGVktaX3Z2UlRYMkIxVm5iTm00NUdqTmFES1RKSlBDcDlDN0VTbDdCdE5CU3JPTWMzRW81X3dhWXhzRXZyWTYtMGJ4Mk45Zk1keW41bnV0VzNiOGQ0QTFSSEpMcENCMzZaYlpSdUxnX01DYmRvT1VrR0NKYmdNZi12azhBRzVqOVY5Sm8zVm9OQllkRVRGTlE4RG5fU2dnR0dnNTZkaHRKYUhLTndfam9KMnhpb3I2QjF6YWdDX2dlQ3JwOFVubGo1ZkxJSjExQ0FzZw?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "hindustan-times-telugu-2026-10-16",
+      "title": "పండగపూట జనాల కిచెన్ బడ్జెట్‌కు షాక్.. బియ్యం, కూరగాయల ధరలకు పైపైకి! | Hindustan Times Telugu",
+      "summary": "&nbsp;&nbsp; Hindustan Times",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-16T07:29:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWGVkdVhDSndCTVBGcWNXdlFSUGt6ZWU5RnNSVFR0ZzhGRmozWXJkemhtc1ZkdFYyX2d2c3NReVF1X1NQLU1rVEM1Yzlla3pMNk1LSVVvUWZjdU9WNDJBcTdFbmgxRW1yOUt4YWlUMGpUNl90a01VZmVuaVVDU213UmkxSnA5bWhJSlV6YmN2ZVNndmhPVElBMEF1U0dTT2ZScUM5NzB0aC1tejlkT19xRmM1YXEzaC0yTXl5b2hDZjYyRFFraS1KbXQ3QlRmV3Fjb0E2cGJjQVRCRDVPbFc0dm1RVHVCeC1tWnowWG5lTEVkQy1pT1hzZXdnZUZYTnh3SUd6SkpuOG5EY182VTY40gGUAkFVX3lxTE9XMkk1MDA0d2RXUFd0SlotX2pzZGdtTjZDS1BVM1ctbGx1NlExMmRhVnZTNWJ0TnhFWVI2d2hZRkg4Tm9HUVlYalJOWFR1eXo2Um8yWHNwYndmLWhMaHlzZUl0blc0SlZkTWVGTkF2UjU2Yl9ZS2RjUF8yS3pRTTVZOUVjNmhWakh0T2xLUGd6bEFCWXRpcExqM0NweDVjaTFrSXV6S2g2OGFPYm9wOUEwU3Y4YTlOaXl2S0paeGdTMThrcTU3cGhOUEJWT2I0SEs3SzY5Nk1uUFNQMGlXWmxycmxpb2NTSnFvRG9pVUFBREJpSVFQZkNPSzM1aGhJTzdnQzgyRUpJVVl5QkZhaUtDUjlJYw?oc=5",
+      "sourceHome": "https://www.hindustantimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "utilise-water-resources-efficiently-cs-tells-officials-2026-10-15",
       "title": "Utilise water resources efficiently, CS tells officials",
@@ -20,63 +171,6 @@
       "publishedAt": "2026-10-15T17:04:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUU1N245SXduczVMVFdDV3AzamdpeW5QS0p2LUhNcWpQdTdIS2I0dmpuOHFsX2lLa0RiRG1aaUFCV0l4X0xUaE84UDVxWkxzaHpQY0JHSDB1R01pTmh3MFNmaFBMMDI1MHpqd2hUQ3N4R3ZJM0JIbkJvaFBhM2haSG1JSlVhaFo3NktjZmpmdXBScVJCMEE0RDFSSFE2QzdhSHJ4NTcxOFdaRURxV0g2cGN2VkhuU1lRMlhlUTJhVUxqT0pwZThfNUYwMNIB0AFBVV95cUxPc2pMcWhVTU83QURPSjBzeGNlcTUxalJkQzVLdE5KbExWWk1iT01Od3lMYjQ3OVV4VDF4VFZaZ2p3cmxjZDFtOVpYVDhtZXZ0cDN3WktydHJMZ3FiMWVrWGdNcTM3MVhUNUJubEIzRS1tVVdUZFd1cWJkOC1MREJTMXN1dlYzSWNjTkZjUFhWanlhVEwzbHljT2hMSHZtS01WUEdSVXFkUzU2LVZyZDc5WFdPOGtfSGNuSUxpb1VHeEV2eUpZWlRUcERlcHFQdWxP?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "kumaram-bheem-asifabad-2026-10-15",
-      "title": "kumaram bheem asifabad- రైతులు ఆధునిక పద్ధతులు పాటించాలి",
-      "summary": "&nbsp;&nbsp; Andhrajyothy",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhrajyothy",
-      "publishedAt": "2026-10-15T16:54:25.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk4wTm50enNzeDFFQklTWEVEUERPekJUWS02MW9FT0RLQnVIbjFISXJ6VXBVWHY1eTVQbDJfQlN6MnJLZGlZSWlTdVlPMldMVkYtMXpqMF9DWDVqQW12N2JPS3pzMEFjMGd0QWM5OC1vUWdTdEs4eEJqQ2h4bXozOURoOVR0NTB1djl0c1d5aS1QNVk0VHpF?oc=5",
-      "sourceHome": "https://www.andhrajyothy.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-15",
-      "title": "రాబోయేది క‌ష్ట‌కాలం, జాగ్ర‌త్త‌గా ఉండాల్సిందే.. ప్ర‌జ‌ల‌కు సీఎం రేవంత్ రెడ్డి కీలక సూచన",
-      "summary": "&nbsp;&nbsp; Asianet News Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Asianet News Telugu",
-      "publishedAt": "2026-10-15T16:33:59.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR2ZLSnp5ZmpxV3dMSnFTZnBlV2ZsQkdmVG8zcUtHLWt6cjVkWHljNnJ1TzZKa1FPTVBycjRfbzB5VzNNdDJ6VnVNTHVzeFF6TGFzc0F4Q0ZVOTVxaVdWRVlzUjJrSG81ZVRaRmxTRGdLWHVCemZBandidzltV2RsemxNcElsTGJrcmdNSGJCSUlsd1ZCSldqRGEtYTFpX0hDcXdCOUZVS3Z6TTQtMXR3UmdrXzVHVHNpVjVxUnAwaTNlbWxPQlFSelNuNF9URm9VQ1Vj0gHYAUFVX3lxTE55ci10MUhQMXdRc2VuVmI5QXNleXctTHZyVTN1T2dMcUpfTm85NE5vQjl4MDJVWFJnOEFPWWhXRlVyc2QzNTFkdE9tNUZ5cmNLRTUwdUYzal9mcDItVGpoOFVRVDkxUUk0Q01XSThiWXdmWVNhT3lPNjQ2VU1FZGE0aV9weXg5a2daemxXeXVRS1NWYU0xWVBGei04M3NUSTJsQmVSMGxZODhVcWJBRTFDVy1zbTZSRFZjTmNTQzlNSlh4ai1aVkphYWRUWVJuOERZUGVPVWZ0Vg?oc=5",
-      "sourceHome": "https://telugu.asianetnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "cm-revanth-reddy-2026-10-15",
-      "title": "CM Revanth Reddy: ఎండాకాలం పంటలు వాయిదా వేయండి.. రైతులకు సీఎం రేవంత్ రెడ్డి విజ్ఞప్తి",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-15T15:17:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVEtNRE81M2xKX0JwOExsSkwyWFY3U1gzOGdFZTB3VHFVdkQ5RTUzbmp5cTUtWnNISTl6amktQUUzQ3JRdzI5QnhvUXpjdWNaUUV4Ym15cWt2UVpnbmpqdG1rYXZMcGg2dDI0cHdxY1RYZlJ5bGF2VVFpYjNtbzlwNmVlSHpCMmtkSUYwbTh4QmpCOVlqMkUwSmlpeGN4Ri0zNDA1SmZBQ1VqZWJ0aDBOUFZNMU1PY3BfRHlMWnhnQnJMVHJkYjJKanRsVEVDMUVQOEozNdIB1AFBVV95cUxNVEtNRE81M2xKX0JwOExsSkwyWFY3U1gzOGdFZTB3VHFVdkQ5RTUzbmp5cTUtWnNISTl6amktQUUzQ3JRdzI5QnhvUXpjdWNaUUV4Ym15cWt2UVpnbmpqdG1rYXZMcGg2dDI0cHdxY1RYZlJ5bGF2VVFpYjNtbzlwNmVlSHpCMmtkSUYwbTh4QmpCOVlqMkUwSmlpeGN4Ri0zNDA1SmZBQ1VqZWJ0aDBOUFZNMU1PY3BfRHlMWnhnQnJMVHJkYjJKanRsVEVDMUVQOEozNQ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -110,16 +204,16 @@
       ],
       "language": "en",
       "source": "The Economic Times",
-      "publishedAt": "2026-10-15T10:53:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVjVzVGZUUFFZbTBrcTdLbnRYLUg2WVNxcWpiMUkyQWpHZUF6emg5OVlIQ3hoeTBtVFV4SV9LVzVzOHBYaEtIa1B5al9RaDA0VWg3TkNHWTZRRjFZYnNDb19XRG5tamhHS0lHNTVoYzlvMnhmSUlnZzc2SjFmeTlKNGxZZkRwR24yY1FrTWJVUlJVdXFJQjR3bmdQX0oxVGhOMGpackFsR2J3QmVJcVJOUVRrSUdwdElYdFJpeFc5OUNoTm9rekFLaW1vZWNsOVoxaW55WVcxX1RLc0FZWFE1WUZuSU1vYmNYUVlJS3lqOWgxWV9u0gH6AUFVX3lxTE1qTjk1V3g0TURnaEE2Mnp1bXN5em8zVGEwanFhb3FaTkZnSUdRbW9oWFlrT3pWY3FiZVBQVWlvSGRBUDhEMnlTekdtN0FseUdHV1kyODQyZmJfeVByS0phUGk1M3J2NEd3czk2TVl0V1N2OC1TWExqcWYySWd4RmdNbEZ3ODVFdEtpMVppR0NJTGRYekpTSEVwWVNwNmhnNnJxSjl2ZkJyVENzTTAxT0p5dF9ROTZyWFBvSnpXc1J6Q29vdW91NkNrU0tXQlFFYmZyNDlJTVlqeVNHT3VyeWpjeDRCekpZdzA4WlFvV1VTWXJUbkNkTHRZelE?oc=5",
+      "publishedAt": "2026-10-15T10:53:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNak45NVd4NE1EZ2hBNjJ6dW1zeXpvM1RhMGpxYW9xWk5GZ0lHUW1vaFhZa096VmNxYmVQUFVpb0hkQVA4RDJ5U3pHbTdBbHlHR1dZMjg0MmZiX3lQcktKYVBpNTNydjRHd3M5Nk1ZdFdTdjgtU1hManFmMklneEZnTWxGdzg1RXRLaTFaaUdDSUxkWHpKU0hFcFlTcDZoZzZycUo5dmZCclRDc00wMU9KeXRfUTk2clhQb0p6V3NSekNvb3VvdTZDa1NLV0JRRWJmcjQ5SU1ZanlTR091cnlqY3g0QnpKWXcwOFpRb1dVU1lyVG5DZEx0WXpR0gH6AUFVX3lxTE1qTjk1V3g0TURnaEE2Mnp1bXN5em8zVGEwanFhb3FaTkZnSUdRbW9oWFlrT3pWY3FiZVBQVWlvSGRBUDhEMnlTekdtN0FseUdHV1kyODQyZmJfeVByS0phUGk1M3J2NEd3czk2TVl0V1N2OC1TWExqcWYySWd4RmdNbEZ3ODVFdEtpMVppR0NJTGRYekpTSEVwWVNwNmhnNnJxSjl2ZkJyVENzTTAxT0p5dF9ROTZyWFBvSnpXc1J6Q29vdW91NkNrU0tXQlFFYmZyNDlJTVlqeVNHT3VyeWpjeDRCekpZdzA4WlFvV1VTWXJUbkNkTHRZelE?oc=5",
       "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2-2026-10-15",
-      "title": "ఎకరాకు రూ.2 లక్షల నికర లాభం..పసుపుతో కాసుల పంట!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "id": "45-lakh-in-90-days-bengaluru-farmer-earns-rs-50-000-per-day-by-selling-s",
+      "title": "₹45 lakh in 90 days: Bengaluru farmer earns Rs 50,000 per day by selling small lauki to Qatar buyers",
+      "summary": "&nbsp;&nbsp; The Economic Times",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -127,28 +221,11 @@
         "south",
         "india"
       ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-15T06:47:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXRGWEVHLWZ0RHNmZ042RDZyTktqV2wxWDNQX0MtOU1XLXktc0t1TFJtVUkxMnUwSWU5WUpHX3o5ZzMzRlVkQXFjMzhCSVB1WERVd2Z2ZHFIQ2E2QkNSNTFDYk5Ma0lqQ2dHYTBFcGhPLUVDaURvaE9fSHBLakxhUkI4M0xuM2lKZTItaThOQm9CTHhzeWhObW1Qck84emJfa1UxeVdrXzhUTlJKdURFYndvMUIxWVAtWGZ0X3VFaVBGRUnSAcMBQVVfeXFMTzF0RlhFRy1mdERzZmdONkQ2ck5LaldsMVgzUF9DLTlNVy15LXNLdUxSbVVJMTJ1MEllOVlKR196OWczM0ZVZEFxYzM4QklQdVhEVXdmdmRxSENhNkJDUjUxQ2JOTGtJakNnR2EwRXBoTy1FQ2lEb2hPX0hwS2pMYVJCODNMbjNpSmUyLWk4TkJvQkx4c3loTm1tUHJPOHpiX2tVMXlXa184VE5SSnVERWJ3bzFCMVlQLVhmdF91RWlQRkVJ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "maharashtra-over-950-msp-procurement-centres-planned-for-kharif-2026-27-",
-      "title": "Maharashtra: Over 950 MSP Procurement Centres Planned For Kharif 2026-27; 15.28 Lakh Tonnes Storage Capacity",
-      "summary": "&nbsp;&nbsp; Free Press Journal",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
       "language": "en",
-      "source": "Free Press Journal",
-      "publishedAt": "2026-10-14T18:45:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQVNQWnk5Zm5Fb0pKZjM3UklJMmo4eWxnZ0UtY3FhbHFkbkR1NXVzRWFDYzI0dU4taFFhdlU4TjJhdElObzBZSzFSVUgtYVBCNUlsNTJXV0FhZ2EyMmVsZ0tSeTBqWjc2UVJIeWV6LXNRSEltWHg1Y2ZyeElsNjJ4V00xY1BIQnQ3WUxleHlxZ3FhT2M0QmRadkZockcyc20xSWhEZ1VlZVlMRm5URjFRTl8wcXB1X0taMXpiS0M4aWN0X0o1bjNSR05xY1laWUk3Rl90ZnlwVk5XN1kzTktBTm5wbmpqNy1ZZ2dHbDFn0gHuAUFVX3lxTFBBU1BaeTlmbkVvSkpmMzdSSUkyajh5bGdnRS1jcWFscWRuRHU1dXNFYUNjMjR1Ti1oUWF2VThOMmF0SU5vMFlLMVJVSC1hUEI1SWw1MldXQWFnYTIyZWxnS1J5MGpaNzZRUkh5ZXotc1FISW1YeDVjZnJ4SWw2MnhXTTFjUEhCdDdZTGV4eXFncWFPYzRCZFp2RmhyRzJzbTFJaERnVWVlWUxGblRGMVFOXzBxcHVfS1oxemJLQzhpY3RfSjVuM1JHTnFjWVpZSTdGX3RmeXBWTlc3WTNOS0FObnBuamo3LVlnZ0dsMWc?oc=5",
-      "sourceHome": "https://www.freepressjournal.in",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-14T23:38:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMkR6UUlSRGR2YUJtaF93RmNPa3hOYVpvWUFpbTk2TmJvY2tvR0x6Zmo3bHNHV2hzVDU5N0xjX0Jwc2laMWpkMnFDMzRzUlVSOGh4SnRnN1RUMWJxWWp0WEh5OWVFTWhQRjVVdGNEZmFpYk9YZ0YzVlIxV0F0LUVyUDdWS1VfdTdSY0ZxTFh0RENoNzBKUHFHV1l5WmxmRWpWMVpWUXE5T083Z2dDb2kyOS0tOVlXWjdZWVhibGI4Ykc3bzNHMzNWN3VyQWdDZF9LRmNNeGg2dGNSUmNucTFBci1WdG9kYW84QmRTeWdhQUd6aUJFaGFOalFoTGNRX0hLMzJZ0gGIAkFVX3lxTE04UjFUTFc5STk1Q1EtRVF2RUd3ZlVLTmpEMFN1dnI1VDRkYmk1YkRxdVVPcG5pYjAwdERuWFQ0SzVoUUpqTWhCQmtGUG82YTBNd2djMGVNUzVMWDI2UnpvWGlFMlFvSE95ejBwSTczb0ZhYWIySUc3WURMSThzd01qSGJkRy0xLTV5NFNuVm1zaXNrRmViMGRvb1dzLUhmVDN0NjNNLUJSV0FlZnFZMkFQdXBfZDlkY1B4RTA0ZDJUWWJnZkhoZlFTeGllMk1VcmJtVVJLVkkwbnJfQm9xdDVPenc4U01xSWRGWnl0SWswOUx1MWo1TC1qc3VYam1odzZ3OHFNZDFTQg?oc=5",
+      "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -168,82 +245,6 @@
       "publishedAt": "2026-10-14T12:49:50.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWNBSkVVNm1fcFNfdHVORWtPNWtTS0xSQ2w5YTFEQ1RENk1wV2p6Rk02WWtSRUYzMDJwOVg4WVVqWlA3NGlHN1cyc1RyeFlXVHlSTnI5dE90QVp2d1JyMDNKWVNKYUlZREgyTHRBTkdlckppSlZrZVRxd0w5NzlEMWZNM1dLdWZIc1BGV25VV2h3Tk5YQVdaZ3VtazlZOWhGMFRTRFI3ZmR3eEZrbjBZMGFnVmRhbkRkYjVYZElDUE01dw?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-rains-5-2026-10-14",
-      "title": "Telangana Rains: తెలంగాణకు వర్ష సూచన.. 5 రోజుల పాటు వానలు, పలు జిల్లాలకు ఎల్లో అలర్ట్",
-      "summary": "&nbsp;&nbsp; Samayam Telugu",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Samayam Telugu",
-      "publishedAt": "2026-10-14T02:15:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd1Q0M21SVlg3R0JaS3dVRG5Qb2YySkQzQmZFVlB1ZlJSUWF0WVlneXU5d3RVYTZPYklFaHJvX3dQQXAyNGFhMkV4a19UZVNRbE1hVjI5elJFaG9iNFFIZlM1amYweUQxOVFjN2lUbWo3bS1BMHVIek9vNC1DajV5ZS1VaWVsbHlGOHp1cFRCS28xVkFiNEVuc1oxSlE1OXJuMThwMTdGQXlBdWllZUFGNHFCVmtPbXJBNmZEemdQQWpxUXNoNS1QZ1Jxb1BsdFp3bU8xalZtNDdpQ2xaei1XRktKZDdvWll1MDhGMXdwTWhCaVE?oc=5",
-      "sourceHome": "https://telugu.samayam.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-faces-costly-year-as-el-nin-o-preparedness-lags-2026-10-13",
-      "title": "Telangana faces costly year as El Niño preparedness lags",
-      "summary": "&nbsp;&nbsp; Telangana Today",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Telangana Today",
-      "publishedAt": "2026-10-13T14:48:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUlJbWhQYlVGa3plRzM1MzlpenpZR1BQV1BvVkt2cHRQRUJPQ09rQW5hal9COGprYXROU2RncUxCWWxBRzBKVXpuSkZhaHJVeGFxd1AwODdEU3Fqd0RCSngwR201TFRob0poLTEwUC10SUFoblFVd3lJTC1yYmpSTzBvNVFsSEQ3VlBB?oc=5",
-      "sourceHome": "https://telanganatoday.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "45-lakh-in-90-days-bengaluru-farmer-earns-rs-50-000-per-day-by-selling-s",
-      "title": "₹45 lakh in 90 days: Bengaluru farmer earns Rs 50,000 per day by selling small lauki to Qatar buyers",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-13T07:31:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMkR6UUlSRGR2YUJtaF93RmNPa3hOYVpvWUFpbTk2TmJvY2tvR0x6Zmo3bHNHV2hzVDU5N0xjX0Jwc2laMWpkMnFDMzRzUlVSOGh4SnRnN1RUMWJxWWp0WEh5OWVFTWhQRjVVdGNEZmFpYk9YZ0YzVlIxV0F0LUVyUDdWS1VfdTdSY0ZxTFh0RENoNzBKUHFHV1l5WmxmRWpWMVpWUXE5T083Z2dDb2kyOS0tOVlXWjdZWVhibGI4Ykc3bzNHMzNWN3VyQWdDZF9LRmNNeGg2dGNSUmNucTFBci1WdG9kYW84QmRTeWdhQUd6aUJFaGFOalFoTGNRX0hLMzJZ0gGIAkFVX3lxTE04UjFUTFc5STk1Q1EtRVF2RUd3ZlVLTmpEMFN1dnI1VDRkYmk1YkRxdVVPcG5pYjAwdERuWFQ0SzVoUUpqTWhCQmtGUG82YTBNd2djMGVNUzVMWDI2UnpvWGlFMlFvSE95ejBwSTczb0ZhYWIySUc3WURMSThzd01qSGJkRy0xLTV5NFNuVm1zaXNrRmViMGRvb1dzLUhmVDN0NjNNLUJSV0FlZnFZMkFQdXBfZDlkY1B4RTA0ZDJUWWJnZkhoZlFTeGllMk1VcmJtVVJLVkkwbnJfQm9xdDVPenc4U01xSWRGWnl0SWswOUx1MWo1TC1qc3VYam1odzZ3OHFNZDFTQg?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "warangal-cotton-price-9-060-2026-10-13",
-      "title": "Warangal Cotton Price: పత్తి ధర రికార్డు.. క్వింటాకు రూ.9,060.. అయినా రైతులకు మిగిలేది ఎంత?",
-      "summary": "&nbsp;&nbsp; Vaartha Telugu",
-      "crop": "Cotton",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Vaartha Telugu",
-      "publishedAt": "2026-10-13T06:11:57.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHZ3YXpvYmo4N1h6UllNZVA5ZFhNeFZLRm1EdUdIekpXM25vNzFydEJ3bnYwdGgyREN4TXZBRV85MHMxUkIycjh6bTJJOG9RUFRJeHk5cTN3U3J3dUZtODNDSTBNUGxvcDVlWGp3R2tibWk4WjhDOFVfZnRLNlRMTDk2c1dSUzhidXhUdllpdS1GQWV6al80OEJEcHZCZzNXWFJ6c2lQRmRNS0I2Mmtzei0wa3h1UdIBtgFBVV95cUxPRHZ3YXpvYmo4N1h6UllNZVA5ZFhNeFZLRm1EdUdIekpXM25vNzFydEJ3bnYwdGgyREN4TXZBRV85MHMxUkIycjh6bTJJOG9RUFRJeHk5cTN3U3J3dUZtODNDSTBNUGxvcDVlWGp3R2tibWk4WjhDOFVfZnRLNlRMTDk2c1dSUzhidXhUdllpdS1GQWV6al80OEJEcHZCZzNXWFJ6c2lQRmRNS0I2Mmtzei0wa3h1UQ?oc=5",
-      "sourceHome": "https://vaartha.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
