@@ -1,9 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T05:04:35.579Z",
+  "generatedAt": "2026-10-21T05:05:43.353Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "why-mp-farmers-still-feel-left-behind-despite-schemes-2026-10-20",
+      "title": "Why MP Farmers Still Feel Left Behind Despite Schemes",
+      "summary": "&nbsp;&nbsp; Dainik Jagran MP CG",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Dainik Jagran MP CG",
+      "publishedAt": "2026-10-20T18:30:40.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1YzV0I2NzQyNk5FQXVaenRUSEdZOXRyanplTmRwNTZoYXZYV3RiOWZXVXh6clNiWTA4ZVJ5ellVc2pkaE52Zm4xaWxEa2hGMWRpOW5BQ05KYXdIUmUxeDc3MFQ3a2RJSU5ndmxmeWpJUGtBQjh6a0dJQzhxeEdPXzhIWkNpbW1yQnQ2NTVEcDlyWXlwb2h1dmtVVmdub3FaQ1lvMHVPWFRDWWdoQTRBR0lB?oc=5",
+      "sourceHome": "https://english.dainikjagranmpcg.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-rice-prices-surge-65-amid-paddy-surplus-2026-10-20",
+      "title": "Telangana Rice Prices Surge 65% Amid Paddy Surplus",
+      "summary": "&nbsp;&nbsp; Urban Acres",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Urban Acres",
+      "publishedAt": "2026-10-20T14:34:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT08tSkxLNzZZOEpKN2g0Zi1ZRGtHcWp6VjFfYnEtVVdqUTFwTDJ2TlNGTDNYa0RRemE5Z0VoY2w3Q2RDWUpaeVQyTFV3ajlGNXFwVVpjY2VOYzNPb3I0SV9Zd1BRNm12SmhheU9RWFBQeWdvRGxaZ0dVdzBIM1NHeGlfU3Z0REhqUE9n?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "2026-10-20",
       "title": "సోయా రైతులకు ఈసారి పండగే.. మద్దతు ధరకు మించి కొనుగోళ్లు, కల్లాల వద్దకే వ్యాపారులు",
@@ -79,23 +115,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "soybean-output-may-dip-as-dry-spells-offset-gains-in-key-states-2026-10-",
-      "title": "Soybean output may dip as dry spells offset gains in key states",
-      "summary": "&nbsp;&nbsp; rajasthan.economictimes.indiatimes.com",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "rajasthan.economictimes.indiatimes.com",
-      "publishedAt": "2026-10-19T18:50:48.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHNjUDhXSUoyMVBYS05YT2VxaS0zYUt2ZVlsR1pXYnBrUmlhVnphdzhtSUx0WG1XcjBhNE1xc3JPTXk4Q0JJeXZ5RkFoYnlRRXJkNDh0dG80enI4d1NOZkFOZEhrVVQ3MmdCeThSQTY0aTVxVWhEdjY2Ymh2Y0tRQV9EZlpjY002NEFWWXFZSGoxamxwNE1uWEdPNWFwQ2ZUQ3M0RzVIOXA0NkYzcDdqbEt3c0dEUWMtTVVDMFowTHhWcWFNeHlNUkhhajdQQUwyVHZB0gHXAUFVX3lxTE5CTk9GLVBQSGZHVG93TTdRRTBtUzBQRm41b2FWTE9teE50YlptaXBablVIZi1feTVVWkpZLVQxWDhiZ0MtS1lUWXc2OUFhMDFPcldFSlRvQXVNWE9lTktNMXR6WUZadjFRZjh4LXJQd3pyVkREM3g4Y1puX0JUZUN6amZiLUotbWJnemlueDBFaWhMNFNSUUQtN29pUDFfRzU1RFNZaG5oMWFGSjJGMWxRRTFWc2Fad0dteFpkZUJYckc1VE9wT0N5UkhKX1hvZnU2QUY2YXJr?oc=5",
-      "sourceHome": "https://rajasthan.economictimes.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "uneven-rains-may-keep-price-of-spices-elevated-2026-10-19",
       "title": "Uneven rains may keep price of spices elevated",
       "summary": "&nbsp;&nbsp; The Economic Times",
@@ -128,7 +147,7 @@
       "language": "en",
       "source": "The Times of India",
       "publishedAt": "2026-10-19T16:36:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3lGbjcwejl2S0wzV0x0dENubkFYSnlIcENnbnlYWmQ3VmR3Wlg0LThhT0dkSVd1V0VSd3FHMm5sZ2c3Q2VZX0JRUXptajg3cDBYSjVQQkduMC0yaDRjUDBQLTZ4MmVDWkVKZ0QwWU9GWHJBMGpRRThFYmdTeTA3QkxMdUpETGlvQktUN0c0Ym5qMlhfd3ZwRGdxUExkeEkwTm00bUJqSTNxZXFhb0w0VDlnX0hBYzVRRzFPcGxTa0FWaVZpTVQ3YWFENDI2TGdpU1IwSWxOblhfUdIB2gFBVV95cUxPY3lGbjcwejl2S0wzV0x0dENubkFYSnlIcENnbnlYWmQ3VmR3Wlg0LThhT0dkSVd1V0VSd3FHMm5sZ2c3Q2VZX0JRUXptajg3cDBYSjVQQkduMC0yaDRjUDBQLTZ4MmVDWkVKZ0QwWU9GWHJBMGpRRThFYmdTeTA3QkxMdUpETGlvQktUN0c0Ym5qMlhfd3ZwRGdxUExkeEkwTm00bUJqSTNxZXFhb0w0VDlnX0hBYzVRRzFPcGxTa0FWaVZpTVQ3YWFENDI2TGdpU1IwSWxOblhfUQ?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlTcjdjNll2T0dFUldJcldmdDNXYzY0TnJMby1wZnZDbmR2Yzl4RGY5NTR0QlZZV2d2TUVQYVp4OC0wcU5LcFdsdUY2UWJIRU00clJLZHpEZUdWLVp5dk1PWmNyem5mc2FiM29xZHJkT1YzU1lERmRoLUtKV1dSdDl2SGg3S1R1UDZycEhiZnlLaFY1OEozbGVsa3dLUVFSaXZkTjZSYXFLdy1CVXFSYWxKazNaTE5uSmpIS1pHMnZGR2s2aVpYMVlCc1ZoWEZJZ2lXbtIB2gFBVV95cUxPY3lGbjcwejl2S0wzV0x0dENubkFYSnlIcENnbnlYWmQ3VmR3Wlg0LThhT0dkSVd1V0VSd3FHMm5sZ2c3Q2VZX0JRUXptajg3cDBYSjVQQkduMC0yaDRjUDBQLTZ4MmVDWkVKZ0QwWU9GWHJBMGpRRThFYmdTeTA3QkxMdUpETGlvQktUN0c0Ym5qMlhfd3ZwRGdxUExkeEkwTm00bUJqSTNxZXFhb0w0VDlnX0hBYzVRRzFPcGxTa0FWaVZpTVQ3YWFENDI2TGdpU1IwSWxOblhfUQ?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -166,27 +185,8 @@
       "language": "en",
       "source": "The Hindu",
       "publishedAt": "2026-10-19T13:00:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYW02bWVwejg4dVl2eEJXb2puNEM0VzNEbFJIMl80RkNBX0xMNld3REVNLVBqYUhNbDE2SU5rZVF2amdaTDA3V0N0dGw1Z1FoT09OSUhyalZJcUxCZGdhUU42X01XVjVfanF6ZlVtNG1XVWJIYXhvLTNyT0Z1NVJQb05qNDYzWkE3bFFGX0NNN0I3aWU4WTZzSmFPQXNUeE9LdDhwa1drQzBzTVNsVzhoM1V3cWtDOG01cTBEd3lYMzVodURNMmJkNl83cWpRMUtjSHowNGN6TUhxS0pBQkdnaDlaTXg1dFV6b1JWdlpGX1ZVXzF4Mm5YZ1RDQW16RFZX0gGHAkFVX3lxTE0zUktEU2hCSUd0eURtSTUxc3dPcTA2cms2RkU4TWk5OURmTHFYZ2NKamh2ajNUQkxVWW1Kb3NvRnF1REVQMHlBNzdlU3lUTXpXM1NsSklVV1ZaNzVvOWplSURJLXd1WWQ4N0kwdEpnaTFHVEVQbmd5MzZ3ZHlNMEZoTW1lV05hSXJPRTBjMUw1SThxU3hrTkpGVmFVb2ZkT3hGQVFmcTYyQlg1QVhKelNrVE1KQ3I3T1hvWnBKQmM2Q0NJbVF0Sk1mNEZJckZMWFJmd1RRdmNja3E3T09YeTRCYVFOLXBLd2FJZkd0U3I5emdLWVEwZnFQejNFYVlYMHNUSTk0SHBj?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNM1JLRFNoQklHdHlEbUk1MXN3T3EwNnJrNkZFOE1pOTlEZkxxWGdjSmpodmozVEJMVVltSm9zb0ZxdURFUDB5QTc3ZVN5VE16VzNTbEpJVVdWWjc1bzlqZUlESS13dVlkODdJMHRKZ2kxR1RFUG5neTM2d2R5TTBGaE1tZVdOYUlyT0UwYzFMNUk4cVN4a05KRlZhVW9mZE94RkFRZnE2MkJYNUFYSnpTa1RNSkNyN09Yb1pwSkJjNkNDSW1RdEpNZjRGSXJGTFhSZndUUXZjY2txN09PWHk0QmFRTi1wS3dhSWZHdFNyOXpnS1lRMGZxUHozRWFZWDBzVEk5NEhwY9IBhwJBVV95cUxNM1JLRFNoQklHdHlEbUk1MXN3T3EwNnJrNkZFOE1pOTlEZkxxWGdjSmpodmozVEJMVVltSm9zb0ZxdURFUDB5QTc3ZVN5VE16VzNTbEpJVVdWWjc1bzlqZUlESS13dVlkODdJMHRKZ2kxR1RFUG5neTM2d2R5TTBGaE1tZVdOYUlyT0UwYzFMNUk4cVN4a05KRlZhVW9mZE94RkFRZnE2MkJYNUFYSnpTa1RNSkNyN09Yb1pwSkJjNkNDSW1RdEpNZjRGSXJGTFhSZndUUXZjY2txN09PWHk0QmFRTi1wS3dhSWZHdFNyOXpnS1lRMGZxUHozRWFZWDBzVEk5NEhwYw?oc=5",
       "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-s-custard-apple-the-fruit-that-sustained-sita-now-threatened-b",
-      "title": "Telangana's custard apple: The fruit that sustained Sita, now threatened by monkeys and El Niño",
-      "summary": "&nbsp;&nbsp; The South First",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The South First",
-      "publishedAt": "2026-10-19T08:25:59.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnZrVjRqU2RJTFJCdTk5YTJZaEpmQ3FIbHNiM0dLQ1BCME1vNXJyTlZyV0xzMzhrOG1MTFdlVjlhTF9LdUlUemZfZWJIM1FoeHlvRXZFR0lSbTdoSkM3TlBhNlM4X3EwbmFYdlNJOGg0U2xvNjNXSVNJSUNaZTlpUkd1OGhaV0prRUU4eWNVVnpqUDlXNnRYeHhESTNrelNqdGtnZmtZZGx1eXBscFlEeGJ0Z3pkSkFvMlQxX1RRUGtfZlpPd09ncA?oc=5",
-      "sourceHome": "https://thesouthfirst.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -206,6 +206,25 @@
       "publishedAt": "2026-10-19T06:55:54.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX0hwTmlpcFJiS2NBRXlwUGtqYlNUZThGVm4yUDltVU1OUEZ5RUdtcC10Vi1CYnpxZzlWek5mcVFsSW1jc21UNmRURnAzMUc5VmJVR3ZqUUVyZzh1STZ2TTZUaTlBdnpJLTR1LTZXOXJQVkM2M1E4MjVFQktYYWlFamNtZEVpcE5oNjVWaFRlYUpKVGtzLUZGMmJhUW52WWFGbFdFXzk3NWJrOUtUSWdCMkgtR1FubWQ5Q0R3aW5KalE2Rmwyc1BWVjFEVS1MZnVlcXZWeFRadWs2Z0dqb1puLWNkVXpIdEZiaXg0VF92ekdNamJGYi1MaUFB0gH6AUFVX3lxTE5fSHBOaWlwUmJLY0FFeXBQa2piU1RlOEZWbjJQOW1VTU5QRnlFR21wLXRWLUJienFnOVZ6TmZxUWxJbWNzbVQ2ZFRGcDMxRzlWYlVHdmpRRXJnOHVJNnZNNlRpOUF2ekktNHUtNlc5clBWQzYzUTgyNUVCS1hhaUVqY21kRWlwTmg2NVZoVGVhSkpUa3MtRkYyYmFRbnZZYUZsV0VfOTc1Yms5S1RJZ0IySC1HUW5tZDlDRHdpbkpqUTZGbDJzUFZWMURVLUxmdWVxdlZ4VFp1azZnR2pvWm4tY2RVekh0RmJpeDRUX3Z6R01qYkZiLUxpQUE?oc=5",
       "sourceHome": "https://telugu.asianetnews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "soybean-output-may-dip-as-dry-spells-offset-gains-in-key-states-2026-10-",
+      "title": "Soybean output may dip as dry spells offset gains in key states",
+      "summary": "&nbsp;&nbsp; rajasthan.economictimes.indiatimes.com",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "rajasthan.economictimes.indiatimes.com",
+      "publishedAt": "2026-10-19T06:46:46.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQk5PRi1QUEhmR1Rvd003UUUwbVMwUEZuNW9hVkxPbXhOdGJabWlwWm5VSGYtX3k1VVpKWS1UMVg4YmdDLUtZVFl3NjlBYTAxT3JXRUpUb0F1TVhPZU5LTTF0ellGWnYxUWY4eC1yUHd6clZERDN4OGNabl9CVGVDempmYi1KLW1iZ3ppbngwRWloTDRTUlFELTdvaVAxX0c1NURTWWhuaDFhRkoyRjFsUUUxVnNhWndHbXhaZGVCWHJHNVRPcE9DeVJISl9Yb2Z1NkFGNmFya9IB1wFBVV95cUxOQk5PRi1QUEhmR1Rvd003UUUwbVMwUEZuNW9hVkxPbXhOdGJabWlwWm5VSGYtX3k1VVpKWS1UMVg4YmdDLUtZVFl3NjlBYTAxT3JXRUpUb0F1TVhPZU5LTTF0ellGWnYxUWY4eC1yUHd6clZERDN4OGNabl9CVGVDempmYi1KLW1iZ3ppbngwRWloTDRTUlFELTdvaVAxX0c1NURTWWhuaDFhRkoyRjFsUUUxVnNhWndHbXhaZGVCWHJHNVRPcE9DeVJISl9Yb2Z1NkFGNmFyaw?oc=5",
+      "sourceHome": "http://rajasthan.economictimes.indiatimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -248,23 +267,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "blogdescription-2026-10-18",
-      "title": "BlogDescription",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Press Information Bureau",
-      "publishedAt": "2026-10-18T22:37:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidVJmQTBtQ1ZhdnFmY3pXSTlGTlVsNlRuQXAwVVprZXAweXhNdGxwUGh5TElENUF1bUVFUUNzOWhvRUo1ODdYeng4RFJMT2hibHVVSkdJQVdOR29hVnY0V1Y4RUNKUQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "india-s-soybean-output-set-to-fall-2-1-as-drought-hits-maharashtra-karna",
       "title": "India’s Soybean Output Set to Fall 2.1% as Drought Hits Maharashtra, Karnataka and Telangana",
       "summary": "&nbsp;&nbsp; www.nationpathindia.com",
@@ -280,99 +282,6 @@
       "publishedAt": "2026-10-18T11:17:02.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWm41NUY5cnA5anRCbDlWZDRFMHFxTUJGUWRUSVkyVVo5azgybUhhNWFXaEJmSnNkZ1JjNFJ6eGYxTEdWWU8zOTJuTXhzSVBJRG5OZUp3QVQ4cC1GZ3N3OERtSVJUTGF5Z1dIT1BwWWNkNkd3SE50MXRzc0ZwYWdoNDdmOE1IS2VNNXVBS29RSy00U1BQWGc?oc=5",
       "sourceHome": "https://www.nationpathindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-seeks-full-msp-cover-amid-drought-2026-10-18",
-      "title": "Telangana seeks full MSP cover amid drought",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-10-18T03:30:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTEzRzhYY2NzcmVhY1NrZVB0eXcwV0ppMF9HV01ZV18wOHMxb1JhXzZUd0NSRnNqX2VYQ3JmNVRIVkh6T2NzUE04d2gwb3ZsMGRQS0ljVjMybHJnY0lXYWc0WXVWVnlvY2lNYnozNWtXbm9VZjBNXzN4dk11Z0h4bUtxdU1OczdsUGI4ck5Ld1VjdGU5SVNzZEZyOW5VZ2t1V3BlUFlVbklzbTJmaVRtLS1WWWduZ9IBtgFBVV95cUxQZTEzRzhYY2NzcmVhY1NrZVB0eXcwV0ppMF9HV01ZV18wOHMxb1JhXzZUd0NSRnNqX2VYQ3JmNVRIVkh6T2NzUE04d2gwb3ZsMGRQS0ljVjMybHJnY0lXYWc0WXVWVnlvY2lNYnozNWtXbm9VZjBNXzN4dk11Z0h4bUtxdU1OczdsUGI4ck5Ld1VjdGU5SVNzZEZyOW5VZ2t1V3BlUFlVbklzbTJmaVRtLS1WWWduZw?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "before-ai-can-help-indian-farmers-research-must-learn-to-listen-to-them-",
-      "title": "Before AI can help Indian farmers, research must learn to listen to them",
-      "summary": "&nbsp;&nbsp; The Federal",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Federal",
-      "publishedAt": "2026-10-18T00:50:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanFLb0ZNSjNTNTBxNUdfSUNjaU9lck8yVVE2dDNkejM3ejNuS2piRmQydzhNNEYtVThsQnRCRnA2UWJrdUZpV0VRMWN1NUJGUFY4dWJxdnJYdVgxb2ZTZURnYTA0dGMzSjkzWHUxR016MlR2dW50cGNwdGMwbE1TeDdOeU53SnYzSndGSk1BZHYwVENEcEZMRzRlT3lJaFlQWHNCY05yQmQyNmlDb1dxc09wcEZjVXl2Wnc?oc=5",
-      "sourceHome": "https://thefederal.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "imd-2026-10-17",
-      "title": "తెలుగు రాష్ట్రాలకు IMD హెచ్చరిక.. ఈ జిల్లాలకు ఆరెంజ్ అలర్ట్!",
-      "summary": "&nbsp;&nbsp; AndhraPravasi",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "AndhraPravasi",
-      "publishedAt": "2026-10-17T13:54:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcXo1Z1dRWURwN3N3N0M1TDl2ejdwQzhGU0U2S3FOLVRhX3F4VWpNdmp0UzFVeWw1NUI2c3doNUVsWjZUVXVlMUEyMkl3N01TRk50ZGk3NF9ITjlkeURaVHNNNmx0cFVZZndkZEVTWkpDaC1IYlZES244cUszbGVWMU1PQ1kta2tFRU1NVjI1aFBURmduWnA4LUpDdlhBZkpQVWJkNEUwY0pvdkt5ZmJOUU5qd2tEM2dBR1U0anRGd3hyOE9yazVra200cmZCdGpr?oc=5",
-      "sourceHome": "https://www.andhrapravasi.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-s-two-week-weather-forecasts-help-farmers-save-crops-and-use-water",
-      "title": "India's Two-Week Weather Forecasts Help Farmers Save Crops and Use Water Wisely",
-      "summary": "&nbsp;&nbsp; Devdiscourse",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Devdiscourse",
-      "publishedAt": "2026-10-17T08:32:37.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdTVWS1ctcTVDaGVPNVJoVnViaElmY0pmaDBMVVdQSTV3ZmJOVXFkeHBXdS1ibjJoSnZoZEUtd2R2akJocXRmRUtvQnBidkdWVE8xdVBoaWp6VjFZZGIxenJoanh0RlUteU9palJ5OTU1TWFBcWNyY011ZWRnb3ltdHVRc01sc1JLVVBHeHlzbmRTYURET1dXQkJwSnZqUW45c2VGak54Q3YwVl9jUkZpTFBmaDIwbklGcURYY1EzM2pBMlczYXNUR1F1N2tTYkNwOWNwSHl1QVl4SzlhS0pHMNIB4AFBVV95cUxOdTVWS1ctcTVDaGVPNVJoVnViaElmY0pmaDBMVVdQSTV3ZmJOVXFkeHBXdS1ibjJoSnZoZEUtd2R2akJocXRmRUtvQnBidkdWVE8xdVBoaWp6VjFZZGIxenJoanh0RlUteU9palJ5OTU1TWFBcWNyY011ZWRnb3ltdHVRc01sc1JLVVBHeHlzbmRTYURET1dXQkJwSnZqUW45c2VGak54Q3YwVl9jUkZpTFBmaDIwbklGcURYY1EzM2pBMlczYXNUR1F1N2tTYkNwOWNwSHl1QVl4SzlhS0pHMA?oc=5",
-      "sourceHome": "https://www.devdiscourse.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "el-nin-o-a-test-of-preparedness-2026-10-17",
-      "title": "El Niño: A Test of Preparedness",
-      "summary": "&nbsp;&nbsp; Hindudayashankar",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Hindudayashankar",
-      "publishedAt": "2026-10-17T08:05:40.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wbkdlNjJqV2loaHhldEpHa2l1bFltYk1ZOS0zMFBaMHlnbVUyVEZNWHRQYjlMd1dfRU9pNUlmNmlwRlJlUEU5QVdxZ0ZyMDhwRWkyam8wRmYwNlF6d0ZEeHMyMzBWSW1rNnRPN01GaHQxQUNMYkk1Q0FZZm0?oc=5",
-      "sourceHome": "https://hindudayashankar.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
