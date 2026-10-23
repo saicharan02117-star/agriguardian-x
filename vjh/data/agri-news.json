@@ -1,9 +1,176 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T05:07:58.527Z",
+  "generatedAt": "2026-10-23T05:08:22.640Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "9-260-8-667-hindustan-times-telugu-2026-10-23",
+      "title": "ఆదిలాబాద్‌లో పత్తి క్వింటాలుకు రికార్డు స్థాయిలో రూ.9,260.. కనీస మద్దతు ధర రూ.8,667 కంటే ఎక్కువ! | Hindustan Times Telugu",
+      "summary": "&nbsp;&nbsp; Hindustan Times",
+      "crop": "Cotton",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-23T01:44:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVVB0U1BObVdjMkdkVW1qb3JjM004RGVrY2FKTVM4c1FheGhRYlVKbTN1UWtrSVo0UXpYUkpDZ0xBZFNqeHV3MHFnQTktVDhhUUtlQ2piQWRmWWx0V3dnLU9SZTN2ZTNNSG5uUEh4ZkhYamZPNWZmbC1HSEhXNmo3dTB1Y3Jab1NMeFh5c2paZjBiem5wOEZWRnRfdUJwYXY3Z0tEZG9BTnl0UmQ1VTJuQ3c2aDQyakZuRGZXNTFqbVpnX04xVy1WRDExYWUzWkhVeFM5SHVyaksxakdlQTNrZ0FXOV9kMnJ4RWJ3aVlSVVZhN2tBS0FBMGRGakNPRDIzdmVScmlPWE0xWk1zdW9tatIBlgJBVV95cUxQNTlCZWhGZWUtLVY1dGFiS3JxbWtwcjJTd0lLY04yck9LaWdWeFB6cHhPMW9ZV19Ic054Y1BEaUNheTRfYUFkZXpMYlZsVW92VUxZei1YcmlPeVFtVE84dm9hejY3eU56eDFmVnNybnpjTTJXZGZ3UDRWa0FjMDF5djVaTFNEUTdEUGZVVHBMTzJONVAxYVAyaXphR1A3Rmt5WE40bExPVU1qRkNPd19xSFlkSmVjMVB2YmdwSmNCdVA2SGh6VnN3cG5XTnFUbnlGWFdTdWRFM3dsQXl5NGhXWEZmbFV2SXNRZXUwVVkwRzMxTzhGRHZHeVhNckVfWmlYT3Z4cHpaQk5aZ3Q3MzhlUkh2RVJ0dw?oc=5",
+      "sourceHome": "https://www.hindustantimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "mp-joins-price-support-scheme-for-oil-seeds-karnataka-may-follow-suit-20",
+      "title": "MP joins price support scheme for oil seeds, Karnataka may follow suit",
+      "summary": "&nbsp;&nbsp; The Financial Express",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Financial Express",
+      "publishedAt": "2026-10-22T18:42:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEk2dHZNcU01ZGZqYUZmcDZscEM2emdMUUpRcHRrUVdiNk1fT2hXbU5RV0xuNVhha0M3d29iWnYwMVVvMFphZzcwY1JkdGVqNVhDbEU2c0kwd0FzaWVVSDRTaktIdTlSTEpKdzVPdmlKc2J6bkU0MlBTbjltOFN6cTNfeG55Q2VNWkxNTzFGR3l0VjJaTTNabnRTRkZDUmxtQWRHaXRYUzdZVGZHLXlBV0dNWWh4TE1OZWRiSFBnS0t1a2c30gHLAUFVX3lxTFBlQkl5V0tTMEN2c3BUeXRDVUFXZy1xSXhscmlUZVp5NzFyZnE1UFNubXFJcTNSSnBIYkx6R3ZxVkNHdHVNRGcwY1pFLXQ5cUg1Yy1CUEtXQUQ0SUJ6c05vaXFhLUVFYmVoSWdaNTEtM00zcTRQLTh1VnBoSjV2ajZBWFFHSWxxOEIyY0VfSTlERU9UVzI0a0F2U0Q2R29RWnJPT0NrRkV3NmZpX192cnVuUmNSVlh3cm1fckJsSTA1Q2FBOFlmaGluZEc4?oc=5",
+      "sourceHome": "https://www.financialexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pjtau-launches-drive-to-take-agri-innovations-to-field-2026-10-22",
+      "title": "PJTAU launches drive to take agri innovations to field",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-22T17:38:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLUVBWENOUERIX2NJOWxhRldBZXBvbGNNbFdDaFVWYzlwNThhTkdCTmhLRU1kX3NSLXhKS2ZFeDNtSlk4X09OVS1mSklZc1FENUZHZFRGOVBwanhxMWFMc0ZjcUdlNmw2eVI2OTBMRGZiNHlaNTFTd1V4WlE1SXcwX2FVX1RTeXFWZHZQRDFQejZDUmpKTFJVVnB2bVVVcjdjblpDOEJNdmlDQzczZ1Z1SlNMT3F1dE5oVkdvWGlpOFhibWFOY1RheTJ6YVNfTkda0gHQAUFVX3lxTFAtRUFYQ05QREhfY0k5bGFGV0FlcG9sY01sV0NoVVZjOXA1OGFOR0JOaEtFTWRfc1IteEpLZkV4M21KWThfT05VLWZKSVlzUUQ1RkdkVEY5UHBqeHExYUxzRmNxR2U2bDZ5UjY5MExEZmI0eVo1MVN3VXhaUTVJdzBfYVVfVFN5cVZkdlBEMVB6NkNSakpMUlVWcHZtVVVyN2NuWkM4Qk12aUNDNzNnVnVKU0xPcXV0TmhWR29YaWk4WGJtYU5jVGF5MnphU19OR1o?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "andhra-pradesh-telangana-weather-latest-update-imd-warns-of-rain-new-bay",
+      "title": "Andhra Pradesh, Telangana Weather LATEST Update: IMD Warns Of Rain, New Bay Of Bengal System",
+      "summary": "&nbsp;&nbsp; Menafn",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Menafn",
+      "publishedAt": "2026-10-22T16:00:32.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1l4U2syNW9SaHE1ZW9JdmtESWlaUjhIMEI1WE1sTkNTa0dTNVF2RmF1ekVLblFBVndQZ3dzWFV4TGNPS3pnTzJnQ3BVVDZMSkVnb1E0dXc5VlFPZ3RNRC1TLUFENTVMTU9CZXdHZDBtSmZPYkhQWXlGQjFvX1ZRbmpieXZQRVI3dFl6Nno0RVFqdjBmZm9GenAwald4U3ZYRnFMZFRjX3hEaTFNSzhCdmdCWlN5ZTNyb0kw?oc=5",
+      "sourceHome": "https://menafn.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-22",
+      "title": "ఎల్‌నినో ప్రభావాన్ని ఎదుర్కొనేందుకు రైతులు ప్రత్యామ్నాయ పంటలపై దృష్టి సారించాలి",
+      "summary": "&nbsp;&nbsp; Suryaa News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Suryaa News",
+      "publishedAt": "2026-10-22T15:14:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWJBeFpkVUdMWTVRQmdnbkQtaXNqX3l6ZlJuMFRRbFdCaUhiaUdBSk80c3BGaS1iVTZzWDJldENsb1FpZ1lvbmdSQ2xnU2VSOGNSQlZzcV9uem9zdlVtdlNadS00NkxBM3R5RVBBZUhLX2l4MmFiWElwSFVlTU5HRUZaRFRac2lLd0s3ckxMaUZsa0x2WmZENlZFbXRnVkloUlAyWVpObEQyTFBBYUE1NDNFRUJ1NnFvYTNFdzRzNDBMUdIBwgFBVV95cUxOWWJBeFpkVUdMWTVRQmdnbkQtaXNqX3l6ZlJuMFRRbFdCaUhiaUdBSk80c3BGaS1iVTZzWDJldENsb1FpZ1lvbmdSQ2xnU2VSOGNSQlZzcV9uem9zdlVtdlNadS00NkxBM3R5RVBBZUhLX2l4MmFiWElwSFVlTU5HRUZaRFRac2lLd0s3ckxMaUZsa0x2WmZENlZFbXRnVkloUlAyWVpObEQyTFBBYUE1NDNFRUJ1NnFvYTNFdzRzNDBMUQ?oc=5",
+      "sourceHome": "https://www.suryaa.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "kalwakurthy-2026-10-22",
+      "title": "Kalwakurthy: ప్రకృతి అనుకూల సాగుతోనే రైతులకు మేలు మంత్రి తుమ్మల",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-10-22T12:40:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzB2UTRNWW9GcW5qV01jeHVXcmMyQzBTRUZLN2JzVlcwTS1maFpqVnZCOTI4Q3pPb1VwTW1wbVkxUEgyeW5tNUlCcmc4ajdPQXNHYjJ3ZTVxVEN2c1o5SGkyMnFOdE1VcVA3ZjBmTy14Q3JBbEFsWjZ5OUJZR0kyckY0TExmWEVmeWt6a1VXR20yZHlwdHUzM2Faakd1SDh6TWlzX3BGVElwYVVJWk54STcxRkZnYnlEUU5Da0Rn?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-10-22T12:33:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "amangal-2026-10-22",
+      "title": "Amangal: ఎల్‌నినోను ఎదుర్కొనేందుకు ప్రత్యామ్నాయ పంటలు వేయాలి తుమ్మల",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-10-22T10:52:20.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTQwVHZhWnFWVEVUTkQ1Q1E1a3RlMHVfMFZBNENxa25pLXdqblpKZHVDcjU1RW02NlR4Y1ZHTXY1NFZBZU02cmN2czVZaVRaY2FxMFZiYl9sYWxCczhHMDd3cldjSDVfSmhoa0lpSjB3elRVZ2w4TTNTeVpiSVpKWk0wdTlvRlJqdE04RkUzNGxkVkl4U2lkdVlZUVpveFplcFFfVFhNWlNsQ2hDLVkzdmZSQU1Ic2s?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "indian-red-chilli-market-outlook-amid-irregular-monsoon-and-delayed-sowi",
+      "title": "Indian Red Chilli Market Outlook Amid Irregular Monsoon and Delayed Sowing — CMB News",
+      "summary": "&nbsp;&nbsp; CMB News",
+      "crop": "Chilli",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "CMB News",
+      "publishedAt": "2026-10-22T06:05:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0RvWTBfbXFZeUNkTm0zV2xmSDRRUnliRnhPcUM1V1ZpMWRSR2dLM0VDV1JwRW5XZ3V3M0xWVHZXTmxDTkJCaWpOZEF3azk3Wng5RXdMQUwzc1Fka3A1SG1QcWZXY215WUxOR2dZaVFrYWgweW9GSjQ4Mmc3WVJQZDJtdzFOS2lrX0czMG8xRUJlbUk4WkhZdkhvQTV0MGxRd00w?oc=5",
+      "sourceHome": "https://commodity-board.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "what-el-nino-this-ground-up-farmers-cooperative-continues-to-reap-divide",
       "title": "What El Nino? This ground up farmers’ cooperative continues to reap dividends",
@@ -18,7 +185,7 @@
       "language": "en",
       "source": "The Times of India",
       "publishedAt": "2026-10-21T18:21:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObFpuT1YxeEdCemllX1FnUUx5ekFJVzJPaFNwTERsbFBZUGFobEVJNS1LU2JPeUNzOWdhTnhENmdCcE4yV0FGN1d2ams2aU5kR2xsYzRtVkIyMEt1dm50WXhMS3FOeWI4bVJkZkluaHZJWFNVMERSYVdtcVlaTnRNYllraUV6dkl3dFNiTk0yc2Z5S01VSk1lYUJsZktwUy01bnN0SGFqYU0tcllla201dGhicXRkd3daQXZQRWJOc2prTmx2MmhndlZxME5MSTFOQTFWMVdqU0lMbFNrbHB2UkZRODI1UWfSAewBQVVfeXFMTUVMaVRRUWtYQ3BSRmtKWG92ZzA0NkR0WE0wVVZ5c0swQjNSY0lOWjQ5cElna0poUUNJQV9OSTUxVklBZ1RTUGl6V0xwNEpqUjFmQ2EyRVFlUTRoNUNBUUVjU0RzVEc1cjJhOEhLNGVDVDJHT2x2TGkzV0I1TzRqYm1idXljcWNieUJBamJwM1lHR1Zqd0RweFVFNmthNnBubWRWMEtIelo4YkhtVnN5emdKcHVEV3ZleGV6SVNnT2Ztbk15WTZISkoyTEMyWHcxWUFYRi1VOWhhaFd6bTVoWktkUHR6UW5vNWtKdlk?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObFpuT1YxeEdCemllX1FnUUx5ekFJVzJPaFNwTERsbFBZUGFobEVJNS1LU2JPeUNzOWdhTnhENmdCcE4yV0FGN1d2ams2aU5kR2xsYzRtVkIyMEt1dm50WXhMS3FOeWI4bVJkZkluaHZJWFNVMERSYVdtcVlaTnRNYllraUV6dkl3dFNiTk0yc2Z5S01VSk1lYUJsZktwUy01bnN0SGFqYU0tcllla201dGhicXRkd3daQXZQRWJOc2prTmx2MmhndlZxME5MSTFOQTFWMVdqU0lMbFNrbHB2UkZRODI1UWc?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -79,25 +246,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-10-21",
-      "title": "‘ప్రత్యామ్నాయ పంటలతో రైతులకు అధిక ఆదాయం’",
-      "summary": "&nbsp;&nbsp; Namasthe Telangana",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Namasthe Telangana",
-      "publishedAt": "2026-10-21T11:17:20.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHE2SGM0M21KU21zOFBPWEpvRlB4SU8yTm1CNnBldUp6Z3pIMUl0SWFVNzBlUlpTRjNtR3FERllVZmxKSGYxRW1MVEZMQkhmeExKYXBUV2VIMjNRdHhvd0t5al9NcWIwNXAyeFA2cndoUW5yN1dJWFBuY2pzVG1MclJ6MGpkOVJtUjNiNk5xcjF5cXJXb09iNTZnMW5iNDlL?oc=5",
-      "sourceHome": "https://www.ntnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "climate-change-its-impact-on-cultivation-key-focus-of-symposium-in-shiml",
       "title": "Climate change, its impact on cultivation key focus of symposium in Shimla",
       "summary": "&nbsp;&nbsp; Social News XYZ",
@@ -112,25 +260,6 @@
       "publishedAt": "2026-10-21T09:15:21.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWldsXy0tbno2NHRYQ3FoNXd3VmFmWmRSSGpKaWd6NG83SEp6VkVwVVo5Sm8xTV9aR08wZjU3U2QxWF8wZmdTMldYNWlvY0F1V21nSTJyQkRTc2k5UjhPbktELWM5QjJrQzlsYWxxaHV2MFNTZHBGcy1tYWdROC1PWVp3R2V1cmxuQURqUmFiRGd2cDF4a0ZERkYxWDA5OXh3a0RQTnM0NkFnMkwxZXF2X2xB0gGyAUFVX3lxTE9aV2xfLS1uejY0dFhDcWg1d3dWYWZaZFJIakppZ3o0bzdISnpWRXBVWjlKbzFNX1pHTzBmNTdTZDFYXzBmZ1MyV1g1aW9jQXVXbWdJMnJCRFNzaTlSOE9uS0QtYzlCMmtDOWxhbHFodXYwU1NkcEZzLW1hZ1E4LU9ZWndHZXVybG5BRGpSYWJEZ3ZwMXhrRkRGRjFYMDk5eHdrRFBOczQ2QWcyTDFlcXZfbEE?oc=5",
       "sourceHome": "https://www.socialnews.xyz",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "65-2026-10-21",
-      "title": "భగ్గుమంటున్న బియ్యం ధరలు.. ఏకంగా 65 శాతం పెరిగిన రేట్లు..",
-      "summary": "&nbsp;&nbsp; Oneindia Telugu",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Oneindia Telugu",
-      "publishedAt": "2026-10-21T05:40:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeGxrVzdDaUlFNkFacFB5LTRMSmNRTXhKSkNpczl2YlR4SkxpaGY0SU94TTdfZ21VbDFyT0xTRGk3Rk5DVzVCTW82UmlEUjZZREV5TDVMTUR0bXRpTHRvV3F2bkRndzRZODNkcTRibVRhYkFmZHJ2cm9YQjZXX0VBcURYLW5uUlpnUFExQ1F3ZktoSDhtRl94U2o3YjJsOGIyczVvakVjRFh1UnJZTjFmdldqX1JDNHhTdkd2cDhBVG9RTjhhSUhmQWlsdTVuam5HZ1cwSGZ3blFMTno5dXN3VDVDZW4tbnJveDJ0Y2xadC1pZW1rZ0dDVkNncDRKcWRSMUlpT2NLUENwNU54UlBRVlVnZ3YzZGdLbkRyTS1jbHZsWTcxUFJfZ0ZnSmlfTWRtSTdKaGZ0V3paZGs?oc=5",
-      "sourceHome": "https://telugu.oneindia.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -150,215 +279,6 @@
       "publishedAt": "2026-10-20T14:34:09.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT08tSkxLNzZZOEpKN2g0Zi1ZRGtHcWp6VjFfYnEtVVdqUTFwTDJ2TlNGTDNYa0RRemE5Z0VoY2w3Q2RDWUpaeVQyTFV3ajlGNXFwVVpjY2VOYzNPb3I0SV9Zd1BRNm12SmhheU9RWFBQeWdvRGxaZ0dVdzBIM1NHeGlfU3Z0REhqUE9n?oc=5",
       "sourceHome": "https://urbanacres.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-rice-prices-surge-as-market-gaps-hit-households-2026-10-20",
-      "title": "Telangana Rice Prices Surge as Market Gaps Hit Households",
-      "summary": "&nbsp;&nbsp; Urban Acres",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Urban Acres",
-      "publishedAt": "2026-10-20T01:41:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTTd6UUlka1RKVUxqU3lwWmp3enpKRVhlWklKb29pbzJvTzNIQXl2UGtjT1ROQUR0c0p3V2k1UXBlWW9SSmczQVdXT2NlVnR3YmJ0SGZaRzgzbzExeHkzbEFEWHpiNFZVdHpsVVhPVUJST0pQY3U0dU5NUEwzTGFHQk42XzltQ1U?oc=5",
-      "sourceHome": "https://urbanacres.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "rice-prices-soar-65-in-surplus-telangana-squeezing-household-budgets-202",
-      "title": "Rice prices soar 65% in surplus Telangana, squeezing household budgets",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-19T18:53:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzhHaHU4amNvS0RpQWEwUldlc3BmQ1ZYaG16ZWVZN3IxRmpDYTVQWklYRFFJMjNYYTZ3Q0hseG5rVmFsR01qelhOaTY1RHM4ZU1HVEVXb1NuNW1OcmJkSW1TWXdwMWl5Uk9Xb1FFbTFXNmRIOF9xazVBUk4yNTVBMVNYUnB6c0R5cmx1MjY1ZVIyY1FVMUFpRHdBb2RTMy1EcnZ3ZWRVZlB6WGx2SFBkckVQUVBfeW1rYzE0dVYtMTI1NDJFVzdLUGswdHF6RkV3OWkwTmNnM2JpNlRocHfSAeMBQVVfeXFMTm1UU1kyTFBQNmVmbVcxazlQbFlDSEdXN01MRjR0SERfZTRTYVd5RXlGQ1F3SGdGUk5qVWl4ZFZKd2pEMzFXSVR6MmV1WFFhTlNnYXA5OXk1OHRQanYybU15SXd0SUVRS09hc3JBbzd0LTVFUE9JRWQ5VmVVdnVsN1FmSUxXZlVXTHBzZFUzUFBGd2tsNV9sM3YyOFVUZXZnOHFBdEo2bzh3M1hSSk0xc0ZzcEZkbzdwZUE1aXBIWWpLbVIyVmNaMjdxeXkwbEZrNThuWXp6WFdDR0ZWTlFVV05UX28?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "uneven-rains-may-keep-price-of-spices-elevated-2026-10-19",
-      "title": "Uneven rains may keep price of spices elevated",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "Paddy",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-19T18:41:55.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmk5RldwemFUSE1GSm00MUN4QkhlRlh4WHRCUVdsamNNRjMwZlpyRmN6bkZrSUw1N2lMaU9EM01xcHpoZ05kQzdwd3k3cC1MclNmaHRMTy1jVVg0OThMSm9RUk1wN2dGbUFBQlVCSlFCSzFMcHJQNFZHRWdrc1N6eTdGczNzN19YVkxpU3NCMXl6ajRNSHRLUjJBcG94S0lFVlFVcFk2c3lxYnhkZ1RvRnhmaHpZZUx6WUM0S0l5YmRzRGfSAcgBQVVfeXFMT01ybE13VHRlOVhnRHBSbXNOS29udWJHS0VfOUZ2TXliWnB0S2oyVW1ZZE5la2Z3NlYxcVN6cUpCc2VHS1pWOUZvX0tOem9UVnp0aTJKcnUyVkpKOWVYajNfejdJT2JyanFxQ19LOHFBcWVkc0sxZjZyVC1sUi1EU1pHSVBsektCZnMzNkhPOWkwM2I4WW5JTkVBdDlXT05KbThmWVNrOEJIZDhfVHFtbFBscXR0TW1JdktVcXhHcDRGczZWTm5ScWo?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "t-launches-traceability-project-for-gi-tagged-tandur-red-gram-2026-10-19",
-      "title": "T launches traceability project for GI-tagged Tandur Red Gram",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "Pulses",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-19T16:36:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFlTcjdjNll2T0dFUldJcldmdDNXYzY0TnJMby1wZnZDbmR2Yzl4RGY5NTR0QlZZV2d2TUVQYVp4OC0wcU5LcFdsdUY2UWJIRU00clJLZHpEZUdWLVp5dk1PWmNyem5mc2FiM29xZHJkT1YzU1lERmRoLUtKV1dSdDl2SGg3S1R1UDZycEhiZnlLaFY1OEozbGVsa3dLUVFSaXZkTjZSYXFLdy1CVXFSYWxKazNaTE5uSmpIS1pHMnZGR2s2aVpYMVlCc1ZoWEZJZ2lXbtIB2gFBVV95cUxPY3lGbjcwejl2S0wzV0x0dENubkFYSnlIcENnbnlYWmQ3VmR3Wlg0LThhT0dkSVd1V0VSd3FHMm5sZ2c3Q2VZX0JRUXptajg3cDBYSjVQQkduMC0yaDRjUDBQLTZ4MmVDWkVKZ0QwWU9GWHJBMGpRRThFYmdTeTA3QkxMdUpETGlvQktUN0c0Ym5qMlhfd3ZwRGdxUExkeEkwTm00bUJqSTNxZXFhb0w0VDlnX0hBYzVRRzFPcGxTa0FWaVZpTVQ3YWFENDI2TGdpU1IwSWxOblhfUQ?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-drought-el-nino-impact-on-telangana-2026-10-19",
-      "title": "Telangana Drought – El Nino Impact on Telangana | ఐదు దశాబ్దాల కరువు గాయాలు.. మళ్లీ అదే భయం!",
-      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhraprabha Daily",
-      "publishedAt": "2026-10-19T15:37:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FdDE2dURjbHR4aDJObTBaSEJJMzFTWGR4bzBTWlhZRTZ6UXpXWGdYb1VJS2NUbVhLdzVKaHNfM29NTThhd2lFMmJvcWFUWDVMcE9tSHVVUVl0dGR4Skl1THo1OGMtWjNaZlBoVmhFRGRMS2c5S3JCdg?oc=5",
-      "sourceHome": "https://prabhanews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "more-veggies-from-telangana-on-plate-el-nino-changes-crop-choices-farmer",
-      "title": "More veggies from Telangana on plate: El Nino changes crop choices, farmers receive returns from harvest",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-19T13:00:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYW02bWVwejg4dVl2eEJXb2puNEM0VzNEbFJIMl80RkNBX0xMNld3REVNLVBqYUhNbDE2SU5rZVF2amdaTDA3V0N0dGw1Z1FoT09OSUhyalZJcUxCZGdhUU42X01XVjVfanF6ZlVtNG1XVWJIYXhvLTNyT0Z1NVJQb05qNDYzWkE3bFFGX0NNN0I3aWU4WTZzSmFPQXNUeE9LdDhwa1drQzBzTVNsVzhoM1V3cWtDOG01cTBEd3lYMzVodURNMmJkNl83cWpRMUtjSHowNGN6TUhxS0pBQkdnaDlaTXg1dFV6b1JWdlpGX1ZVXzF4Mm5YZ1RDQW16RFZX0gGHAkFVX3lxTE0zUktEU2hCSUd0eURtSTUxc3dPcTA2cms2RkU4TWk5OURmTHFYZ2NKamh2ajNUQkxVWW1Kb3NvRnF1REVQMHlBNzdlU3lUTXpXM1NsSklVV1ZaNzVvOWplSURJLXd1WWQ4N0kwdEpnaTFHVEVQbmd5MzZ3ZHlNMEZoTW1lV05hSXJPRTBjMUw1SThxU3hrTkpGVmFVb2ZkT3hGQVFmcTYyQlg1QVhKelNrVE1KQ3I3T1hvWnBKQmM2Q0NJbVF0Sk1mNEZJckZMWFJmd1RRdmNja3E3T09YeTRCYVFOLXBLd2FJZkd0U3I5emdLWVEwZnFQejNFYVlYMHNUSTk0SHBj?oc=5",
-      "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-s-custard-apple-the-fruit-that-sustained-sita-now-threatened-b",
-      "title": "Telangana's custard apple: The fruit that sustained Sita, now threatened by monkeys and El Niño",
-      "summary": "&nbsp;&nbsp; The South First",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The South First",
-      "publishedAt": "2026-10-19T08:25:59.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnZrVjRqU2RJTFJCdTk5YTJZaEpmQ3FIbHNiM0dLQ1BCME1vNXJyTlZyV0xzMzhrOG1MTFdlVjlhTF9LdUlUemZfZWJIM1FoeHlvRXZFR0lSbTdoSkM3TlBhNlM4X3EwbmFYdlNJOGg0U2xvNjNXSVNJSUNaZTlpUkd1OGhaV0prRUU4eWNVVnpqUDlXNnRYeHhESTNrelNqdGtnZmtZZGx1eXBscFlEeGJ0Z3pkSkFvMlQxX1RRUGtfZlpPd09ncA?oc=5",
-      "sourceHome": "https://thesouthfirst.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "vegetable-prices-hike-2026-10-19",
-      "title": "Vegetable Prices Hike: వంటింట్లో ఉల్లి ఘాటు.. టమాటా హాట్.. పెరుగుతున్న కూరగాయల ధరలు",
-      "summary": "&nbsp;&nbsp; Asianet News Telugu",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Asianet News Telugu",
-      "publishedAt": "2026-10-19T06:55:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX0hwTmlpcFJiS2NBRXlwUGtqYlNUZThGVm4yUDltVU1OUEZ5RUdtcC10Vi1CYnpxZzlWek5mcVFsSW1jc21UNmRURnAzMUc5VmJVR3ZqUUVyZzh1STZ2TTZUaTlBdnpJLTR1LTZXOXJQVkM2M1E4MjVFQktYYWlFamNtZEVpcE5oNjVWaFRlYUpKVGtzLUZGMmJhUW52WWFGbFdFXzk3NWJrOUtUSWdCMkgtR1FubWQ5Q0R3aW5KalE2Rmwyc1BWVjFEVS1MZnVlcXZWeFRadWs2Z0dqb1puLWNkVXpIdEZiaXg0VF92ekdNamJGYi1MaUFB0gH6AUFVX3lxTE5fSHBOaWlwUmJLY0FFeXBQa2piU1RlOEZWbjJQOW1VTU5QRnlFR21wLXRWLUJienFnOVZ6TmZxUWxJbWNzbVQ2ZFRGcDMxRzlWYlVHdmpRRXJnOHVJNnZNNlRpOUF2ekktNHUtNlc5clBWQzYzUTgyNUVCS1hhaUVqY21kRWlwTmg2NVZoVGVhSkpUa3MtRkYyYmFRbnZZYUZsV0VfOTc1Yms5S1RJZ0IySC1HUW5tZDlDRHdpbkpqUTZGbDJzUFZWMURVLUxmdWVxdlZ4VFp1azZnR2pvWm4tY2RVekh0RmJpeDRUX3Z6R01qYkZiLUxpQUE?oc=5",
-      "sourceHome": "https://telugu.asianetnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "soybean-output-may-dip-as-dry-spells-offset-gains-in-key-states-2026-10-",
-      "title": "Soybean output may dip as dry spells offset gains in key states",
-      "summary": "&nbsp;&nbsp; rajasthan.economictimes.indiatimes.com",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "rajasthan.economictimes.indiatimes.com",
-      "publishedAt": "2026-10-19T06:46:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQk5PRi1QUEhmR1Rvd003UUUwbVMwUEZuNW9hVkxPbXhOdGJabWlwWm5VSGYtX3k1VVpKWS1UMVg4YmdDLUtZVFl3NjlBYTAxT3JXRUpUb0F1TVhPZU5LTTF0ellGWnYxUWY4eC1yUHd6clZERDN4OGNabl9CVGVDempmYi1KLW1iZ3ppbngwRWloTDRTUlFELTdvaVAxX0c1NURTWWhuaDFhRkoyRjFsUUUxVnNhWndHbXhaZGVCWHJHNVRPcE9DeVJISl9Yb2Z1NkFGNmFya9IB1wFBVV95cUxOQk5PRi1QUEhmR1Rvd003UUUwbVMwUEZuNW9hVkxPbXhOdGJabWlwWm5VSGYtX3k1VVpKWS1UMVg4YmdDLUtZVFl3NjlBYTAxT3JXRUpUb0F1TVhPZU5LTTF0ellGWnYxUWY4eC1yUHd6clZERDN4OGNabl9CVGVDempmYi1KLW1iZ3ppbngwRWloTDRTUlFELTdvaVAxX0c1NURTWWhuaDFhRkoyRjFsUUUxVnNhWndHbXhaZGVCWHJHNVRPcE9DeVJISl9Yb2Z1NkFGNmFyaw?oc=5",
-      "sourceHome": "http://rajasthan.economictimes.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "profitable-farming-40-2026-10-19",
-      "title": "Profitable Farming: నెలకు రూ.లక్ష ఆదాయం.. ఈ పంట వేస్తే రైతులకు కాసుల వర్షమే! ప్రభుత్వం నుంచి అకౌంట్‌లోకి మరో రూ.40 వేలు!",
-      "summary": "&nbsp;&nbsp; News18 Telugu",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "News18 Telugu",
-      "publishedAt": "2026-10-19T06:13:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMnZURkowTjFvZk1TbjhueTRDeVRrOFdLS283T2dpZW9LOVFsLUxjMDdKQlJvTVNUY0I4TC1udU44S0g5Yk1zZUVOYU13YURkSE1NQmYzOEdyRTJwOUdfTmRmYkdHUmVFYUoyanR2VzlDY1FoVHpidUxJUWp3aF9kOGpSSm9jdUR1X0RXa3Nway1VSHY3Z1k2cUItNEgySGV3RW9Sd1B1YWViSThBRTNPcEZXV3g0Qi1rSUNXRXBxTjFUQnRGQmZrSE9nS2NUM2xkWVBrNVZfbDE?oc=5",
-      "sourceHome": "https://telugu.news18.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "andhra-pradesh-telangana-weather-update-imd-warns-of-heavy-rain-thunders",
-      "title": "Andhra Pradesh, Telangana Weather Update: IMD Warns Of Heavy Rain, Thunderstorms Till October",
-      "summary": "&nbsp;&nbsp; Asianet Newsable",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Asianet Newsable",
-      "publishedAt": "2026-10-19T05:11:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbGZrX005RFh4MmpkemJUbTNEdUJuQ1lUTGhyUExBaHVjTmJHYzJHN2NKVlJlWGdRbXhGVW9OOUlnMkFRWHZGR2FHNUlEUndTdmhiNkJKZy1Cam9wZFp3RExaNlpYVE05YW40OHVaQ3ZWZEZ2WXN2WUlSN1BiV2tqNF8tUm1LNFJwS1JFX19Ib0NuTWkwRnF1OHZ0TloyY2JvdHNGejRNTDZCa2FiUU1fM3E4UkVaZ3RreVViLTdaXzFxSHZZdFMwZDdRVktRRmxkUzdxX2lrU0lkWUVjRlHSAeMBQVVfeXFMT0NteWdSaUhZajBDVmpsVk1jbm5kako2RkxQaENEc2dnVU1YTWsxYnJLcXdQb2tBMFBLTE12Mk9IWi1YRzBYV3pjMU9VcjgydWM1QWgzZmlMVnlPd3lvREJ6SUJ4djY3RlRYOEFiaEdSa2JlcHFCclFqMl9sczBmbDV6enktSXlBbnZwTGYzbmpiRU14b1FxV3pkQjZpU0MzcUZKU1JmZV9LcGJjX1ZDRDE4T0dQUldzRk5JcHo3c1dQeUJUb1pabEc0aDViVFVmamIzcE12WUg5aVNFODRWQVB6RDA?oc=5",
-      "sourceHome": "https://newsable.asianetnews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
