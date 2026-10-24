@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T05:08:22.640Z",
+  "generatedAt": "2026-10-24T04:51:41.655Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after",
+      "title": "Telangana CM announces 4-month employment scheme, to be implemented after Sankranti festival amid El Nino weather conditions",
+      "summary": "&nbsp;&nbsp; https://www.indiagazette.com/",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "https://www.indiagazette.com/",
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWkNNdkU4QUd2eHd6WFRSempBeDNzZFVvcEx4eHFpS29BN2F5TzBURFNuQ1VZbzk5d0R0S0FEUUNGMUZDdUpCY3ZSd3c1TmFvajFCaDBPZHo2Y3BXNFUzeFRkWWhUSl9iV1JGMDdGdnh2eWNrR01JWlRpU25qOWlac3llZG1RRk8yN21LMmZnN1BYQnZWTUl1YzRyekhWTldScHU1ZXREVF9IeGxCcXpsWW00cjBNeUFudzMydFZLbTBUQkYtMC1IZkNFVXZqNkYwOTI0OVFZX2VFVTJzTkl1dDJtREZUdDRySTBwY09ZSHVvbU5EcG51UmhwRQ?oc=5",
+      "sourceHome": "https://www.indiagazette.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "9-260-a-quintal-for-cotton-but-el-nino-threatens-yields-2026-10-23",
+      "title": "₹9,260 a quintal for cotton, but El Nino threatens yields",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-23T19:39:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFVTV3FJbnBlVGRYZGFMM2ZrdXp6bUEyd19lOUdLaWw2SXVfdUctcTA0TnF2TWNCVlJDZHlYODd3OUxBbVRxZjFpel9WMzBMakJFWW9WLUs5S1k0U0xNSWQ3a2pnS0wxOVRvcjQ3QktEWnZJSk5VMXBfWW5zTm5UNHA3N2JfUnlWdGxrdGNCbnNvSkw3cWFqZjhuc053T3EyWnZLc25FcWhuLWM4Xy1PY2tNc3ZfLWNjNnByYUZSSU9SYU1jVjNVSFZ2SdIB0AFBVV95cUxPRkNLTFBfV3FVa2FoQUN1T2tiNUxIbFNWUG5ranNSRHpCVnEtRVVFVGxrLXZMVTVCeWwxQmdEOTZxUEozNE5ONGZIM3hRTlY1cVV4SGJ5QWVlUDIzeFFFYjQ0cHdrU2gyNmxGdUFUc2V3THNLaVk3LWlTUVFmN3VCS0Y5Y3pRSTZDRTNGc1dieGVTZk9LNi04czdHRmlfTEVpX3YwdWY5Q3NYQmhYNXdYdzJNTkFZdndVY2RJQU9ZUEhXOTFYZUpYbm5zWEhPbWtz?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-23",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-23T13:08:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-10-23T12:09:49.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "9-260-8-667-hindustan-times-telugu-2026-10-23",
       "title": "ఆదిలాబాద్‌లో పత్తి క్వింటాలుకు రికార్డు స్థాయిలో రూ.9,260.. కనీస మద్దతు ధర రూ.8,667 కంటే ఎక్కువ! | Hindustan Times Telugu",
@@ -117,23 +189,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
-      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
-      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Indian Council Of Agricultural Research",
-      "publishedAt": "2026-10-22T12:33:43.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
-      "sourceHome": "https://icar.org.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "amangal-2026-10-22",
       "title": "Amangal: ఎల్‌నినోను ఎదుర్కొనేందుకు ప్రత్యామ్నాయ పంటలు వేయాలి తుమ్మల",
       "summary": "&nbsp;&nbsp; HMTV",
@@ -229,23 +284,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-21",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Press Information Bureau",
-      "publishedAt": "2026-10-21T16:16:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "climate-change-its-impact-on-cultivation-key-focus-of-symposium-in-shiml",
       "title": "Climate change, its impact on cultivation key focus of symposium in Shimla",
       "summary": "&nbsp;&nbsp; Social News XYZ",
@@ -260,25 +298,6 @@
       "publishedAt": "2026-10-21T09:15:21.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWldsXy0tbno2NHRYQ3FoNXd3VmFmWmRSSGpKaWd6NG83SEp6VkVwVVo5Sm8xTV9aR08wZjU3U2QxWF8wZmdTMldYNWlvY0F1V21nSTJyQkRTc2k5UjhPbktELWM5QjJrQzlsYWxxaHV2MFNTZHBGcy1tYWdROC1PWVp3R2V1cmxuQURqUmFiRGd2cDF4a0ZERkYxWDA5OXh3a0RQTnM0NkFnMkwxZXF2X2xB0gGyAUFVX3lxTE9aV2xfLS1uejY0dFhDcWg1d3dWYWZaZFJIakppZ3o0bzdISnpWRXBVWjlKbzFNX1pHTzBmNTdTZDFYXzBmZ1MyV1g1aW9jQXVXbWdJMnJCRFNzaTlSOE9uS0QtYzlCMmtDOWxhbHFodXYwU1NkcEZzLW1hZ1E4LU9ZWndHZXVybG5BRGpSYWJEZ3ZwMXhrRkRGRjFYMDk5eHdrRFBOczQ2QWcyTDFlcXZfbEE?oc=5",
       "sourceHome": "https://www.socialnews.xyz",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-rice-prices-surge-65-amid-paddy-surplus-2026-10-20",
-      "title": "Telangana Rice Prices Surge 65% Amid Paddy Surplus",
-      "summary": "&nbsp;&nbsp; Urban Acres",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Urban Acres",
-      "publishedAt": "2026-10-20T14:34:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT08tSkxLNzZZOEpKN2g0Zi1ZRGtHcWp6VjFfYnEtVVdqUTFwTDJ2TlNGTDNYa0RRemE5Z0VoY2w3Q2RDWUpaeVQyTFV3ajlGNXFwVVpjY2VOYzNPb3I0SV9Zd1BRNm12SmhheU9RWFBQeWdvRGxaZ0dVdzBIM1NHeGlfU3Z0REhqUE9n?oc=5",
-      "sourceHome": "https://urbanacres.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
