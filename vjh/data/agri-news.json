@@ -1,9 +1,134 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T04:51:41.655Z",
+  "generatedAt": "2026-10-25T05:01:43.238Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "papaya-farming-2026-10-25",
+      "title": "Papaya Farming: ఏడాది పొడవునా డిమాండ్ ఉన్న పండు ఇదే.. ఇలా సాగు చేస్తే కాసుల వర్షమే!",
+      "summary": "&nbsp;&nbsp; Asianet News Telugu",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Asianet News Telugu",
+      "publishedAt": "2026-10-25T01:35:06.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRndQclBEQkpYVk1VLW93YUc2STFheEdFa1hPZ0pENDZpaWdVSHBsMWplTDZkUmVhUHFWS2dtcGhYWktwYnd2bW4yTUItcy00bFozNVlkZ1ExdUpIM2lMMjdpM0xDdm9yYXlwQk8yVVFVTGZaR0JFak45aU9saHdtS0FWZUEtcFZBR0tHZlltdTNzQU1XS0kwV1dDQVRTTktZel9WdkdlaVo0N1FJcTN3cUJkN3FVTUFGMXlaaHFRSXBBaVlLNjN5NEVTRk1DR0JRRUtOZzJNM0IzenU5S3Rra2d1VFBGbExmbHEwb3BaTko1eV8wcmhfTUYwdXPSAfwBQVVfeXFMTUZ3UHJQREJKWFZNVS1vd2FHNkkxYXhHRWtYT2dKRDQ2aWlnVUhwbDFqZUw2ZFJlYVBxVktnbXBoWFpLcGJ3dm1uMk1CLXMtNGxaMzVZZGdRMXVKSDNpTDI3aTNMQ3ZvcmF5cEJPMlVRVUxmWkdCRWpOOWlPbGh3bUtBVmVBLXBWQUdLR2ZZbXUzc0FNV0tJMFdXQ0FUU05LWXpfVnZHZWlaNDdRSXEzd3FCZDdxVU1BRjF5WmhxUUlwQWlZSzYzeTRFU0ZNQ0dCUUVLTmcyTTNCM3p1OUt0a2tndVRQRmxMZmxxMG9wWk5KNXlfMHJoX01GMHVz?oc=5",
+      "sourceHome": "https://telugu.asianetnews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "11-crore-farmer-ids-created-five-months-ahead-of-deadline-shivraj-singh-",
+      "title": "11 crore farmer IDs created five months ahead of deadline: Shivraj Singh Chouhan",
+      "summary": "&nbsp;&nbsp; India's News.Net",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "India's News.Net",
+      "publishedAt": "2026-10-24T23:33:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUI5ekIzNGk3NWNidHNQSUoyVXVDVEJQb2o3QmlJcFJ2UnF4UnhhWUUyd0ZnZi01SDJYM0xTVnIyWnRSaTd1RVRkRENQdjQ4d1RsdldGM0swTnV4LWJ6UXVjU296NktJRk9wOENtLVh0aDIwdGtwQ2dXLWhMdFJzd1JxaE55VFJhSmwtXzBhUzVwV0RvSWtpUi1zQkhWWE5vYjcwbG5aQXdxRnhTQXFqWGFOYWhHb0ZZOGNXRzF3?oc=5",
+      "sourceHome": "https://www.indiasnews.net",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "india-achieves-11-crore-farmer-id-milestone-5-months-before-goal-10-thin",
+      "title": "India achieves 11 crore farmer ID milestone 5 months before goal: 10 things to know",
+      "summary": "&nbsp;&nbsp; Zee Business",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Zee Business",
+      "publishedAt": "2026-10-24T14:30:02.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMzIxS2JEQ1VHMWlOWHJvb1NmUnRWM08wcWt4ZWVVTlI4UDNuSFNrNmhuX1hmcXRrS1ozNkh6clprRGU0RW5KM2Yzc0RjNGZ1Mm9kMEpGa1N5TmFxMlg2S3cxRmxyWkVUT0YyNU95ZTJUNElQSm01S2xuV1JIQlNtajgzMzgtM3VQdkt5ZEtidG1oeE0zWHIxRzdCZnZFQm1rSFV3aEdGMFM5TG4tVVNqTFVLaFhUdTZOTjdPRVNzTXlkMXVlWmpFUWZ1QTlyYUp2OHNBaUtnZWtZaFItaDZQOGkwQnZOR0w5dFFRMEJsZ0E2RzV2OXQ4dWtMdy1yQklobnZodjhJQnhTTzNRVGVn?oc=5",
+      "sourceHome": "https://www.zeebiz.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "a-shared-responsibility-for-water-power-and-cropping-2026-10-24",
+      "title": "A shared responsibility for water, power and cropping",
+      "summary": "&nbsp;&nbsp; Hindudayashankar",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Hindudayashankar",
+      "publishedAt": "2026-10-24T14:29:48.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9XRWZfdWRzaVVtZ3NIOVdzX2p2VzhjRllKWUduRDlkcm5SMlY5eTl3d1Y3a1AxeTV5M0lVenlqRFdwOHRSMWJZeWVqVURleXRXMEh4cWctR0Q1SURQV0IwVDVYUjhKd21WUEhfQWY4YWZfOUVIVnJHLTI1UXJ2MnNtZktPeE5obExhSDhxSkV0S2ZqNVF4LS1n?oc=5",
+      "sourceHome": "https://hindudayashankar.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "adilabad-cotton-procurement-plunges-as-farmers-face-weather-related-crop",
+      "title": "Adilabad cotton procurement plunges as farmers face weather-related crop losses",
+      "summary": "&nbsp;&nbsp; Telangana Today",
+      "crop": "Cotton",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telangana Today",
+      "publishedAt": "2026-10-24T10:35:17.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEtYRl9DcTFic01zbTgyblBZczNqQWFKcmxwOEFwZFBuMG9jTW9vWlB6ejF1dWhwbFJLbGhtYTRwQUduZllDVlpmRUdRWWh6R2VSUFJpS3R0aFdhak13SDNhczdOaG9iNjZKdVFWT0lhV3hWY1AzLTJudVVyblM1V29tSE8yRi04aWxWaDZiY3gwYjBETEtYVGhGQnRhdWFublNsWlVndDV5Zw?oc=5",
+      "sourceHome": "https://telanganatoday.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "haryana-promotes-crop-diversification-for-water-conservation-2026-10-24",
+      "title": "Haryana Promotes Crop Diversification for Water Conservation",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-24T09:08:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHNENDgyMUdIWnlNM1BvUWlVMHljMi1NZENxTThPWVF6ZzRuV3FoS2dDZGZTUnRzYW5vVzBDNGhta0JnNEhtMlNQd04tQjNRQ3N2cmx6VXNaYU9JWHFFUGU2U2diMkUtWTZ1UGNldTA5VnBTenF3dWpLRW5Kcnp0RHZtbHJWbXZwR2JVVG1uUnF4THRKdWlSQkRMVFZDM0FZQ1ZpWFgwYUg2dXdfSEhoU1NBNDJzX1nSAbcBQVVfeXFMUExzRDQ4MjFHSFp5TTNQb1FpVTB5YzItTWRDcU04T1lRemc0bldxaEtnQ2RmU1J0c2Fub1cwQzRobWtCZzRIbTJTUHdOLUIzUUNzdnJselVzWmFPSVhxRVBlNlNnYjJFLVk2dVBjZXUwOVZwU3pxd3VqS0VuSnJ6dER2bWxyVm12cEdiVVRtblJxeEx0SnVpUkJETFRWQzNBWUNWaVhYMGFINnV3X0hIaFNTQTQyc19Z?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "centre-issues-11-crore-farmer-ids-under-agristack-early-2026-10-24",
+      "title": "Centre Issues 11 Crore Farmer IDs Under AgriStack Early",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-24T07:31:11.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGlyaE1obmNvbkhoeW5sVWUwak1aX3FyRW5uMnB3bGJGblNKS0N2czI1ZWpFZ29zUHFPSTdhSGhTQ3N1RmJJNTc1cjhzeDk1cWJCWlFYWURvV0pXazFvaDNHbTFaeEYyN25BamRNa0FDS2FzMmpBbENKbTBodWhmZENUS19RMXJjR1JGYVVNdUdBTXBFQW5sUHpWdEd5Y3RobWNXUnJqQl9UbzY5MGM3MNIBsAFBVV95cUxOSGlyaE1obmNvbkhoeW5sVWUwak1aX3FyRW5uMnB3bGJGblNKS0N2czI1ZWpFZ29zUHFPSTdhSGhTQ3N1RmJJNTc1cjhzeDk1cWJCWlFYWURvV0pXazFvaDNHbTFaeEYyN25BamRNa0FDS2FzMmpBbENKbTBodWhmZENUS19RMXJjR1JGYVVNdUdBTXBFQW5sUHpWdEd5Y3RobWNXUnJqQl9UbzY5MGM3MA?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after",
       "title": "Telangana CM announces 4-month employment scheme, to be implemented after Sankranti festival amid El Nino weather conditions",
@@ -20,6 +145,25 @@
       "publishedAt": "2026-10-23T21:00:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWkNNdkU4QUd2eHd6WFRSempBeDNzZFVvcEx4eHFpS29BN2F5TzBURFNuQ1VZbzk5d0R0S0FEUUNGMUZDdUpCY3ZSd3c1TmFvajFCaDBPZHo2Y3BXNFUzeFRkWWhUSl9iV1JGMDdGdnh2eWNrR01JWlRpU25qOWlac3llZG1RRk8yN21LMmZnN1BYQnZWTUl1YzRyekhWTldScHU1ZXREVF9IeGxCcXpsWW00cjBNeUFudzMydFZLbTBUQkYtMC1IZkNFVXZqNkYwOTI0OVFZX2VFVTJzTkl1dDJtREZUdDRySTBwY09ZSHVvbU5EcG51UmhwRQ?oc=5",
       "sourceHome": "https://www.indiagazette.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-23",
+      "title": "సేద్యానికి సెలవే శ్రేయస్కరం!",
+      "summary": "&nbsp;&nbsp; Andhrajyothy",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhrajyothy",
+      "publishedAt": "2026-10-23T20:40:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUF9NZlVWMzJSNmIyQ0h1V2hwNTNHSGRBWmQxMTVVOHc1ZEl0QkpEc1VtQXRPa1A5Uk9xdjZheF9FT1lmYk03WllPQ243Z2xqNVJLUjRwUjEyYU5iOGNuallmOTNCeWUyR0RKRVlWYm9oWDVRMTlBbnJhVUFiRVRWcmpXZGc3R3doaEZJUHZaUFVfYkhSYmlZQVdyRlBWX1dKRHh1SHRVVDF2NTYycG1WTDRHT2ZUeFB0ZUdEMA?oc=5",
+      "sourceHome": "https://www.andhrajyothy.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -45,14 +189,14 @@
     {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-23",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
       "crop": "All",
       "type": "scheme",
       "regions": [
         "india"
       ],
       "language": "en",
-      "source": "Press Information Bureau",
+      "source": "www.pib.gov.in",
       "publishedAt": "2026-10-23T13:08:03.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
       "sourceHome": "https://www.pib.gov.in",
@@ -77,6 +221,24 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "rice-loses-acreage-pulses-and-bajra-gain-in-india-s-kharif-sowing-season",
+      "title": "Rice loses acreage, pulses and bajra gain in India’s Kharif sowing season",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-10-23T11:33:18.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGZTRjVTdUE3YTMwcmdkU2tqbEdEOE5URWR3eG5xUHFFUUFEU2c3ODB6elJVd1ZURHBkTHZwcUVoWW9mSkVUM3dQSHdrVnZjZkVIcXVxSkM5cnhfZ3dXVUJYN3pXNDJybzVRc3FBa1FMcXR5aTQ1TzRSTUhVTXVzc0N6WGJHLS03WmRMR0l1Q3o1WFNkcG5aVGs4c0oxNnFocWVSUHdzOEZLbmFqdXNOX2JiVGI3NUVDMGR2eA?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "9-260-8-667-hindustan-times-telugu-2026-10-23",
       "title": "ఆదిలాబాద్‌లో పత్తి క్వింటాలుకు రికార్డు స్థాయిలో రూ.9,260.. కనీస మద్దతు ధర రూ.8,667 కంటే ఎక్కువ! | Hindustan Times Telugu",
       "summary": "&nbsp;&nbsp; Hindustan Times",
@@ -92,23 +254,6 @@
       "publishedAt": "2026-10-23T01:44:07.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVVB0U1BObVdjMkdkVW1qb3JjM004RGVrY2FKTVM4c1FheGhRYlVKbTN1UWtrSVo0UXpYUkpDZ0xBZFNqeHV3MHFnQTktVDhhUUtlQ2piQWRmWWx0V3dnLU9SZTN2ZTNNSG5uUEh4ZkhYamZPNWZmbC1HSEhXNmo3dTB1Y3Jab1NMeFh5c2paZjBiem5wOEZWRnRfdUJwYXY3Z0tEZG9BTnl0UmQ1VTJuQ3c2aDQyakZuRGZXNTFqbVpnX04xVy1WRDExYWUzWkhVeFM5SHVyaksxakdlQTNrZ0FXOV9kMnJ4RWJ3aVlSVVZhN2tBS0FBMGRGakNPRDIzdmVScmlPWE0xWk1zdW9tatIBlgJBVV95cUxQNTlCZWhGZWUtLVY1dGFiS3JxbWtwcjJTd0lLY04yck9LaWdWeFB6cHhPMW9ZV19Ic054Y1BEaUNheTRfYUFkZXpMYlZsVW92VUxZei1YcmlPeVFtVE84dm9hejY3eU56eDFmVnNybnpjTTJXZGZ3UDRWa0FjMDF5djVaTFNEUTdEUGZVVHBMTzJONVAxYVAyaXphR1A3Rmt5WE40bExPVU1qRkNPd19xSFlkSmVjMVB2YmdwSmNCdVA2SGh6VnN3cG5XTnFUbnlGWFdTdWRFM3dsQXl5NGhXWEZmbFV2SXNRZXUwVVkwRzMxTzhGRHZHeVhNckVfWmlYT3Z4cHpaQk5aZ3Q3MzhlUkh2RVJ0dw?oc=5",
       "sourceHome": "https://www.hindustantimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "mp-joins-price-support-scheme-for-oil-seeds-karnataka-may-follow-suit-20",
-      "title": "MP joins price support scheme for oil seeds, Karnataka may follow suit",
-      "summary": "&nbsp;&nbsp; The Financial Express",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Financial Express",
-      "publishedAt": "2026-10-22T18:42:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEk2dHZNcU01ZGZqYUZmcDZscEM2emdMUUpRcHRrUVdiNk1fT2hXbU5RV0xuNVhha0M3d29iWnYwMVVvMFphZzcwY1JkdGVqNVhDbEU2c0kwd0FzaWVVSDRTaktIdTlSTEpKdzVPdmlKc2J6bkU0MlBTbjltOFN6cTNfeG55Q2VNWkxNTzFGR3l0VjJaTTNabnRTRkZDUmxtQWRHaXRYUzdZVGZHLXlBV0dNWWh4TE1OZWRiSFBnS0t1a2c30gHLAUFVX3lxTFBlQkl5V0tTMEN2c3BUeXRDVUFXZy1xSXhscmlUZVp5NzFyZnE1UFNubXFJcTNSSnBIYkx6R3ZxVkNHdHVNRGcwY1pFLXQ5cUg1Yy1CUEtXQUQ0SUJ6c05vaXFhLUVFYmVoSWdaNTEtM00zcTRQLTh1VnBoSjV2ajZBWFFHSWxxOEIyY0VfSTlERU9UVzI0a0F2U0Q2R29RWnJPT0NrRkV3NmZpX192cnVuUmNSVlh3cm1fckJsSTA1Q2FBOFlmaGluZEc4?oc=5",
-      "sourceHome": "https://www.financialexpress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -147,25 +292,6 @@
       "publishedAt": "2026-10-22T16:00:32.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1l4U2syNW9SaHE1ZW9JdmtESWlaUjhIMEI1WE1sTkNTa0dTNVF2RmF1ekVLblFBVndQZ3dzWFV4TGNPS3pnTzJnQ3BVVDZMSkVnb1E0dXc5VlFPZ3RNRC1TLUFENTVMTU9CZXdHZDBtSmZPYkhQWXlGQjFvX1ZRbmpieXZQRVI3dFl6Nno0RVFqdjBmZm9GenAwald4U3ZYRnFMZFRjX3hEaTFNSzhCdmdCWlN5ZTNyb0kw?oc=5",
       "sourceHome": "https://menafn.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-22",
-      "title": "ఎల్‌నినో ప్రభావాన్ని ఎదుర్కొనేందుకు రైతులు ప్రత్యామ్నాయ పంటలపై దృష్టి సారించాలి",
-      "summary": "&nbsp;&nbsp; Suryaa News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Suryaa News",
-      "publishedAt": "2026-10-22T15:14:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWJBeFpkVUdMWTVRQmdnbkQtaXNqX3l6ZlJuMFRRbFdCaUhiaUdBSk80c3BGaS1iVTZzWDJldENsb1FpZ1lvbmdSQ2xnU2VSOGNSQlZzcV9uem9zdlVtdlNadS00NkxBM3R5RVBBZUhLX2l4MmFiWElwSFVlTU5HRUZaRFRac2lLd0s3ckxMaUZsa0x2WmZENlZFbXRnVkloUlAyWVpObEQyTFBBYUE1NDNFRUJ1NnFvYTNFdzRzNDBMUdIBwgFBVV95cUxOWWJBeFpkVUdMWTVRQmdnbkQtaXNqX3l6ZlJuMFRRbFdCaUhiaUdBSk80c3BGaS1iVTZzWDJldENsb1FpZ1lvbmdSQ2xnU2VSOGNSQlZzcV9uem9zdlVtdlNadS00NkxBM3R5RVBBZUhLX2l4MmFiWElwSFVlTU5HRUZaRFRac2lLd0s3ckxMaUZsa0x2WmZENlZFbXRnVkloUlAyWVpObEQyTFBBYUE1NDNFRUJ1NnFvYTNFdzRzNDBMUQ?oc=5",
-      "sourceHome": "https://www.suryaa.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -223,81 +349,6 @@
       "publishedAt": "2026-10-22T06:05:56.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0RvWTBfbXFZeUNkTm0zV2xmSDRRUnliRnhPcUM1V1ZpMWRSR2dLM0VDV1JwRW5XZ3V3M0xWVHZXTmxDTkJCaWpOZEF3azk3Wng5RXdMQUwzc1Fka3A1SG1QcWZXY215WUxOR2dZaVFrYWgweW9GSjQ4Mmc3WVJQZDJtdzFOS2lrX0czMG8xRUJlbUk4WkhZdkhvQTV0MGxRd00w?oc=5",
       "sourceHome": "https://commodity-board.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "what-el-nino-this-ground-up-farmers-cooperative-continues-to-reap-divide",
-      "title": "What El Nino? This ground up farmers’ cooperative continues to reap dividends",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-21T18:21:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObFpuT1YxeEdCemllX1FnUUx5ekFJVzJPaFNwTERsbFBZUGFobEVJNS1LU2JPeUNzOWdhTnhENmdCcE4yV0FGN1d2ams2aU5kR2xsYzRtVkIyMEt1dm50WXhMS3FOeWI4bVJkZkluaHZJWFNVMERSYVdtcVlaTnRNYllraUV6dkl3dFNiTk0yc2Z5S01VSk1lYUJsZktwUy01bnN0SGFqYU0tcllla201dGhicXRkd3daQXZQRWJOc2prTmx2MmhndlZxME5MSTFOQTFWMVdqU0lMbFNrbHB2UkZRODI1UWc?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "digital-transformation-for-affordable-diverse-and-resilient-food-in-indi",
-      "title": "Digital Transformation for Affordable, Diverse, and Resilient Food in India",
-      "summary": "&nbsp;&nbsp; orfonline.org",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "orfonline.org",
-      "publishedAt": "2026-10-21T18:00:20.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWhfek1ILTVlRHFfc2lMYjVmbFgzRWlkajI2Tmp0aVQwdWszbVAtZUUxY2RJVF90QzFtNEh6QXFNc042N05uODFTdU5zNGxqZW00aXZ1OVJPb0NMY1h5Vkd2bHljZ3RvR3BnNWYxTFo1ZHZxU2dOLXluQ1dJWTJjeW81aW5uNlhmZFE1TG9VOEoxSXlaSXUyUU4xUE42NGJxZTl1ZU5NZnlQaWlFYnNDY1h3?oc=5",
-      "sourceHome": "https://www.orfonline.org",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "el-nin-o-could-be-strongest-in-40-years-un-weather-agency-warns-how-indi",
-      "title": "El Niño could be strongest in 40 years, UN weather agency warns: How India is preparing",
-      "summary": "&nbsp;&nbsp; The Financial Express",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Financial Express",
-      "publishedAt": "2026-10-21T17:40:37.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnNJWFpBQk9uVUZONzFvRzRFTzludUZseW5pVW1PaXR0X1pPbkV3dl9NTlJQeGR3OFRablRXaEtvUnNqN25YYVdYeldoX09nX0FaMEd1T3ZITFZGSUdMVE02TFd3NmRPUGJmOFdFVmZHUHJaSVZFUENPeEJ5MGYwTTBwZXc1bVB1a3ZaVHYtWk0yMGlydUJCXzhkc1pEMGszSnU1U3dOV09YZzVlSUdtZTNMWk9PZ09TU3hqOW16Q0E2Vzd0MlY2LWtFTUNSTktMOGdB0gHaAUFVX3lxTE4tck9iNGpDR2g3REpaZURfcnlfQlQtNGowVFJYb1NJVjJ5TW5KWTJwY1ZJZTNTallLUHk5cUtxUnhnMnRmYzFOLThnbkZXbVN0ZEpjMEh3SjVuT3p4R2ZvRVoxWkFRTGU3ZmROYVB6M3o3VjVKUE9iYlEwR01iSjFkaXUwMWdtVVJ6S3hycV9GYUNUNFk1RmhQeVIxYVdxaUEtbTg3NzdLTkUyYUl3Zy1TODh2bG9zd25rWEVXbDA3ZWdpNzQzb2xNNjBCckVkdHNXNm95NjctWHhB?oc=5",
-      "sourceHome": "https://www.financialexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "climate-change-its-impact-on-cultivation-key-focus-of-symposium-in-shiml",
-      "title": "Climate change, its impact on cultivation key focus of symposium in Shimla",
-      "summary": "&nbsp;&nbsp; Social News XYZ",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Social News XYZ",
-      "publishedAt": "2026-10-21T09:15:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWldsXy0tbno2NHRYQ3FoNXd3VmFmWmRSSGpKaWd6NG83SEp6VkVwVVo5Sm8xTV9aR08wZjU3U2QxWF8wZmdTMldYNWlvY0F1V21nSTJyQkRTc2k5UjhPbktELWM5QjJrQzlsYWxxaHV2MFNTZHBGcy1tYWdROC1PWVp3R2V1cmxuQURqUmFiRGd2cDF4a0ZERkYxWDA5OXh3a0RQTnM0NkFnMkwxZXF2X2xB0gGyAUFVX3lxTE9aV2xfLS1uejY0dFhDcWg1d3dWYWZaZFJIakppZ3o0bzdISnpWRXBVWjlKbzFNX1pHTzBmNTdTZDFYXzBmZ1MyV1g1aW9jQXVXbWdJMnJCRFNzaTlSOE9uS0QtYzlCMmtDOWxhbHFodXYwU1NkcEZzLW1hZ1E4LU9ZWndHZXVybG5BRGpSYWJEZ3ZwMXhrRkRGRjFYMDk5eHdrRFBOczQ2QWcyTDFlcXZfbEE?oc=5",
-      "sourceHome": "https://www.socialnews.xyz",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
