@@ -1,12 +1,106 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T05:05:07.687Z",
+  "generatedAt": "2026-10-27T05:20:39.103Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "telangana-people-pre-book-rice-harvest-to-lock-prices-farmers-get-3-000-",
-      "title": "Telangana | People pre-book rice harvest to lock prices; farmers get ₹3,000-₹3,500 per quintal in open markets",
+      "id": "2026-10-27",
+      "title": "వెలుగు స్పెషల్ : వ్యవసాయ భవిష్యత్ కోసం క్లైమేట్ ఇంటెలిజెన్స్‌‌‌‌ కావాలి",
+      "summary": "&nbsp;&nbsp; V6 Velugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "V6 Velugu",
+      "publishedAt": "2026-10-27T01:53:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUFtanZ4UUI0eWdLekFuUXVLejdQTElHWjFUVU9xbGtpX3hXVGR2SGdfVVFJUlotMjFVMFRpSHdGam01UExjODhJakU4TzNnWW10OXNZTElFSUVQQmZXdzhKcHA2VWR5ZGpYNU5IZk54MjRxZkEwcEQzRlJhbUZjSU5YalZIakNyRXlZY3B3TDRRb3YxdmtSLWgyQWNuVTJLUlhyak1pTHhFbDIyWVZuY2pfeHdCOGJ2dE1VbFZYM2g5SmxaOGtPeVQ3a2FFNUNIN0x3?oc=5",
+      "sourceHome": "https://www.v6velugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "rainfall-deficit-rising-prices-burden-households-2026-10-26",
+      "title": "Rainfall deficit, rising prices burden households",
+      "summary": "&nbsp;&nbsp; https://www.metroindia.net/",
+      "crop": "Paddy",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "https://www.metroindia.net/",
+      "publishedAt": "2026-10-26T16:20:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWlaSEk0UXJFS0t0d3Y4cldHMFFOX1ZkS09qNlZpMXNMRm05X0RJeUMzcVlZcGZTV1B1ZzhLYVNOdnpRZW45U2Z2dHFMWkxjVF9kUngtU2FLa3dZcEVnZHQyVkFPWkhsanZCX1diZm00WVZMV3kxU1RsZXBwVG5CMmd5RUxkNUE5Ny1TdGF3YnFsZ1pRaXRnNzlnYktoREU?oc=5",
+      "sourceHome": "https://www.metroindia.net",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agriculture-has-more-data-than-ever-how-can-farmers-benefit-2026-10-26",
+      "title": "Agriculture has more data than ever. How can farmers benefit?",
+      "summary": "&nbsp;&nbsp; World Economic Forum",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "World Economic Forum",
+      "publishedAt": "2026-10-26T14:05:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdDViQUttbm9pRVNBNk1meU1ueWU0VkFfXzhDdHBfLS1qdmRTMnN5VllqU0ZqU0x0el9fcVF1VmE3a0VOb1hpTGlxWHlmbHZKNXZEWUdDME9UdWc1eUU5UjIzTFM5Wk1wVjBkVFpIX0hGWmo0NGtGN1Qzb2NhUU14M2Z5cmNPZnlQVEt1aVRRWXN1VkdOY2dVQ0c0elRsMWlWLWdpYlF0VVg2M2N1N01zbHl0SlpuZUE?oc=5",
+      "sourceHome": "https://www.weforum.org",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agrochemicals-manufacturing-plant-setup-cost-in-india-2026-10-26",
+      "title": "Agrochemicals Manufacturing Plant Setup Cost in India",
+      "summary": "&nbsp;&nbsp; IMARC Group",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "IMARC Group",
+      "publishedAt": "2026-10-26T09:47:17.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTBfOTlMZ3VPd2pCbE9RemtkeFd6REhEZVRZbmxBT2QyWUd5VUphUzJJTzgxR1ItNnJMbkxBOTVuMmFhZklXTGRVVFR3NHgzaDE2eEhRVVU1WUVYU0g1UHdhS3lrNVdVLVRjUlY0UG05aS1KNHNtSnlwSmdMd0lCb0QzdlBnQmVmYTRsbUFn?oc=5",
+      "sourceHome": "https://www.imarcgroup.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pioneer-marks-100-years-of-agricultural-innovation-delivering-for-farmer",
+      "title": "Pioneer marks 100 years of agricultural innovation, delivering for farmers worldwide and in India",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-10-26T07:50:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGoxczE1MktLZHZjVWJDWk9UTXdDSzZ5cWNzRHBuTGVmWThXc2pITWZfeVFSRmplOE9LaDFJalZLTmZ5SDVqcXNyaEhVTVJRNW5CZ0NpSkQzZFVPMDVEQXZRcVpSSWdFVFBUQUM0Tl9PNXEtaU9NMHoyOC0wbVJfcHotUWJmNlNlZm9zd3kxLXQ3ay1jdjU1dkVnUjVzZ2RvdGZtSTBFUDVwYlZZS3RXVVlUZmdpM25zaDM5UlFpWkpvSGR2bGgyNTFuV0EwcHhOSHJJV0s3d185em9BMGc?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "people-pre-book-rice-to-lock-prices-telangana-farmers-get-3-000-3-500-pe",
+      "title": "People pre-book rice to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
       "summary": "&nbsp;&nbsp; The Hindu",
       "crop": "Paddy",
       "type": "market",
@@ -17,28 +111,43 @@
       ],
       "language": "en",
       "source": "The Hindu",
-      "publishedAt": "2026-10-25T13:57:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUzM5b2ZKZ1lhdkt4SkN6cWZ3Qnlxcm9BNVVVbnpQaWQ2YVdtYkdBTFNqZzBhVnlUUGpzc1ZnOUxrSkpHby1fSHFzTFgwZjduZ3psNGlYOTVpSGZyLUFMY0hFWVhWN1FPazFmQkJ1QnhVZ1BRX0dDTU9Hem5CaXlSaS1uaGVobXBPV3B4dV9xQi1iRWhELWl3SXN6YU5IbUdCN1VoS2x5VTlWTTQzS3MzZDVKSTVUOXQweVpsQk9zazduNTYzOTR0OUstNGFLNE5sX21jdUpRUDhUOVJBZlkxVENtWE5mTzl6bHdyeFpzMzIxaUpzNk45ZHp0SjVVZ2dYZFRmSjhDcEzSAYgCQVVfeXFMUFMzOW9mSmdZYXZLeEpDenFmd0J5cXJvQTVVVW56UGlkNmFXbWJHQUxTamcwYVZ5VFBqc3NWZzlMa0pKR28tX0hxc0xYMGY3bmd6bDRpWDk1aUhmci1BTGNIRVlYVjdRT2sxZkJCdUJ4VWdQUV9HQ01PR3puQml5UmktbmhlaG1wT1dweHVfcUItYkVoRC1pd0lzemFOSG1HQjdVaEtseVU5Vk00M0tzM2Q1Skk1VDl0MHlabEJPc2s3bjU2Mzk0dDlLLTRhSzRObF9tY3VKUVA4VDlSQWZZMVRDbVhOZk85emx3cnhaczMyMWlKczZOOWR6dEo1VWdnWGRUZko4Q3BM?oc=5",
+      "publishedAt": "2026-10-26T07:08:22.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVV6VzBzMmQxazFwLWxSUkQ0a2ZHblZiZmdreVh3RlBJMWM0XzZ2UUdTVmdpYVFxS1AtbkRhSEVlYTNtQTZpNEJqbnE0ZFRNRDdSSllaeHNwY05YcTNyRGZ1RnlwRHBvVFhlTVJRUGFjMUswWUFlMzdRd1dLZHpKRThXd281elNySmJJSWtzRXJyWkJvX0R3VjlEUE4zU1ZHVUtHS2h3U2J2OG5zYTdIQllKaW1tMmRiZDNhb2pwXzNEbnQxMWxLejlHWDEyQV9pTVJsUmRzLUR0WF9WVzVxWVRhS2NCUWhxTWRNT2RTWXk4cVFlY0VFenBJZFphMkk4cWfSAYgCQVVfeXFMUFMzOW9mSmdZYXZLeEpDenFmd0J5cXJvQTVVVW56UGlkNmFXbWJHQUxTamcwYVZ5VFBqc3NWZzlMa0pKR28tX0hxc0xYMGY3bmd6bDRpWDk1aUhmci1BTGNIRVlYVjdRT2sxZkJCdUJ4VWdQUV9HQ01PR3puQml5UmktbmhlaG1wT1dweHVfcUItYkVoRC1pd0lzemFOSG1HQjdVaEtseVU5Vk00M0tzM2Q1Skk1VDl0MHlabEJPc2s3bjU2Mzk0dDlLLTRhSzRObF9tY3VKUVA4VDlSQWZZMVRDbVhOZk85emx3cnhaczMyMWlKczZOOWR6dEo1VWdnWGRUZko4Q3BM?oc=5",
       "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-10-25",
-      "title": "రూట్ మార్చిన జహీరాబాద్ రైతులు.. ఆలు సాగుకు గుడ్‌బై!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "id": "india-creates-11-crore-farmer-ids-ahead-of-deadline-2026-10-26",
+      "title": "India Creates 11 Crore Farmer IDs Ahead of Deadline",
+      "summary": "&nbsp;&nbsp; Tractor Junction",
       "crop": "All",
       "type": "scheme",
       "regions": [
-        "telangana",
-        "south",
         "india"
       ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-25T11:23:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQzV0TjJXZ0RLNGw4SlpfQmd1VVRPZkNiNU1JaFRRR194TE4xNGtFc3pFWDJGTk1mY09tcmx6dm5YZXVzQUdRdGJXd1diS3RtdXV6TENuWTlnR1RHU2sxdVVWNlF0bWtHSGZsZEkweUhxNDZmazlzektaaHhhOU12dTlFVkFXd2c4WWtRbVNpSHoxMlQ2cXBidlJpeUFDSXVKZUt5a292ZUtRNGVub1VsaW95bVZQcTZCMzVoYW9mWUR3YWV6eFM5S0Y5X0N3dlhnU2ZWSlduMGItekxMdl9faXBxSW1vb0I4dEJkSWNhTdIB7wFBVV95cUxQQzV0TjJXZ0RLNGw4SlpfQmd1VVRPZkNiNU1JaFRRR194TE4xNGtFc3pFWDJGTk1mY09tcmx6dm5YZXVzQUdRdGJXd1diS3RtdXV6TENuWTlnR1RHU2sxdVVWNlF0bWtHSGZsZEkweUhxNDZmazlzektaaHhhOU12dTlFVkFXd2c4WWtRbVNpSHoxMlQ2cXBidlJpeUFDSXVKZUt5a292ZUtRNGVub1VsaW95bVZQcTZCMzVoYW9mWUR3YWV6eFM5S0Y5X0N3dlhnU2ZWSlduMGItekxMdl9faXBxSW1vb0I4dEJkSWNhTQ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
+      "language": "en",
+      "source": "Tractor Junction",
+      "publishedAt": "2026-10-26T06:00:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHZBMWVmSnhBdUtsNHhUTWg0OUxCQld4b09US3BxOTRoNGtwRU5tSG9aeDEzLWhMUmtsbFdVNnROcTJNREItYzQyVEhNOHJjVlZUSWZUOGtTcEZyWlJsa2hfdzdhTW42ay02ZUxCSzN1akx0VTliM3ZOVlRaRGptbWRPckZBVGNCSHpYOW8xRUlIS0M4X3JfRHBtQ0xremhNQ1hra2tNQzJBbGPSAasBQVVfeXFMTXB2QTFlZkp4QXVLbDR4VE1oNDlMQkJXeG9PVEtwcTk0aDRrcEVObUhvWngxMy1oTFJrbGxXVTZ0TnEyTURCLWM0MlRITThyY1ZWVElmVDhrU3BGclpSbGtoX3c3YU1uNmstNmVMQkszdWpMdFU5YjN2TlZUWkRqbW1kT3JGQVRjQkh6WDlvMUVJSEtDOF9yX0RwbUNMa3poTUNYa2trTUMyQWxj?oc=5",
+      "sourceHome": "https://www.tractorjunction.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-25",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-25T18:51:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjd1l1OHQyU0ZmOXBTUXg3Qm9PT1hJamQtd0dUODcyalVLQVVKVEdDc3lVUmFPOE5yc1RzbnEwa0E3V211NmFHNDVfOFVDb2FzMVlZbWNLdjB0UDV2YlNIRzI5MHBZNERPRTNPSDlMdDkzQ2FtQnpyQw?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -79,23 +188,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farmer-id-scheme-digital-agriculture-key-benefits-2026-10-25",
-      "title": "Farmer ID Scheme: Digital Agriculture & Key Benefits",
-      "summary": "&nbsp;&nbsp; Vajiram & Ravi",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Vajiram & Ravi",
-      "publishedAt": "2026-10-25T04:57:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Vc1otTjNPOVhpdG1nQ1J0WWJMR2RLZWxHZ195eGNlNnBKaTdEMTBCdExJUkVMM0tlcGQzT0FTT0FKQldfZlFCeWdLWDM2aWhHM2taWmNCWnF5R0Z5bE1xS2NGdDlMaDVLSlBFV0NTNzNKX0VtTm1uWmtB?oc=5",
-      "sourceHome": "https://vajiramandravi.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "papaya-farming-2026-10-25",
       "title": "Papaya Farming: ఏడాది పొడవునా డిమాండ్ ఉన్న పండు ఇదే.. ఇలా సాగు చేస్తే కాసుల వర్షమే!",
       "summary": "&nbsp;&nbsp; Asianet News Telugu",
@@ -109,42 +201,8 @@
       "language": "te",
       "source": "Asianet News Telugu",
       "publishedAt": "2026-10-25T01:35:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZjk5Q0d4Q21IMkdvcEhfRkRvWG5SemVpVFB3WUUzbnBMWUtDN2c5ZUlUWjEwRkFlR1FQRGhIazA0LWkxV1puazZVOGF1SFBXY1UwSHE3dTdmZWZoOUdramk3bW14OUN4RzkwWmdnWjVoUVBESWhFQVJvMU9UTlA1SHViaXV4dzdoLW9tTWx3TzVKZmVjcm1FR0p1amh5WWJ5eHEzd21HaXFaMlhWNG4yTUpydlZXQVJwTEx2SGJYYVdFcWNTVlp0VnJiN1U4RVZMU2xpUlhLWElsSGF1RV9WZDdoU3Y3OVlQRkdKWnRNUGdLaU1RVEk40gH8AUFVX3lxTE1Gd1ByUERCSlhWTVUtb3dhRzZJMWF4R0VrWE9nSkQ0NmlpZ1VIcGwxamVMNmRSZWFQcVZLZ21waFhaS3Bid3ZtbjJNQi1zLTRsWjM1WWRnUTF1SkgzaUwyN2kzTEN2b3JheXBCTzJVUVVMZlpHQkVqTjlpT2xod21LQVZlQS1wVkFHS0dmWW11M3NBTVdLSTBXV0NBVFNOS1l6X1Z2R2VpWjQ3UUlxM3dxQmQ3cVVNQUYxeVpocVFJcEFpWUs2M3k0RVNGTUNHQlFFS05nMk0zQjN6dTlLdGtrZ3VUUEZsTGZscTBvcFpOSjV5XzByaF9NRjB1cw?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRndQclBEQkpYVk1VLW93YUc2STFheEdFa1hPZ0pENDZpaWdVSHBsMWplTDZkUmVhUHFWS2dtcGhYWktwYnd2bW4yTUItcy00bFozNVlkZ1ExdUpIM2lMMjdpM0xDdm9yYXlwQk8yVVFVTGZaR0JFak45aU9saHdtS0FWZUEtcFZBR0tHZlltdTNzQU1XS0kwV1dDQVRTTktZel9WdkdlaVo0N1FJcTN3cUJkN3FVTUFGMXlaaHFRSXBBaVlLNjN5NEVTRk1DR0JRRUtOZzJNM0IzenU5S3Rra2d1VFBGbExmbHEwb3BaTko1eV8wcmhfTUYwdXPSAfwBQVVfeXFMTUZ3UHJQREJKWFZNVS1vd2FHNkkxYXhHRWtYT2dKRDQ2aWlnVUhwbDFqZUw2ZFJlYVBxVktnbXBoWFpLcGJ3dm1uMk1CLXMtNGxaMzVZZGdRMXVKSDNpTDI3aTNMQ3ZvcmF5cEJPMlVRVUxmWkdCRWpOOWlPbGh3bUtBVmVBLXBWQUdLR2ZZbXUzc0FNV0tJMFdXQ0FUU05LWXpfVnZHZWlaNDdRSXEzd3FCZDdxVU1BRjF5WmhxUUlwQWlZSzYzeTRFU0ZNQ0dCUUVLTmcyTTNCM3p1OUt0a2tndVRQRmxMZmxxMG9wWk5KNXlfMHJoX01GMHVz?oc=5",
       "sourceHome": "https://telugu.asianetnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "11-crore-farmer-ids-created-five-months-ahead-of-deadline-shivraj-singh-",
-      "title": "11 crore farmer IDs created five months ahead of deadline: Shivraj Singh Chouhan",
-      "summary": "&nbsp;&nbsp; India's News.Net",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "India's News.Net",
-      "publishedAt": "2026-10-24T23:33:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUI5ekIzNGk3NWNidHNQSUoyVXVDVEJQb2o3QmlJcFJ2UnF4UnhhWUUyd0ZnZi01SDJYM0xTVnIyWnRSaTd1RVRkRENQdjQ4d1RsdldGM0swTnV4LWJ6UXVjU296NktJRk9wOENtLVh0aDIwdGtwQ2dXLWhMdFJzd1JxaE55VFJhSmwtXzBhUzVwV0RvSWtpUi1zQkhWWE5vYjcwbG5aQXdxRnhTQXFqWGFOYWhHb0ZZOGNXRzF3?oc=5",
-      "sourceHome": "https://www.indiasnews.net",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-achieves-11-crore-farmer-id-milestone-5-months-before-goal-10-thin",
-      "title": "India achieves 11 crore farmer ID milestone 5 months before goal: 10 things to know",
-      "summary": "&nbsp;&nbsp; Zee Business",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Zee Business",
-      "publishedAt": "2026-10-24T14:30:02.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMzIxS2JEQ1VHMWlOWHJvb1NmUnRWM08wcWt4ZWVVTlI4UDNuSFNrNmhuX1hmcXRrS1ozNkh6clprRGU0RW5KM2Yzc0RjNGZ1Mm9kMEpGa1N5TmFxMlg2S3cxRmxyWkVUT0YyNU95ZTJUNElQSm01S2xuV1JIQlNtajgzMzgtM3VQdkt5ZEtidG1oeE0zWHIxRzdCZnZFQm1rSFV3aEdGMFM5TG4tVVNqTFVLaFhUdTZOTjdPRVNzTXlkMXVlWmpFUWZ1QTlyYUp2OHNBaUtnZWtZaFItaDZQOGkwQnZOR0w5dFFRMEJsZ0E2RzV2OXQ4dWtMdy1yQklobnZodjhJQnhTTzNRVGVn?oc=5",
-      "sourceHome": "https://www.zeebiz.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -183,114 +241,6 @@
       "publishedAt": "2026-10-24T10:35:17.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEtYRl9DcTFic01zbTgyblBZczNqQWFKcmxwOEFwZFBuMG9jTW9vWlB6ejF1dWhwbFJLbGhtYTRwQUduZllDVlpmRUdRWWh6R2VSUFJpS3R0aFdhak13SDNhczdOaG9iNjZKdVFWT0lhV3hWY1AzLTJudVVyblM1V29tSE8yRi04aWxWaDZiY3gwYjBETEtYVGhGQnRhdWFublNsWlVndDV5Zw?oc=5",
       "sourceHome": "https://telanganatoday.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "haryana-promotes-crop-diversification-for-water-conservation-2026-10-24",
-      "title": "Haryana Promotes Crop Diversification for Water Conservation",
-      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-24T09:08:31.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHNENDgyMUdIWnlNM1BvUWlVMHljMi1NZENxTThPWVF6ZzRuV3FoS2dDZGZTUnRzYW5vVzBDNGhta0JnNEhtMlNQd04tQjNRQ3N2cmx6VXNaYU9JWHFFUGU2U2diMkUtWTZ1UGNldTA5VnBTenF3dWpLRW5Kcnp0RHZtbHJWbXZwR2JVVG1uUnF4THRKdWlSQkRMVFZDM0FZQ1ZpWFgwYUg2dXdfSEhoU1NBNDJzX1nSAbcBQVVfeXFMUExzRDQ4MjFHSFp5TTNQb1FpVTB5YzItTWRDcU04T1lRemc0bldxaEtnQ2RmU1J0c2Fub1cwQzRobWtCZzRIbTJTUHdOLUIzUUNzdnJselVzWmFPSVhxRVBlNlNnYjJFLVk2dVBjZXUwOVZwU3pxd3VqS0VuSnJ6dER2bWxyVm12cEdiVVRtblJxeEx0SnVpUkJETFRWQzNBWUNWaVhYMGFINnV3X0hIaFNTQTQyc19Z?oc=5",
-      "sourceHome": "https://money.rediff.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-issues-11-crore-farmer-ids-under-agristack-early-2026-10-24",
-      "title": "Centre Issues 11 Crore Farmer IDs Under AgriStack Early",
-      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-24T07:31:11.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGlyaE1obmNvbkhoeW5sVWUwak1aX3FyRW5uMnB3bGJGblNKS0N2czI1ZWpFZ29zUHFPSTdhSGhTQ3N1RmJJNTc1cjhzeDk1cWJCWlFYWURvV0pXazFvaDNHbTFaeEYyN25BamRNa0FDS2FzMmpBbENKbTBodWhmZENUS19RMXJjR1JGYVVNdUdBTXBFQW5sUHpWdEd5Y3RobWNXUnJqQl9UbzY5MGM3MNIBsAFBVV95cUxOSGlyaE1obmNvbkhoeW5sVWUwak1aX3FyRW5uMnB3bGJGblNKS0N2czI1ZWpFZ29zUHFPSTdhSGhTQ3N1RmJJNTc1cjhzeDk1cWJCWlFYWURvV0pXazFvaDNHbTFaeEYyN25BamRNa0FDS2FzMmpBbENKbTBodWhmZENUS19RMXJjR1JGYVVNdUdBTXBFQW5sUHpWdEd5Y3RobWNXUnJqQl9UbzY5MGM3MA?oc=5",
-      "sourceHome": "https://money.rediff.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after",
-      "title": "Telangana CM announces 4-month employment scheme, to be implemented after Sankranti festival amid El Nino weather conditions",
-      "summary": "&nbsp;&nbsp; https://www.indiagazette.com/",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "https://www.indiagazette.com/",
-      "publishedAt": "2026-10-23T21:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWkNNdkU4QUd2eHd6WFRSempBeDNzZFVvcEx4eHFpS29BN2F5TzBURFNuQ1VZbzk5d0R0S0FEUUNGMUZDdUpCY3ZSd3c1TmFvajFCaDBPZHo2Y3BXNFUzeFRkWWhUSl9iV1JGMDdGdnh2eWNrR01JWlRpU25qOWlac3llZG1RRk8yN21LMmZnN1BYQnZWTUl1YzRyekhWTldScHU1ZXREVF9IeGxCcXpsWW00cjBNeUFudzMydFZLbTBUQkYtMC1IZkNFVXZqNkYwOTI0OVFZX2VFVTJzTkl1dDJtREZUdDRySTBwY09ZSHVvbU5EcG51UmhwRQ?oc=5",
-      "sourceHome": "https://www.indiagazette.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "9-260-a-quintal-for-cotton-but-el-nino-threatens-yields-2026-10-23",
-      "title": "₹9,260 a quintal for cotton, but El Nino threatens yields",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-23T19:39:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFVTV3FJbnBlVGRYZGFMM2ZrdXp6bUEyd19lOUdLaWw2SXVfdUctcTA0TnF2TWNCVlJDZHlYODd3OUxBbVRxZjFpel9WMzBMakJFWW9WLUs5S1k0U0xNSWQ3a2pnS0wxOVRvcjQ3QktEWnZJSk5VMXBfWW5zTm5UNHA3N2JfUnlWdGxrdGNCbnNvSkw3cWFqZjhuc053T3EyWnZLc25FcWhuLWM4Xy1PY2tNc3ZfLWNjNnByYUZSSU9SYU1jVjNVSFZ2SdIB0AFBVV95cUxPRkNLTFBfV3FVa2FoQUN1T2tiNUxIbFNWUG5ranNSRHpCVnEtRVVFVGxrLXZMVTVCeWwxQmdEOTZxUEozNE5ONGZIM3hRTlY1cVV4SGJ5QWVlUDIzeFFFYjQ0cHdrU2gyNmxGdUFUc2V3THNLaVk3LWlTUVFmN3VCS0Y5Y3pRSTZDRTNGc1dieGVTZk9LNi04czdHRmlfTEVpX3YwdWY5Q3NYQmhYNXdYdzJNTkFZdndVY2RJQU9ZUEhXOTFYZUpYbm5zWEhPbWtz?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "rice-loses-acreage-pulses-and-bajra-gain-in-india-s-kharif-sowing-season",
-      "title": "Rice loses acreage, pulses and bajra gain in India’s Kharif sowing season",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-10-23T11:33:18.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGZTRjVTdUE3YTMwcmdkU2tqbEdEOE5URWR3eG5xUHFFUUFEU2c3ODB6elJVd1ZURHBkTHZwcUVoWW9mSkVUM3dQSHdrVnZjZkVIcXVxSkM5cnhfZ3dXVUJYN3pXNDJybzVRc3FBa1FMcXR5aTQ1TzRSTUhVTXVzc0N6WGJHLS03WmRMR0l1Q3o1WFNkcG5aVGs4c0oxNnFocWVSUHdzOEZLbmFqdXNOX2JiVGI3NUVDMGR2eA?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "price-volatility-fizzles-on-friday-2026-10-23",
-      "title": "Price volatility fizzles on Friday",
-      "summary": "&nbsp;&nbsp; Farm Progress",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Farm Progress",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
-      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
