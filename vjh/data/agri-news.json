@@ -1,9 +1,249 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T05:20:39.103Z",
+  "generatedAt": "2026-10-28T05:59:30.839Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "el-nin-o-effect-2026-10-28",
+      "title": "El Niño Effect : తెలంగాణ లో పంటలకు భారీగా ధరలు",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-10-28T02:54:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeDFvZUZkOU0xUURUZnRlYnlNc3JVN3hxdHk2aGc3b1BUTnlPY0dZblVIdWZPSFlUSlVwZGdmT3UyUjk0bmxvRXAtSVZUSkNzV2tleld5VEx2anQwWnh5OXpxSU45V0tiS2QzR0FhMWxXS3JwXzZvaTA3cjlGS1QyOW4wdVhPMVhuUUs0d0h3a9IBjwFBVV95cUxPeDFvZUZkOU0xUURUZnRlYnlNc3JVN3hxdHk2aGc3b1BUTnlPY0dZblVIdWZPSFlUSlVwZGdmT3UyUjk0bmxvRXAtSVZUSkNzV2tleld5VEx2anQwWnh5OXpxSU45V0tiS2QzR0FhMWxXS3JwXzZvaTA3cjlGS1QyOW4wdVhPMVhuUUs0d0h3aw?oc=5",
+      "sourceHome": "https://vaartha.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-paddy-advisory-exposes-a-costly-water-planning-gap-2026-10-28",
+      "title": "Telangana Paddy Advisory Exposes a Costly Water Planning Gap",
+      "summary": "&nbsp;&nbsp; Urban Acres",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Urban Acres",
+      "publishedAt": "2026-10-28T01:19:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV2poQURmM0ZwOUZIZzUtc29CRENlRE5kRW1raXkzX2IyZnpxMzZxVzVRZ2YzMkcwOTR0dE92cUZVNWhZaTJWS0RidUZqS01QSGtIRnVOWnZRSm1tN0paTGlpZE94R3dLY3lURWNrdUZHQlFIYTM4ZVBVQ3h5aW96cjNMbVFTUV83b1Nn?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-s-paddy-advisory-exposes-a-deeper-water-planning-failure-2026-",
+      "title": "Telangana’s Paddy Advisory Exposes a Deeper Water Planning Failure",
+      "summary": "&nbsp;&nbsp; Urban Acres",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Urban Acres",
+      "publishedAt": "2026-10-27T22:09:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDNsZTBiZk5iNUdEY3hJZi0yMmlmUEJBTGtac0ZCRjRZQ0lnSHFkQ1BvMUl2R0N2VWNKVmM0UTZqakhudURkT2E5Zlc2NU1fbnJ0OWhwZTdMN1dwWk9IQ05oS0tTMTZtU2doNzdoUy1qVmdvX1pzTnBfWTlLUjRXRnhZT1MtRVYzU2Q3WTJkZFhnQQ?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cotton-yield-down-50-per-cent-due-to-drought-in-adilabad-2026-10-27",
+      "title": "Cotton Yield Down 50 Per Cent Due To Drought In Adilabad",
+      "summary": "&nbsp;&nbsp; Deccan Chronicle",
+      "crop": "Cotton",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Deccan Chronicle",
+      "publishedAt": "2026-10-27T16:45:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVRua3B1VGZGdUdCdzN6bkpTNE1BdGJjT3dXT3Z5NnhkNUpaZzRYUERhMU1SUzNMejdrQURTdzA3V1Z1N3V1RGhwQlRUaGNuanJYWWtpQzNRMEdGX3Q0OERzaWhXOElPSFhObWVfWllxaDc1Yy1rS05hNzBhY1p4bDN4Q2lOdUQ1WjdFX21kaUo5SkpCRmotV3VsYzRLVUc3MXpueWp3VS0xM3VNdzdKbjVzR0ZwR3dXNHRmSHVtb9IBxAFBVV95cUxNTzQ0QTd3VG1qX3VNaE02SDk3YUNndHFKWmVjd1FDbDkwWHRVOGYtMGYxaGFnNDg4R2N3MHpaZzRKamZ3ZF81VmVub0xFRkFiM0VTZG5LVU50TzVYUFc5S0lHVHFoWk50T1dlWnk4Q1RrTnhvRDVpTllwSW0wN2t6dTIzb2lrQmxkUFFFQktubF9hMHdWMVFodWNmcTdoVGdUYWRpdVNkMHdsNzQ5UXAtRG9MN2pScEFETWJWd0M4MzJUN3Bt?oc=5",
+      "sourceHome": "https://www.deccanchronicle.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "alternative-crops-2026-10-27",
+      "title": "Alternative Crops: ఒకే పంటపై ఆధారపడకుండా.. నాలుగు రకాల సాగు.. రైతు సంపాదన తెలిస్తే షాక్ అవుతారు..!",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-10-27T16:26:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNeVdhYmNzbXEtMGNIS0RMalZFWWt5Z0xURUtUazBYZGlxRjRXWlFGZnVoc2NMTi1fblE1QlVzczlxZUtJVW0wRWVVQXNUNnJMQ3hNOW1KUW03NUg1dkdmbFUzRVJYVXJZTFMtWnlTOGJzYUJBNFBUR19MV1Y1UjR3T1BHOW16WldqbDFYWktKZG0yTi05aXNmY19XX3VaamJzb2VLdEZwd19GdmFlWmZXdUQ2NHN6elBlNjFPZnN4SENPZnNaRW53UmlHRFdYQlVUd0xMT0UzcmxsV2x0N0xSU3JqVDhFbW03MU5RRTliaGNmRnY2SElrVER6LWo3cXp2MkN4UnVHb1JxSG9ManVnd0hYV1AyU0c1Q3RGVGxCd2JiaHFEcVU0Wkg4and6ekIyaHNCNEQyeEhWSHh1RlozY1RSajMtQUozb0cyaXppbjI3c1VYbG1J?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "el-nin-o-heats-up-food-prices-2026-10-27",
+      "title": "El Niño heats up food prices",
+      "summary": "&nbsp;&nbsp; https://www.metroindia.net/",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "https://www.metroindia.net/",
+      "publishedAt": "2026-10-27T16:14:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHZFYVBBZEYxc3g1U2oycm9aZVlOSFg5ZTNUMHhITlVDSVhsUVNoZXI5eEVudlNFZ3hjTG82aVVHeDVJdm13YXlWVVFpYlRSSjh0SmlJeVFIX0N2UEpXQ1dpalhwT21xQ2lZWURBM2ptRjJjN2VGY3Nkd3VWdldsSkNLWTM?oc=5",
+      "sourceHome": "https://www.metroindia.net",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "custom-hiring-centres-offer-machinery-on-rent-to-farmers-in-telangana-20",
+      "title": "Custom Hiring Centres offer machinery on rent to farmers in Telangana",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-10-27T13:32:54.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTk4ajE2WGhzeG11RjAyTHBtc1lrNVNFSm14ZkZKem53YjNVQVVrQ1FHNkFqa1FoRzRWUTUxODVIOTVxOVdZT1RoWHhVRERxNVBfQXNJS0FBcHl5X2pfeHdtbWNUZDJmY2tsWVdHZFhrOV9SY3hqRjBkQUNjZGVxSGpMWEpfejNtX0JiUExvYk9JMFA2RTU4UUk4MElaYjJZanFkdXV2TzBkS0FGUmhKNFdZWlJUdHp6cUg2dW9zYlNsR0VabUVjaVpBTUNnWGZLNUFySNIB2wFBVV95cUxQTHVubVpTZVZOQUpPMmFjWVB0eGYweVF5cUFxZktId1JyLTItbk95UDJBb0tpeGFuODBmaExVZi13ZTgxQUpCRXd3M09JS19HOFFJZlg2Z3A2eGZjMUloY3BNaDdaM1RMVTIwQ21nWC1DeXQ0aVoxMDB3NTJlckNYWnlJd0YzcUtzYjM2a2daRU4xVmVEeXFBcVNvcHNCT0xvRjB0REhVcF9ubkRKUkY4R1dVc19sd0NQblVFV3JJdHY5WXZER3ZaQzd1S2NBVDNUdGdvamRCcUNjUG8?oc=5",
+      "sourceHome": "https://www.thehindu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-10-27T11:54:34.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "19-253-2026-10-27",
+      "title": "పసుపు రైతులకు పండగే.. కేసముద్రం మార్కెట్‌లో క్వింటాల్‌కు రూ.19,253!",
+      "summary": "&nbsp;&nbsp; Samayam Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Samayam Telugu",
+      "publishedAt": "2026-10-27T10:24:19.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRmRxdFlnd2pmd2Q2dGFxTS0zTVJ6d3lROWstN2cyME5CaENMZkR5RURQMFptd2Yxci0xQzgzNEl1SGhSaHpOV1ZtNTNmaXRDZ1c1MTdxbDdKZzJfaWM4SFNaMkZHMl9relVpWnpOS0llTWRwMmkwdDkzaGE2cnI3ZVlGVWdyeVpHNUVrUmI1RnIxYWM4dFNzbGQweXAzcW5BQ0hveG9CakFSTzNac0NsY2ctSU5ZYVM0bUQ3V3Bhc0hqc1Y2VlVTWk5NMFNOV2lxd0xBV1Q3M2lWRjh20gHcAUFVX3lxTFBGZHF0WWd3amZ3ZDZ0YXFNLTNNUnp3eVE5ay03ZzIwTkJoQ0xmRHlFRFAwWm13ZjFyLTFDODM0SXVIaFJoek5XVm01M2ZpdENnVzUxN3FsN0pnMl9pYzhIU1oyRkcyX2t6VWlaek5LSWVNZHAyaTB0OTNoYTZycjdlWUZVZ3J5Wkc1RWtSYjVGcjFhYzh0U3NsZDB5cDNxbkFDSG94b0JqQVJPM1pzQ2xjZy1JTllhUzRtRDdXcGFzSGpzVjZWVVNaTk0wU05XaXF3TEFXVDczaVZGOHY?oc=5",
+      "sourceHome": "https://telugu.samayam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
+      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-10-27T10:01:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "jharkhand-farmers-get-rs-109-paddy-bonus-over-centre-s-msp-2026-10-27",
+      "title": "Jharkhand Farmers Get Rs 109 Paddy Bonus Over Centre's MSP",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-27T08:55:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzhTUnZacmZOVk82bUpRbEJncEdEYU5CNGJjZXNpcVRkM1EzNzAxdU1TTjNENGd2NjNEWFBQZ2NqM3hDbHBkUUpqTmk4OUV1NlN5dVo4VkFvY0tKT3lkWlRfcW9JVmYzTTNPS09RWTNJWi1zeFg4c0dDU1k2WjBVNk9Td1ZDcFhXbHBfenZZMzBJY0hPbWtVRVZmUlpYOVZlOFY2Y1NkS2pWTC1UVnl1TFNUOGvSAbQBQVVfeXFMTlc4U1J2WnJmTlZPNm1KUWxCZ3BHRGFOQjRiY2VzaXFUZDNRMzcwMXVNU04zRDRndjYzRFhQUGdjajN4Q2xwZFFKak5pODlFdTZTeXVaOFZBb2NLSk95ZFpUX3FvSVZmM00zT0tPUVkzSVotc3hYOHNHQ1NZNlowVTZPU3dWQ3BYV2xwX3p2WTMwSWNIT21rVUVWZlJaWDlWZThWNmNTZEtqVkwtVFZ5dUxTVDhr?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "a-wild-hurdle-telangana-govt-s-crop-switch-runs-into-a-monkey-trap-2026-",
+      "title": "A wild hurdle: Telangana govt's crop switch runs into a monkey trap",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T07:34:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa28tMDZwRi1oMGFHYUN1SElmN3hYS3Z2cEtteU9GaF83RVRWWDdDY3A4SkpwM245VTF2Vy10MTV3bkk3SnQtVFlrVEJmQjJRT3hFWTVlb1FoSXpsYnMtZFV2UlMzSC1yOGtCWk9VeFEtNXZJd1hMM3hfajhkWE9BRDBXMVBocGlObVk0am5sYTE5NFliLVdOM1QyRy1BaWlvd1FZLU55QnU1bmUzZzNDYWtzQXk5NWVBQTZyN2VkdEFlLXVvWW1Ya0J5OHk0OW1MUlFBbEVwRzA5QQ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "zimbabwe-weather-alert-msd-warns-of-thunderstorms-and-hail-this-week-202",
+      "title": "Zimbabwe Weather Alert: MSD Warns Of Thunderstorms And Hail This Week",
+      "summary": "&nbsp;&nbsp; iHarare News",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "iHarare News",
+      "publishedAt": "2026-10-27T04:25:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUswVnBLbWxPd0ZBQThEeklVRnFSZ29NT1p5SEQyUzlLdUd5Q09WOWdNOWtHX1RsSXNuY0dlQlhUWUQ0UE5UWUczdy1reFpoMVp3NVRKc21HVkRBT09RY2hwaGdQRjFON1RFQUNhMHUtYUhQaEtMZG81anhnRnlUMlk1b2t1NlVXS1JiUDYwUzFUdXM?oc=5",
+      "sourceHome": "https://iharare.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "2026-10-27",
       "title": "వెలుగు స్పెషల్ : వ్యవసాయ భవిష్యత్ కోసం క్లైమేట్ ఇంటెలిజెన్స్‌‌‌‌ కావాలి",
@@ -61,63 +301,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "agrochemicals-manufacturing-plant-setup-cost-in-india-2026-10-26",
-      "title": "Agrochemicals Manufacturing Plant Setup Cost in India",
-      "summary": "&nbsp;&nbsp; IMARC Group",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "IMARC Group",
-      "publishedAt": "2026-10-26T09:47:17.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTBfOTlMZ3VPd2pCbE9RemtkeFd6REhEZVRZbmxBT2QyWUd5VUphUzJJTzgxR1ItNnJMbkxBOTVuMmFhZklXTGRVVFR3NHgzaDE2eEhRVVU1WUVYU0g1UHdhS3lrNVdVLVRjUlY0UG05aS1KNHNtSnlwSmdMd0lCb0QzdlBnQmVmYTRsbUFn?oc=5",
-      "sourceHome": "https://www.imarcgroup.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pioneer-marks-100-years-of-agricultural-innovation-delivering-for-farmer",
-      "title": "Pioneer marks 100 years of agricultural innovation, delivering for farmers worldwide and in India",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-10-26T07:50:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWGoxczE1MktLZHZjVWJDWk9UTXdDSzZ5cWNzRHBuTGVmWThXc2pITWZfeVFSRmplOE9LaDFJalZLTmZ5SDVqcXNyaEhVTVJRNW5CZ0NpSkQzZFVPMDVEQXZRcVpSSWdFVFBUQUM0Tl9PNXEtaU9NMHoyOC0wbVJfcHotUWJmNlNlZm9zd3kxLXQ3ay1jdjU1dkVnUjVzZ2RvdGZtSTBFUDVwYlZZS3RXVVlUZmdpM25zaDM5UlFpWkpvSGR2bGgyNTFuV0EwcHhOSHJJV0s3d185em9BMGc?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "people-pre-book-rice-to-lock-prices-telangana-farmers-get-3-000-3-500-pe",
-      "title": "People pre-book rice to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-26T07:08:22.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVV6VzBzMmQxazFwLWxSUkQ0a2ZHblZiZmdreVh3RlBJMWM0XzZ2UUdTVmdpYVFxS1AtbkRhSEVlYTNtQTZpNEJqbnE0ZFRNRDdSSllaeHNwY05YcTNyRGZ1RnlwRHBvVFhlTVJRUGFjMUswWUFlMzdRd1dLZHpKRThXd281elNySmJJSWtzRXJyWkJvX0R3VjlEUE4zU1ZHVUtHS2h3U2J2OG5zYTdIQllKaW1tMmRiZDNhb2pwXzNEbnQxMWxLejlHWDEyQV9pTVJsUmRzLUR0WF9WVzVxWVRhS2NCUWhxTWRNT2RTWXk4cVFlY0VFenBJZFphMkk4cWfSAYgCQVVfeXFMUFMzOW9mSmdZYXZLeEpDenFmd0J5cXJvQTVVVW56UGlkNmFXbWJHQUxTamcwYVZ5VFBqc3NWZzlMa0pKR28tX0hxc0xYMGY3bmd6bDRpWDk1aUhmci1BTGNIRVlYVjdRT2sxZkJCdUJ4VWdQUV9HQ01PR3puQml5UmktbmhlaG1wT1dweHVfcUItYkVoRC1pd0lzemFOSG1HQjdVaEtseVU5Vk00M0tzM2Q1Skk1VDl0MHlabEJPc2s3bjU2Mzk0dDlLLTRhSzRObF9tY3VKUVA4VDlSQWZZMVRDbVhOZk85emx3cnhaczMyMWlKczZOOWR6dEo1VWdnWGRUZko4Q3BM?oc=5",
-      "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "india-creates-11-crore-farmer-ids-ahead-of-deadline-2026-10-26",
       "title": "India Creates 11 Crore Farmer IDs Ahead of Deadline",
       "summary": "&nbsp;&nbsp; Tractor Junction",
@@ -135,36 +318,21 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-25",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; Press Information Bureau",
-      "crop": "All",
-      "type": "scheme",
+      "id": "people-pre-book-rice-to-lock-prices-telangana-farmers-get-3-000-3-500-pe",
+      "title": "People pre-book rice to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "Paddy",
+      "type": "market",
       "regions": [
+        "telangana",
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "Press Information Bureau",
-      "publishedAt": "2026-10-25T18:51:37.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjd1l1OHQyU0ZmOXBTUXg3Qm9PT1hJamQtd0dUODcyalVLQVVKVEdDc3lVUmFPOE5yc1RzbnEwa0E3V211NmFHNDVfOFVDb2FzMVlZbWNLdjB0UDV2YlNIRzI5MHBZNERPRTNPSDlMdDkzQ2FtQnpyQw?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "upsc-mains-current-affairs-for-25-october-2026-2026-10-25",
-      "title": "UPSC Mains Current Affairs for 25 October 2026",
-      "summary": "&nbsp;&nbsp; Vajiram & Ravi",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Vajiram & Ravi",
-      "publishedAt": "2026-10-25T10:29:20.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVJQbUJlRWk1YVBXR1NVRXE4czhfeWdqcWlHcF9hekk3SWpGbUtwLXR6ck5Ga2tDcGVJUVNNUkprTGdkZ1BGdXV6ZG4zdENPUjVpSFVMVHFvaUYzYXBKcTVSNXhPLWh2eE53dC0wZTJJSWVrR1dzWjJyTG9WSm5DZ0g4QjExVzc3?oc=5",
-      "sourceHome": "https://vajiramandravi.com",
+      "source": "The Hindu",
+      "publishedAt": "2026-10-25T13:57:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVV6VzBzMmQxazFwLWxSUkQ0a2ZHblZiZmdreVh3RlBJMWM0XzZ2UUdTVmdpYVFxS1AtbkRhSEVlYTNtQTZpNEJqbnE0ZFRNRDdSSllaeHNwY05YcTNyRGZ1RnlwRHBvVFhlTVJRUGFjMUswWUFlMzdRd1dLZHpKRThXd281elNySmJJSWtzRXJyWkJvX0R3VjlEUE4zU1ZHVUtHS2h3U2J2OG5zYTdIQllKaW1tMmRiZDNhb2pwXzNEbnQxMWxLejlHWDEyQV9pTVJsUmRzLUR0WF9WVzVxWVRhS2NCUWhxTWRNT2RTWXk4cVFlY0VFenBJZFphMkk4cWfSAYgCQVVfeXFMUFMzOW9mSmdZYXZLeEpDenFmd0J5cXJvQTVVVW56UGlkNmFXbWJHQUxTamcwYVZ5VFBqc3NWZzlMa0pKR28tX0hxc0xYMGY3bmd6bDRpWDk1aUhmci1BTGNIRVlYVjdRT2sxZkJCdUJ4VWdQUV9HQ01PR3puQml5UmktbmhlaG1wT1dweHVfcUItYkVoRC1pd0lzemFOSG1HQjdVaEtseVU5Vk00M0tzM2Q1Skk1VDl0MHlabEJPc2s3bjU2Mzk0dDlLLTRhSzRObF9tY3VKUVA4VDlSQWZZMVRDbVhOZk85emx3cnhaczMyMWlKczZOOWR6dEo1VWdnWGRUZko4Q3BM?oc=5",
+      "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -184,63 +352,6 @@
       "publishedAt": "2026-10-25T10:05:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQekV4M1g4elZ3XzRZYlRyV29tX1J1eHFkclprRmFBZDlXSEEwaHYxb05SR1Nmdll6NHVyLWF0b2YyMzJVdm1QeWNWNDFjMk1xWGMyR3hvRV9lbTVpZ24zWHZHcjYwMzVmUHlVOEUxX3o0MXNqZDlFVlJmMEFPMkNBYnZmUmZRRkZTYzI2Y1J4YXI4QWxPTWRRZTFSUEQ2R2R0V184amE1eVFRdlR1WXc3dUdyWWR4a0xmcXFlQmlNTjZoVU5id3pUVHh1b0xHMWpodkV0czZjQjZpTWY1UVB6NkhCV1htNGE0djN6dXc0QjhmZ0RZQnVZSl95S09xaEJ5R1YyaVd0ZGJ4dmwxTkoxWi1KbU00RC1EeVVxSlozV3dzZFZOQjhfZEo3Ymhib1pZX3V3MnZhcC1sNU90cXhhcmR5dWhzZW5QaFRz0gHQAkFVX3lxTE1lVzBiWmU1M3Rfa0FuVWpRLUpfcnBGek1rWnBpRkM0V2VuZUpkc1pBZ0llQ3lDQlFZMEdVSUVOSV9VZmd6dXFnQ2p5ZlNOZnU5UW9EODZkZWxubDlQNS0xZUtZUnE5SlpGdS12RjVpcnRZZllmbXI2UTJ4UWNwdG5CQ3ZfS0w5YVpHaEFXU1lhN3FEOVRfUlV1ajJEUnVrLUtiSmJiMFhVcGo4Wk5ZdjBEdUF2U0NsQlh5eU51cnRCMGRDaWFOTDQzb1lhVjRHM2pZU1Y5ekRMbXFQT25BVFBYc0RHNkZoLUxLbUdwZUZBaGs0T2FoTVQwd2hDUGplQkMxOFpIWlVabmNXWDA5UHRqSWM1TTV4QzFwZDE4c2xOa3cxVUYtMk5wZXp2VFR6bDltNFpCN0RsYm1qa2c5OGo3bEdrWWtCeWdsN2lUdkVKSA?oc=5",
       "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "papaya-farming-2026-10-25",
-      "title": "Papaya Farming: ఏడాది పొడవునా డిమాండ్ ఉన్న పండు ఇదే.. ఇలా సాగు చేస్తే కాసుల వర్షమే!",
-      "summary": "&nbsp;&nbsp; Asianet News Telugu",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Asianet News Telugu",
-      "publishedAt": "2026-10-25T01:35:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRndQclBEQkpYVk1VLW93YUc2STFheEdFa1hPZ0pENDZpaWdVSHBsMWplTDZkUmVhUHFWS2dtcGhYWktwYnd2bW4yTUItcy00bFozNVlkZ1ExdUpIM2lMMjdpM0xDdm9yYXlwQk8yVVFVTGZaR0JFak45aU9saHdtS0FWZUEtcFZBR0tHZlltdTNzQU1XS0kwV1dDQVRTTktZel9WdkdlaVo0N1FJcTN3cUJkN3FVTUFGMXlaaHFRSXBBaVlLNjN5NEVTRk1DR0JRRUtOZzJNM0IzenU5S3Rra2d1VFBGbExmbHEwb3BaTko1eV8wcmhfTUYwdXPSAfwBQVVfeXFMTUZ3UHJQREJKWFZNVS1vd2FHNkkxYXhHRWtYT2dKRDQ2aWlnVUhwbDFqZUw2ZFJlYVBxVktnbXBoWFpLcGJ3dm1uMk1CLXMtNGxaMzVZZGdRMXVKSDNpTDI3aTNMQ3ZvcmF5cEJPMlVRVUxmWkdCRWpOOWlPbGh3bUtBVmVBLXBWQUdLR2ZZbXUzc0FNV0tJMFdXQ0FUU05LWXpfVnZHZWlaNDdRSXEzd3FCZDdxVU1BRjF5WmhxUUlwQWlZSzYzeTRFU0ZNQ0dCUUVLTmcyTTNCM3p1OUt0a2tndVRQRmxMZmxxMG9wWk5KNXlfMHJoX01GMHVz?oc=5",
-      "sourceHome": "https://telugu.asianetnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "a-shared-responsibility-for-water-power-and-cropping-2026-10-24",
-      "title": "A shared responsibility for water, power and cropping",
-      "summary": "&nbsp;&nbsp; Hindudayashankar",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Hindudayashankar",
-      "publishedAt": "2026-10-24T14:29:48.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9XRWZfdWRzaVVtZ3NIOVdzX2p2VzhjRllKWUduRDlkcm5SMlY5eTl3d1Y3a1AxeTV5M0lVenlqRFdwOHRSMWJZeWVqVURleXRXMEh4cWctR0Q1SURQV0IwVDVYUjhKd21WUEhfQWY4YWZfOUVIVnJHLTI1UXJ2MnNtZktPeE5obExhSDhxSkV0S2ZqNVF4LS1n?oc=5",
-      "sourceHome": "https://hindudayashankar.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "adilabad-cotton-procurement-plunges-as-farmers-face-weather-related-crop",
-      "title": "Adilabad cotton procurement plunges as farmers face weather-related crop losses",
-      "summary": "&nbsp;&nbsp; Telangana Today",
-      "crop": "Cotton",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Telangana Today",
-      "publishedAt": "2026-10-24T10:35:17.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEtYRl9DcTFic01zbTgyblBZczNqQWFKcmxwOEFwZFBuMG9jTW9vWlB6ejF1dWhwbFJLbGhtYTRwQUduZllDVlpmRUdRWWh6R2VSUFJpS3R0aFdhak13SDNhczdOaG9iNjZKdVFWT0lhV3hWY1AzLTJudVVyblM1V29tSE8yRi04aWxWaDZiY3gwYjBETEtYVGhGQnRhdWFublNsWlVndDV5Zw?oc=5",
-      "sourceHome": "https://telanganatoday.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
