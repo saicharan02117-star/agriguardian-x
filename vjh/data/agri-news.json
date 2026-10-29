@@ -1,9 +1,81 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T05:59:30.839Z",
+  "generatedAt": "2026-10-29T06:07:29.620Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "pib-backgrounder-2026-10-29",
+      "title": "PIB Backgrounder",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-29T05:40:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUtYZzVkbHFoZEZqTXhreS1wQjJHaHRXeDNRcTlfODB0a2o0RjQ0MXk3MzJwZlNxeE5yMWh0THRnaTFxcllsaV9BSGU2ZjZpaE4tdVJ3Zno1QWRRZS1QV3RVN2xTN25YZS1RNWtQMzM1YndwcGVvQTVtTml4RGxUdFVwYk56dw?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-10-28",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-28T16:05:15.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVjlNeXNkM2xNNC1HeGtBQkwzWWEzS2tGbUwxRFpaV3pjT3drUWV0OWpYTmRob0MxaV9TTklYTXpRV01XN3Zyc3BuRlBCLUJ5YU9OMVNzdVNBZURlZG8tbTNjZm5Xd3VXS2M0bksxREZxVHF4Umdqa0FvMlpXaFQtVUFZbm5vUjA?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "uzhavan-app-in-tamil-nadu-how-to-download-and-use-its-services-2026-10-2",
+      "title": "Uzhavan App in Tamil Nadu: How to Download and Use Its Services",
+      "summary": "&nbsp;&nbsp; LiveChennai",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "LiveChennai",
+      "publishedAt": "2026-10-28T10:29:17.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EQnhFZHpjUUFBUlczVVJwYmNpZWNCNHFNV1MtMTZNSnVTMHNyeEoyVzVQMUs3OGU1QXJXZWNLaWRmQnRjS1l1R3paWFU4TWRRTkFRV3BVQjYwbGxtaHgyLS1DREFFZw?oc=5",
+      "sourceHome": "https://www.livechennai.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "3-6-2026-10-28",
+      "title": "కేవలం పది గుంటల్లో రూ 3.6 లక్షల ఆదాయం.. ఈ పంట వేస్తే మీకూ తిరుగుండదు..!",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-10-28T07:23:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2Y5aHBDdnZzR3VfbkRaVV9KakFRV1NqM0VpVXVnYU9ZRk84OHdWZXhtRmliQVlXNlZKbENXUk4yLWEtSnM5dUs4czN2Y3ZuQ0doVEhXSUM3UGFPRjM2R2NDcGY0cnAyYlFGbHZmaEVCcUZUU0xfdXlJOHJLcDFmdTFDQjJCbkZydWEyVHlMTDlEOFFIVWl1a2xQdFl1VHNtck1yZEFIX1NMRjN6TFRsWHlZRFUyc1lNTDFrWDlR0gHDAUFVX3lxTE1tY1I4RHZfb1o4ZnBZT3JZTzVSRktHeVhRUUd4cGxRc3pYRk1lMmJreVZPOGJnUWk5U05sWnllUkFTMnVhNkh4ay15QUtyR3c1WkstZ1k2Tjd1d29uREF5MGZKS2FRT2JBaFM3VlJZS255U1pPM2xqUGoyc29hQTEtSl9SRkp0cUt3RDlNcXZBZFBrZjZLZ2VWS3pkdUxud0wwQ3FGOXhDUnRYTmZ0cURJY3Zvcm5CTTVVZEg3N0VQUThjbw?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "el-nin-o-effect-2026-10-28",
       "title": "El Niño Effect : తెలంగాణ లో పంటలకు భారీగా ధరలు",
@@ -58,6 +130,23 @@
       "publishedAt": "2026-10-27T22:09:30.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDNsZTBiZk5iNUdEY3hJZi0yMmlmUEJBTGtac0ZCRjRZQ0lnSHFkQ1BvMUl2R0N2VWNKVmM0UTZqakhudURkT2E5Zlc2NU1fbnJ0OWhwZTdMN1dwWk9IQ05oS0tTMTZtU2doNzdoUy1qVmdvX1pzTnBfWTlLUjRXRnhZT1MtRVYzU2Q3WTJkZFhnQQ?oc=5",
       "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "blogdescription-2026-10-27",
+      "title": "BlogDescription",
+      "summary": "&nbsp;&nbsp; Press Information Bureau",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Press Information Bureau",
+      "publishedAt": "2026-10-27T19:25:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidVJmQTBtQ1ZhdnFmY3pXSTlGTlVsNlRuQXAwVVprZXAweXhNdGxwUGh5TElENUF1bUVFUUNzOWhvRUo1ODdYeng4RFJMT2hibHVVSkdJQVdOR29hVnY0V1Y4RUNKUQ?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -119,6 +208,25 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "2026-10-27",
+      "title": "ఎల్​నినో ప్రభావంతో తగ్గిన పత్తి దిగుబడి - మద్దతు ధరకు కొనుగోలు చేయాలంటున్న రైతులు",
+      "summary": "&nbsp;&nbsp; ETV Bharat",
+      "crop": "Cotton",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "ETV Bharat",
+      "publishedAt": "2026-10-27T13:36:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjVvSnJCVVlZY2lFWFV6WnVGaXBhX0NObXVqUnFmd21KN0FSclEwNi1BbU5aNDRLN0hvR01GQlVJNW10WDRRNGstLXNITTdpVFZFTUxYR3p2d1ZPblBkN0J5Ty1DTFFzTnN5U0ctMXNJNXNTSXRtTUVSRWMxcENDZVFpZjlabnBNWEN4VGpMY3VteWNXS2JiTnRkeXlRZGhhWTlnYVU1bDZsZDFmSGxhQ3RkaHrSAbQBQVVfeXFMT041b0pyQlVZWWNpRVhVelp1RmlwYV9DTm11alJxZndtSjdBUnJRMDYtQW1OWjQ0SzdIb0dNRkJVSTVtdFg0UTRrLS1zSE03aVRWRU1MWEd6dndWT25QZDdCeU8tQ0xRc05zeVNHLTFzSTVzU0l0bU1FUkVjMXBDQ2VRaWY5Wm5wTVhDeFRqTGN1bXljV0tiYk50ZHl5UWRoYVk5Z2FVNWw2bGQxZkhsYUN0ZGh6?oc=5",
+      "sourceHome": "https://www.etvbharat.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "custom-hiring-centres-offer-machinery-on-rent-to-farmers-in-telangana-20",
       "title": "Custom Hiring Centres offer machinery on rent to farmers in Telangana",
       "summary": "&nbsp;&nbsp; The Hindu",
@@ -168,7 +276,7 @@
       "language": "te",
       "source": "Samayam Telugu",
       "publishedAt": "2026-10-27T10:24:19.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRmRxdFlnd2pmd2Q2dGFxTS0zTVJ6d3lROWstN2cyME5CaENMZkR5RURQMFptd2Yxci0xQzgzNEl1SGhSaHpOV1ZtNTNmaXRDZ1c1MTdxbDdKZzJfaWM4SFNaMkZHMl9relVpWnpOS0llTWRwMmkwdDkzaGE2cnI3ZVlGVWdyeVpHNUVrUmI1RnIxYWM4dFNzbGQweXAzcW5BQ0hveG9CakFSTzNac0NsY2ctSU5ZYVM0bUQ3V3Bhc0hqc1Y2VlVTWk5NMFNOV2lxd0xBV1Q3M2lWRjh20gHcAUFVX3lxTFBGZHF0WWd3amZ3ZDZ0YXFNLTNNUnp3eVE5ay03ZzIwTkJoQ0xmRHlFRFAwWm13ZjFyLTFDODM0SXVIaFJoek5XVm01M2ZpdENnVzUxN3FsN0pnMl9pYzhIU1oyRkcyX2t6VWlaek5LSWVNZHAyaTB0OTNoYTZycjdlWUZVZ3J5Wkc1RWtSYjVGcjFhYzh0U3NsZDB5cDNxbkFDSG94b0JqQVJPM1pzQ2xjZy1JTllhUzRtRDdXcGFzSGpzVjZWVVNaTk0wU05XaXF3TEFXVDczaVZGOHY?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWQtV0J5Wmg1UTZkTmtEM0Y2VG9jVGQtUUdhTjZDNWpXU210Uk5jWGpxUUJzaVQ5OU1LeUp4QzJiX3FVbDlrZDFWeWpSZnBBcEhmOXV1TElZeUpsbVdUNjVfYURMYXVNYWYzTGIzMGxjMXRiNDJxa181SjQ3WFdXLTdLeWw4UlBMckpCOHJzMGxfVndqcGc0cnlaX0F1dkZKOW5QRHZuelhVZ0JhbGF6VmdPMWIxQ2ZNRW9tYnNUNlI3RVRVdElJd21tLVRYTHhlR1JZUzRoWdIB3AFBVV95cUxQRmRxdFlnd2pmd2Q2dGFxTS0zTVJ6d3lROWstN2cyME5CaENMZkR5RURQMFptd2Yxci0xQzgzNEl1SGhSaHpOV1ZtNTNmaXRDZ1c1MTdxbDdKZzJfaWM4SFNaMkZHMl9relVpWnpOS0llTWRwMmkwdDkzaGE2cnI3ZVlGVWdyeVpHNUVrUmI1RnIxYWM4dFNzbGQweXAzcW5BQ0hveG9CakFSTzNac0NsY2ctSU5ZYVM0bUQ3V3Bhc0hqc1Y2VlVTWk5NMFNOV2lxd0xBV1Q3M2lWRjh2?oc=5",
       "sourceHome": "https://telugu.samayam.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -221,45 +329,8 @@
       "language": "en",
       "source": "The Times of India",
       "publishedAt": "2026-10-27T07:34:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa28tMDZwRi1oMGFHYUN1SElmN3hYS3Z2cEtteU9GaF83RVRWWDdDY3A4SkpwM245VTF2Vy10MTV3bkk3SnQtVFlrVEJmQjJRT3hFWTVlb1FoSXpsYnMtZFV2UlMzSC1yOGtCWk9VeFEtNXZJd1hMM3hfajhkWE9BRDBXMVBocGlObVk0am5sYTE5NFliLVdOM1QyRy1BaWlvd1FZLU55QnU1bmUzZzNDYWtzQXk5NWVBQTZyN2VkdEFlLXVvWW1Ya0J5OHk0OW1MUlFBbEVwRzA5QQ?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa28tMDZwRi1oMGFHYUN1SElmN3hYS3Z2cEtteU9GaF83RVRWWDdDY3A4SkpwM245VTF2Vy10MTV3bkk3SnQtVFlrVEJmQjJRT3hFWTVlb1FoSXpsYnMtZFV2UlMzSC1yOGtCWk9VeFEtNXZJd1hMM3hfajhkWE9BRDBXMVBocGlObVk0am5sYTE5NFliLVdOM1QyRy1BaWlvd1FZLU55QnU1bmUzZzNDYWtzQXk5NWVBQTZyN2VkdEFlLXVvWW1Ya0J5OHk0OW1MUlFBbEVwRzA5QdIB3wFBVV95cUxQT2NfdkNlU202MVZVbm5JRXlMaEF3eDRGRlVWN2ZwWHRETHEyMGFWZU9Ea3FNMnQ4emtGR0hpZGVNbHQ3X0RSRERTVDNCS1JEemhOZmM1UmJ0S2tldzZUem5DWndjSGdPMml1cVZ5TTVSQnVuc21TQVd0ZDc1a2JfU29kQ2RmMkpsTkNlODFKaDdFVzgtTUxuaERtWDhYVFdETHVqUXg2ekFIUzFHWlVpLXZNMW9nVEhvUU5OQUF6WGNhdkZheUtPX2syWlNyZ25rTXMtMF9aU3J6QzVlTDlj?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "zimbabwe-weather-alert-msd-warns-of-thunderstorms-and-hail-this-week-202",
-      "title": "Zimbabwe Weather Alert: MSD Warns Of Thunderstorms And Hail This Week",
-      "summary": "&nbsp;&nbsp; iHarare News",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "iHarare News",
-      "publishedAt": "2026-10-27T04:25:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUswVnBLbWxPd0ZBQThEeklVRnFSZ29NT1p5SEQyUzlLdUd5Q09WOWdNOWtHX1RsSXNuY0dlQlhUWUQ0UE5UWUczdy1reFpoMVp3NVRKc21HVkRBT09RY2hwaGdQRjFON1RFQUNhMHUtYUhQaEtMZG81anhnRnlUMlk1b2t1NlVXS1JiUDYwUzFUdXM?oc=5",
-      "sourceHome": "https://iharare.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-27",
-      "title": "వెలుగు స్పెషల్ : వ్యవసాయ భవిష్యత్ కోసం క్లైమేట్ ఇంటెలిజెన్స్‌‌‌‌ కావాలి",
-      "summary": "&nbsp;&nbsp; V6 Velugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "V6 Velugu",
-      "publishedAt": "2026-10-27T01:53:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRUFtanZ4UUI0eWdLekFuUXVLejdQTElHWjFUVU9xbGtpX3hXVGR2SGdfVVFJUlotMjFVMFRpSHdGam01UExjODhJakU4TzNnWW10OXNZTElFSUVQQmZXdzhKcHA2VWR5ZGpYNU5IZk54MjRxZkEwcEQzRlJhbUZjSU5YalZIakNyRXlZY3B3TDRRb3YxdmtSLWgyQWNuVTJLUlhyak1pTHhFbDIyWVZuY2pfeHdCOGJ2dE1VbFZYM2g5SmxaOGtPeVQ3a2FFNUNIN0x3?oc=5",
-      "sourceHome": "https://www.v6velugu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -301,45 +372,28 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "india-creates-11-crore-farmer-ids-ahead-of-deadline-2026-10-26",
-      "title": "India Creates 11 Crore Farmer IDs Ahead of Deadline",
-      "summary": "&nbsp;&nbsp; Tractor Junction",
+      "id": "chamanthi-sagu-2026-10-26",
+      "title": "Chamanthi sagu: సిరులు కురిపిస్తున్న చామంతి సాగు",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
       "crop": "All",
       "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Tractor Junction",
-      "publishedAt": "2026-10-26T06:00:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHZBMWVmSnhBdUtsNHhUTWg0OUxCQld4b09US3BxOTRoNGtwRU5tSG9aeDEzLWhMUmtsbFdVNnROcTJNREItYzQyVEhNOHJjVlZUSWZUOGtTcEZyWlJsa2hfdzdhTW42ay02ZUxCSzN1akx0VTliM3ZOVlRaRGptbWRPckZBVGNCSHpYOW8xRUlIS0M4X3JfRHBtQ0xremhNQ1hra2tNQzJBbGPSAasBQVVfeXFMTXB2QTFlZkp4QXVLbDR4VE1oNDlMQkJXeG9PVEtwcTk0aDRrcEVObUhvWngxMy1oTFJrbGxXVTZ0TnEyTURCLWM0MlRITThyY1ZWVElmVDhrU3BGclpSbGtoX3c3YU1uNmstNmVMQkszdWpMdFU5YjN2TlZUWkRqbW1kT3JGQVRjQkh6WDlvMUVJSEtDOF9yX0RwbUNMa3poTUNYa2trTUMyQWxj?oc=5",
-      "sourceHome": "https://www.tractorjunction.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "people-pre-book-rice-to-lock-prices-telangana-farmers-get-3-000-3-500-pe",
-      "title": "People pre-book rice to lock prices; Telangana farmers get ₹3,000-₹3,500 per quintal in open markets",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "Paddy",
-      "type": "market",
       "regions": [
         "telangana",
         "south",
         "india"
       ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-25T13:57:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVV6VzBzMmQxazFwLWxSUkQ0a2ZHblZiZmdreVh3RlBJMWM0XzZ2UUdTVmdpYVFxS1AtbkRhSEVlYTNtQTZpNEJqbnE0ZFRNRDdSSllaeHNwY05YcTNyRGZ1RnlwRHBvVFhlTVJRUGFjMUswWUFlMzdRd1dLZHpKRThXd281elNySmJJSWtzRXJyWkJvX0R3VjlEUE4zU1ZHVUtHS2h3U2J2OG5zYTdIQllKaW1tMmRiZDNhb2pwXzNEbnQxMWxLejlHWDEyQV9pTVJsUmRzLUR0WF9WVzVxWVRhS2NCUWhxTWRNT2RTWXk4cVFlY0VFenBJZFphMkk4cWfSAYgCQVVfeXFMUFMzOW9mSmdZYXZLeEpDenFmd0J5cXJvQTVVVW56UGlkNmFXbWJHQUxTamcwYVZ5VFBqc3NWZzlMa0pKR28tX0hxc0xYMGY3bmd6bDRpWDk1aUhmci1BTGNIRVlYVjdRT2sxZkJCdUJ4VWdQUV9HQ01PR3puQml5UmktbmhlaG1wT1dweHVfcUItYkVoRC1pd0lzemFOSG1HQjdVaEtseVU5Vk00M0tzM2Q1Skk1VDl0MHlabEJPc2s3bjU2Mzk0dDlLLTRhSzRObF9tY3VKUVA4VDlSQWZZMVRDbVhOZk85emx3cnhaczMyMWlKczZOOWR6dEo1VWdnWGRUZko4Q3BM?oc=5",
-      "sourceHome": "https://www.thehindu.com",
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-10-26T10:28:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3Y3eTZVdWU5YXNGRWxtTkZ4T2NKQkd3NW5GNVlaYkhZelZvYjB3ZVZaSkJuU2c1RHpPN1NPQ2F6TGVsdWJrWDN4R3FtVUJFQ0RFUXZla2c1eENaNkhseUtmTVpYVUhoVWJLNUFINGo5YTFQQkttWTI5UEFzbVBOejhoeGMzenN2R1hhdTFB0gGOAUFVX3lxTFBXdjd5NlV1ZTlhc0ZFbG1ORnhPY0pCR3c1bkY1WVpiSFl6Vm9iMHdlVlpKQm5TZzVEek83U09DYXpMZWx1YmtYM3hHcW1VQkVDREVRdmVrZzV4Q1o2SGx5S2ZNWlhVSGhVYks1QUg0ajlhMVBCS21ZMjlQQXNtUE56OGh4YzN6c3ZHWGF1MUE?oc=5",
+      "sourceHome": "https://vaartha.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "a-colorado-family-spent-over-100-years-raising-cattle-and-growing-crops-",
-      "title": "A Colorado family spent over 100 years raising cattle and growing crops on 10,000 acres; then 30 wind turb",
-      "summary": "&nbsp;&nbsp; The Economic Times",
+      "id": "agrochemicals-manufacturing-plant-setup-cost-in-india-2026-10-26",
+      "title": "Agrochemicals Manufacturing Plant Setup Cost in India",
+      "summary": "&nbsp;&nbsp; IMARC Group",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -348,10 +402,10 @@
         "india"
       ],
       "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-25T10:05:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQekV4M1g4elZ3XzRZYlRyV29tX1J1eHFkclprRmFBZDlXSEEwaHYxb05SR1Nmdll6NHVyLWF0b2YyMzJVdm1QeWNWNDFjMk1xWGMyR3hvRV9lbTVpZ24zWHZHcjYwMzVmUHlVOEUxX3o0MXNqZDlFVlJmMEFPMkNBYnZmUmZRRkZTYzI2Y1J4YXI4QWxPTWRRZTFSUEQ2R2R0V184amE1eVFRdlR1WXc3dUdyWWR4a0xmcXFlQmlNTjZoVU5id3pUVHh1b0xHMWpodkV0czZjQjZpTWY1UVB6NkhCV1htNGE0djN6dXc0QjhmZ0RZQnVZSl95S09xaEJ5R1YyaVd0ZGJ4dmwxTkoxWi1KbU00RC1EeVVxSlozV3dzZFZOQjhfZEo3Ymhib1pZX3V3MnZhcC1sNU90cXhhcmR5dWhzZW5QaFRz0gHQAkFVX3lxTE1lVzBiWmU1M3Rfa0FuVWpRLUpfcnBGek1rWnBpRkM0V2VuZUpkc1pBZ0llQ3lDQlFZMEdVSUVOSV9VZmd6dXFnQ2p5ZlNOZnU5UW9EODZkZWxubDlQNS0xZUtZUnE5SlpGdS12RjVpcnRZZllmbXI2UTJ4UWNwdG5CQ3ZfS0w5YVpHaEFXU1lhN3FEOVRfUlV1ajJEUnVrLUtiSmJiMFhVcGo4Wk5ZdjBEdUF2U0NsQlh5eU51cnRCMGRDaWFOTDQzb1lhVjRHM2pZU1Y5ekRMbXFQT25BVFBYc0RHNkZoLUxLbUdwZUZBaGs0T2FoTVQwd2hDUGplQkMxOFpIWlVabmNXWDA5UHRqSWM1TTV4QzFwZDE4c2xOa3cxVUYtMk5wZXp2VFR6bDltNFpCN0RsYm1qa2c5OGo3bEdrWWtCeWdsN2lUdkVKSA?oc=5",
-      "sourceHome": "https://m.economictimes.com",
+      "source": "IMARC Group",
+      "publishedAt": "2026-10-26T09:47:17.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTBfOTlMZ3VPd2pCbE9RemtkeFd6REhEZVRZbmxBT2QyWUd5VUphUzJJTzgxR1ItNnJMbkxBOTVuMmFhZklXTGRVVFR3NHgzaDE2eEhRVVU1WUVYU0g1UHdhS3lrNVdVLVRjUlY0UG05aS1KNHNtSnlwSmdMd0lCb0QzdlBnQmVmYTRsbUFn?oc=5",
+      "sourceHome": "https://www.imarcgroup.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
