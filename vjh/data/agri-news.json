@@ -1,15 +1,70 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T06:03:10.004Z",
+  "generatedAt": "2026-11-01T06:33:05.038Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "climate-intelligence-2026-10-31",
-      "title": "Climate Intelligence: రైతులకు వాతావరణ సమాచారం మరింత కచ్చితం.. రాజేంద్రనగర్‌లో కీలక వర్క్‌షాప్",
+      "id": "no-crop-holiday-opposition-misleading-farmers-says-minister-thummala-nag",
+      "title": "No crop holiday; Opposition misleading farmers, says Minister Thummala Nageswara Rao",
+      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-01T02:55:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVGRLN09Idi1URGl5UWIwdER3MThtYVItWVBMVnJqRVJZMktXUlV2am9YZHBjZnF4NmxCV01iN3ZMUXF5MGp2akQzM242aDg2Z21RbVNaY3RHR3FrRFZSdGZNaHgwT3Z4RGZvcDE5UWlTdnBxWE5YWGJQVnRRTGFJWVowNWhfdUx4MF8yWk54OEpTcW43V19IUjQ4WDRBNzhMUTFJNGo5Yk5SMjZ0SWFTNTlvNExUOURaMEt6Z1QyOHkyREY1cG5LN1Z4UHZtZlVZUFFIdG1KZTA3MTlTQlloOUhINTBFc0d6aWfSAeoBQVVfeXFMTlRkSzdPSHYtVERpeVFiMHREdzE4bWFSLVlQTFZyakVSWTJLV1JVdmpvWGRwY2ZxeDZsQldNYjd2TFFxeTBqdmpEMzNuNmg4NmdtUW1TWmN0R0dxa0RWUnRmTWh4ME92eERmb3AxOVFpU3ZwcVhOWFhiUFZ0UUxhSVlaMDVoX3VMeDBfMlpOeDhKU3FuN1dfSFI0OFg0QTc4TFExSTRqOWJOUjI2dElhUzU5bzRMVDlEWjBLemdUMjh5MkRGNXBuSzdWeFB2bWZVWVBRSHRtSmUwNzE5U0JZaDlISDUwRXNHemln?oc=5",
+      "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-01",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-01T01:02:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "suryapet-2-40-2026-10-31",
+      "title": "Suryapet: బీర సాగుతో రూ.2.40 లక్షల లాభం సాధించిన సూర్యాపేట రైతు",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-10-31T13:56:41.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGg2OWNFd0tobS03XzJhQ3ktQlBBN3JLcHpLSU5TWVdqWWlRWFNCcHBlRlVQeG1PNUdWVS1kZVpmcWxqMlhDczJLVFhoekZXeU9sYVh0U3JjTHhodU9aeWdQLVhybi15R0tpWFJxWlF3UE5OOUtRb2NSdkVmcVB0TjFRQUR0LUVqTWFmem5xOEdkUldYeVBXaWpsbkhfa0c1NW13cFRyMkhZV1FoN3I3Y05YTXd4aVVTLXc?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pioxazon-2026-10-31",
+      "title": "Pioxazon : రైతుల కోసం పై ఇండస్ట్రీస్‌ నుంచి ‘పియోక్సాజోన్‌’ విడుదల",
       "summary": "&nbsp;&nbsp; Vaartha Telugu",
       "crop": "All",
-      "type": "weather",
+      "type": "scheme",
       "regions": [
         "telangana",
         "south",
@@ -17,45 +72,116 @@
       ],
       "language": "te",
       "source": "Vaartha Telugu",
-      "publishedAt": "2026-10-31T05:49:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYXNPSmNPdnU4dGFVeVM0a3poNk5Wdm9xcjNzOVRBSHFFckNNQW54dUVucHRDZXBNQWl1OWd5Zy1JQ3hOWDZTLTJ2M0xuV2ZIa1g2S0Nqbl92ZGxtU18tVTdtOFdieElvcFc0OURRUXJCYVI2dzdKa1dPdzNlRlZoU2VaWkYyODYyZjgyWEJUeE05TGdIaEpIT3FEX1RKa2RMY3cxYmtvc3EyNHBIRl84MjhNY3RfMzU1X0lWQw?oc=5",
+      "publishedAt": "2026-10-31T13:40:48.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXMyQlpGZWF6SnEtNVJKZTFEU3pERFIxRDFnbnFhNW1jQjhaVS1feVRZMUJvNGlMMUdPMEt6cHBaRFd5MkU3SmRLeG14SjBjYXhQVHhLWHlTTVFpUlhtNnh4OU5OUXI4RFdRXzdEczY2RWpteVRiT2hvUmVNbmJ6ZkF0TS1iWHJuYWRIakZPM3LSAZABQVVfeXFMUHFzMkJaRmVhekpxLTVSSmUxRFN6RERSMUQxZ25xYTVtY0I4WlUtX3lUWTFCbzRpTDFHTzBLenBwWkRXeTJFN0pkS3hteEowY2F4UFR4S1h5U01RaVJYbTZ4eDlOTlFyOERXUV83RHM2NkVqbXlUYk9ob1JlTW5iemZBdE0tYlhybmFkSGpGTzNy?oc=5",
       "sourceHome": "https://vaartha.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farmers-are-the-strongest-pillars-of-viksit-bharat-their-welfare-remains",
-      "title": "Farmers are the strongest pillars of Viksit Bharat; their welfare remains Government's top priority: PM Modi",
-      "summary": "&nbsp;&nbsp; Dailyhunt",
+      "id": "top-10-best-agritech-startups-in-india-in-2027-2026-10-31",
+      "title": "Top 10 Best Agritech Startups In India In 2027",
+      "summary": "&nbsp;&nbsp; Inventiva",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "Dailyhunt",
-      "publishedAt": "2026-10-31T01:43:10.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORVlwc2VRaGc5NExRSk5RQVBEWW9GdjFEekRoVTVpalpyYWZQem1URE5HZlNfNHBLQXFRMEwweTBDYTItTFBSbFMzamRSQVp6SXVOejhTamVpbk5zcWpGN0tnNW1MMTZtbGhZU3RKLWw4a045ZnJqdmg4cHV0RmJiNFZvT2pmZDQzS192cjBLT3g1LWRGRWhUeUJuWUdUTXBqQXRRV1ZhSmRVdHAxd0tUVkVJSkpHUUs4SVowbWl0WGVRMU9ubDlVTjNXZVIycW42S0N2ZmJaWnkweHdtWldOcVpHMFpkQ2xBZmNEa0UwUDlpTGZFdUhQVjJ4bnVXXzdFaHRLN2ZpLTg0SU1LeFhFWWY1T1JFUTB2TFZB?oc=5",
-      "sourceHome": "https://m.dailyhunt.in",
+      "source": "Inventiva",
+      "publishedAt": "2026-10-31T12:44:01.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZwZ1RCcFhsYTJBd2FrSjZRa1BVWXpLcmNyN1VfM0puVi1jY1FzZThLS0VRVW9fRVBrOENpVGVwREhKX19QYzlNUGlfdFQ2d0piczF3enhYNG5iQkxfbnZCOFRfYXVaTUJNNFpyMkNPTW1WMVQ3bV9weVdKbXRIQzR3NkRKaHpvRlE?oc=5",
+      "sourceHome": "https://www.inventiva.co.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-10-30",
-      "title": "ఆరుగాలం కష్టపడ్డారు.. పంటలను పశువులకు వదిలేశారు.. ఆ జిల్లా రైతుల కథ వింటే కన్నీరు ఆగదు!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "id": "top-10-best-agritech-companies-in-india-in-2027-2026-10-31",
+      "title": "Top 10 Best Agritech Companies In India In 2027",
+      "summary": "&nbsp;&nbsp; Inventiva",
       "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Inventiva",
+      "publishedAt": "2026-10-31T12:27:41.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemVZdWk3NTZuY1E2UkVhVFNMSnJjUjNTdGdqNXluWFJOZEY4RWJ5QXg5Vkk2Z1RNQ19lbkdHVUphUlRUMmNRWXVyamRNUmhQSUphanlqNFEySm1FSVdWNmNtV2RDZzE2ei03WmlfOVk0UjZDa1ZMVmJyQlphSDNfVHNhM1VoTVhOZk1B?oc=5",
+      "sourceHome": "https://www.inventiva.co.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "why-brazilian-politics-just-stole-the-show-from-global-grain-markets-202",
+      "title": "Why Brazilian Politics Just Stole The Show From Global Grain Markets",
+      "summary": "&nbsp;&nbsp; ИФЗ РАН",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "ИФЗ РАН",
+      "publishedAt": "2026-10-31T11:54:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3VQenRCaHdHZmJGQzZqU1U2T0t6REFEaThPQ1VPaC1BbGhSMG83OWQ5VmdtQXJGZlRFblhQcURNa1ZZU0VuVkpJUlhmZ0pLajZJTVJ5aEV3WkM0MXVvNlE0c2t2cGhMVDZvdnNPR0dXNHozbWIxSm9ocnRBQWNReA?oc=5",
+      "sourceHome": "https://geosirius.ifz.ru",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
+      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-10-31T08:34:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-farmers-preference-for-veggies-spices-over-paddy-continues-in-",
+      "title": "Telangana farmers’ preference for veggies, spices over paddy continues in Yasangi 2026",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "Paddy",
       "type": "scheme",
       "regions": [
         "telangana",
         "south",
         "india"
       ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-30T16:32:35.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnNOZHplREg1QjI3bW52TWhyd19HUEg2S2tpX1BwdVZQcFpQN2ZkUW1YZVdQemRsLW1kN2N0aUlzQUpNTUx5OFl3T3I4QU5uc3NFYi1fUjZIQ25lLWJHLTBIT3REZzdPRTA3LWlYaXlGQ2hublVjZ3pZVlZvcHpQNTJwakhXU0d0R0tKNnJOb0JuNnl5S2ZBSV83TWwyMzNxcGFWd1lyQ2xKQzF2cnpURFVMVS1Kc1ZDR25GYWROY3prbzYtTjl5UXhiODBVVzZ1ZnfSAdIBQVVfeXFMUEZzTmR6ZURINUIyN21udk1ocndfR1BINktraV9QcHVWUHBaUDdmZFFtWGVXUHpkbC1tZDdjdGlJc0FKTU1MeThZd09yOEFObnNzRWItX1I2SENuZS1iRy0wSE90RGc3T0UwNy1pWGl5RkNobm5VY2d6WVZWb3B6UDUycGpIV1NHdEdLSjZyTm9CbjZ5eUtmQUlfN01sMjMzcXBhVndZckNsSkMxdnJ6VERVTFUtSnNWQ0duRmFkTmN6a282LU45eVF4YjgwVVc2dWZ3?oc=5",
-      "sourceHome": "https://tv9telugu.com",
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-10-31T08:02:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUpXRGJMT1B0OVlKS0lRMER3S3ptVVFTTE11ZWxoLTNFdV9lUUNrTFNSOTV3UXhEVVI2R1BLZDVweWJRTWJYN2hNdXlUMUR5MG14MmdIVm5IcFZEa25GQ3ZjT29laVctTmNHeWl4UERFdk8ycDFTSUFPTjNnQ3A1OEdYNWRrbWl0S2Rfa3BSWDNYUVZBWERuSUJ1Rm4xTUROeTRqQkRzLThOaHFKdHpCWDFRNGxlZFpEbEVNMjBPaHhrMHpTUFBsRkU4Q21xWWxKX2tsd2JocHhvMFhGbFBhMkg5Tk8yN0Fo0gHvAUFVX3lxTFAwMU0taWZqb1FQWS1RVzcxUWRYQVktN3prVGN4c1FhYTVJUUV3cnZDNU5OcERPVXN2S00xMlRmRjgyRGhRa0lib2sxWE10a1lmdUNGbGlaY3pzallnVGlkT2pweGFzVmhjYW9PQzBDOTl0cDhsY0duSHluZFlZa2RKdWpGWnVnT0RQMDNBbTdxTjRaTm5yV0taLXFuSW92bGI5YnM3X2NQWUxlUDV0d0lwaHB4UUlua3FveTBVUGF1UHdSdEN0QWtuU3ZOaTRWVG1oX0UzY1Q5VlZhQ3FKQlVDU0JqRUd1U0RCaWNsZnBN?oc=5",
+      "sourceHome": "https://www.thehindu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pm-launches-12-horticulture-clusters-2026-10-30",
+      "title": "PM Launches 12 Horticulture Clusters",
+      "summary": "&nbsp;&nbsp; https://www.fintechbiznews.com/",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "https://www.fintechbiznews.com/",
+      "publishedAt": "2026-10-30T18:33:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2ozSzRTcHBIRmo2Y1l1UUlJTFd2S2xPVVEydXl3Z2pyMWRYQ244YXo0dEZ4MFdSUkdWd0dya1dpQlY3SV92ckxJampjVi1JS1RScEJ0MWtPRWJnU05FZVFYM1NkYld0QmlXS2wxSmkwei1HMXo3NjZMYlBQSUNENWlEVjhtbnFkdEEzbUZn?oc=5",
+      "sourceHome": "https://www.fintechbiznews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -92,6 +218,42 @@
       "publishedAt": "2026-10-30T13:14:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDFHS2dJSzFoNGZ3TTR1Tm1YZlFXME5Lc3Y4ZFV0WmE2cFZRd0Vyd3Q0ajBYYzVUYUVRNUY1Y1p1Tk1XRmlqaG12dmYwcTZROENkd1R0VHFwUVZBQy1sOE85VlFoQ0xBWTZ2UTlleXpqb2o5UUxzcDg5YmZTeVh5U0ltRTViOElvTFRNODR4SGczeXBRZ2ljVzVWeEtCUDR0dmVqWG9kVzlrOHFZQmFOSURhbmI3S0UxVi00NksxZ0RZT2l4U1loVXZtbGRjd9IBzgFBVV95cUxQcDFHS2dJSzFoNGZ3TTR1Tm1YZlFXME5Lc3Y4ZFV0WmE2cFZRd0Vyd3Q0ajBYYzVUYUVRNUY1Y1p1Tk1XRmlqaG12dmYwcTZROENkd1R0VHFwUVZBQy1sOE85VlFoQ0xBWTZ2UTlleXpqb2o5UUxzcDg5YmZTeVh5U0ltRTViOElvTFRNODR4SGczeXBRZ2ljVzVWeEtCUDR0dmVqWG9kVzlrOHFZQmFOSURhbmI3S0UxVi00NksxZ0RZT2l4U1loVXZtbGRjdw?oc=5",
       "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-10-30",
+      "title": "పంటల సాగు, సస్యరక్షణపై రైతులకు అవగాహన",
+      "summary": "&nbsp;&nbsp; Suryaa News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Suryaa News",
+      "publishedAt": "2026-10-30T12:17:12.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkt2ZnlzRTcxUTJ1cHBaQWlfRVVnNXQ5ZXl6OVRMdF9EMWl1blJMWUhjby11N2E1cjh1X1dzMEY4eGlLeHo5TFpKV3FiUlhjOHNGSndPNkg1U3JLdzhCSE1YbzNpMWV6OTRHc2xqZnVrNzlxMUVpc0VJTHZJX2VwanQtMTZxUnNFM2JFbXlVQdIBjwFBVV95cUxOUkt2ZnlzRTcxUTJ1cHBaQWlfRVVnNXQ5ZXl6OVRMdF9EMWl1blJMWUhjby11N2E1cjh1X1dzMEY4eGlLeHo5TFpKV3FiUlhjOHNGSndPNkg1U3JLdzhCSE1YbzNpMWV6OTRHc2xqZnVrNzlxMUVpc0VJTHZJX2VwanQtMTZxUnNFM2JFbXlVQQ?oc=5",
+      "sourceHome": "https://www.suryaa.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agriculture-budget-risen-over-fivefold-since-2013-14-farmers-gained-save",
+      "title": "Agriculture budget risen over fivefold since 2013-14; farmers gained, saved Rs 50 lakh crore: PM Modi",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-10-30T08:32:46.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTFONVRRNXJ1LUNZZzZRYUdFNE13UmdYMmpuMzBYN0lxUTZ6MThYRlNLZUIwbWJkV2dlSVU2aTJHeFV5M0dCbGVZa1ROYzVtSDZjSUN6VjhoVzg5enAyQ25lSTcxbHFZdzEwMUNIa3NZV0s1STZpQVJMQ0hhQnRMcU8xb0JDbUdCNGtEUm1ocGJSVFVLS2M4d2tCZnN6ejZxNXkza0xWNVh1Zlk1ZG1jUjhlRGVkTnNPV01aQW5icmpzRXpWMkgwRFRKeUZadDhrcURsZGI4dFNDR3VlZ2I2ejUybw?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -134,23 +296,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "minimum-support-price-for-rabi-marketing-season-2027-28-2026-10-29",
-      "title": "Minimum Support Price for Rabi: Marketing Season 2027-28",
-      "summary": "&nbsp;&nbsp; India Education Diary",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "India Education Diary",
-      "publishedAt": "2026-10-29T19:47:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdzNTYm5BQnVaWTZIQ0VFeGV1anBCWHNVcFp0Nm1UeHVFc3JsUlc5cnRzaUxXU2d4d09NSXRybHFqUWpOLU9yTFFpb0RDM2VmOWZfTVdIOXhvdnhtOHF2YTFQaFdXOFVHZmhTejdFdzladUhSUlc4VkRNUVhSTnJyTEw2UGIyQ2h3MDlUVlJsTmE?oc=5",
-      "sourceHome": "https://indiaeducationdiary.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "telangana-s-drought-hit-mandals-expose-a-costly-assessment-gap-2026-10-2",
       "title": "Telangana’s Drought-Hit Mandals Expose a Costly Assessment Gap",
       "summary": "&nbsp;&nbsp; Urban Acres",
@@ -166,40 +311,6 @@
       "publishedAt": "2026-10-29T19:18:26.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3ViclFZd2QzYnpFTmN5bURiZTJMNXh1TEt5cHp0RkMwd1pjaVVUYmExeTVrd3lualJTc2IzNlJfRmFSeVJNdzUtMWJhOEhUSEhvNjhXdlZwOGpEUnFtR1NhV1YxbVpiSTJZSWZ3WVNMdnk2Z191bnZEZkdORTNtM1lXY2J3LVVDcTlCXw?oc=5",
       "sourceHome": "https://urbanacres.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
-      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-29T19:11:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "farmers-incomes-have-doubled-government-ensuring-fair-prices-shivraj-sin",
-      "title": "Farmers’ incomes have doubled, government ensuring fair prices: Shivraj Singh Chouhan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-29T19:09:28.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmpUcXZhejkxaUg4Nko5SzkyN1BPS0ZXSFVJQzh2aTRNS3FBRlBUZ3JWZmlYQVZvaURlSWF0OENUMW9lZUsyNEhmTTlNNVBBOXBCNTZ5UEcteEpLU1EtN1ZETXBMcnhvMk5WYlNOLUl1WDgwbjJUd2lYa0hmellmbVNVWFdQY2NZWDNCWU10RllzdXBMZXhJaTBVdF9LeENRckJBVUlIakl2RkVK?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -223,40 +334,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "pm-modi-releases-18-690-cr-pm-kisan-funds-to-9-34-cr-farmers-2026-10-29",
-      "title": "PM Modi Releases ₹18,690 Cr PM-KISAN Funds to 9.34 Cr Farmers",
-      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-29T14:52:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzlUSFNLbTNTamdFTnc3SURPaGU4UFlBcDVhLVVEMVhHTi01YkwtU2J6SGtfYmJPdm10VVBCNUtsN2t1aEMyZDg0amZKc1FEczhlbHk0NVhUWmYtNXVmNEMzdzN4Y2RteEFEZWxBNkpaa1RnVzJvT2p3WU4yOG1jUmk4MkFMWjFRVjk3VGRnZ3NfZmF0N2ZtdXNNSVc4QklOUjFfekNGRXFXNnhsT2FOSXV30gG3AUFVX3lxTE5FeUt3UDlkaDJYRDM0emQzeGR0cTdJd1pnODBrLVRzeF9BZC1MejN5dEJQR3RINDFMYmg5akNaXzBCcVZHcXRUZUdlSXctRVNHRVk5a1pkQW1XOEJBcjNsXzZqZDlkbVJwbFBjaE1WWHZkVWhOQWFmXzRiQTJ6QkJzN0NYeGxCV19HZ1R3ZUJpWW1WM0UxSUg1SGVzNldFLWdBZ2llcmZMY2J0bVFkV0g1cjFONGFCTQ?oc=5",
-      "sourceHome": "https://money.rediff.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "indian-agriculture-at-a-turning-point-building-a-more-secure-future-for-",
-      "title": "Indian Agriculture at a Turning Point: Building a More Secure Future for Farmers",
-      "summary": "&nbsp;&nbsp; Bharat Fast",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Bharat Fast",
-      "publishedAt": "2026-10-29T12:16:12.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDNKNzZsUnA3d05kcXVuOTZnWDlicndFVTgxdE50MzlUMVk3cktSdlhtd0NpNm0yMHVSckp2TVVtZUpibjhNb1EyMmxLekRseDZxOTFvS0liR2N2OU8zM3pVOHo5c3k5YUN1WVd2RVFYdVl6NjZrSU81eXpURkF5LVlCOUtNX1phOVJFZHAyUQ?oc=5",
-      "sourceHome": "https://bharatfast.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "india-ai-impact-summit-2026-to-focus-on-democratisation-of-ai-2026-10-29",
       "title": "India ‘AI Impact Summit 2026’ to focus on democratisation of AI",
       "summary": "&nbsp;&nbsp; DD News",
@@ -271,59 +348,6 @@
       "publishedAt": "2026-10-29T09:45:46.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3k0eHNDVmpVUC0zTHE2OUQ5RVJRYmgtUk1wZWdlc2hpV2ZmaTVWY2lRTkM4d200Q3BWenpKSkZEZFFhYnJOUWVOcjJ1M1FpMWNBcWg1ZXBqOVRJVkh1Q2ZiODBNQzJFWUhnUXQ0alZGQWFkVjJrTXdMdkx5R2tLb2pILVc2UmdobUtyNjF2ejFnb09QUFFTVQ?oc=5",
       "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "explained-what-the-latest-rabi-msp-hike-means-for-farmers-2026-10-29",
-      "title": "Explained: What the Latest Rabi MSP Hike Means for Farmers",
-      "summary": "&nbsp;&nbsp; DD India",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD India",
-      "publishedAt": "2026-10-29T09:38:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR3pMV3dBOHNTU05tRUNtOXVkWm43N1lIYVEyX1ZBMXF0UUllVGxCRFNWS2VmUUZoZnZUWFJJNnpyQVJuZmRQSUViMWdibjNuM2VTVVd3Tmg5N0oxTllfN0JoeVRZbGV1UjdsOTZyWnNySjMxWW9PQ1U1RVR5R0xURVJCOV8yTWRHZmRqTFhkem00dw?oc=5",
-      "sourceHome": "https://ddindia.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "procurement-of-6-rabi-crops-surges-msp-payments-rise-to-rs-8-36-lakh-cro",
-      "title": "Procurement of 6 Rabi crops surges, MSP payments rise to Rs 8.36 lakh crore",
-      "summary": "&nbsp;&nbsp; The Hawk",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hawk",
-      "publishedAt": "2026-10-29T06:19:27.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3ZkQmc2MjJjamJ0YkpPQ1cxX1FheFhIWG1Dd1dZZFNQUjN4QWlGaFZCd1V2R2I4Z2VSVjlYbDM3VUhaX2J3RDdVUnYyZnZzcTZjcGRKV2IzR3FKQVY5TV9GbGljUG1jMUxNRnlkaXFaLUFVM0wzTUJuaEF2blhINDBaY3RlMVd2clVDejJpb0JNcmRtNWRwUzVTdXUxdDdCN1Y3dEVMOHNONmc?oc=5",
-      "sourceHome": "https://www.thehawk.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2529-2026-10-28",
-      "title": "ఎల్‌నినో దెబ్బకు దొడ్డు వడ్లకూ భారీగా డిమాండ్‌.. మద్దతు ధరను మించి, క్వింటాల్‌కు రూ.2529",
-      "summary": "&nbsp;&nbsp; Samayam Telugu",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Samayam Telugu",
-      "publishedAt": "2026-10-28T12:45:42.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTTVtcnRhSkhmOTd4SjhEUnllTTdmV2hUUEZ4aFVld2oycHBBc2Fma2d1NDRpWVB2REFyRzBwZHZLZHBqcVNvZGZ4OE9xSEtFRG55ZWFPVS1PT1JPalVRUEpKWkVnT1dWcy1LRmZjNjJKQ1ktcVF4aXViblRTbUpaZWVRMzVobVFpc0FVUzRsYjd2eWFPYV9uNlVjNGFXZ1FhMnhlalFCVFNTdzB4QzBIVkcxak1aVHk4RVhLaVBRd3ZpRExScWlxMkJJUGZuUFZucmEwLUdqUXduWkhIVGY1WjFKdENBcWFZYngzT1BZSElWSXBwRWIyWXdoZE5YUTjSAYQCQVVfeXFMT0ZROFllN21XMmd6SXV3UENfSzk1RE5aLUV0MXg2b2Z1M1hlbFZJQ1JuemxfX3hRYWZJdmVEQmMxRUNOeEpYRkQ3Rnp1Rm5xTzdlUDlhQ283QTRHdWY3ai1ENjFPaGQtLS15UWpyaC1mdm1LX2hlVUtnenRFSHlrazViZVdIN05qNlZSYmF1a3BERjh3endJSDdyZGJIODFuU0ZlWnNpSUx1MGpUUk5OUUlTSVZoa3paMFJOZ0ZQUzR1YjdfTE55ajdGdUpmYWhicjR3aUhSZDJycWgzNTYzMEZSbkhYOC1YMmRRTnJGbmF6SnMxV3ptbThpMzZobnFUX0tORnA?oc=5",
-      "sourceHome": "https://telugu.samayam.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
