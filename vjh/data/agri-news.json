@@ -1,9 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T06:33:05.038Z",
+  "generatedAt": "2026-11-02T06:33:51.014Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "2026-11-01",
+      "title": "ఎల్‌నినో ముప్పుపై కార్యాచరణ",
+      "summary": "&nbsp;&nbsp; Andhrajyothy",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhrajyothy",
+      "publishedAt": "2026-11-01T19:21:54.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGx4MWVSUHpnNE1QMmFHMmpPYTl5U283UEZIMFBYcWlwenBTQ1EwX3FJVExmVjcwZk5qTFRMR2NTRVdDTkYyd1lsMHdSMm9tZnNCUElKb2NIMVEwcGNYT3lRbXpVaDBZTm9oQW5QOE9MNWdUSXRpaHh2WkgtUE1hMVJnU3NjQVBvT1pxNW5ZelVvamc5TExpRTBjZjNwYmFMZUQ3RlV6YWhwU1k?oc=5",
+      "sourceHome": "https://www.andhrajyothy.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cyclone-murasu-paddy-farmers-in-telangana-fear-crop-damage-amid-high-mar",
+      "title": "Cyclone Murasu | Paddy farmers in Telangana fear crop damage amid high market prices",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "Paddy",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-01T15:39:32.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZlBNNTNaZ2lfY2VucHNVdEVaV3M2Skpndm1hMmczR3VycXc5Slljd3Y4ZXdWRXZzYnp5OXhVZHlVcmpQSktUNnZyaE5CY1ZVZ2ZoRFF3TnU3TWdkZjM5M2p5d2k3ZWpjRDkwczlxdExKS0hlZExQU2YzLUNlOHNVQ2dTYktsZDNJdzFNRjU4UkJlY2VRM2REVlpOU3E0amVNX1FIYUtHTmQ5eUNzaWpjTDRBZ3JxRDBmTXZGcXJXZ3hHeVRHa3BVMElvSW9ldUktOFdSSEU4T2JXdWNKZjhCM1NRbXo2d9IB7AFBVV95cUxOdlNCNWc0UnN4QUJ4aHNJTzEwOTJqSXRXMXJvTzFDYWc3d0RaR3g2b3AtOFZNaFZyZ2VIeWxXNU5VeFlITHRjUk83OXdfS1R4T3BmOU84Wk1aeGhGRE5TdGNFdDJJQWNHYTh0YlNFeE5SZ3lNSzNPTms4UDIwV2s5UnhDeFRNWUZxQjdMQ3RrV093MDMwb05xQzNuV2tuWURUR2VnQ19qdEhvb19Bc1lQUnJTVTgzRmgwLWhvU0lfb2JsdWFXcUc2bFBWcmpDcHhvMW1INzhWejdEMlJqNm9QT3FXLVBLcjBfYkNEcw?oc=5",
+      "sourceHome": "https://www.thehindu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "no-crop-holiday-opposition-misleading-farmers-says-minister-thummala-nag",
       "title": "No crop holiday; Opposition misleading farmers, says Minister Thummala Nageswara Rao",
@@ -37,6 +75,25 @@
       "publishedAt": "2026-11-01T01:02:44.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
       "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "govt-didn-t-announce-crop-holiday-oppn-spreading-misinformation-agricult",
+      "title": "Govt. didn’t announce crop holiday, Oppn. spreading misinformation: Agriculture Minister",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-10-31T14:20:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWFlRm9JN2d4RjRNXzZXcEJjbHhjcnJwUVFfaXhUUE4tVlhYd1dxZ3JLUGYySXZReElZYmhSdS1LZ1dWTVVuZVRNVHZ2WWRDMFo3cS0xSWhRMG5iRzRicUhNb2hQX1RtOXJnVTI0WWtKel83cUpZaXFrVlBOang5eVZTMkprN3ptUGJJVGpKelhrVlp0UHdWTmoydjQxeXd5WkVxOWlBSTJqQ2JMUVNmQlF5UVF2TlVYUjNydjJVOEZDeFFPaFpOSTdabG5POU1tUTJscG5ZU3EyWkMtUFJrZXNYTFBuNGfSAe4BQVVfeXFMTVhIWnAwNHN6TXZ3UWZrSm9SaEhZNV9aazJ6S3htWEpOZk9sR0xTa3ZaU1g2YWZJS1FadU15dWNtVDFQSk9aTExNNExTaU96OUN6QnROYlUydnpuNEJMTk5xNndGcks3bTctVVVhek91dk9XclF2UzRmMHlHOS1WUkxFTWp2enkzR2tUdjhqQzhCdWxablJ0cUIwc1R6c2ZxaDlITXl3NmZCNnF1c1RLMWl2UURWTHNGS2N0SURrbzNZd2FyRi0yYkx2TFJlR0lhQkhwMWIzWGh1d01zMndVOVdLV0IyVi14cFJGbk5idw?oc=5",
+      "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -115,20 +172,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "why-brazilian-politics-just-stole-the-show-from-global-grain-markets-202",
-      "title": "Why Brazilian Politics Just Stole The Show From Global Grain Markets",
-      "summary": "&nbsp;&nbsp; ИФЗ РАН",
+      "id": "centre-on-alert-over-possible-el-nino-impact-farmers-interests-will-be-p",
+      "title": "Centre on alert over possible El Nino impact; farmers’ interests will be protected: Shivraj Singh Chouhan",
+      "summary": "&nbsp;&nbsp; DD News",
       "crop": "All",
-      "type": "weather",
+      "type": "scheme",
       "regions": [
         "south",
         "india"
       ],
       "language": "en",
-      "source": "ИФЗ РАН",
-      "publishedAt": "2026-10-31T11:54:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3VQenRCaHdHZmJGQzZqU1U2T0t6REFEaThPQ1VPaC1BbGhSMG83OWQ5VmdtQXJGZlRFblhQcURNa1ZZU0VuVkpJUlhmZ0pLajZJTVJ5aEV3WkM0MXVvNlE0c2t2cGhMVDZvdnNPR0dXNHozbWIxSm9ocnRBQWNReA?oc=5",
-      "sourceHome": "https://geosirius.ifz.ru",
+      "source": "DD News",
+      "publishedAt": "2026-10-31T09:08:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVcxbWRTMnAtUS1KY1FlZ1BsVEMzMy1qZzFvVmlNcWVESmJ5cjktSGFvV3VuZUR5Z2Mtb05OVFM2WGhvdGVUM0EzWmZSMktFS2FldEVDV0h4WnJxX1FyWW10bXloeTZnWTdaY0NTQ0t4ejJxLVpTZnN3M1Zkemhyd1dnRUJoSHhaRXpXVGdZZzNLbm16c211ZkxweXNTZDRvc0hydUt4UHJsV1hfWF9GSVk0bEtJMWdGTU9lbTBqYnNLcExsVXBZ?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -163,25 +220,8 @@
       "language": "en",
       "source": "The Hindu",
       "publishedAt": "2026-10-31T08:02:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUpXRGJMT1B0OVlKS0lRMER3S3ptVVFTTE11ZWxoLTNFdV9lUUNrTFNSOTV3UXhEVVI2R1BLZDVweWJRTWJYN2hNdXlUMUR5MG14MmdIVm5IcFZEa25GQ3ZjT29laVctTmNHeWl4UERFdk8ycDFTSUFPTjNnQ3A1OEdYNWRrbWl0S2Rfa3BSWDNYUVZBWERuSUJ1Rm4xTUROeTRqQkRzLThOaHFKdHpCWDFRNGxlZFpEbEVNMjBPaHhrMHpTUFBsRkU4Q21xWWxKX2tsd2JocHhvMFhGbFBhMkg5Tk8yN0Fo0gHvAUFVX3lxTFAwMU0taWZqb1FQWS1RVzcxUWRYQVktN3prVGN4c1FhYTVJUUV3cnZDNU5OcERPVXN2S00xMlRmRjgyRGhRa0lib2sxWE10a1lmdUNGbGlaY3pzallnVGlkT2pweGFzVmhjYW9PQzBDOTl0cDhsY0duSHluZFlZa2RKdWpGWnVnT0RQMDNBbTdxTjRaTm5yV0taLXFuSW92bGI5YnM3X2NQWUxlUDV0d0lwaHB4UUlua3FveTBVUGF1UHdSdEN0QWtuU3ZOaTRWVG1oX0UzY1Q5VlZhQ3FKQlVDU0JqRUd1U0RCaWNsZnBN?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTdIB7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTQ?oc=5",
       "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-launches-12-horticulture-clusters-2026-10-30",
-      "title": "PM Launches 12 Horticulture Clusters",
-      "summary": "&nbsp;&nbsp; https://www.fintechbiznews.com/",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "https://www.fintechbiznews.com/",
-      "publishedAt": "2026-10-30T18:33:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2ozSzRTcHBIRmo2Y1l1UUlJTFd2S2xPVVEydXl3Z2pyMWRYQ244YXo0dEZ4MFdSUkdWd0dya1dpQlY3SV92ckxJampjVi1JS1RScEJ0MWtPRWJnU05FZVFYM1NkYld0QmlXS2wxSmkwei1HMXo3NjZMYlBQSUNENWlEVjhtbnFkdEEzbUZn?oc=5",
-      "sourceHome": "https://www.fintechbiznews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -205,55 +245,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farmers-saved-over-rs-50-lakh-crore-through-five-central-schemes-pm-modi",
-      "title": "Farmers saved over Rs 50 lakh crore through five central schemes: PM Modi",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "id": "no-tricks-but-no-treats-either-in-pre-halloween-trading-2026-10-30",
+      "title": "No tricks — but no treats, either — in pre-Halloween trading",
+      "summary": "&nbsp;&nbsp; Farm Progress",
       "crop": "All",
       "type": "scheme",
       "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-10-30T13:14:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDFHS2dJSzFoNGZ3TTR1Tm1YZlFXME5Lc3Y4ZFV0WmE2cFZRd0Vyd3Q0ajBYYzVUYUVRNUY1Y1p1Tk1XRmlqaG12dmYwcTZROENkd1R0VHFwUVZBQy1sOE85VlFoQ0xBWTZ2UTlleXpqb2o5UUxzcDg5YmZTeVh5U0ltRTViOElvTFRNODR4SGczeXBRZ2ljVzVWeEtCUDR0dmVqWG9kVzlrOHFZQmFOSURhbmI3S0UxVi00NksxZ0RZT2l4U1loVXZtbGRjd9IBzgFBVV95cUxQcDFHS2dJSzFoNGZ3TTR1Tm1YZlFXME5Lc3Y4ZFV0WmE2cFZRd0Vyd3Q0ajBYYzVUYUVRNUY1Y1p1Tk1XRmlqaG12dmYwcTZROENkd1R0VHFwUVZBQy1sOE85VlFoQ0xBWTZ2UTlleXpqb2o5UUxzcDg5YmZTeVh5U0ltRTViOElvTFRNODR4SGczeXBRZ2ljVzVWeEtCUDR0dmVqWG9kVzlrOHFZQmFOSURhbmI3S0UxVi00NksxZ0RZT2l4U1loVXZtbGRjdw?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-10-30",
-      "title": "పంటల సాగు, సస్యరక్షణపై రైతులకు అవగాహన",
-      "summary": "&nbsp;&nbsp; Suryaa News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
         "south",
         "india"
       ],
-      "language": "te",
-      "source": "Suryaa News",
-      "publishedAt": "2026-10-30T12:17:12.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUkt2ZnlzRTcxUTJ1cHBaQWlfRVVnNXQ5ZXl6OVRMdF9EMWl1blJMWUhjby11N2E1cjh1X1dzMEY4eGlLeHo5TFpKV3FiUlhjOHNGSndPNkg1U3JLdzhCSE1YbzNpMWV6OTRHc2xqZnVrNzlxMUVpc0VJTHZJX2VwanQtMTZxUnNFM2JFbXlVQdIBjwFBVV95cUxOUkt2ZnlzRTcxUTJ1cHBaQWlfRVVnNXQ5ZXl6OVRMdF9EMWl1blJMWUhjby11N2E1cjh1X1dzMEY4eGlLeHo5TFpKV3FiUlhjOHNGSndPNkg1U3JLdzhCSE1YbzNpMWV6OTRHc2xqZnVrNzlxMUVpc0VJTHZJX2VwanQtMTZxUnNFM2JFbXlVQQ?oc=5",
-      "sourceHome": "https://www.suryaa.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "agriculture-budget-risen-over-fivefold-since-2013-14-farmers-gained-save",
-      "title": "Agriculture budget risen over fivefold since 2013-14; farmers gained, saved Rs 50 lakh crore: PM Modi",
-      "summary": "&nbsp;&nbsp; The Hans India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
       "language": "en",
-      "source": "The Hans India",
-      "publishedAt": "2026-10-30T08:32:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZTFONVRRNXJ1LUNZZzZRYUdFNE13UmdYMmpuMzBYN0lxUTZ6MThYRlNLZUIwbWJkV2dlSVU2aTJHeFV5M0dCbGVZa1ROYzVtSDZjSUN6VjhoVzg5enAyQ25lSTcxbHFZdzEwMUNIa3NZV0s1STZpQVJMQ0hhQnRMcU8xb0JDbUdCNGtEUm1ocGJSVFVLS2M4d2tCZnN6ejZxNXkza0xWNVh1Zlk1ZG1jUjhlRGVkTnNPV01aQW5icmpzRXpWMkgwRFRKeUZadDhrcURsZGI4dFNDR3VlZ2I2ejUybw?oc=5",
-      "sourceHome": "https://www.thehansindia.com",
+      "source": "Farm Progress",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -273,81 +278,6 @@
       "publishedAt": "2026-10-30T06:25:40.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DaDFvZUZRNnZ4d0JGaWhUZVY1SkNTQ3FLY3JxOXdRb0RCWE5GQld1RG80OTJDWFF5anRZeHE3NUY2aHVOZlFORGRhamFkdUFOQ0dTZmZXTkM1dFppS003MFdVOUVYUDV6cFZRQ1VRaXllbDBOWms4MHNEVmLSAXxBVV95cUxPQ2gxb2VGUTZ2eHdCRmloVGVWNUpDU0NxS2NycTl3UW9EQlhORkJXdURvNDkyQ1hReWp0WXhxNzVGNmh1TmZRTkRkYWphZHVBTkNHU2ZmV05DNXRaaUtNNzBXVTlFWFA1enBWUUNVUWl5ZWwwTlprODBzRFZi?oc=5",
       "sourceHome": "https://vaartha.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "jai-sri-ram-price-hindustan-times-telugu-2026-10-30",
-      "title": "Jai Sri Ram Price : పాతరకం జైశ్రీరాం ధాన్యానికి రికార్డు ధర.. మక్కలకు కూడా | Hindustan Times Telugu",
-      "summary": "&nbsp;&nbsp; Hindustan Times",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-30T05:28:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSnBmTWJvOWRyZzhKVHRTdnJKY1NaMTdqcDNlbWgtX0dCSkR0NjFYQXZNc1B6Y0k0LUdmWU9iWkIybHdkNW04ak5WTXJKZTVhbHVXYW1OS2g1bW5ycS16TXRLcHRNendLUVVPLTd1ZEJiUVp3YVd1RDR1a3ExbXhldDJqLXFIXzhoNXI1RjE4TktfVHkyRU9wdVFIM0l4TkhQaDVjbnpZSzNNWTNQVlNmSEZiTm9WN1pyQjRIZ01wZFR3N3FhS193RmY3VHMyOV9FUGZGWHZXVUZZTXdDdFZvM0dUd1N3TVJyQWdpTk1BaUFDRTJk0gH6AUFVX3lxTE9LSk5SX0xrMHJIRGlZMEZkNGF1WmJJeUR2RGJaZTlRSk85ZDhFY1JxNDVpV2Q1UHlKWnFEaFpRUDltRFNvOWYwYkVaNlBoS0NlMTJpRWFCQkIzYzc4MWFmT25ZdUhOM2pjQ0l6UE5DdmJadC01eWpkYndLQzdRRmh4TG9kTDBUNGhpTVkybXpURkUzVnQxX1EzTDVIUWxpTVlMMlpRLW1DQ0hlTXJmT0tGeUhzVmhMd0xTdE56UEFLVm1pTkdtTUtrYXFmM2E5WXM5U2pyWEdXLUVnOTg4TUw3Y2ZOSjdTcEtJX0dzSlR6RTNEZXVNUEJhN2c?oc=5",
-      "sourceHome": "https://www.hindustantimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-s-drought-hit-mandals-expose-a-costly-assessment-gap-2026-10-2",
-      "title": "Telangana’s Drought-Hit Mandals Expose a Costly Assessment Gap",
-      "summary": "&nbsp;&nbsp; Urban Acres",
-      "crop": "Pulses",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Urban Acres",
-      "publishedAt": "2026-10-29T19:18:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3ViclFZd2QzYnpFTmN5bURiZTJMNXh1TEt5cHp0RkMwd1pjaVVUYmExeTVrd3lualJTc2IzNlJfRmFSeVJNdzUtMWJhOEhUSEhvNjhXdlZwOGpEUnFtR1NhV1YxbVpiSTJZSWZ3WVNMdnk2Z191bnZEZkdORTNtM1lXY2J3LVVDcTlCXw?oc=5",
-      "sourceHome": "https://urbanacres.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-civil-supplies-department-raids-rice-dealers-in-hyderabad-2026",
-      "title": "Telangana Civil Supplies Department raids rice dealers in Hyderabad",
-      "summary": "&nbsp;&nbsp; Devdiscourse",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Devdiscourse",
-      "publishedAt": "2026-10-29T17:07:01.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmZsQ1NoVWx6VEFIU0FTQ2VPV3k5ZktfcW1wdTZ2a3pOV0NHalRUcmdoWGpNeFV5elBySFBOb0FxenJNVi11bm9CQmFHNlo2R3BQZmdfX2FBdnlZNm1iV3ZmWVg3TDM2eUtPWTRDckpWZFBEQ0ZDbE9naGZoOGFjdndXaEFvUFpvcURUWHF5VEFFN09EZ3FDeGc0TzFxNmo0S2J0MVhFRXFtMGdla2FVY3hVUFN6OU04MlNhZ0xCX3dNbGJW0gHEAUFVX3lxTE1mZmxDU2hVbHpUQUhTQVNDZU9XeTlmS19xbXB1NnZrek5XQ0dqVFRyZ2hYak14VXl6UHJIUE5vQXF6ck1WLXVub0JCYUc2WjZHcFBmZ19fYUF2eVk2bWJXdmZZWDdMMzZ5S09ZNENySlZkUERDRkNsT2doZmg4YWN2d1doQW9QWm9xRFRYcXlUQUU3T0RncUN4ZzRPMXE2ajRLYnQxWEVFcW0wZ2VrYVVjeFVQU3o5TTgyU2FnTEJfd01sYlY?oc=5",
-      "sourceHome": "https://www.devdiscourse.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-ai-impact-summit-2026-to-focus-on-democratisation-of-ai-2026-10-29",
-      "title": "India ‘AI Impact Summit 2026’ to focus on democratisation of AI",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-29T09:45:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3k0eHNDVmpVUC0zTHE2OUQ5RVJRYmgtUk1wZWdlc2hpV2ZmaTVWY2lRTkM4d200Q3BWenpKSkZEZFFhYnJOUWVOcjJ1M1FpMWNBcWg1ZXBqOVRJVkh1Q2ZiODBNQzJFWUhnUXQ0alZGQWFkVjJrTXdMdkx5R2tLb2pILVc2UmdobUtyNjF2ejFnb09QUFFTVQ?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
