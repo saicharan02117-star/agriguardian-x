@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T06:33:51.014Z",
+  "generatedAt": "2026-11-03T07:03:44.130Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "2026-11-01",
-      "title": "ఎల్‌నినో ముప్పుపై కార్యాచరణ",
-      "summary": "&nbsp;&nbsp; Andhrajyothy",
+      "id": "2026-11-03",
+      "title": "తెలంగాణలో మారుతున్న పంటల సాగు.. టాప్‌లో నల్లగొండ!",
+      "summary": "&nbsp;&nbsp; Disha daily",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -16,10 +16,82 @@
         "india"
       ],
       "language": "te",
-      "source": "Andhrajyothy",
-      "publishedAt": "2026-11-01T19:21:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGx4MWVSUHpnNE1QMmFHMmpPYTl5U283UEZIMFBYcWlwenBTQ1EwX3FJVExmVjcwZk5qTFRMR2NTRVdDTkYyd1lsMHdSMm9tZnNCUElKb2NIMVEwcGNYT3lRbXpVaDBZTm9oQW5QOE9MNWdUSXRpaHh2WkgtUE1hMVJnU3NjQVBvT1pxNW5ZelVvamc5TExpRTBjZjNwYmFMZUQ3RlV6YWhwU1k?oc=5",
-      "sourceHome": "https://www.andhrajyothy.com",
+      "source": "Disha daily",
+      "publishedAt": "2026-11-03T02:38:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVJ4TVB2eTZfd0xIRW01MEFZM3pQMUVhZGFVN0JrelE4ZW5DMlg0Z3V6YzJlY1p3WVc0N1NOdGZYbUxQUUZsd2pEWmlqbjdYVmYycWg5Z2xuYnRYRUIyUUdSaE5STXFQYmtSR2tNS0VsNWdQZ3pUMWNvMWNHSzN0bUk3d0d5WjB4YWd5S0x3QldKQS1INERISjBzdzNLLWRV?oc=5",
+      "sourceHome": "https://www.dishadaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-02",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-02T19:46:20.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "govt-set-to-tweak-msp-norms-for-periodic-price-hikes-of-minor-forest-pro",
+      "title": "Govt set to tweak MSP norms for periodic price hikes of minor forest products",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T18:47:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONlNmaFdhcmZDVGtyMEhIUXdQUDBzUGNYRkN3RjJkOVFQeFBPSk5pTVBpOUpwbDNzUFBZTUFtcHR2QW9NRUswellJd3VGWDdsUFVRMFBMNTdNRkJnUjVFbHZUMVJKZ2RMMFlBVDl5M2dNdjRLNUJrT2VtX2J4V2Y2ZkY1a3dKZVdEX0Q0SDMtUXNvak9odS1BNzB5NG83dENjTldHNGF6SGppb3liUjN6c0NpWUh3T2VGelRYZGNyTFNLUF9pbDB4bDgwNktIZkhEQXBMOGo0YkNoV1pQVXNCQXJiejJ4NFZRdHpwedIB8gFBVV95cUxQRVBvODlJZ19heTJYSkxDNXFTMTdlX0NJZkt1ZHByVEM1b3FCRjBnUTgzOHo0R1dmSkpHVDJtOS1CdEF6ZXBqYWhfYks5SzJPdXpEa2dIa2Y0c2Nka01wR21vdmhjX04xVkdiZldmcHl2ZnZfTWc4ZWFMcER3VmRheENYTUY3RGlJdW14STdEWTF3elJwU3pqRTNjYlpLRk1sTUx4VEVQZVZKTXdZVVpuYktJXy1ub1h3anRGOFkxejNXVV9pV3hqM1BVNk1hT085QnN1b1RFcTBPSFhuWEJybWx1bU45VEZBQjAtLTdZMXNyQQ?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "call-tenders-for-ai-powered-digital-market-yards-tummala-tells-officials",
+      "title": "Call tenders for AI-powered digital market yards, Tummala tells officials",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-02T18:29:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXJpeVVXaVA4WVV1VnVvUjN1U1l2ZmRVV2V0Mmg4R1lzc2xUUElMRGVTLUlqMlF2MlozRUxYb2lKa3JJeEs0VkVwOFEwRUpENm5PN3F5MEpLbjNKbmxsUnM2WkVWMWw3ZThBMVBIVElSM2hGWlpOSFNJTlBpMVNJV29SZUNhTjhkOFFidkNCRDRwYllrOE5LVk1JQU9lbjdVbGN4MU1LTEJjZGFYTzF1WEoxbFhtVmZiY1FIeENzaW1nTWx3R01TbWZsNzMxRmVzdW9IOHRHYm95RzMyMU1NNmp3aFJMN3Ba0gHoAUFVX3lxTE5Rcml5VVdpUDhZVXVWdW9SM3VTWXZmZFVXZXQyaDhHWXNzbFRQSUxEZVMtSWoyUXYyWjNFTFhvaUprckl4SzRWRXA4UTBFSkQ2bk83cXkwSktuM0pubGxSczZaRVYxbDdlOEExUEhUSVIzaEZaWk5IU0lOUGkxU0lXb1JlQ2FOOGQ4UWJ2Q0JENHBiWWs4TktWTUlBT2VuN1VsY3gxTUtMQmNkYVhPMXVYSjFsWG1WZmJjUUh4Q3NpbWdNbHdHTVNtZmw3MzFGZXN1b0g4dEdib3lHMzIxTU02andoUkw3cFo?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-plans-ai-enabled-transactions-in-agri-market-yards-2026-11-02",
+      "title": "Telangana plans AI-enabled transactions in agri. market yards",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-02T14:21:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzlVU014RURuWFZuQkZkWUdycVNOVEhvbFlwVVhFd1J0bkNaTjVNQUJjYlpmaFNydW9xQl9iemlGTGszS3VNZG4yRUFGLTlNZzFGSXU4X2w1cnJhS3hEUUNNYlBhT09NdDIwVGltN0ZjaVZNVXZDaUZnd0ZkRlRwTWU1LVZEdUlnY0RSU2NLSndQTjNoN21Ybmt4c0VycFBYX0pjMlNCbHhTQ1Uxa0hteVk2bWJDcWUyUEJ3TUsyZ3ZnU21UTGxja9IBzwFBVV95cUxPSlZsQWQ1SmY2RlhSNVJOYnAtSVFPSDJObU05NE1VNWtpUHFfVlJXWi1VVUQxM2c4U0ZZZk5zODJHLTJNbWE1UzE3R2cwZF9MWnVKRHNwQTlhVUxLcm9lX1h4UjlYMWNYcFBUSE40MTF3OEtUdG9uTGd3ZUZKZnppQXZiTDF1cnNnUlRRN09wU2pkd2ZkUzFxWVhlX2hZNUpGWFNZMlBHVjg4QWZsbjNyM2ctcEMzcWFha2JzN0ZfakljS0FpblZybXYtSkZCUHM?oc=5",
+      "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -43,6 +115,44 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "andhra-pradesh-telangana-weather-latest-update-heavy-rain-alert-owing-to",
+      "title": "Andhra Pradesh, Telangana Weather LATEST Update: Heavy Rain Alert Owing To Cyclone Murasu",
+      "summary": "&nbsp;&nbsp; Menafn",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Menafn",
+      "publishedAt": "2026-11-01T13:00:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1fYWR0bnBmT1ZmSkVYOW5MX0FwU2ZqWmN4eXZFWTFuczdwUTlRLUxrbXpwSm9lU05QQVpURVJZS0RybHFzZEtZYVBYamVsVXFVMGZWRkEzRXd4dWpSZS1IbS1TR0VSTWlpeS1jX0FybENVYkFQTkZkUDFOQmgyNnp6NVQ4UDVNWG14VGlpSmtDbzJWLWk0QmlwcW5ZYzJVZ0M3N3FWbHotTjRERDRwWG9jUHFBV1Jz?oc=5",
+      "sourceHome": "https://menafn.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-10-2026-11-01",
+      "title": "Telangana: రాత్రికి రాత్రే పొలంలోని 10 క్వింటాళ్ళ పత్తిని తెంపుకెళ్లిన దొంగలు",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "Cotton",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-01T08:12:08.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0lKZVo1YXRocmJDU01CN0xtc1pEbmtSWV9NWGhYTFNPSGVJZGxLQ3d3cjFRenVtU0RkZEk5LWhfZU9qZ3Vmb2FfSmY3enVRQ3g2WlFubTZLSlRvbldrR0JIZkltYVNsRm1hSk5uVHJ2RXdFSmtzNE9WWlZrSk83cE92RDR5RE5Fbk05LXNTSGVZR3YxRm13RlNFd21Gb214WnItX3Z0UWxDNzJ5ZnFhRmtXNmNxNEFpanfSAboBQVVfeXFMTUNJSmVaNWF0aHJiQ1NNQjdMbXNaRG5rUllfTVhoWExTT0hlSWRsS0N3d3IxUXp1bVNEZGRJOS1oX2VPamd1Zm9hX0pmN3p1UUN4NlpRbm02S0pUb25Xa0dCSGZJbWFTbEZtYUpOblRydkV3RUprczRPVlpWa0pPN3BPdkQ0eURORW5NOS1zU0hlWUd2MUZtd0ZTRXdtRm9teFpyLV92dFFsQzcyeWZxYUZrVzZjcTRBaWp3?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "no-crop-holiday-opposition-misleading-farmers-says-minister-thummala-nag",
       "title": "No crop holiday; Opposition misleading farmers, says Minister Thummala Nageswara Rao",
       "summary": "&nbsp;&nbsp; The New Indian Express",
@@ -58,42 +168,6 @@
       "publishedAt": "2026-11-01T02:55:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVGRLN09Idi1URGl5UWIwdER3MThtYVItWVBMVnJqRVJZMktXUlV2am9YZHBjZnF4NmxCV01iN3ZMUXF5MGp2akQzM242aDg2Z21RbVNaY3RHR3FrRFZSdGZNaHgwT3Z4RGZvcDE5UWlTdnBxWE5YWGJQVnRRTGFJWVowNWhfdUx4MF8yWk54OEpTcW43V19IUjQ4WDRBNzhMUTFJNGo5Yk5SMjZ0SWFTNTlvNExUOURaMEt6Z1QyOHkyREY1cG5LN1Z4UHZtZlVZUFFIdG1KZTA3MTlTQlloOUhINTBFc0d6aWfSAeoBQVVfeXFMTlRkSzdPSHYtVERpeVFiMHREdzE4bWFSLVlQTFZyakVSWTJLV1JVdmpvWGRwY2ZxeDZsQldNYjd2TFFxeTBqdmpEMzNuNmg4NmdtUW1TWmN0R0dxa0RWUnRmTWh4ME92eERmb3AxOVFpU3ZwcVhOWFhiUFZ0UUxhSVlaMDVoX3VMeDBfMlpOeDhKU3FuN1dfSFI0OFg0QTc4TFExSTRqOWJOUjI2dElhUzU5bzRMVDlEWjBLemdUMjh5MkRGNXBuSzdWeFB2bWZVWVBRSHRtSmUwNzE5U0JZaDlISDUwRXNHemln?oc=5",
       "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-01",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-01T01:02:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "govt-didn-t-announce-crop-holiday-oppn-spreading-misinformation-agricult",
-      "title": "Govt. didn’t announce crop holiday, Oppn. spreading misinformation: Agriculture Minister",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-31T14:20:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWFlRm9JN2d4RjRNXzZXcEJjbHhjcnJwUVFfaXhUUE4tVlhYd1dxZ3JLUGYySXZReElZYmhSdS1LZ1dWTVVuZVRNVHZ2WWRDMFo3cS0xSWhRMG5iRzRicUhNb2hQX1RtOXJnVTI0WWtKel83cUpZaXFrVlBOang5eVZTMkprN3ptUGJJVGpKelhrVlp0UHdWTmoydjQxeXd5WkVxOWlBSTJqQ2JMUVNmQlF5UVF2TlVYUjNydjJVOEZDeFFPaFpOSTdabG5POU1tUTJscG5ZU3EyWkMtUFJrZXNYTFBuNGfSAe4BQVVfeXFMTVhIWnAwNHN6TXZ3UWZrSm9SaEhZNV9aazJ6S3htWEpOZk9sR0xTa3ZaU1g2YWZJS1FadU15dWNtVDFQSk9aTExNNExTaU96OUN6QnROYlUydnpuNEJMTk5xNndGcks3bTctVVVhek91dk9XclF2UzRmMHlHOS1WUkxFTWp2enkzR2tUdjhqQzhCdWxablJ0cUIwc1R6c2ZxaDlITXl3NmZCNnF1c1RLMWl2UURWTHNGS2N0SURrbzNZd2FyRi0yYkx2TFJlR0lhQkhwMWIzWGh1d01zMndVOVdLV0IyVi14cFJGbk5idw?oc=5",
-      "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -172,6 +246,24 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "why-brazilian-politics-just-stole-the-show-from-global-grain-markets-202",
+      "title": "Why Brazilian Politics Just Stole The Show From Global Grain Markets",
+      "summary": "&nbsp;&nbsp; ИФЗ РАН",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "ИФЗ РАН",
+      "publishedAt": "2026-10-31T11:54:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3VQenRCaHdHZmJGQzZqU1U2T0t6REFEaThPQ1VPaC1BbGhSMG83OWQ5VmdtQXJGZlRFblhQcURNa1ZZU0VuVkpJUlhmZ0pLajZJTVJ5aEV3WkM0MXVvNlE0c2t2cGhMVDZvdnNPR0dXNHozbWIxSm9ocnRBQWNReA?oc=5",
+      "sourceHome": "https://geosirius.ifz.ru",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "centre-on-alert-over-possible-el-nino-impact-farmers-interests-will-be-p",
       "title": "Centre on alert over possible El Nino impact; farmers’ interests will be protected: Shivraj Singh Chouhan",
       "summary": "&nbsp;&nbsp; DD News",
@@ -190,19 +282,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
-      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
+      "id": "pessl-to-install-15-000-smart-weather-stations-in-kenya-2026-10-31",
+      "title": "Pessl to install 15,000 smart weather stations in Kenya",
+      "summary": "&nbsp;&nbsp; Sacco Review",
+      "crop": "All",
+      "type": "weather",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-31T08:34:31.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
+      "source": "Sacco Review",
+      "publishedAt": "2026-10-31T08:22:27.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmRYb3lyczU5Mlo4cHBRSGl4MnVuTnlCT1JBNi04dFd2YVNDeUJXSzVsTnNLLUx6TjZPWl83OTR5aXpGZkV6M1A4c1RVMVh5dGFiczd0V1ZzdzFfMnhPRlNGSlNETHd3VkF5XzFza3d6NW5KLXdaMkFuSFgyWW56UzBwNWZwbjgz?oc=5",
+      "sourceHome": "https://saccoreview.co.ke",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -222,62 +315,6 @@
       "publishedAt": "2026-10-31T08:02:44.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTdIB7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTQ?oc=5",
       "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "tandur-redgram-2026-10-30",
-      "title": "Tandur Redgram: ఆస్ట్రేలియాకు తాండూరు కందులు.. తెలంగాణ కందిపప్పుకు విదేశాల్లోనూ డిమాండ్..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "Pulses",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-10-30T15:59:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHJxNWQyaWZpV1l0eVM2TXhZREhwc1FMaUs1TWlESUZTOV85NlNWWUdibXRyd0ppZVBIOEdsYkxYNGxkT2o0REtZaDc5enpwUzRjTFlmZmVRR0kxSzNUM2ZNZ05sNzFZc2tLUVpFZW04aF9XRTA4LVlabzNWWFJQR1NYbTV5WDlIX1hyRFhFRC1fdU9WZlNvd3lLdjYxRFFpX2pYemxVTV9jSVAwMEpQSNIBtgFBVV95cUxPY3ZtbTg1d25LZWlUODhtdVE2SHRxUFdqVEpFMm1wN3dxQUhfeE4zR3JCU3hmdWdaNWdpTFJEejdyLXRIdWt2SThMSXFvOHlwV1FqZVFiMnpicDIxbWRqa1NRYmdzVEFPWGhkLWRxY05razZISWxwcFlmMWJ6YWpaUGxNRVBDV3FqVm1jZkU1M2djSkRiMllJZGRnSlBLS1JDWEtfUjlYSXJCY01lLXRZbHBlS1lFQQ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "no-tricks-but-no-treats-either-in-pre-halloween-trading-2026-10-30",
-      "title": "No tricks — but no treats, either — in pre-Halloween trading",
-      "summary": "&nbsp;&nbsp; Farm Progress",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Farm Progress",
-      "publishedAt": "2026-10-30T07:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
-      "sourceHome": "https://www.farmprogress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "maize-price-3255-2026-10-30",
-      "title": "Maize price: క్వింటాల్ రూ.3255 పలికిన మక్కలు",
-      "summary": "&nbsp;&nbsp; Vaartha Telugu",
-      "crop": "Maize",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Vaartha Telugu",
-      "publishedAt": "2026-10-30T06:25:40.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DaDFvZUZRNnZ4d0JGaWhUZVY1SkNTQ3FLY3JxOXdRb0RCWE5GQld1RG80OTJDWFF5anRZeHE3NUY2aHVOZlFORGRhamFkdUFOQ0dTZmZXTkM1dFppS003MFdVOUVYUDV6cFZRQ1VRaXllbDBOWms4MHNEVmLSAXxBVV95cUxPQ2gxb2VGUTZ2eHdCRmloVGVWNUpDU0NxS2NycTl3UW9EQlhORkJXdURvNDkyQ1hReWp0WXhxNzVGNmh1TmZRTkRkYWphZHVBTkNHU2ZmV05DNXRaaUtNNzBXVTlFWFA1enBWUUNVUWl5ZWwwTlprODBzRFZi?oc=5",
-      "sourceHome": "https://vaartha.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
