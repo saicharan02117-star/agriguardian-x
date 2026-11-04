@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T07:03:44.130Z",
+  "generatedAt": "2026-11-04T06:47:33.606Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
       "id": "2026-11-03",
-      "title": "తెలంగాణలో మారుతున్న పంటల సాగు.. టాప్‌లో నల్లగొండ!",
+      "title": "ఆమనగల్లు వ్యవసాయ మార్కెట్‌లో పందుల స్వైరవిహారం.. రైతులకు తప్పని ఇబ్బందులు!",
       "summary": "&nbsp;&nbsp; Disha daily",
       "crop": "All",
-      "type": "scheme",
+      "type": "market",
       "regions": [
         "telangana",
         "south",
@@ -17,9 +17,27 @@
       ],
       "language": "te",
       "source": "Disha daily",
-      "publishedAt": "2026-11-03T02:38:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVJ4TVB2eTZfd0xIRW01MEFZM3pQMUVhZGFVN0JrelE4ZW5DMlg0Z3V6YzJlY1p3WVc0N1NOdGZYbUxQUUZsd2pEWmlqbjdYVmYycWg5Z2xuYnRYRUIyUUdSaE5STXFQYmtSR2tNS0VsNWdQZ3pUMWNvMWNHSzN0bUk3d0d5WjB4YWd5S0x3QldKQS1INERISjBzdzNLLWRV?oc=5",
+      "publishedAt": "2026-11-03T11:47:51.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSGs1a2RQa182NzZyOEEzQWtRSlF3eFVyOERLUEF1TXNiVWJWOGJDd2V0ZTNRbUJ2aG9KWTBtdUFLd0ZWR2pZYkRVRXJ0akdKR0hLT3lsRUZaUDZKMWU4d1BzR2hGSHVhV3FuSFlFNnpGQXI3MEQzT0M4MFdRNkVVdWtsREFCdkZBTXllaUJWbFN1VkNFdmw4dUYwQlV2d0RHV3htQTE2LWtkQWZKWGh6d1ZpYlpqakxNd3ZKYjNmMlM0NjFQV29LWjNsQ0c0Z2RBM3d4YWkxWjdtWEZtUzJwRlFn?oc=5",
       "sourceHome": "https://www.dishadaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "no-water-to-sow-no-respite-at-the-grocery-store-india-s-prolonged-food-i",
+      "title": "No water to sow, no respite at the grocery store: India's prolonged food inflation worry",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-03T06:38:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOREtwandZTDJ0a0ZienJ6VFB3UXRYay1uT0FQNmZ0ZXdNUFVZWVotS1d0Y3dFOXdLOTNCZG9nUHE3LVZlZklpZlBaQXVFWURBRU1fOUJLZ2JMeVZUbkctdlhfSUdTbGRMbDZCSmVhVGV0Y1dOMDdSbDNzZFlDTUxRRmgyV0NQZzRvdDRZa3BOZ3BlS2tzcGRvSFZZRkxNX085c0c1WkEzRVc1NjlVb2N3S0xLd21jcG1WQ2doTzE5cFF5QXJHanpTdHZPcHVHcV9qTHA3NTZZamlTbXJabzYxTG9EZ3JIcjNNNXFjdXhERU9BNEl5bnk0djhld9IB-wFBVV95cUxOREtwandZTDJ0a0ZienJ6VFB3UXRYay1uT0FQNmZ0ZXdNUFVZWVotS1d0Y3dFOXdLOTNCZG9nUHE3LVZlZklpZlBaQXVFWURBRU1fOUJLZ2JMeVZUbkctdlhfSUdTbGRMbDZCSmVhVGV0Y1dOMDdSbDNzZFlDTUxRRmgyV0NQZzRvdDRZa3BOZ3BlS2tzcGRvSFZZRkxNX085c0c1WkEzRVc1NjlVb2N3S0xLd21jcG1WQ2doTzE5cFF5QXJHanpTdHZPcHVHcV9qTHA3NTZZamlTbXJabzYxTG9EZ3JIcjNNNXFjdXhERU9BNEl5bnk0djhldw?oc=5",
+      "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -96,6 +114,25 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "3-4-5-2026-11-02",
+      "title": "తెలంగాణపై 'మురసు' తుఫాన్ పంజా.. నవంబర్ 3, 4, 5 తేదీల్లో భారీ నుంచి అతి భారీ వర్షాలు",
+      "summary": "&nbsp;&nbsp; Disha daily",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Disha daily",
+      "publishedAt": "2026-11-02T03:18:01.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczRMQW1tZ2piRkJOVVp5d2psVE12dVp5Z3FyNDgxTFJBVmlKTXZjRUZacFJTWTE4TmM2TEdYeDdNMXU3QnI3Y2d6N1pPTFE5cDJGQlFoSGQtTjRKamRwSl9iZ0NRMEdMQnJOQTd3dmtDVi04ZDItRGtjWVRjaVd0eW5JUV84WkdxdDZ6eHE5djRTYVY4RXRRcEh3OGRrQ0xPOFVqbFI1NA?oc=5",
+      "sourceHome": "https://www.dishadaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "cyclone-murasu-paddy-farmers-in-telangana-fear-crop-damage-amid-high-mar",
       "title": "Cyclone Murasu | Paddy farmers in Telangana fear crop damage amid high market prices",
       "summary": "&nbsp;&nbsp; The Hindu",
@@ -130,191 +167,6 @@
       "publishedAt": "2026-11-01T13:00:21.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1fYWR0bnBmT1ZmSkVYOW5MX0FwU2ZqWmN4eXZFWTFuczdwUTlRLUxrbXpwSm9lU05QQVpURVJZS0RybHFzZEtZYVBYamVsVXFVMGZWRkEzRXd4dWpSZS1IbS1TR0VSTWlpeS1jX0FybENVYkFQTkZkUDFOQmgyNnp6NVQ4UDVNWG14VGlpSmtDbzJWLWk0QmlwcW5ZYzJVZ0M3N3FWbHotTjRERDRwWG9jUHFBV1Jz?oc=5",
       "sourceHome": "https://menafn.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-10-2026-11-01",
-      "title": "Telangana: రాత్రికి రాత్రే పొలంలోని 10 క్వింటాళ్ళ పత్తిని తెంపుకెళ్లిన దొంగలు",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-01T08:12:08.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0lKZVo1YXRocmJDU01CN0xtc1pEbmtSWV9NWGhYTFNPSGVJZGxLQ3d3cjFRenVtU0RkZEk5LWhfZU9qZ3Vmb2FfSmY3enVRQ3g2WlFubTZLSlRvbldrR0JIZkltYVNsRm1hSk5uVHJ2RXdFSmtzNE9WWlZrSk83cE92RDR5RE5Fbk05LXNTSGVZR3YxRm13RlNFd21Gb214WnItX3Z0UWxDNzJ5ZnFhRmtXNmNxNEFpanfSAboBQVVfeXFMTUNJSmVaNWF0aHJiQ1NNQjdMbXNaRG5rUllfTVhoWExTT0hlSWRsS0N3d3IxUXp1bVNEZGRJOS1oX2VPamd1Zm9hX0pmN3p1UUN4NlpRbm02S0pUb25Xa0dCSGZJbWFTbEZtYUpOblRydkV3RUprczRPVlpWa0pPN3BPdkQ0eURORW5NOS1zU0hlWUd2MUZtd0ZTRXdtRm9teFpyLV92dFFsQzcyeWZxYUZrVzZjcTRBaWp3?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "no-crop-holiday-opposition-misleading-farmers-says-minister-thummala-nag",
-      "title": "No crop holiday; Opposition misleading farmers, says Minister Thummala Nageswara Rao",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-11-01T02:55:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVGRLN09Idi1URGl5UWIwdER3MThtYVItWVBMVnJqRVJZMktXUlV2am9YZHBjZnF4NmxCV01iN3ZMUXF5MGp2akQzM242aDg2Z21RbVNaY3RHR3FrRFZSdGZNaHgwT3Z4RGZvcDE5UWlTdnBxWE5YWGJQVnRRTGFJWVowNWhfdUx4MF8yWk54OEpTcW43V19IUjQ4WDRBNzhMUTFJNGo5Yk5SMjZ0SWFTNTlvNExUOURaMEt6Z1QyOHkyREY1cG5LN1Z4UHZtZlVZUFFIdG1KZTA3MTlTQlloOUhINTBFc0d6aWfSAeoBQVVfeXFMTlRkSzdPSHYtVERpeVFiMHREdzE4bWFSLVlQTFZyakVSWTJLV1JVdmpvWGRwY2ZxeDZsQldNYjd2TFFxeTBqdmpEMzNuNmg4NmdtUW1TWmN0R0dxa0RWUnRmTWh4ME92eERmb3AxOVFpU3ZwcVhOWFhiUFZ0UUxhSVlaMDVoX3VMeDBfMlpOeDhKU3FuN1dfSFI0OFg0QTc4TFExSTRqOWJOUjI2dElhUzU5bzRMVDlEWjBLemdUMjh5MkRGNXBuSzdWeFB2bWZVWVBRSHRtSmUwNzE5U0JZaDlISDUwRXNHemln?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "suryapet-2-40-2026-10-31",
-      "title": "Suryapet: బీర సాగుతో రూ.2.40 లక్షల లాభం సాధించిన సూర్యాపేట రైతు",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-10-31T13:56:41.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGg2OWNFd0tobS03XzJhQ3ktQlBBN3JLcHpLSU5TWVdqWWlRWFNCcHBlRlVQeG1PNUdWVS1kZVpmcWxqMlhDczJLVFhoekZXeU9sYVh0U3JjTHhodU9aeWdQLVhybi15R0tpWFJxWlF3UE5OOUtRb2NSdkVmcVB0TjFRQUR0LUVqTWFmem5xOEdkUldYeVBXaWpsbkhfa0c1NW13cFRyMkhZV1FoN3I3Y05YTXd4aVVTLXc?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pioxazon-2026-10-31",
-      "title": "Pioxazon : రైతుల కోసం పై ఇండస్ట్రీస్‌ నుంచి ‘పియోక్సాజోన్‌’ విడుదల",
-      "summary": "&nbsp;&nbsp; Vaartha Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Vaartha Telugu",
-      "publishedAt": "2026-10-31T13:40:48.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXMyQlpGZWF6SnEtNVJKZTFEU3pERFIxRDFnbnFhNW1jQjhaVS1feVRZMUJvNGlMMUdPMEt6cHBaRFd5MkU3SmRLeG14SjBjYXhQVHhLWHlTTVFpUlhtNnh4OU5OUXI4RFdRXzdEczY2RWpteVRiT2hvUmVNbmJ6ZkF0TS1iWHJuYWRIakZPM3LSAZABQVVfeXFMUHFzMkJaRmVhekpxLTVSSmUxRFN6RERSMUQxZ25xYTVtY0I4WlUtX3lUWTFCbzRpTDFHTzBLenBwWkRXeTJFN0pkS3hteEowY2F4UFR4S1h5U01RaVJYbTZ4eDlOTlFyOERXUV83RHM2NkVqbXlUYk9ob1JlTW5iemZBdE0tYlhybmFkSGpGTzNy?oc=5",
-      "sourceHome": "https://vaartha.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "top-10-best-agritech-startups-in-india-in-2027-2026-10-31",
-      "title": "Top 10 Best Agritech Startups In India In 2027",
-      "summary": "&nbsp;&nbsp; Inventiva",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Inventiva",
-      "publishedAt": "2026-10-31T12:44:01.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZwZ1RCcFhsYTJBd2FrSjZRa1BVWXpLcmNyN1VfM0puVi1jY1FzZThLS0VRVW9fRVBrOENpVGVwREhKX19QYzlNUGlfdFQ2d0piczF3enhYNG5iQkxfbnZCOFRfYXVaTUJNNFpyMkNPTW1WMVQ3bV9weVdKbXRIQzR3NkRKaHpvRlE?oc=5",
-      "sourceHome": "https://www.inventiva.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "top-10-best-agritech-companies-in-india-in-2027-2026-10-31",
-      "title": "Top 10 Best Agritech Companies In India In 2027",
-      "summary": "&nbsp;&nbsp; Inventiva",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Inventiva",
-      "publishedAt": "2026-10-31T12:27:41.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemVZdWk3NTZuY1E2UkVhVFNMSnJjUjNTdGdqNXluWFJOZEY4RWJ5QXg5Vkk2Z1RNQ19lbkdHVUphUlRUMmNRWXVyamRNUmhQSUphanlqNFEySm1FSVdWNmNtV2RDZzE2ei03WmlfOVk0UjZDa1ZMVmJyQlphSDNfVHNhM1VoTVhOZk1B?oc=5",
-      "sourceHome": "https://www.inventiva.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "why-brazilian-politics-just-stole-the-show-from-global-grain-markets-202",
-      "title": "Why Brazilian Politics Just Stole The Show From Global Grain Markets",
-      "summary": "&nbsp;&nbsp; ИФЗ РАН",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "ИФЗ РАН",
-      "publishedAt": "2026-10-31T11:54:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3VQenRCaHdHZmJGQzZqU1U2T0t6REFEaThPQ1VPaC1BbGhSMG83OWQ5VmdtQXJGZlRFblhQcURNa1ZZU0VuVkpJUlhmZ0pLajZJTVJ5aEV3WkM0MXVvNlE0c2t2cGhMVDZvdnNPR0dXNHozbWIxSm9ocnRBQWNReA?oc=5",
-      "sourceHome": "https://geosirius.ifz.ru",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-on-alert-over-possible-el-nino-impact-farmers-interests-will-be-p",
-      "title": "Centre on alert over possible El Nino impact; farmers’ interests will be protected: Shivraj Singh Chouhan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-10-31T09:08:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVcxbWRTMnAtUS1KY1FlZ1BsVEMzMy1qZzFvVmlNcWVESmJ5cjktSGFvV3VuZUR5Z2Mtb05OVFM2WGhvdGVUM0EzWmZSMktFS2FldEVDV0h4WnJxX1FyWW10bXloeTZnWTdaY0NTQ0t4ejJxLVpTZnN3M1Zkemhyd1dnRUJoSHhaRXpXVGdZZzNLbm16c211ZkxweXNTZDRvc0hydUt4UHJsV1hfWF9GSVk0bEtJMWdGTU9lbTBqYnNLcExsVXBZ?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pessl-to-install-15-000-smart-weather-stations-in-kenya-2026-10-31",
-      "title": "Pessl to install 15,000 smart weather stations in Kenya",
-      "summary": "&nbsp;&nbsp; Sacco Review",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Sacco Review",
-      "publishedAt": "2026-10-31T08:22:27.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmRYb3lyczU5Mlo4cHBRSGl4MnVuTnlCT1JBNi04dFd2YVNDeUJXSzVsTnNLLUx6TjZPWl83OTR5aXpGZkV6M1A4c1RVMVh5dGFiczd0V1ZzdzFfMnhPRlNGSlNETHd3VkF5XzFza3d6NW5KLXdaMkFuSFgyWW56UzBwNWZwbjgz?oc=5",
-      "sourceHome": "https://saccoreview.co.ke",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-farmers-preference-for-veggies-spices-over-paddy-continues-in-",
-      "title": "Telangana farmers’ preference for veggies, spices over paddy continues in Yasangi 2026",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-10-31T08:02:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTdIB7wFBVV95cUxQMDFNLWlmam9RUFktUVc3MVFkWEFZLTd6a1RjeHNRYWE1SVFFd3J2QzVOTnBET1VzdktNMTJUZkY4MkRoUWtJYm9rMVhNdGtZZnVDRmxpWmN6c2pZZ1RpZE9qcHhhc1ZoY2FvT0MwQzk5dHA4bGNHbkh5bmRZWWtkSnVqRlp1Z09EUDAzQW03cU40Wk5ucldLWi1xbklvdmxiOWJzN19jUFlMZVA1dHdJcGhweFFJbmtxb3kwVVBhdVB3UnRDdEFrblN2Tmk0VlRtaF9FM2NUOVZWYUNxSkJVQ1NCakVHdVNEQmljbGZwTQ?oc=5",
-      "sourceHome": "https://www.thehindu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
