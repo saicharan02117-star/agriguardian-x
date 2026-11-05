@@ -1,13 +1,143 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T06:47:33.606Z",
+  "generatedAt": "2026-11-05T07:08:00.070Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "2026-11-03",
-      "title": "ఆమనగల్లు వ్యవసాయ మార్కెట్‌లో పందుల స్వైరవిహారం.. రైతులకు తప్పని ఇబ్బందులు!",
-      "summary": "&nbsp;&nbsp; Disha daily",
+      "id": "out-of-the-box-hyderabad-agritech-revolution-rooted-in-the-ground-2026-1",
+      "title": "Out-of-the-box Hyderabad: Agritech revolution rooted in the ground",
+      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-05T00:30:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmM0eFd0YVdST2F6bXFMNnVmZ2Q4VGxCMVpMX1ZnVlQ1aHdkLVZUNVZXam9CZFM1bFdOYzJVX1ItOGZxTlBVQjFQRUljT2R3MElRMjRrUk1Ea3VGeWEwLUJMXzFZcXg2SUlNaUtfZFNaVExGWmRYTjlFZGlySi1leGt2X1lTNmFoTTBWLVdYT05yUzdySmJ3VmtPSTNPQ3lfbU1LalpRSzZGV29QVU41ZFFzQ2t2T0dta21vWHloOFJKRlNTeEHSAdMBQVVfeXFMUEZlMVhmZFJQbjlFRG9YTFZjMWlEb0sxVXh6bWkzVnhsUUVrTnlWX0daUWM2c2NNQk5RUV9EYnV2bWE3MFR1a0gtQWo0UU9fVEdPNkFhRlhSUzVPUXp2YmYydmFiNmdqNDktTkFhdWp6b0l3N0JMdkJTbGU3Z1JyU0dYaVNQV2JFTGw3eGtGS1I2V21zd3pqVng4c2dBbEh5d3NpcDJXUGptZEhoaGFPWDZMeE9saVl5TmFiRVNvX2t1eTBXckdkb2ZHS2VzVmF1NkZTVQ?oc=5",
+      "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "punjab-needs-a-data-revolution-2026-11-04",
+      "title": "Punjab needs a data revolution",
+      "summary": "&nbsp;&nbsp; The Tribune",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Tribune",
+      "publishedAt": "2026-11-04T19:31:45.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pMTNQMlUyaE1XcHlmckU0dkYyVWc1MENzS01GNzktbzgxcWo4aWJMSU1YWUpYa1V3dUxsN2RFcWNrWUI2VXVBbzFyR2t2alV4OGVVYUVaY1E0Q2l2dmZDZnFlcGpKTGhKRURoNGhkWnlMQVRHMnVfRVJRNHJnQdIBggFBVV95cUxOZG9GVjJlcGRGRzZ3S19ERnlIaVJOd1hDZGlySVJvbGppUjRIY2VTeW9pUXZ1dTZtX294REVnVlpBRXZSdnlVb21Pakp3RVpwYXU1VWdSc281cjN0VVZDV3gzc29mc01JOFAweU4tc25maWxPUmtSU3lvM2hiZHlIeWdB?oc=5",
+      "sourceHome": "https://www.tribuneindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "heat-reshaping-india-s-food-economy-as-el-nin-o-strengthens-drought-in-s",
+      "title": "Heat reshaping India’s food economy as El Niño strengthens; drought in six states stresses farm outlook",
+      "summary": "&nbsp;&nbsp; The Statesman",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Statesman",
+      "publishedAt": "2026-11-04T16:55:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2pzU1pkSmpLY3pZTjNPY1pQc1FBdGh0cW1sTDhONkRzWmpLd0I5dnBTSk9kREJmSWsyOXl5Q1pQRDEtX3VMMFFFeVNQMlVqRU8yZ3Z4QnY2XzE1cVpZTVBybHppazlfUzNLWWRMa2tGejBqMzVnZkFNQ1NQUlBhczFhWE1aUFdNVnRyS2Y2aTh2dnBtelhjeG5rV2lsZUstcWFHbmJaZTNqeWM3YVVZdGhZU3BzYXVMMUlHQ1dVOWpzRk9nWlF2LTdsZzhEM3hPZ2U3RTVBVWx4TVY3ZFhsZ2VzREI3dmw4SGUtedIB7AFBVV95cUxOa2pzU1pkSmpLY3pZTjNPY1pQc1FBdGh0cW1sTDhONkRzWmpLd0I5dnBTSk9kREJmSWsyOXl5Q1pQRDEtX3VMMFFFeVNQMlVqRU8yZ3Z4QnY2XzE1cVpZTVBybHppazlfUzNLWWRMa2tGejBqMzVnZkFNQ1NQUlBhczFhWE1aUFdNVnRyS2Y2aTh2dnBtelhjeG5rV2lsZUstcWFHbmJaZTNqeWM3YVVZdGhZU3BzYXVMMUlHQ1dVOWpzRk9nWlF2LTdsZzhEM3hPZ2U3RTVBVWx4TVY3ZFhsZ2VzREI3dmw4SGUteQ?oc=5",
+      "sourceHome": "https://www.thestatesman.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-04",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-04T15:38:29.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-04",
+      "title": "సీఎం సొంతూరిలో మెగా రైతు మేళా..",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-11-04T12:12:16.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lmeDhpaWR3WW1meUFDWWlQb3JDTFpLN3ZuWE1GVHF1V1ljblAxQ0RrQTk1LXA1cHBIUFI0N3ItZ25waXVBcDFubEYzdWI3anZ0TTFGMlJlbDlkOXd4ZGtDMF9LRVNJRzVMeW5SNndncDlSUk56TVBObTEwQW51bzFPZHdocFlEaUM2TWNtd2dza2ZBYlVYVFlhTGF6RFhZSFlfeU5JbVJudw?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "ai-for-food-security-what-nigeria-and-south-africa-need-for-sustainable-",
+      "title": "AI for Food Security: What Nigeria and South Africa Need for Sustainable Farming",
+      "summary": "&nbsp;&nbsp; Devdiscourse",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-11-04T10:18:40.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0VPcVdhMVRTTThZaWpGMFM2SGtZS0d4VkIxX2o4LU5ESlBzSDhGSG9pYXpURHFVeDFkQU9KcnpJeEFTOWpEaTByVVdnOEg3TkgzaFBDNUJwdkhuWjlFZUp3R2pxR1owcFBPTEFwTDFTS29RbXJYRjRjemVhaU1IZmtCMVkzbWtMZC1rVjQ0b3ZFQlhQalk0dTQ2RWVqNHhEdzl3bkpKazh1TDJGY09tdFhLV3pucWF0enRDUTdTX0lnbmpBUndnWDdEalFUTWRaVURV0gHTAUFVX3lxTE9jRU9xV2ExVFNNOFlpakYwUzZIa1lLR3hWQjFfajgtTkRKUHNIOEZIb2lhelREcVV4MWRBT0pyekl4QVM5akRpMHJVV2c4SDdOSDNoUEM1QnB2SG5aOUVlSndHanFHWjBwUE9MQXBMMVNLb1FtclhGNGN6ZWFpTUhma0IxWTNta0xkLWtWNDRvdkVCWFBqWTR1NDZFZWo0eER3OXduSkprOHVMMkZjT210WEtXem5xYXR6dENRN1NfSWduakFSd2dYN0RqUVRNZFpVRFU?oc=5",
+      "sourceHome": "https://www.devdiscourse.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "turmeric-market-firms-on-crop-uncertainty-and-tight-indian-supply-2026-1",
+      "title": "Turmeric Market Firms on Crop Uncertainty and Tight Indian Supply",
+      "summary": "&nbsp;&nbsp; CMB News",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "CMB News",
+      "publishedAt": "2026-11-04T07:09:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzUzeHhIbVpsaVV2Q2RfSFNLb0pFYk1zLTBGcFkxRUF2MlBwdXFVV0lQUExQVzN6ZVVhUTIyeUJacG1PUUpDTV9MbUJScWZKckVBVWJBZWJSUWpkNGRpMEd4T1lBTlNvOVlzU0thOGM5TGVFcmdGY1JzRVVrWXViN2FydWFFUDdEdjVtWU9SS1hCX2taRVVoWA?oc=5",
+      "sourceHome": "https://commodity-board.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "biggest-onion-market-2026-11-03",
+      "title": "Biggest Onion Market: ఆసియాలోనే అతిపెద్ద ఉల్లి మార్కెట్ మన దేశంలోనే.. ప్రత్యేకత తెలిస్తే...",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
       "crop": "All",
       "type": "market",
       "regions": [
@@ -16,10 +146,67 @@
         "india"
       ],
       "language": "te",
-      "source": "Disha daily",
-      "publishedAt": "2026-11-03T11:47:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSGs1a2RQa182NzZyOEEzQWtRSlF3eFVyOERLUEF1TXNiVWJWOGJDd2V0ZTNRbUJ2aG9KWTBtdUFLd0ZWR2pZYkRVRXJ0akdKR0hLT3lsRUZaUDZKMWU4d1BzR2hGSHVhV3FuSFlFNnpGQXI3MEQzT0M4MFdRNkVVdWtsREFCdkZBTXllaUJWbFN1VkNFdmw4dUYwQlV2d0RHV3htQTE2LWtkQWZKWGh6d1ZpYlpqakxNd3ZKYjNmMlM0NjFQV29LWjNsQ0c0Z2RBM3d4YWkxWjdtWEZtUzJwRlFn?oc=5",
-      "sourceHome": "https://www.dishadaily.com",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-03T15:48:35.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb0N5SGdwekhmcUIyRHlWNWRFTVdPaWZZNE1leFFnYXlaS3B6ZDFBd3p2QWxsSmtQbW1QYm5xY204bjg2LVZ0dGg4LUxIejhRaGZ1S2pYTGtDTU9nelE1SjJYdDVob3Rsb0drRnc1Ulo3Q0JMd0YyOF9udmFTX3ZJbURxd1BDNG9Pb2ZGeGtFb0VYZC1aeUFPMk5SZTQtUEpOWk9iNTB1bDlIc20wM0I3QWdzMkJDemRTVFU1ZjVR0gG-AUFVX3lxTFBvQ3lIZ3B6SGZxQjJEeVY1ZEVNV09pZlk0TWV4UWdheVpLcHpkMUF3enZBbGxKa1BtbVBibnFjbThuODYtVnR0aDgtTEh6OFFoZnVLalhMa0NNT2d6UTVKMlh0NWhvdGxvR2tGdzVSWjdDQkx3RjI4X252YVNfdkltRHF3UEM0b09vZkZ4a0VvRVhkLVp5QU8yTlJlNC1QSk5aT2I1MHVsOUhzbTAzQjdBZ3MyQkN6ZFNUVTVmNVE?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cyclonic-storm-murasu-2026-11-03",
+      "title": "Cyclonic Storm Murasu : పంట కోతలను తాత్కాలికంగా వాయిదా వేసుకోండి – మంత్రి తుమ్మల",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-11-03T12:43:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaTdSMEo5bURaSzdWcVRKdW95VTdSN3drT1NWZnNRNE93MnI2dDA4ZHJPcDRxQXpneGgwdHF6R1ZZWG11U29vc1d5ZktxV2hzS1lpUU9PV0gwZTN5MThjV3kyYmpoUDJHRWd2WjBOcXEyVDhDc3QxejhUM0ttVXBWSnQ2dE5DU3FUSTNzUmx4eVBvdm5TTXfSAZsBQVVfeXFMUGh5dkJSQlFPazNxYm0tVmxEUmJ5Z1JyV2V1aFZNOUZ3bGxHRnF1UFo3enQ2VmlSRHd2U3Npd2Zad21SNXpPRURvRDdvekdlSHlOYXNZS1hHQWtpSGlISldkb3huQ25LSUptQkpwZ3FOcHBnNEI5bXJ5aGJBTl8tVTBteEU0UDNDdUp5SXd4VHVSdlVPUkx4ZHpFOEU?oc=5",
+      "sourceHome": "https://vaartha.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "tractor-sales-2026-11-03",
+      "title": "Tractor Sales: ఒక్క ఏడాదిలో లక్ష ట్రాక్టర్లు అమ్మిన కంపెనీ",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-11-03T11:44:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZERsczlaR1dLYnZseGYyN0NsUzlWMUN0OE10RWFValdub3BGNmp5U3dONTczT3FPU1V2STh4ckdRVlNKekJNbzNHQmJXa3U0UC15dUhoQmVjUXlSSWdLaUJtX0pRZ3BWRVlSc1RGMFJjUWx1MnVaNE12bmRHaG9zalhzQl9INnBmNzdOb1o3VGZRSzdjVmtHM1VkOG9oMjdtOThtcHdQNWxtbm5Sa0hPaVFjemQ3WldaWFFyWk9NeEtGRng1Nl9JSEFuWlZ0RTVzV2dXTVQyNFJWWHJXcUx6QXc3RkNVSXc5bFFHcmR6a1lSYnp2S3FWSjR3?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "sircilla-2026-11-03",
+      "title": "Sircilla: ప్రత్యామ్నాయ పంటల సాగుకు ప్రాధాన్యత ఇవ్వాలి: కలెక్టర్!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-03T10:57:57.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1pCTnNWMmRMQkF5RWFOc2dTYkFrQXZGWEF1ai1rTElwVUxSNkRiYW9SSjF1SUN3N09YMmQ0TE5GTi1CanhTUWJRRXJLaXQySXlwdExTd09oZnRKMTlwSFI1UjhzUldmSEdPQkVoS0wxdEFtWENnbG15RDBNMWYwV1hsaHR5ZkVvNEUxaEJzQ0t0MlNvb3ZpeFJSd0twWURHeWQxNG5idldiYVZSOXBnQXcybF81b1FBNWV6ekpiWEJWbkE?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -37,40 +224,6 @@
       "source": "The Economic Times",
       "publishedAt": "2026-11-03T06:38:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOREtwandZTDJ0a0ZienJ6VFB3UXRYay1uT0FQNmZ0ZXdNUFVZWVotS1d0Y3dFOXdLOTNCZG9nUHE3LVZlZklpZlBaQXVFWURBRU1fOUJLZ2JMeVZUbkctdlhfSUdTbGRMbDZCSmVhVGV0Y1dOMDdSbDNzZFlDTUxRRmgyV0NQZzRvdDRZa3BOZ3BlS2tzcGRvSFZZRkxNX085c0c1WkEzRVc1NjlVb2N3S0xLd21jcG1WQ2doTzE5cFF5QXJHanpTdHZPcHVHcV9qTHA3NTZZamlTbXJabzYxTG9EZ3JIcjNNNXFjdXhERU9BNEl5bnk0djhld9IB-wFBVV95cUxOREtwandZTDJ0a0ZienJ6VFB3UXRYay1uT0FQNmZ0ZXdNUFVZWVotS1d0Y3dFOXdLOTNCZG9nUHE3LVZlZklpZlBaQXVFWURBRU1fOUJLZ2JMeVZUbkctdlhfSUdTbGRMbDZCSmVhVGV0Y1dOMDdSbDNzZFlDTUxRRmgyV0NQZzRvdDRZa3BOZ3BlS2tzcGRvSFZZRkxNX085c0c1WkEzRVc1NjlVb2N3S0xLd21jcG1WQ2doTzE5cFF5QXJHanpTdHZPcHVHcV9qTHA3NTZZamlTbXJabzYxTG9EZ3JIcjNNNXFjdXhERU9BNEl5bnk0djhldw?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-02",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-02T19:46:20.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "govt-set-to-tweak-msp-norms-for-periodic-price-hikes-of-minor-forest-pro",
-      "title": "Govt set to tweak MSP norms for periodic price hikes of minor forest products",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T18:47:30.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONlNmaFdhcmZDVGtyMEhIUXdQUDBzUGNYRkN3RjJkOVFQeFBPSk5pTVBpOUpwbDNzUFBZTUFtcHR2QW9NRUswellJd3VGWDdsUFVRMFBMNTdNRkJnUjVFbHZUMVJKZ2RMMFlBVDl5M2dNdjRLNUJrT2VtX2J4V2Y2ZkY1a3dKZVdEX0Q0SDMtUXNvak9odS1BNzB5NG83dENjTldHNGF6SGppb3liUjN6c0NpWUh3T2VGelRYZGNyTFNLUF9pbDB4bDgwNktIZkhEQXBMOGo0YkNoV1pQVXNCQXJiejJ4NFZRdHpwedIB8gFBVV95cUxQRVBvODlJZ19heTJYSkxDNXFTMTdlX0NJZkt1ZHByVEM1b3FCRjBnUTgzOHo0R1dmSkpHVDJtOS1CdEF6ZXBqYWhfYks5SzJPdXpEa2dIa2Y0c2Nka01wR21vdmhjX04xVkdiZldmcHl2ZnZfTWc4ZWFMcER3VmRheENYTUY3RGlJdW14STdEWTF3elJwU3pqRTNjYlpLRk1sTUx4VEVQZVZKTXdZVVpuYktJXy1ub1h3anRGOFkxejNXVV9pV3hqM1BVNk1hT085QnN1b1RFcTBPSFhuWEJybWx1bU45VEZBQjAtLTdZMXNyQQ?oc=5",
       "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -114,59 +267,21 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "3-4-5-2026-11-02",
-      "title": "తెలంగాణపై 'మురసు' తుఫాన్ పంజా.. నవంబర్ 3, 4, 5 తేదీల్లో భారీ నుంచి అతి భారీ వర్షాలు",
-      "summary": "&nbsp;&nbsp; Disha daily",
+      "id": "ankapur-farmers-2026-11-02",
+      "title": "Ankapur Farmers: ఎల్‌నినో ఎఫెక్ట్‌ను తట్టుకుని వ్యవసాయంలో అద్భుతాలు సృష్టిస్తున్న అంకాపూర్ రైతులు",
+      "summary": "&nbsp;&nbsp; HMTV",
       "crop": "All",
-      "type": "weather",
+      "type": "scheme",
       "regions": [
         "telangana",
         "south",
         "india"
       ],
       "language": "te",
-      "source": "Disha daily",
-      "publishedAt": "2026-11-02T03:18:01.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczRMQW1tZ2piRkJOVVp5d2psVE12dVp5Z3FyNDgxTFJBVmlKTXZjRUZacFJTWTE4TmM2TEdYeDdNMXU3QnI3Y2d6N1pPTFE5cDJGQlFoSGQtTjRKamRwSl9iZ0NRMEdMQnJOQTd3dmtDVi04ZDItRGtjWVRjaVd0eW5JUV84WkdxdDZ6eHE5djRTYVY4RXRRcEh3OGRrQ0xPOFVqbFI1NA?oc=5",
-      "sourceHome": "https://www.dishadaily.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "cyclone-murasu-paddy-farmers-in-telangana-fear-crop-damage-amid-high-mar",
-      "title": "Cyclone Murasu | Paddy farmers in Telangana fear crop damage amid high market prices",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "Paddy",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-01T15:39:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZlBNNTNaZ2lfY2VucHNVdEVaV3M2Skpndm1hMmczR3VycXc5Slljd3Y4ZXdWRXZzYnp5OXhVZHlVcmpQSktUNnZyaE5CY1ZVZ2ZoRFF3TnU3TWdkZjM5M2p5d2k3ZWpjRDkwczlxdExKS0hlZExQU2YzLUNlOHNVQ2dTYktsZDNJdzFNRjU4UkJlY2VRM2REVlpOU3E0amVNX1FIYUtHTmQ5eUNzaWpjTDRBZ3JxRDBmTXZGcXJXZ3hHeVRHa3BVMElvSW9ldUktOFdSSEU4T2JXdWNKZjhCM1NRbXo2d9IB7AFBVV95cUxOdlNCNWc0UnN4QUJ4aHNJTzEwOTJqSXRXMXJvTzFDYWc3d0RaR3g2b3AtOFZNaFZyZ2VIeWxXNU5VeFlITHRjUk83OXdfS1R4T3BmOU84Wk1aeGhGRE5TdGNFdDJJQWNHYTh0YlNFeE5SZ3lNSzNPTms4UDIwV2s5UnhDeFRNWUZxQjdMQ3RrV093MDMwb05xQzNuV2tuWURUR2VnQ19qdEhvb19Bc1lQUnJTVTgzRmgwLWhvU0lfb2JsdWFXcUc2bFBWcmpDcHhvMW1INzhWejdEMlJqNm9QT3FXLVBLcjBfYkNEcw?oc=5",
-      "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "andhra-pradesh-telangana-weather-latest-update-heavy-rain-alert-owing-to",
-      "title": "Andhra Pradesh, Telangana Weather LATEST Update: Heavy Rain Alert Owing To Cyclone Murasu",
-      "summary": "&nbsp;&nbsp; Menafn",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Menafn",
-      "publishedAt": "2026-11-01T13:00:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORC1fYWR0bnBmT1ZmSkVYOW5MX0FwU2ZqWmN4eXZFWTFuczdwUTlRLUxrbXpwSm9lU05QQVpURVJZS0RybHFzZEtZYVBYamVsVXFVMGZWRkEzRXd4dWpSZS1IbS1TR0VSTWlpeS1jX0FybENVYkFQTkZkUDFOQmgyNnp6NVQ4UDVNWG14VGlpSmtDbzJWLWk0QmlwcW5ZYzJVZ0M3N3FWbHotTjRERDRwWG9jUHFBV1Jz?oc=5",
-      "sourceHome": "https://menafn.com",
+      "source": "HMTV",
+      "publishedAt": "2026-11-02T10:50:11.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEx2cGFsSGQ3cE1sclJYVnlaUkVsSUdfR0FPejRPMEoxOHhIX3pJdmNZMkJQSGczZDh1VXBRVFVwTTdmZE5UUkxXRTBwMlNCdGc1bDI0aWZnbjA2dkpVOU1GQTFIeWxWemJuQVFlNG5zRmZNTU9RalFpeVZLcEFkY1hrNGxXSGV3WFQ5YUtzZC16VExoVmxadnlLaEpTRE1JRGlOdlhyQUZJS0lQMFZIb1dUN0ZCOHI5WmI0M2ltZ3ozUQ?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
