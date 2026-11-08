@@ -1,9 +1,66 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T06:19:50.726Z",
+  "generatedAt": "2026-11-08T06:26:09.996Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "3-189-2026-11-08",
+      "title": "పల్లె పల్లెకూ హైస్పీడ్ ఇంటర్నెట్.. రూ. 3,189 కోట్లతో తెలంగాణలో ‘డిజిటల్ విప్లవం’!",
+      "summary": "&nbsp;&nbsp; BigTvLive",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "BigTvLive",
+      "publishedAt": "2026-11-08T06:13:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkRObFZ1Q19odkE5VVYzSnFKV0dqNGxuSnNVQmQ0bFN0UXdUeGFHSTZBSVBQS0I4cS1PTjA3d2UyS1JCemZwZURnS0E5SEd2U0QyTXZaSjR5TGZ0TEFFLTJCMXdqWWVJLTdDUHVIT2EtWHkxT3paR2IzRWRGLWF5Y2t2WDVIQ1E2WUhEOThxaW5PWjRqV1hiQk9QOFF4b2kyMENQb09CbzY?oc=5",
+      "sourceHome": "https://www.bigtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "weather-alert-2026-11-08",
+      "title": "Weather Alert: ఏపీ, తెలంగాణకు బిగ్ అలెర్ట్.. ఈ ప్రాంతాల్లో ఈదురుగాలులతో కూడిన వర్షాలు..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-08T03:21:23.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkM4bEhITFl1OG1GS3p0T1hEcjJvLWtGODh2UGxmeWNjVkpXcTZvQzRfTU1vekdoQnkxczJPTmROQlhaSWtsRTBEVDVSc0hzcW5BQlBQZmdzWjVtZ0tfZDl3OUdYNFJkbG1GNUlrNzVGenREd1B0ZkVNRnRXN3hKX3VzR3R5SWZ5SmFybk5ObW1WUERiRjFfNUJTNTVDOFloNDFfY1pqc3YxblhQOV9oRTZvcldQeFFsbVVqc2VXTEp2SW9EVE1NUXlWR1REdWZUVUs2dnQ4RnZvSy01S0lCbUhvNNIB4wFBVV95cUxOTkM4bEhITFl1OG1GS3p0T1hEcjJvLWtGODh2UGxmeWNjVkpXcTZvQzRfTU1vekdoQnkxczJPTmROQlhaSWtsRTBEVDVSc0hzcW5BQlBQZmdzWjVtZ0tfZDl3OUdYNFJkbG1GNUlrNzVGenREd1B0ZkVNRnRXN3hKX3VzR3R5SWZ5SmFybk5ObW1WUERiRjFfNUJTNTVDOFloNDFfY1pqc3YxblhQOV9oRTZvcldQeFFsbVVqc2VXTEp2SW9EVE1NUXlWR1REdWZUVUs2dnQ4RnZvSy01S0lCbUhvNA?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "k-2026-11-07",
+      "title": "‘ప్రాజెక్ట్​-K’ నారాయణపేట జిల్లా రైతుల భవితను మార్చింది.. ఎల్​నినో ఉన్నా నో వర్రీ..",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-07T06:34:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnlMTkpPNjhaeVdvcXphQ3lEd1NZUHRIa2t1NE4zYmNNX2dXVGpfT2V0UzhmYzcyLXViVnBYdnQyYXprYWVSRHlHb1dsTE1KdjlFVlNIVkFBaFRTYXp2VGlUZk5NaW51Tl9tRzVTWkZyY196V1RMMl8zSF9QdklpNEVrZ3EtVkpxc3RSUDZFTC1GN1FFa3EyWlBVYjhvdlBYQ05EM1ZKeXctM0pfMk1hSThyc0tGMXlpRmV3X3ZrdHpBeS1la21XTUlWMEJCWksyejZxNNIB2gFBVV95cUxPMGd2TG5iS3JYN2xxYVAyVDhHRmJXWnVXdm1qcXBKa29xTVBaMWZoMVl6NVVKSGI3WkNkNTRoNll3aHZIT3doVC0xMDFrcUZCWWROd3h6bTR3b0lwSmUtUXlKZXZpMUJqZFVabnctREE5ckJJUGJFbUQ5Sm1uSzMtazd3Qi1fLXdVQ3ByT3JPcTEzRi01SUxjZzk3TkJrcWNmdkZmTE14bmx0Z0lBMEN3dzFBYW9OVnNhZHRGM2V0V2ZBdG5hZGZtQzN3WEJ4QklIN2ZpbGw4Q3Y3dw?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "total-area-sown-in-india-s-current-kharif-season-crosses-1-016-57-lakh-h",
       "title": "Total area sown in India’s current kharif season crosses 1,016.57 lakh hectares",
@@ -39,21 +96,19 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-06",
-      "title": "అన్నదాత సహా అందరికీ ముప్పే! - ఎల్​నినో ప్రభావంపై క్లైమేట్ ట్రెండ్స్ శ్వేతపత్రం",
-      "summary": "&nbsp;&nbsp; ETV Bharat",
-      "crop": "All",
-      "type": "scheme",
+      "id": "centre-approves-large-scale-msp-procurement-of-pulses-and-oilseeds-in-fo",
+      "title": "Centre approves large-scale MSP procurement of pulses and oilseeds in four states; Uttar Pradesh gets biggest share",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "Pulses",
+      "type": "market",
       "regions": [
-        "telangana",
-        "south",
         "india"
       ],
-      "language": "te",
-      "source": "ETV Bharat",
-      "publishedAt": "2026-11-06T14:29:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNNIBvwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNA?oc=5",
-      "sourceHome": "https://www.etvbharat.com",
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-06T18:54:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2ZLRVNreGl1NWV0MVBpOGVCNktld1VvU2I3empiRzdoRWVMc2pKcFY0ajhYSUk4dWlCeVNhMlNUSGxsbHFlRGlfMGpvTTJoRVZqODlHRmdaOVpteVYxM2FwS1RXeFRCb0FkYzQ1NVd6cWdfOFFKbTFhREs4S2xhRTRPR3Qwd1o4anJKdEpNWnhRVW81Xy1BVVBLbmNDaTRZa19DeXZSV2dTZFpzNlBMcVhBVUdzaXZ2TW1oSUpsWjhpa2FrWE5pYVNEalU4ZUdOdlVJX3hoTQ?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -88,6 +143,23 @@
       "publishedAt": "2026-11-06T12:33:06.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jOGpOaEZEb1ZRYzFiQUc0c2NUOGRKNjNsNEN0OW5OeTlPcHpaT0laNkdWdEFfbHpQbk5DaDRkOFl6TjBMZGdFU3JYWENPb002TElrcjVqMC1SOVNhV0FwZk5uX1kzeTk0cTVEajlFSGd1WjdyRUJmZQ?oc=5",
       "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-11-06T10:37:42.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -129,23 +201,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "news-received-from-haryana-state-under-the-leadership-of-c-m-sh-nayab-si",
-      "title": "NEWS RECEIVED FROM HARYANA STATE UNDER THE LEADERSHIP OF C.M.SH.NAYAB SINGH SAINI AND OTHER NEWS",
-      "summary": "&nbsp;&nbsp; :: India News Calling ::",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": ":: India News Calling ::",
-      "publishedAt": "2026-11-06T04:18:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObC1YbEtVZXhCREFSa0dUMlhDUjE2bWR1eTgxMGlJTWVqeW9RanlwenRHVHcydDJLTzhyd2lyZzlKUXp3TXZxQTFXRWpnOEVHb2VyQ3gxTFJyU0dtOTZoWTBWOTdVU29tWkN3TkQ1c3ZyWDBiVnBMeURwd1NNSEctbDZQMExpdVF5NEd5dGwwQVg0MFVGeEItWFEybHZISXZKUnRPZ002M01fNHh3RDZqbE9jZ0plU2t1cU9fUkFMY0llWjBJY0NpTmVycXdSNjlXQ0lhZWhSdUdIS2hmRUFHWi1ZWkdHbkh0MFhvczhrVXI?oc=5",
-      "sourceHome": "https://www.indianewscalling.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "cyclones-el-nino-and-india-s-food-security-are-our-farmers-prepared-2026",
       "title": "Cyclones, El Nino and India’s Food Security: Are Our Farmers Prepared?",
       "summary": "&nbsp;&nbsp; ETV Bharat",
@@ -164,36 +219,21 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "blogdescription-2026-11-05",
-      "title": "BlogDescription",
-      "summary": "&nbsp;&nbsp; pib.gov.in",
+      "id": "2026-11-06",
+      "title": "పట్టణాలపైనా కరవు నీడలు",
+      "summary": "&nbsp;&nbsp; Eenadu",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "telangana",
+        "south",
         "india"
       ],
-      "language": "en",
-      "source": "pib.gov.in",
-      "publishedAt": "2026-11-05T22:42:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidVJmQTBtQ1ZhdnFmY3pXSTlGTlVsNlRuQXAwVVprZXAweXhNdGxwUGh5TElENUF1bUVFUUNzOWhvRUo1ODdYeng4RFJMT2hibHVVSkdJQVdOR29hVnY0V1Y4RUNKUQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
-      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-05T18:34:08.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM05QUVFEeER1UkxURF9iRGtQdTJEZ2w2ODlGNFRVY1NQUzQ2bkt6R1Z4a21FUUx0MHl5WWh2eXFteXYtRWtTczZmUkFCU1czSzYwTnppRFRKU2FPTVhCZzFaUHF4cXpya3BYaFNGQzdDbWI2MFo3RC1mMGhVdkVUbUp0R1hsME9BSTB2U3dINTRzbXRZOG43YWh3UW5wLXUtQ1hlQ2hR?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
+      "language": "te",
+      "source": "Eenadu",
+      "publishedAt": "2026-11-06T00:28:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GY190WjVacUFYRkdfYmNBaHFCOXZQUGg3NmJZNm81dTcwa0lMUU00bDk3aUZ6czlxRHFVdU44YTh3TEgzdUIwOGpTdmd3OVQ0VjI3X1pyNnkwbFhzZ2VMYTU1akpiVnV6alZqRGc0Q2RETHlPdlHSAXZBVV95cUxPRmNfdFo1WnFBWEZHX2JjQWhxQjl2UFBoNzZiWTZvNXU3MGtJTFFNNGw5N2lGenM5cURxVXVOOGE4d0xIM3VCMDhqU3ZndzlUNFYyN19acjZ5MGxYc2dlTGE1NWpKYlZ1empWakRnNENkREx5T3ZR?oc=5",
+      "sourceHome": "https://www.eenadu.net",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -212,116 +252,6 @@
       "publishedAt": "2026-11-05T18:08:37.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnRlYnh5MXRqWUlJMkU1YmVBZ2prVy02UXlVZUlMV0FtZzV2TVA0TzRkSUM4OHd2Tmg4a3VfRXgzbVhBMXVOSDJCTVVkN2Z5ZGxWWXFkOTNBN0RaMUZRbU1UeW54MHdiSjM3ckg5RXEtcGpHYVFQcGp4UHVhRUJuSGh4WEQ1ajZGREhnMk9ubDIxUUtOMDduMi1n?oc=5",
       "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "green-gram-procurement-centre-opens-in-santhemarahalli-in-chamarajanagar",
-      "title": "Green gram procurement centre opens in Santhemarahalli in Chamarajanagar",
-      "summary": "&nbsp;&nbsp; The Hindu",
-      "crop": "Pulses",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hindu",
-      "publishedAt": "2026-11-05T17:26:47.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdEQ3Y1Jqbnh6LW5QSkg3d19ORjBYcWpEbVVVcGRpWlVRUzBvWjRuSk9zNVVvZHdKSkRJc1FtNFJCUTg2VW9KandhaVJvVTZDOVRGQWJnTzY4Y1l4WWR0RWdhZzdQd3UyaHBrWUJmYl9pTWI4ZS1IQS02MkFzXzVYRWI5cTFtMDVmOW1uV2sxYWRJYWZEQkVnNC1mVEs5Q3VlaEsyemJNTWdvd1h1ZWwxYk1nLWw5c1JxM0NJVmR0MVdscE1DeUxiQUdSWHg3SndSYUdfd2RPVlc5anV2djQw0gHfAUFVX3lxTE90RDdjUmpueHotblBKSDd3X05GMFhxakRtVVVwZGlaVVFTMG9aNG5KT3M1VW9kd0pKRElzUW00UkJRODZVb0pqd2FpUm9VNkM5VEZBYmdPNjhjWXhZZHRFZ2FnN1B3dTJocGtZQmZiX2lNYjhlLUhBLTYyQXNfNVhFYjlxMW0wNWY5bW5XazFhZElhZkRCRWc0LWZUSzlDdWVoSzJ6Yk1NZ293WHVlbDFiTWctbDlzUnEzQ0lWZHQxV2xwTUN5TGJBR1JYeDdKd1JhR193ZE9WVzlqdXZ2NDA?oc=5",
-      "sourceHome": "https://www.thehindu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
-      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
-      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Indian Council Of Agricultural Research",
-      "publishedAt": "2026-11-05T12:05:27.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
-      "sourceHome": "https://icar.org.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "out-of-the-box-hyderabad-agritech-revolution-rooted-in-the-ground-2026-1",
-      "title": "Out-of-the-box Hyderabad: Agritech revolution rooted in the ground",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-11-05T00:30:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmM0eFd0YVdST2F6bXFMNnVmZ2Q4VGxCMVpMX1ZnVlQ1aHdkLVZUNVZXam9CZFM1bFdOYzJVX1ItOGZxTlBVQjFQRUljT2R3MElRMjRrUk1Ea3VGeWEwLUJMXzFZcXg2SUlNaUtfZFNaVExGWmRYTjlFZGlySi1leGt2X1lTNmFoTTBWLVdYT05yUzdySmJ3VmtPSTNPQ3lfbU1LalpRSzZGV29QVU41ZFFzQ2t2T0dta21vWHloOFJKRlNTeEHSAdMBQVVfeXFMUEZlMVhmZFJQbjlFRG9YTFZjMWlEb0sxVXh6bWkzVnhsUUVrTnlWX0daUWM2c2NNQk5RUV9EYnV2bWE3MFR1a0gtQWo0UU9fVEdPNkFhRlhSUzVPUXp2YmYydmFiNmdqNDktTkFhdWp6b0l3N0JMdkJTbGU3Z1JyU0dYaVNQV2JFTGw3eGtGS1I2V21zd3pqVng4c2dBbEh5d3NpcDJXUGptZEhoaGFPWDZMeE9saVl5TmFiRVNvX2t1eTBXckdkb2ZHS2VzVmF1NkZTVQ?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "punjab-needs-a-data-revolution-2026-11-04",
-      "title": "Punjab needs a data revolution",
-      "summary": "&nbsp;&nbsp; The Tribune",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Tribune",
-      "publishedAt": "2026-11-04T19:31:45.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZG9GVjJlcGRGRzZ3S19ERnlIaVJOd1hDZGlySVJvbGppUjRIY2VTeW9pUXZ1dTZtX294REVnVlpBRXZSdnlVb21Pakp3RVpwYXU1VWdSc281cjN0VVZDV3gzc29mc01JOFAweU4tc25maWxPUmtSU3lvM2hiZHlIeWdB0gGCAUFVX3lxTE5kb0ZWMmVwZEZHNndLX0RGeUhpUk53WENkaXJJUm9samlSNEhjZVN5b2lRdnV1Nm1fb3hERWdWWkFFdlJ2eVVvbU9qSndFWnBhdTVVZ1JzbzVyM3RVVkNXeDNzb2ZzTUk4UDB5Ti1zbmZpbE9Sa1JTeW8zaGJkeUh5Z0E?oc=5",
-      "sourceHome": "https://www.tribuneindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "heat-reshaping-india-s-food-economy-as-el-nin-o-strengthens-drought-in-s",
-      "title": "Heat reshaping India’s food economy as El Niño strengthens; drought in six states stresses farm outlook",
-      "summary": "&nbsp;&nbsp; The Statesman",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Statesman",
-      "publishedAt": "2026-11-04T16:55:24.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2pzU1pkSmpLY3pZTjNPY1pQc1FBdGh0cW1sTDhONkRzWmpLd0I5dnBTSk9kREJmSWsyOXl5Q1pQRDEtX3VMMFFFeVNQMlVqRU8yZ3Z4QnY2XzE1cVpZTVBybHppazlfUzNLWWRMa2tGejBqMzVnZkFNQ1NQUlBhczFhWE1aUFdNVnRyS2Y2aTh2dnBtelhjeG5rV2lsZUstcWFHbmJaZTNqeWM3YVVZdGhZU3BzYXVMMUlHQ1dVOWpzRk9nWlF2LTdsZzhEM3hPZ2U3RTVBVWx4TVY3ZFhsZ2VzREI3dmw4SGUtedIB7AFBVV95cUxOa2pzU1pkSmpLY3pZTjNPY1pQc1FBdGh0cW1sTDhONkRzWmpLd0I5dnBTSk9kREJmSWsyOXl5Q1pQRDEtX3VMMFFFeVNQMlVqRU8yZ3Z4QnY2XzE1cVpZTVBybHppazlfUzNLWWRMa2tGejBqMzVnZkFNQ1NQUlBhczFhWE1aUFdNVnRyS2Y2aTh2dnBtelhjeG5rV2lsZUstcWFHbmJaZTNqeWM3YVVZdGhZU3BzYXVMMUlHQ1dVOWpzRk9nWlF2LTdsZzhEM3hPZ2U3RTVBVWx4TVY3ZFhsZ2VzREI3dmw4SGUteQ?oc=5",
-      "sourceHome": "https://www.thestatesman.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "turmeric-market-firms-on-crop-uncertainty-and-tight-indian-supply-2026-1",
-      "title": "Turmeric Market Firms on Crop Uncertainty and Tight Indian Supply",
-      "summary": "&nbsp;&nbsp; CMB News",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "CMB News",
-      "publishedAt": "2026-11-04T07:09:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzUzeHhIbVpsaVV2Q2RfSFNLb0pFYk1zLTBGcFkxRUF2MlBwdXFVV0lQUExQVzN6ZVVhUTIyeUJacG1PUUpDTV9MbUJScWZKckVBVWJBZWJSUWpkNGRpMEd4T1lBTlNvOVlzU0thOGM5TGVFcmdGY1JzRVVrWXViN2FydWFFUDdEdjVtWU9SS1hCX2taRVVoWA?oc=5",
-      "sourceHome": "https://commodity-board.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
