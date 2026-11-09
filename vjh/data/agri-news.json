@@ -1,9 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T06:26:09.996Z",
+  "generatedAt": "2026-11-09T06:58:16.029Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "ai-brings-new-possibilities-to-tropical-farming-regional-cooperation-202",
+      "title": "AI brings new possibilities to tropical farming, regional cooperation",
+      "summary": "&nbsp;&nbsp; Big News Network.com",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Big News Network.com",
+      "publishedAt": "2026-11-09T03:41:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUtwSTNLMFBRRk90SU1NR21yMndCNVo4NlpEOGFJRkpVRk5RQnUwaVhrSlJtZzVranZvdTZPYWlKU3RUd0lNc3liQ3dVMHZHbnpSODJNZXRjdTgwN01GN1dqUUNaLTV1SDRZRWxzOGNnVi1nYVBxY3Y1TDFxeno3VEUzSkpfTC14bHZORVBwV2RQYkp5MGRiYXUzNWFoUzJFVUwyTURTb3RTOS0tZFZMY2VtTHU?oc=5",
+      "sourceHome": "https://www.bignewsnetwork.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-08",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-08T20:40:22.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "3-189-2026-11-08",
       "title": "పల్లె పల్లెకూ హైస్పీడ్ ఇంటర్నెట్.. రూ. 3,189 కోట్లతో తెలంగాణలో ‘డిజిటల్ విప్లవం’!",
@@ -43,6 +78,44 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "150-2026-11-07",
+      "title": "150 స్టాళ్లను సందర్శించిన సీఎం రేవంత్‌!",
+      "summary": "&nbsp;&nbsp; prabhanews.com",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "prabhanews.com",
+      "publishedAt": "2026-11-07T22:58:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neG9fUlFzc01tYjlaQlkwbHJSQU1DemV1UU5kR1ZqakFHMFBQbVo4MDJjMlVYQ2UwRFRYSjlJZ2VRRXRRdHYzdE1kMS10OUpBNHF2SUktTlhtSTJWak8zNHhmcThJSjJvV3hr?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "custard-apple-2026-11-07",
+      "title": "Custard apple : సీతాఫలానికి అంతర్జాతీయ గుర్తింపు ఇంకా ఎప్పుడు?",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-11-07T07:13:35.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlR3VXdtUDZJamZBcS11YUQxQ0JNd2lZN3VMZThPWnVDc0x5SU1XelVBbVdHT3IxSWhpakppLU5FNTBRMzdNRDFheDF1Wnp6d1ZXeXRqV1E3enh0NGhRNk1DMm80a1dJcWhZNWMzMjN0cFd2VWdCT1dvdXRZblU2RVdsOHo1dVJWQWFFOXlla0l2czAzaHVaZmdPUmNLTVlMN3BvVERVbmRDQdIBqgFBVV95cUxNZlR3VXdtUDZJamZBcS11YUQxQ0JNd2lZN3VMZThPWnVDc0x5SU1XelVBbVdHT3IxSWhpakppLU5FNTBRMzdNRDFheDF1Wnp6d1ZXeXRqV1E3enh0NGhRNk1DMm80a1dJcWhZNWMzMjN0cFd2VWdCT1dvdXRZblU2RVdsOHo1dVJWQWFFOXlla0l2czAzaHVaZmdPUmNLTVlMN3BvVERVbmRDQQ?oc=5",
+      "sourceHome": "https://vaartha.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "k-2026-11-07",
       "title": "‘ప్రాజెక్ట్​-K’ నారాయణపేట జిల్లా రైతుల భవితను మార్చింది.. ఎల్​నినో ఉన్నా నో వర్రీ..",
       "summary": "&nbsp;&nbsp; TV9 Telugu",
@@ -62,167 +135,10 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "total-area-sown-in-india-s-current-kharif-season-crosses-1-016-57-lakh-h",
-      "title": "Total area sown in India’s current kharif season crosses 1,016.57 lakh hectares",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-06T19:39:41.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUhua3Q4OEpCUDlqTWVGaU9zcjJMRUNnNmUxTUZZS0FRYU5VdjI1TXFVR2FEOTItc0R3Mm1uZC14Q0hJam5MaEhnM0s3eThuVFg3UEJlZjZGajVtOGFVbmZFWTZIQ1NlLUI2ZzRxRkx4aWpOc3l3LUZjbko4Y09zYjRXUU15UkppRnlla3c5SThkR1BqdE45T3JUMkxpZ0ljR3dybV9R?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-clears-large-scale-potato-chana-and-tur-procurement-to-stabilise-",
-      "title": "Centre clears large-scale potato, chana and tur procurement to stabilise prices, support farmers",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-06T19:04:50.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmI3UWxpcTZRWjZiWGZiZFQwNk5BWFhIWllQdG5sWVdKZ0R6X1Nud1dPdmQxRWFvMGZEYlk2a1JFRG4xTTJUNGV6SWxmVzZCMzlaYnk4cC1KMlZrUjNNVzJvTjM4akRsQzNadnlfalZIREdNZXdfZllGaTkzYnFVc3Fnb3ZOdkJ3QldsUTRpaE4wYWpsTmo4VkVZV2Z5MGgxNVVCQ0ZVblY0a09EaVBPaFpJMmRqSk1ycmlsWg?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-approves-large-scale-msp-procurement-of-pulses-and-oilseeds-in-fo",
-      "title": "Centre approves large-scale MSP procurement of pulses and oilseeds in four states; Uttar Pradesh gets biggest share",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Pulses",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-06T18:54:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2ZLRVNreGl1NWV0MVBpOGVCNktld1VvU2I3empiRzdoRWVMc2pKcFY0ajhYSUk4dWlCeVNhMlNUSGxsbHFlRGlfMGpvTTJoRVZqODlHRmdaOVpteVYxM2FwS1RXeFRCb0FkYzQ1NVd6cWdfOFFKbTFhREs4S2xhRTRPR3Qwd1o4anJKdEpNWnhRVW81Xy1BVVBLbmNDaTRZa19DeXZSV2dTZFpzNlBMcVhBVUdzaXZ2TW1oSUpsWjhpa2FrWE5pYVNEalU4ZUdOdlVJX3hoTQ?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
-      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-11-06T13:53:43.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-06",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-06T12:33:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jOGpOaEZEb1ZRYzFiQUc0c2NUOGRKNjNsNEN0OW5OeTlPcHpaT0laNkdWdEFfbHpQbk5DaDRkOFl6TjBMZGdFU3JYWENPb002TElrcjVqMC1SOVNhV0FwZk5uX1kzeTk0cTVEajlFSGd1WjdyRUJmZQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
-      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
-      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Indian Council Of Agricultural Research",
-      "publishedAt": "2026-11-06T10:37:42.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
-      "sourceHome": "https://icar.org.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "15-18-2026-11-06",
-      "title": "15 నుండి18 వరకు నల్గొండలో రైతు సంఘం జాతీయ మహాసభలు",
-      "summary": "&nbsp;&nbsp; Suryaa News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Suryaa News",
-      "publishedAt": "2026-11-06T09:26:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPLWtNVTk4cm5uRWVTSUpLejRvV3hFN2FmWlJPQUh2SFpTSkJmbzdjRXFkcVlWX1d2WG1JUUlOOGR1elJfUW0zT0JVblRXV005MFp0UmtkM0haZElTLVhWcXFrNVN3SDg5QVdBWEFxWmpwTFl2VVcxOTlqRHR2TExIQWo2b0xsQUM5U1BwQWF0RUZaUE91amUyUnptdTYxS0RDbkNWUFJ5QXFrdms1YTJ1Vkp4T0lvMHVFZzZSVk01Qmwydi0xWnpHb2VUUmpmVkllVGU2aHFxLU8xX01UZzVMQndqUF9IMUV1YUFlUnoySEs0OENGcVR5R2puR0VfWTBRWXN2RGRPQjdMYndWenQtS3BNUERGTEl1a2VVSng5TzZSWGtMUGppMnVrTWFLeUFtUy1kZDN2QnlfZW8xeGpidE11YmdLcjdDazRWQnU4clM3SGRYRDNvX29TRTNpMzFCcVJ5Y3lsRU5jSmfSAesCQVVfeXFMTy1rTVU5OHJubkVlU0lKS3o0b1d4RTdhZlpST0FIdkhaU0pCZm83Y0VxZHFZVl9XdlhtSVFJTjhkdXpSX1FtM09CVW5UV1dNOTBadFJrZDNIWmRJUy1YVnFxazVTd0g4OUFXQVhBcVpqcExZdlVXMTk5akR0dkxMSEFqNm9MbEFDOVNQcEFhdEVGWlBPdWplMlJ6bXU2MUtEQ25DVlBSeUFxa3ZrNWEydVZKeE9JbzB1RWc2UlZNNUJsMnYtMVp6R29lVFJqZlZJZVRlNmhxcS1PMV9NVGc1TEJ3alBfSDFFdWFBZVJ6MkhLNDhDRnFUeUdqbkdFX1kwUVlzdkRkT0I3TGJ3Vnp0LUtwTVBERkxJdWtlVUp4OU82UlhrTFBqaTJ1a01hS3lBbVMtZGQzdkJ5X2VvMXhqYnRNdWJnS3I3Q2s0VkJ1OHJTN0hkWEQzb19vU0UzaTMxQnFSeWN5bEVOY0pn?oc=5",
-      "sourceHome": "https://www.suryaa.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "heavy-showers-likely-in-ap-and-telangana-imd-issues-yellow-alert-2026-11",
-      "title": "Heavy Showers Likely in AP and Telangana; IMD Issues Yellow Alert",
-      "summary": "&nbsp;&nbsp; Sakshi Post",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Sakshi Post",
-      "publishedAt": "2026-11-06T05:30:31.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2JwM3p4U0lLUXNZeWFGZ29CamlHVmQ1QkpRNnFWQURGUWJRRW1tUzJIb1pqVFdoempDM09WeHZPa19TYlV4NVpzS1FkcFA4OHMwVU1PbDE5WVRfZVlpMXA5YnhBMXd6cm1VcG9jalcxY2pNcVpIWk05TWdQdGkxZGZBblRhcllZNm1zWnFwT0s3TGUtWUdVU1U0aUlZR1lEcGlCenlJOUlmRXFFYnhNNnUzOXRfLURBc2NRWtIBvwFBVV95cUxPRWNlMC1UYW1rcEpSQmp0ZE5lTHpWV2VZV2JSMkxqdl8tRFA5d3pvejlGM2dwOUxSanVNdkxFTGYxc1VWT3lEUnlDMGhYMWZEajRPdWRzRnVOUjB0ZnN5ZUdxei1NMjhmWW1uenF5dVlvQ2MxZE9VRDVUeGExRTZ3RFdkNDJWeUNUT1JYdTZyemRDclNpQTNuVmY4Wkc4RFlYbWswcUtFYk44QWdnc1N3N0gzSWh1bDNIazdHai1YQQ?oc=5",
-      "sourceHome": "https://www.sakshipost.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "cyclones-el-nino-and-india-s-food-security-are-our-farmers-prepared-2026",
-      "title": "Cyclones, El Nino and India’s Food Security: Are Our Farmers Prepared?",
+      "id": "2026-11-06",
+      "title": "అన్నదాత సహా అందరికీ ముప్పే! - ఎల్​నినో ప్రభావంపై క్లైమేట్ ట్రెండ్స్ శ్వేతపత్రం",
       "summary": "&nbsp;&nbsp; ETV Bharat",
       "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "ETV Bharat",
-      "publishedAt": "2026-11-06T00:31:01.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV051WkwwVXZCWThVZS1tUXFNSkpvamFJQzRlOXBzRUV4X2JicElUSmEyRlNVOU1MdEdfOVQwY0J2UWZRRUIyVTB4T3BuT1AxQ25wXzBFX3NBaGR5dGYwNXlsTFp1Q1AyMTloU1Fnb1A3UWI1SEZheHNNU1NhNVRBSktmNDQwaGhEWDc1TUdnTWtxaFlPTUNVdVRmV0tUU3Y5RFlqS1REYjZHSS1kVjE2QzZJc0VVSGUtMWfSAb8BQVVfeXFMTjJxRGIzNmdkdVhBTG85MVZPX0tTSmJUNWpPVF90WnNCOVZqNUE5UGJ6VXJyNXk3d0RpQm5QODVxMHhxTHNGT1ZJUjVfM3lMaWl2NGZrUUlpSXNRR2lGSjBqemw5ekFBM0FSZEFpaVBjOHJRblo4YmJTbldDQUVHcXJMVXlha2Fmak9ZSlZYaVlZS0QzZkRCRU5aQ0FIN29zNURrUVFSaFVMTkFlUlFwUXdPU0RRMExWeWR4c1B0MDg?oc=5",
-      "sourceHome": "https://www.etvbharat.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-11-06",
-      "title": "పట్టణాలపైనా కరవు నీడలు",
-      "summary": "&nbsp;&nbsp; Eenadu",
-      "crop": "All",
       "type": "scheme",
       "regions": [
         "telangana",
@@ -230,28 +146,10 @@
         "india"
       ],
       "language": "te",
-      "source": "Eenadu",
-      "publishedAt": "2026-11-06T00:28:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GY190WjVacUFYRkdfYmNBaHFCOXZQUGg3NmJZNm81dTcwa0lMUU00bDk3aUZ6czlxRHFVdU44YTh3TEgzdUIwOGpTdmd3OVQ0VjI3X1pyNnkwbFhzZ2VMYTU1akpiVnV6alZqRGc0Q2RETHlPdlHSAXZBVV95cUxPRmNfdFo1WnFBWEZHX2JjQWhxQjl2UFBoNzZiWTZvNXU3MGtJTFFNNGw5N2lGenM5cURxVXVOOGE4d0xIM3VCMDhqU3ZndzlUNFYyN19acjZ5MGxYc2dlTGE1NWpKYlZ1empWakRnNENkREx5T3ZR?oc=5",
-      "sourceHome": "https://www.eenadu.net",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-s-next-agricultural-revolution-will-be-ai-driven-jitendra-singh-20",
-      "title": "India’s next agricultural revolution will be AI-driven: Jitendra Singh",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-05T18:08:37.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnRlYnh5MXRqWUlJMkU1YmVBZ2prVy02UXlVZUlMV0FtZzV2TVA0TzRkSUM4OHd2Tmg4a3VfRXgzbVhBMXVOSDJCTVVkN2Z5ZGxWWXFkOTNBN0RaMUZRbU1UeW54MHdiSjM3ckg5RXEtcGpHYVFQcGp4UHVhRUJuSGh4WEQ1ajZGREhnMk9ubDIxUUtOMDduMi1n?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
+      "source": "ETV Bharat",
+      "publishedAt": "2026-11-06T14:29:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNNIBvwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNA?oc=5",
+      "sourceHome": "https://www.etvbharat.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
