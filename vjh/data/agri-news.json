@@ -1,13 +1,70 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T06:58:16.029Z",
+  "generatedAt": "2026-11-10T07:34:58.603Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "ai-brings-new-possibilities-to-tropical-farming-regional-cooperation-202",
-      "title": "AI brings new possibilities to tropical farming, regional cooperation",
-      "summary": "&nbsp;&nbsp; Big News Network.com",
+      "id": "onion-prices-2026-11-10",
+      "title": "Onion Prices: సామాన్యుడి కంట కన్నీరు.. భగ్గుమంటున్న ఉల్లి ధరలు..!",
+      "summary": "&nbsp;&nbsp; NTV Telugu",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "NTV Telugu",
+      "publishedAt": "2026-11-10T02:55:22.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXAtNFB3cHNsUFVBX1FSUTB0aHNKUF9KMzh5Yk9kc3ltUng2akhmRE96X0dPWkdrLW1IeUpmQ2pRSkY2MUFKRGpJVnJHb2VjeXgwS3JSUmROWi1qNzZQNTV4cnZ0bkNJdFZYcUhqT3JQbm55QlVzWkFSdGlzUUt3YnpJS1lMLWRyajc3c1ZNbUVuUU9ueTVOZEdpQmYzRnQ0LVB4TDVyT2ZRR3FrQlFwS1NaY9IBswFBVV95cUxQMXAtNFB3cHNsUFVBX1FSUTB0aHNKUF9KMzh5Yk9kc3ltUng2akhmRE96X0dPWkdrLW1IeUpmQ2pRSkY2MUFKRGpJVnJHb2VjeXgwS3JSUmROWi1qNzZQNTV4cnZ0bkNJdFZYcUhqT3JQbm55QlVzWkFSdGlzUUt3YnpJS1lMLWRyajc3c1ZNbUVuUU9ueTVOZEdpQmYzRnQ0LVB4TDVyT2ZRR3FrQlFwS1NaYw?oc=5",
+      "sourceHome": "https://ntvtelugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-10",
+      "title": "ఎల్‌నినో ఎఫెక్ట్.. మిల్లెట్లే బెస్ట్!",
+      "summary": "&nbsp;&nbsp; Disha daily",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Disha daily",
+      "publishedAt": "2026-11-10T02:15:52.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3JQZDZyeV9fbnhvTVNGOG4wN0l6TjIzeExkSVJKN3pWc1YtQjdRSUdxOXdWY0VYOWtjNUNZakpNNExaWWx3S1hTSlptVEU2SE9vNC0yRzlSMXJEVmdOajN5RWxDcXJ2dGdfV0lvSkdwX3lMNWlRVnFXaG9KMkVUbjRKV1JiOHFnVGZDMXNiMGQyTHBiRm1J?oc=5",
+      "sourceHome": "https://www.dishadaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agricultural-films-market-size-set-to-reach-18-73-billion-by-2031-driven",
+      "title": "Agricultural Films Market Size Set to Reach $18.73 Billion by 2031 Driven by Greenhouse Infrastructure and Multilayer Polyethylene Chemistries – Mordor Intelligence",
+      "summary": "&nbsp;&nbsp; StreetInsider",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "StreetInsider",
+      "publishedAt": "2026-11-10T00:46:52.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQmg5Tm9waE5rNWllS1U4dk41MWVVLXlPZXVRdWdPSlI2YzNKMEJ1RkxEa05OV1ZfaVgxbjZHMzB1ejZPQ3R5OEF5bF9QS0FFYzRsN0h3bTZVSlJ1cW5JVDQzV1k4dHhCVU5jVnFLQnppbkdveXp6cDJZMG5zX2s4OUlnLUdYb1FCQ0NnblR1aG1icVVMSFNqclhKX1czb2dkNFNlTFdvbjhyR2JLX1VWR1FvMzVDWTVqVzNTUmhrQXROYlFsQWs4cjZxaTBubnRWaFFuV1ZfMFFWMkVjUS1nM1BuVXVhNHFmS255N3dTTFBwV0lJdk5hVVpOSjZqdGtzUllaSXZ4YUFweUVoNVRqUTVRck5rVEdYYmFhTldrSWpUODVTNTI3ejRRdXNkME1wVXdBSUYxNlZWck9ubXpWQVV6bFhibFExYXc?oc=5",
+      "sourceHome": "https://www.streetinsider.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "a-failed-strawberry-crop-nearly-ended-his-farming-experiment-57-year-old",
+      "title": "A failed strawberry crop nearly ended his farming experiment; 57-year-old Ketan Sodha switched to soilles",
+      "summary": "&nbsp;&nbsp; The Times of India",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -15,10 +72,46 @@
         "india"
       ],
       "language": "en",
-      "source": "Big News Network.com",
-      "publishedAt": "2026-11-09T03:41:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUtwSTNLMFBRRk90SU1NR21yMndCNVo4NlpEOGFJRkpVRk5RQnUwaVhrSlJtZzVranZvdTZPYWlKU3RUd0lNc3liQ3dVMHZHbnpSODJNZXRjdTgwN01GN1dqUUNaLTV1SDRZRWxzOGNnVi1nYVBxY3Y1TDFxeno3VEUzSkpfTC14bHZORVBwV2RQYkp5MGRiYXUzNWFoUzJFVUwyTURTb3RTOS0tZFZMY2VtTHU?oc=5",
-      "sourceHome": "https://www.bignewsnetwork.com",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-09T16:20:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOaHJkTi03NnlvNWxsR2hRNDlFTHczVU00OEZkMUdSSkpmRG5fLUdSc3o5ZTd2cEVLc3BvRUNzazZFdnBMalAxMlNldGV3NG14cDNOVEh2VnowNXM4ekFvTlhyamFIRjRLcUtXY2lMTHJqT2x4S1Mzb0NhaXFQellUaENIN0RCTHhpY1RHRmlmR0RWR09tU2hudW5haDdMdW1KSU5UTWRVZGJ5M2tIa1dyMDJfLWhOb19uOUs3REhvQUgwQjlfNzNqUElEd2lLMFBGVHpSWHVucnF4UmREazN2OFY2N3E4d3ZWNGNGY1U1ZDFnTVBoZ0JiMlkwV3VzWUFjSGRpdWQyRUdFczlHbUxDN3UtSUhyNUFQdlhHSjhuTHFXZFhnV3VCTnpJS29DeGEyUVB1b3NzdFBxcFRkdV8tY0FkRnZjWkZGZDJSSEk0SmozLWRPUjdJRGx0UUN4aWpIWVdnQUFNRHd1UVFqT1U0bk9aOE12WTExbzNfOU1oNnJhVFdvUHfSAYsDQVVfeXFMUG9pdXZDWGFlWVFZZ1AyVmNfMFNtOEp3TktVUGpEX3Jlb2x4bWhQV0syenRSanJqVjNWUmNKZDJhaV9SellTU2taY1I0Z2lYbmtIcTJtNHliTFppYU0zazVLQ0NmbHlHeFl2SWlLa2ZGM0JtRHlGcVl5X2F2dWlHRF9fdFJZRVV5cHZCQTN0WUFUSGprb0hTMHJQaXZFN2tPanRVeTU2c1ZRaVVxVWc2clBiRFZ0WWRfVFNNUkVjSnFseUM3ektVQWpKVGRoZlY5a2gyYXk1THRzeHFJVEVxVGFkMHRUTXNuYm1uWGVwVnlZdW9RYTlUV2tsS3VrdWVuWFg3STBzTnJnNjM3YjJOWjdQTFpWUDQwcEhLMmFubUw4VFVRUXFFQTM4WXlWaVdjQVVzM19BX3c0T3ZNSjdBS2JfVWpVUzhwOVRaNjFIYW0xd2RqQU1mQXB1NFpHVFJDWnI5d0dFZHZodmZRWGxBS2wwS2NfcjM4NlJBaUloUjVwaTZkcEh0alBJazA?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "top-10-best-agritech-companies-in-india-in-2027-2026-11-09",
+      "title": "Top 10 Best Agritech Companies In India In 2027",
+      "summary": "&nbsp;&nbsp; Inventiva",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Inventiva",
+      "publishedAt": "2026-11-09T08:02:58.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemVZdWk3NTZuY1E2UkVhVFNMSnJjUjNTdGdqNXluWFJOZEY4RWJ5QXg5Vkk2Z1RNQ19lbkdHVUphUlRUMmNRWXVyamRNUmhQSUphanlqNFEySm1FSVdWNmNtV2RDZzE2ei03WmlfOVk0UjZDa1ZMVmJyQlphSDNfVHNhM1VoTVhOZk1B?oc=5",
+      "sourceHome": "https://www.inventiva.co.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "ai-brings-new-possibilities-to-tropical-farming-regional-cooperation-202",
+      "title": "AI brings new possibilities to tropical farming, regional cooperation",
+      "summary": "&nbsp;&nbsp; India's News.Net",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "India's News.Net",
+      "publishedAt": "2026-11-09T07:17:06.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUlpNkNqRFExTlFWYXZTQUt4SGNWdmxWR21LRXFTeFNqdkEzY1hRSjJESTdzVWZHLVA4cWRZcTBzWUZMSzQ2R1U1bExVZEEyQzRHV3ZsRDBLVnJ2Z01tQno0aXhiNEZzZGVWOHJfNXk0SHVZTmhLb0hxem5WeldhbzVkNU9STGlrRmFqc3JVLWFncGV0UGd3U2JOUW10Q0pDb1RiM3FIbWVwMVZEVFRN?oc=5",
+      "sourceHome": "https://www.indiasnews.net",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -93,63 +186,6 @@
       "publishedAt": "2026-11-07T22:58:04.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neG9fUlFzc01tYjlaQlkwbHJSQU1DemV1UU5kR1ZqakFHMFBQbVo4MDJjMlVYQ2UwRFRYSjlJZ2VRRXRRdHYzdE1kMS10OUpBNHF2SUktTlhtSTJWak8zNHhmcThJSjJvV3hr?oc=5",
       "sourceHome": "https://prabhanews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "custard-apple-2026-11-07",
-      "title": "Custard apple : సీతాఫలానికి అంతర్జాతీయ గుర్తింపు ఇంకా ఎప్పుడు?",
-      "summary": "&nbsp;&nbsp; Vaartha Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Vaartha Telugu",
-      "publishedAt": "2026-11-07T07:13:35.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlR3VXdtUDZJamZBcS11YUQxQ0JNd2lZN3VMZThPWnVDc0x5SU1XelVBbVdHT3IxSWhpakppLU5FNTBRMzdNRDFheDF1Wnp6d1ZXeXRqV1E3enh0NGhRNk1DMm80a1dJcWhZNWMzMjN0cFd2VWdCT1dvdXRZblU2RVdsOHo1dVJWQWFFOXlla0l2czAzaHVaZmdPUmNLTVlMN3BvVERVbmRDQdIBqgFBVV95cUxNZlR3VXdtUDZJamZBcS11YUQxQ0JNd2lZN3VMZThPWnVDc0x5SU1XelVBbVdHT3IxSWhpakppLU5FNTBRMzdNRDFheDF1Wnp6d1ZXeXRqV1E3enh0NGhRNk1DMm80a1dJcWhZNWMzMjN0cFd2VWdCT1dvdXRZblU2RVdsOHo1dVJWQWFFOXlla0l2czAzaHVaZmdPUmNLTVlMN3BvVERVbmRDQQ?oc=5",
-      "sourceHome": "https://vaartha.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "k-2026-11-07",
-      "title": "‘ప్రాజెక్ట్​-K’ నారాయణపేట జిల్లా రైతుల భవితను మార్చింది.. ఎల్​నినో ఉన్నా నో వర్రీ..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-07T06:34:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnlMTkpPNjhaeVdvcXphQ3lEd1NZUHRIa2t1NE4zYmNNX2dXVGpfT2V0UzhmYzcyLXViVnBYdnQyYXprYWVSRHlHb1dsTE1KdjlFVlNIVkFBaFRTYXp2VGlUZk5NaW51Tl9tRzVTWkZyY196V1RMMl8zSF9QdklpNEVrZ3EtVkpxc3RSUDZFTC1GN1FFa3EyWlBVYjhvdlBYQ05EM1ZKeXctM0pfMk1hSThyc0tGMXlpRmV3X3ZrdHpBeS1la21XTUlWMEJCWksyejZxNNIB2gFBVV95cUxPMGd2TG5iS3JYN2xxYVAyVDhHRmJXWnVXdm1qcXBKa29xTVBaMWZoMVl6NVVKSGI3WkNkNTRoNll3aHZIT3doVC0xMDFrcUZCWWROd3h6bTR3b0lwSmUtUXlKZXZpMUJqZFVabnctREE5ckJJUGJFbUQ5Sm1uSzMtazd3Qi1fLXdVQ3ByT3JPcTEzRi01SUxjZzk3TkJrcWNmdkZmTE14bmx0Z0lBMEN3dzFBYW9OVnNhZHRGM2V0V2ZBdG5hZGZtQzN3WEJ4QklIN2ZpbGw4Q3Y3dw?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-11-06",
-      "title": "అన్నదాత సహా అందరికీ ముప్పే! - ఎల్​నినో ప్రభావంపై క్లైమేట్ ట్రెండ్స్ శ్వేతపత్రం",
-      "summary": "&nbsp;&nbsp; ETV Bharat",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "ETV Bharat",
-      "publishedAt": "2026-11-06T14:29:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNNIBvwFBVV95cUxNR1VlS28xWGxBU1ZEOTNYTjJ0NHlSOGJJUnUwTjRnOFhpNkd2NXlaN2c3d3pWNHgzcFhsUHZnNkZqUEhHY3lQRXpnZHJtWmFldUJldU1laEdfVXBSNGx3NVEzWlUzVVZ1OHUySkZIcklCM1pNUkpHZHpqNGhORm1CdHVkcFBiYXhLSkZ0ZWs1eFAtc2pvblpoZU1KcVVkVzh1YjJ3WmtmNWg0UE9jNzBRbXJ4U3NOSTF5LWRBVW1KNA?oc=5",
-      "sourceHome": "https://www.etvbharat.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
