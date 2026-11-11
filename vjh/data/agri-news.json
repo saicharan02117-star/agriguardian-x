@@ -1,9 +1,225 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T07:34:58.603Z",
+  "generatedAt": "2026-11-11T06:52:42.207Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "mancherial-2026-11-11",
+      "title": "Mancherial: సీతారాంపల్లిలో ధాన్యం కొనుగోలు కేంద్రం ప్రారంభించిన మేయర్ మధుకర్!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-11T06:31:55.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0ZVRDZZSFZHeExnc2hPcW9hcm9BZ2VrV2N3UEcxNlVvVkZ0bFA5R3VhU3E1ZFk4YVhFSmZQUVVjR3hUZzNOR2lJeEpReFE2Nkg3RkQ4U0g0T25IMFowSjBOdmZLRGE4d2JrUDhhcG1RRkNhRlcxT05NSmZTdTNoVS1SdzBSOE5iaEJiWUJHNjI3LUhIbzhZcWZPNU1hWkNrWl9HSEh4cE9jbDJ3TkJoZG44WmtKWlpWY2VoR3A4Y1hha0ZEMlctNzlJMA?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "india-sugar-prices-full-details-2026-11-10",
+      "title": "India Sugar Prices: Full Details",
+      "summary": "&nbsp;&nbsp; JournalArta",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "JournalArta",
+      "publishedAt": "2026-11-10T21:17:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3FKTExSVHJuZzRaQlkyOGdwZU5aVHlvUHZFdG5hM2l5UDd5TjZ5ODNuWFVlaFliOElPX2RqVDVPd1IzbmRjM2QtaTFIZkJQQl9YTnlhclN1WXkyLU84bFdtWDNIal9HRlBuVVRGdEN1SEhoRmRRVTJOVlJlNTJDUnppOEFZbnlGanJF?oc=5",
+      "sourceHome": "https://journalarta.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "broccoli-health-benefits-2026-11-10",
+      "title": "Broccoli Health Benefits | మార్కెట్లో పెరుగుతున్న ఆదరణకు కారణాలేమిటి?",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-11-10T21:09:23.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEkxdmY0d1ZNci1odGxQMWxwTWszclJmZHZjeWJENWdTbUdpVGRjQ0k0SDh3RUdiOG9PZUl5R19MdUVrRnVvMjlBd2tpVVJBZUFYbjEzaWl0bEFzd1ZBdk5MU3RWZGhZLUh2aHhUMXA0N0tIUHdsLTJlWDlEV296THJWdkN4Ylh6dHNkUQ?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "onion-prices-hike-80-2026-11-10",
+      "title": "Onion Prices Hike: ఉల్లి కొనాలంటే భయమే.. తెలంగాణలో కిలో రూ.80!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-10T20:30:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkJidlpiQ2ZkUEhVY2g3S1FUS0V3Wkhya1hhSlMtSVNQaXE3ZGJad0todTE5UE9KYU1udUhlZ0IyZzNYNXFIM3N0cktxWW9RWVVKQ0h3Z0xVQ09EVkpEazVaYmN6bWRSWUFRSFkwZjZpY2dNS1dkbVJqcXlMU3lDb3ptZVFHV2xqdFh6WWFtQTVlcVBvMDBLaEtaYV9yRWF1RWxmSW5ZV2syT2k3V2RjN2FSOF9zVUZDRFE?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "haryana-registers-47-cases-for-farm-fires-21-farmers-face-red-entries-20",
+      "title": "Haryana registers 47 cases for farm fires, 21 farmers face red entries",
+      "summary": "&nbsp;&nbsp; The Tribune",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Tribune",
+      "publishedAt": "2026-11-10T19:55:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1FsaTVDQmRiMVBhSXpHZjRIaWMwaFNWVGdycDRHaExsWlZSbExJU3BNUExlQVRVMkRka2x6VkpzQ1dLbkdES1Y2VkE1bmpjN1RnVGItWklQVm1ONEpHZXRXeFliN2NWNDhyYnROdFhoSTkzQzNWVGFvdEtCZHBPMHVCbEJnZlJnT3p3TTVDeGQ1cW5UdnpoNjFqQXlPN1JOSjRXT2tJa3lBTlpHUk9pdFFR0gG2AUFVX3lxTE5WZEhTQldIWUxqOHdwWF8wRTBVNWFNaHRfWDRwdUV3U21hTGdqMHhhbnFFODVwcVoybU45RExWTVFTNzdzM01fNllRdXZzcFMxWGlrXzJlZ0FURWtTdlJnWlhpOUJTLTRtTjhQX0hTaV9CMXRMcld4NE5xd1J1ZmdlV3BhQkRueDRjUERFRXZOZTZyb3ZwVndVSzdOd3pfd2dEdFNBRENhZVVHR2FUVVI0a0dZUWNB?oc=5",
+      "sourceHome": "https://www.tribuneindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "india-s-sugar-cane-is-too-dry-and-consumers-will-pay-the-price-2026-11-1",
+      "title": "India's sugar cane is too dry and consumers will pay the price",
+      "summary": "&nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "publishedAt": "2026-11-10T18:57:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTQ4dmY5YldlanZUNmNvaVZBLTdyLWdWOTFIR1QwRXZYcWZKbDJjeXJrODZFSmE3dzQtdTFmSG5xWGh1RVV0aDRScGo3cUFDMmZnR1JILUJ3SmhtczV6TGhrQUFXaGFleGU0STVSRjVLYWdJSlNMZjVzNDQzUFE5S3dSV25ZUzRSZDRvMjB1b1dUZTZEUGwyVFJKTHVpMXpIaWZXZldnOUs?oc=5",
+      "sourceHome": "https://www.abc.net.au",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "farming-adilabad-farmers-overcome-losses-2026-11-10",
+      "title": "Farming: టమాటా సాగులో రైతుల కొత్త ప్లాన్.. నేలపై కాదు.. ఇలా పండిస్తూ మంచి లాభాలు..! adilabad-farmers-overcome-losses.",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "Tomato",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-11-10T15:04:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQVVVaHVWMnpVTmRGN1lYLVBVQU44ZGRubENuTGpoR2pUel80UVoxdzdqdWpYZEt3RmFWcDFrZG5ueUhKanRUSXZJM1dRbWZBYm92Z2Q3eDRnWERlT3U3YkhtV0F6WWo2X29fTHBFMWxhaWpYYzFKOTVxT210dm1zOXRuRDNnSHRwUzVYaV9WbTZLT1pBdmVhdFdFdEJUWkFHc0lKODVLb242X1lkU0FpVzUxNlNjVUc0a1hFbTgwbE01QUJDakxYVkdGT0NCbWFwTFFsbGdkRjVjNkxsWm1NdkgyVjhvajNmNVZLVlY3V3c3QQ?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "centre-doubles-open-market-rice-sale-target-to-5-mn-tonnes-to-cool-price",
+      "title": "Centre doubles open market rice sale target to 5 mn tonnes to cool prices",
+      "summary": "&nbsp;&nbsp; Business Standard",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-10T14:40:35.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHB6UGhVeWhVUGttdkh6czE0SmYxMm9LLW9xZHkwMW1EOHZXZjhzZDBEM3lya3hlVjlLeGN5QVRwcEtPWHZJSjM5Qm14RWluM2ZSX1YzLUNyVVFRV0lReFFZN0RrUnJ4aWM2SkVjYkpuNThIV2pvb1l3NGZpa3paYTMtN3VpWUhkT3hMSDZVVmhFSFFiS19iTUNHa2paTjBZcG1uYWwybHdOYXJ1d25VY1RqSnNmSTZZWS10eTFTcnU4OGk4dDZrb2xFeTNVX1lXamtqQVBsakR1ZEV6aXNoUHhB0gHnAUFVX3lxTE03YWJ5WnlvdkVzd3FuODlVcHV3dDE2MUExREU2c1F1Q2JOQU5HeFk5UW9UcUJyYndpMndSX3Bjd0N0M1I0eWdpSVdRX0dlTG94OS1Sbkc3d1NZTklpdll1WFFHSGNOckQ2Vm5KQU10bE9qSnpkc2hDdUo2X0VGUzNWOTRsZW9IeThXOTJMNV82RzZ0Tk1zaEZKakVkdXpZZlFONkhOcHNrQllwUW1vNUV1MlFPRWY4MnpiMGU1eEI1blhCYlNyUmxWSjlTZVIxdkJvVG9PWGpoMF96S0diYlhSR2RHdlNadw?oc=5",
+      "sourceHome": "https://www.business-standard.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-10",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-10T14:16:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "press-note-details-press-information-bureau-2026-11-10",
+      "title": "Press Note Details: Press Information Bureau",
+      "summary": "&nbsp;&nbsp; pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "pib.gov.in",
+      "publishedAt": "2026-11-10T12:48:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEhVTGY1SVpXcDg4dXVfcWlPcE1PeUJQZWNxZFFzX1JQX1JGRUQ0VXJ6VGpsZU15U190T09nOFZvbzlCcTFfcDRFLS1yVEczN1RBMDFmNl83aVhIQmpocWJsRGlHdDRsUGl0V0hwc05rcXpsbU9qQTJoSDI0UVMzOTNGZDRFcVNpS0VB?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "stubble-burning-karnal-admin-books-4-more-farmers-marks-red-entries-in-r",
+      "title": "Stubble burning: Karnal admin books 4 more farmers, marks red entries in revenue records",
+      "summary": "&nbsp;&nbsp; The Tribune",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Tribune",
+      "publishedAt": "2026-11-10T06:30:49.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnk1RmpqcGNHM3JXVm9naUoyVmxEVnVYejRtaWtnbzBJQnZtVjZnMFFUVllxeWlocFZpcG93SGRVTFRLSld3OWVzQi14eXE3M3ZyejBES0sweE9nTW1GdzRHODVZUFI5YWg2Z19BSE00cEtoS0NZdjdZaFBld2RjQXBESGR0WTh1V3FUQzR6dnlVN0NsMjZaZFowVVFvTzNON1hMLTNaTFhxVnVGa1paTkpUcktSX1dvZlJISVF6aUpvMElyUk9xRTFTMmktd9IBzgFBVV95cUxQNnk1RmpqcGNHM3JXVm9naUoyVmxEVnVYejRtaWtnbzBJQnZtVjZnMFFUVllxeWlocFZpcG93SGRVTFRLSld3OWVzQi14eXE3M3ZyejBES0sweE9nTW1GdzRHODVZUFI5YWg2Z19BSE00cEtoS0NZdjdZaFBld2RjQXBESGR0WTh1V3FUQzR6dnlVN0NsMjZaZFowVVFvTzNON1hMLTNaTFhxVnVGa1paTkpUcktSX1dvZlJISVF6aUpvMElyUk9xRTFTMmktdw?oc=5",
+      "sourceHome": "https://www.tribuneindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-2026-11-10",
+      "title": "Telangana: నాటు కోళ్ల పెంపకంతో నెలకు లక్ష ఆదాయం",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-10T06:09:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTA2M1BBd3VvRU5UWV9iSXZaZ08ycUNjcm0zQjBuaFVEY2RJblR1RUtlQkRZYkJ0N3k4SzFNTVNBQmdGSU05T1Azbzk0bFQ4Y3R1RU54X25Dc3NLZThWZnpqa2tvRldvLWE3Vm84ZjVUYVVWVnhWd3lWczZEbEZXRTVwb0xwVUhBUUdPMFFGTUVSaW5TczZjSHJ6RXh3V3gwTmlLV1VXRjVoS2NmNElPRG9ERzJ2QXB6NkQyZ243UjRVRDlndVHSAcYBQVVfeXFMUFEwNjNQQXd1b0VOVFlfYkl2WmdPMnFDY3JtM0IwbmhVRGNkSW5UdUVLZUJEWWJCdDd5OEsxTU1TQUJnRklNOU9QM285NGxUOGN0dUVOeF9uQ3NzS2U4VmZ6amtrb0ZXby1hN1ZvOGY1VGFVVlZ4Vnd5VnM2RGxGV0U1cG9McFVIQVFHTzBRRk1FUmluU3M2Y0hyekV4d1d4ME5pS1dVV0Y1aEtjZjRJT0RvREcydkFwejZEMmduN1I0VUQ5Z3VR?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "onion-prices-2026-11-10",
       "title": "Onion Prices: సామాన్యుడి కంట కన్నీరు.. భగ్గుమంటున్న ఉల్లి ధరలు..!",
@@ -74,7 +290,7 @@
       "language": "en",
       "source": "The Times of India",
       "publishedAt": "2026-11-09T16:20:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOaHJkTi03NnlvNWxsR2hRNDlFTHczVU00OEZkMUdSSkpmRG5fLUdSc3o5ZTd2cEVLc3BvRUNzazZFdnBMalAxMlNldGV3NG14cDNOVEh2VnowNXM4ekFvTlhyamFIRjRLcUtXY2lMTHJqT2x4S1Mzb0NhaXFQellUaENIN0RCTHhpY1RHRmlmR0RWR09tU2hudW5haDdMdW1KSU5UTWRVZGJ5M2tIa1dyMDJfLWhOb19uOUs3REhvQUgwQjlfNzNqUElEd2lLMFBGVHpSWHVucnF4UmREazN2OFY2N3E4d3ZWNGNGY1U1ZDFnTVBoZ0JiMlkwV3VzWUFjSGRpdWQyRUdFczlHbUxDN3UtSUhyNUFQdlhHSjhuTHFXZFhnV3VCTnpJS29DeGEyUVB1b3NzdFBxcFRkdV8tY0FkRnZjWkZGZDJSSEk0SmozLWRPUjdJRGx0UUN4aWpIWVdnQUFNRHd1UVFqT1U0bk9aOE12WTExbzNfOU1oNnJhVFdvUHfSAYsDQVVfeXFMUG9pdXZDWGFlWVFZZ1AyVmNfMFNtOEp3TktVUGpEX3Jlb2x4bWhQV0syenRSanJqVjNWUmNKZDJhaV9SellTU2taY1I0Z2lYbmtIcTJtNHliTFppYU0zazVLQ0NmbHlHeFl2SWlLa2ZGM0JtRHlGcVl5X2F2dWlHRF9fdFJZRVV5cHZCQTN0WUFUSGprb0hTMHJQaXZFN2tPanRVeTU2c1ZRaVVxVWc2clBiRFZ0WWRfVFNNUkVjSnFseUM3ektVQWpKVGRoZlY5a2gyYXk1THRzeHFJVEVxVGFkMHRUTXNuYm1uWGVwVnlZdW9RYTlUV2tsS3VrdWVuWFg3STBzTnJnNjM3YjJOWjdQTFpWUDQwcEhLMmFubUw4VFVRUXFFQTM4WXlWaVdjQVVzM19BX3c0T3ZNSjdBS2JfVWpVUzhwOVRaNjFIYW0xd2RqQU1mQXB1NFpHVFJDWnI5d0dFZHZodmZRWGxBS2wwS2NfcjM4NlJBaUloUjVwaTZkcEh0alBJazA?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQb2l1dkNYYWVZUVlnUDJWY18wU204SndOS1VQakRfcmVvbHhtaFBXSzJ6dFJqcmpWM1ZSY0pkMmFpX1J6WVNTa1pjUjRnaVhua0hxMm00eWJMWmlhTTNrNUtDQ2ZseUd4WXZJaUtrZkYzQm1EeUZxWXlfYXZ1aUdEX190UllFVXlwdkJBM3RZQVRIamtvSFMwclBpdkU3a09qdFV5NTZzVlFpVXFVZzZyUGJEVnRZZF9UU01SRWNKcWx5Qzd6S1VBakpUZGhmVjlraDJheTVMdHN4cUlURXFUYWQwdFRNc25ibW5YZXBWeVl1b1FhOVRXa2xLdWt1ZW5YWDdJMHNOcmc2MzdiMk5aN1BMWlZQNDBwSEsyYW5tTDhUVVFRcUVBMzhZeVZpV2NBVXMzX0FfdzRPdk1KN0FLYl9ValVTOHA5VFo2MUhhbTF3ZGpBTWZBcHU0WkdUUkNacjl3R0Vkdmh2ZlFYbEFLbDBLY19yMzg2UkFpSWhSNXBpNmRwSHRqUElrMNIBiwNBVV95cUxQb2l1dkNYYWVZUVlnUDJWY18wU204SndOS1VQakRfcmVvbHhtaFBXSzJ6dFJqcmpWM1ZSY0pkMmFpX1J6WVNTa1pjUjRnaVhua0hxMm00eWJMWmlhTTNrNUtDQ2ZseUd4WXZJaUtrZkYzQm1EeUZxWXlfYXZ1aUdEX190UllFVXlwdkJBM3RZQVRIamtvSFMwclBpdkU3a09qdFV5NTZzVlFpVXFVZzZyUGJEVnRZZF9UU01SRWNKcWx5Qzd6S1VBakpUZGhmVjlraDJheTVMdHN4cUlURXFUYWQwdFRNc25ibW5YZXBWeVl1b1FhOVRXa2xLdWt1ZW5YWDdJMHNOcmc2MzdiMk5aN1BMWlZQNDBwSEsyYW5tTDhUVVFRcUVBMzhZeVZpV2NBVXMzX0FfdzRPdk1KN0FLYl9ValVTOHA5VFo2MUhhbTF3ZGpBTWZBcHU0WkdUUkNacjl3R0Vkdmh2ZlFYbEFLbDBLY19yMzg2UkFpSWhSNXBpNmRwSHRqUElrMA?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -112,80 +328,6 @@
       "publishedAt": "2026-11-09T07:17:06.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUlpNkNqRFExTlFWYXZTQUt4SGNWdmxWR21LRXFTeFNqdkEzY1hRSjJESTdzVWZHLVA4cWRZcTBzWUZMSzQ2R1U1bExVZEEyQzRHV3ZsRDBLVnJ2Z01tQno0aXhiNEZzZGVWOHJfNXk0SHVZTmhLb0hxem5WeldhbzVkNU9STGlrRmFqc3JVLWFncGV0UGd3U2JOUW10Q0pDb1RiM3FIbWVwMVZEVFRN?oc=5",
       "sourceHome": "https://www.indiasnews.net",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-08",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-08T20:40:22.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "3-189-2026-11-08",
-      "title": "పల్లె పల్లెకూ హైస్పీడ్ ఇంటర్నెట్.. రూ. 3,189 కోట్లతో తెలంగాణలో ‘డిజిటల్ విప్లవం’!",
-      "summary": "&nbsp;&nbsp; BigTvLive",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "BigTvLive",
-      "publishedAt": "2026-11-08T06:13:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkRObFZ1Q19odkE5VVYzSnFKV0dqNGxuSnNVQmQ0bFN0UXdUeGFHSTZBSVBQS0I4cS1PTjA3d2UyS1JCemZwZURnS0E5SEd2U0QyTXZaSjR5TGZ0TEFFLTJCMXdqWWVJLTdDUHVIT2EtWHkxT3paR2IzRWRGLWF5Y2t2WDVIQ1E2WUhEOThxaW5PWjRqV1hiQk9QOFF4b2kyMENQb09CbzY?oc=5",
-      "sourceHome": "https://www.bigtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "weather-alert-2026-11-08",
-      "title": "Weather Alert: ఏపీ, తెలంగాణకు బిగ్ అలెర్ట్.. ఈ ప్రాంతాల్లో ఈదురుగాలులతో కూడిన వర్షాలు..",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-08T03:21:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkM4bEhITFl1OG1GS3p0T1hEcjJvLWtGODh2UGxmeWNjVkpXcTZvQzRfTU1vekdoQnkxczJPTmROQlhaSWtsRTBEVDVSc0hzcW5BQlBQZmdzWjVtZ0tfZDl3OUdYNFJkbG1GNUlrNzVGenREd1B0ZkVNRnRXN3hKX3VzR3R5SWZ5SmFybk5ObW1WUERiRjFfNUJTNTVDOFloNDFfY1pqc3YxblhQOV9oRTZvcldQeFFsbVVqc2VXTEp2SW9EVE1NUXlWR1REdWZUVUs2dnQ4RnZvSy01S0lCbUhvNNIB4wFBVV95cUxOTkM4bEhITFl1OG1GS3p0T1hEcjJvLWtGODh2UGxmeWNjVkpXcTZvQzRfTU1vekdoQnkxczJPTmROQlhaSWtsRTBEVDVSc0hzcW5BQlBQZmdzWjVtZ0tfZDl3OUdYNFJkbG1GNUlrNzVGenREd1B0ZkVNRnRXN3hKX3VzR3R5SWZ5SmFybk5ObW1WUERiRjFfNUJTNTVDOFloNDFfY1pqc3YxblhQOV9oRTZvcldQeFFsbVVqc2VXTEp2SW9EVE1NUXlWR1REdWZUVUs2dnQ4RnZvSy01S0lCbUhvNA?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "150-2026-11-07",
-      "title": "150 స్టాళ్లను సందర్శించిన సీఎం రేవంత్‌!",
-      "summary": "&nbsp;&nbsp; prabhanews.com",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "prabhanews.com",
-      "publishedAt": "2026-11-07T22:58:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neG9fUlFzc01tYjlaQlkwbHJSQU1DemV1UU5kR1ZqakFHMFBQbVo4MDJjMlVYQ2UwRFRYSjlJZ2VRRXRRdHYzdE1kMS10OUpBNHF2SUktTlhtSTJWak8zNHhmcThJSjJvV3hr?oc=5",
-      "sourceHome": "https://prabhanews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
