@@ -1,13 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T06:52:42.207Z",
+  "generatedAt": "2026-11-12T07:29:04.345Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "mancherial-2026-11-11",
-      "title": "Mancherial: సీతారాంపల్లిలో ధాన్యం కొనుగోలు కేంద్రం ప్రారంభించిన మేయర్ మధుకర్!",
-      "summary": "&nbsp;&nbsp; HMTV",
+      "id": "stubble-burning-bks-seeks-msp-for-crop-residue-withdrawal-of-fines-again",
+      "title": "Stubble Burning: BKS seeks MSP for crop residue, withdrawal of fines against farmers",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-12T05:18:54.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRXQ0Y3hGOF9LbTdldWlVMWpRMDFiRXhzc2Q1NUtBdmRON29HV3VWeEkyZl8yd2lBOGZZQ3hSZl9JQXFqY3RxYXZtMW43VWFqWlZyWm1tV1lFeDRRT29UekpVVFFKLU1SRk9VMEJwWl90SnBxQ2R6ZVRDM09GanlNVGxJMDRqRFNNeFc4bDlzTjJXU0tKbmNrdVVvS3JFa05zWTFzTkxpdkRDSGpzUmZUMm1KUVp2Z1ZYY25yQXVkQzRTX1VUdkx0QzFRa0NqOUE4ZXRDN2NuVk5LSWhOV3E4V3puckVOOFlxNkt3YTFyTDZkUlnSAfgBQVVfeXFMUElOX1MyV3ZvTWtLNkRxRVd2NGFUZHRTRXFUVExiWllxSFRpVTVjRXo3UTVHR09GUzNEYVN1eXBqekxPR3FjSWh0X25TMG1aMEpPV2VGMmh2aVQ4b1NQZnEyZUhDeVZYYkVsQzVGTloyME5uOVFtMkJQdmFDeGFQQV9leHZ1LW5ISmxMTE9UQzgyQ0x3alFCTnlsWHE3REhmWkRMWEJPbUdiekxXZXphQzBKZ1A4ZWtHNEJNeVpzNm1rNVBqUG9SR0dDakU3cHAzMExubDUyMEZCamRLaUxBa3FlRTdvaEZZYnU0MC1ZWnhmcWJuakZqVkg?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-11",
+      "title": "వరి పంట తప్ప..!",
+      "summary": "&nbsp;&nbsp; Andhrajyothy",
       "crop": "Paddy",
       "type": "scheme",
       "regions": [
@@ -16,10 +33,192 @@
         "india"
       ],
       "language": "te",
+      "source": "Andhrajyothy",
+      "publishedAt": "2026-11-11T22:36:58.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc19fb3U0OGVKbE5uVVBkT3A3SGJ1NjhjSERYdkJkUHR6R2k0S1VSMFM0ek5OdFhzWmU5Znk4ZHZEd19WQmZPQ25NTlV2aENLVEpJMXNoc3FGU2xod0g4Q05Zb0FibHlZVnItNlJtbnREUjZnZ0dQNUVsdmVYaTB6Ui0zZTJYQjNkUTc3d2hBSWZLcGlqaU91NHZZRk5PVUlrVmNySzZnNFFtYVd5RjdhWTNwY2NycmRBTVJaRXA1TFVsSnN5SjhrLVIzcVp2Zw?oc=5",
+      "sourceHome": "https://www.andhrajyothy.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "crop-disease-detection-market-size-and-growth-report-2034-2026-11-11",
+      "title": "Crop Disease Detection Market Size and Growth Report 2034",
+      "summary": "&nbsp;&nbsp; Fortune Business Insights",
+      "crop": "All",
+      "type": "disease",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Fortune Business Insights",
+      "publishedAt": "2026-11-11T18:09:05.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX09sR1N1Z1RNdms4M2RpWV9NVGl2ME5VT2d3OUNRQVBGVEZHenZzOG5MWTgtc1BaZnNiTURRN1V2akw5NVlwLTRCOVlDdTQ3WkpRc1Joa2FWY3U2UF9GR1VwdHpxVGRxdjNzc0g3NV9wQzBmWHFVenpHeFFRcUpXTFBB?oc=5",
+      "sourceHome": "https://www.fortunebusinessinsights.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "haryana-cm-nayab-saini-says-farm-portal-curbed-fertiliser-misuse-saved-c",
+      "title": "Haryana CM Nayab Saini says farm portal curbed fertiliser misuse, saved Centre's subsidy",
+      "summary": "&nbsp;&nbsp; India Today",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "India Today",
+      "publishedAt": "2026-11-11T16:45:49.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVcxLWgwY1hkVXNEdW1WSE9DZDNFSm9MTUluYUkzTlFLdUVGb3hmOEwtZjJOT2ZHMGFPRGVWLXpIOS1UMVgxbGVjaG5xckRIcTFXbGhuemlmSEZqdVBXSnQ0aU02V3JvWFVIRWxnLTJpVnB6eC1PcXpGY1MtaEhwaERMVm9rMGxsVGl1TUgzX3BsSEhEeXQtTk15THd6STNFaDdSZ0hmcnR1aW55dDBsaU4xSjl3c3hlaUllRDA4Z1RrVUltQVFxc2dXbXJodS1URGN0OVhSc9IB3AFBVV95cUxPemJPVGQ3bzlqTC1PZEdOaFFSZHRPTDMwdWtINTBiZVFzOW9kRkU1MWx6TWxkWkJQc1lYYTdIZ1U5Q1B0VlFFejUwUGlneXpCWlg2d2labVpqOUJEUlRhQ1BVNWR6amlMYU5RTk14bC1IcW9CbHFOOFBkczFhelJ6NlQ2dDd3TGxKcERTMmpPUXh3b2xtTGNjWE9nV2pFekdnQ0pNUlR3ZlhORVpfc1d0QWoyU2lrQmF2MW9ERGRRVEgwWGFMejZuV3JQQ2dEc1h5b0lLTnZUdzFVQlZN?oc=5",
+      "sourceHome": "https://www.indiatoday.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "political-tensions-rise-over-comments-on-lord-ram-and-ayodhya-temple-vis",
+      "title": "Political tensions rise over comments on Lord Ram and Ayodhya Temple visits - India Today",
+      "summary": "&nbsp;&nbsp; India Today",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "India Today",
+      "publishedAt": "2026-11-11T13:38:19.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekowTXNlUlU1Z1pVWGNpMmtWcEtJVndOV2Myb0hobVpHd3B0S2g4NmQ3akpVZjNyVlNkNmJXZXNBRk1SY1hKM3lEbjFOLWFvT3BsQ1VfWGpNb0ZjRGM0ZWpQZl8zdVNEU2JiV2hLWnFIZUNidlVyejRMamtOWWRzcEtUbU16M2kzVVd4cmE4SlUwWnlNbm9CMDRmbGhxS2k0SWoyT0h4N3Jud29YZWdkbHpfU0FtVVgwTlY4UVNRVEvSAcYBQVVfeXFMUEJNQVJiM0x4NF91WmhaWFJaNHpKZlRLUXUzS3VPNzdBU3Z1Ykp4emlLOXN4NGpTOXliV0NoRm9XYjFaaHRiZndNTzY5X0Q0MDZRYVkwWGhHWlBJcFJmdGZldzBrSE1Qa2JVVFNWVUhQNU10NGEzNTItbmlXd29JdDdQQThwMFhjRzF6em1uVURsd2xZdlVGMDhnbXNydGY4XzQ2RURtT3BCODY2VjhROVM4UEdNbFhJekNpSXVQTjA3cHRjeFB3?oc=5",
+      "sourceHome": "https://www.indiatoday.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "press-note-details-press-information-bureau-2026-11-11",
+      "title": "Press Note Details: Press Information Bureau",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-11T12:16:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3ZKS2xEek5WenljNzBUWXg3V0VLOGNOQXE1WVhOSVd1aHlMaVZRSHh1eE9TS0I0UFRfdWtOejk5MXdTZkN6YklGWGdvZENHNTBSZFY3SV9GQXpiaDIyN2RyMG1qZnJaOGNQaWIwOXBxYnRnNnk4ZmsycmZqTUNKRnJDdUEwRktnR1kteUw2V28yd1B5ZkRlZQ?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "86-of-india-s-farmers-own-less-than-2-hectares-of-land-why-it-matters-in",
+      "title": "86% of India's farmers own less than 2 hectares of land. Why it matters - India Today",
+      "summary": "&nbsp;&nbsp; India Today",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "India Today",
+      "publishedAt": "2026-11-11T12:02:32.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkxyRFlXOFBfd2VPNVhPNGRIVFN1S0toMTliMW85ZkVvUTlJWWF5OExNRnY2XzNqc2otcnN5N241RGMxbzZCd2Q4bGo3SUlmMkk0TnEtdXBjeE14TUZpU1h3WE5vX3N4VHd6VkpPNlQtVnlHTFFLUm5uUVRBTEVNOFZvdXdfQ25hRHZvcXU2MGdBejN3bnhHakpCanY1SllfYXVJWm1nMXNxVHVGaFRiZ2xUeEYwU0lUMkpLeFRTUzVoOTFSN2xv0gHMAUFVX3lxTE1HbmEzTVY0cG1iM21ZYUxYMW92YUFnUnRfUDlMRjZPc3FlV3A0dTFCa3RWT3dnR1FPT0M1eEE0NlJpblQ3ZktYN2JNRFpNQ1Q1YVp2NlNqOFNGUHdCOUU3Mm9Rd0pQSTdYTlUxVWxlNUhOOXVLWjZNQkZZUS1CQmVKZ0NtNEZPenRkRy03UGlIN2t4LTl2U1o1LXFaUjNmZzhsZ2JOUml3eTlzTTU4MFZlVEFKV3dYU3RDY1J2cnRLeGhnNFl2eGpMZ3lySg?oc=5",
+      "sourceHome": "https://www.indiatoday.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "from-importer-to-exporter-shivraj-chouhan-says-foodgrain-output-up-50-in",
+      "title": "From importer to exporter: Shivraj Chouhan says foodgrain output up 50% in decade - India Today",
+      "summary": "&nbsp;&nbsp; India Today",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "India Today",
+      "publishedAt": "2026-11-11T11:43:39.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SdIB1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SQ?oc=5",
+      "sourceHome": "https://www.indiatoday.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cultivate-alternative-crops-instead-of-paddy-2026-11-11",
+      "title": "రైతులకు కలెక్టర్ కీలక సూచన.. వరి వద్దు.. ఈ పంటలు వేస్తేనే మంచిదట..! cultivate-alternative-crops-instead-of-paddy",
+      "summary": "&nbsp;&nbsp; News18 Telugu",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "News18 Telugu",
+      "publishedAt": "2026-11-11T09:59:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdF9YcjZsQXdfZFhmcHYyaV92eThHblMtOGZZZEZ4VDFNZTVkamE2aUp3X0h6S2dQQ3VvbGo3c0h5NTlxV2VKc1BHSDJ3eHRpUVB6Q0M4cW1nTlpoU2VLV1NRRHFSY0gwaF9sZFk0VDk1cWd5MWNZZUdVZzFxaEpWT0JneWViQlR1UThkbmlPSEZHNFlQazJxZ05pVTliV1hfYXhjT0lVenA2Q0Z6TjB2LVEzeWZaY0xJbWpTOUw5aU1aRVhkMk1xSGFrdG1Dc0JHX2RlcXRaaUI3NW5DVVRDV2JuNFB6MXp0MTc5bjdHVGpZSVF5S2xLbFdQYUNYbC1XX2k1RGc5Zjd5dWRxVk96OVlzVzNkYXFscHJWU3R3Q25YMjVEX1RocVdRWDdtelItUTBEN3VsRFhBWlRjaFdCSEx4cWpqUQ?oc=5",
+      "sourceHome": "https://telugu.news18.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "broccoli-health-benefits-2026-11-11",
+      "title": "Broccoli Health Benefits | మార్కెట్లో పెరుగుతున్న ఆదరణకు కారణాలేమిటి?",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-11-11T09:36:08.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEkxdmY0d1ZNci1odGxQMWxwTWszclJmZHZjeWJENWdTbUdpVGRjQ0k0SDh3RUdiOG9PZUl5R19MdUVrRnVvMjlBd2tpVVJBZUFYbjEzaWl0bEFzd1ZBdk5MU3RWZGhZLUh2aHhUMXA0N0tIUHdsLTJlWDlEV296THJWdkN4Ylh6dHNkUQ?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "mancherial-2026-11-11",
+      "title": "Mancherial: ఎల్‌నినో ఎఫెక్ట్.. మిర్చి రైతులకు కష్టకాలం..!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
       "source": "HMTV",
-      "publishedAt": "2026-11-11T06:31:55.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0ZVRDZZSFZHeExnc2hPcW9hcm9BZ2VrV2N3UEcxNlVvVkZ0bFA5R3VhU3E1ZFk4YVhFSmZQUVVjR3hUZzNOR2lJeEpReFE2Nkg3RkQ4U0g0T25IMFowSjBOdmZLRGE4d2JrUDhhcG1RRkNhRlcxT05NSmZTdTNoVS1SdzBSOE5iaEJiWUJHNjI3LUhIbzhZcWZPNU1hWkNrWl9HSEh4cE9jbDJ3TkJoZG44WmtKWlpWY2VoR3A4Y1hha0ZEMlctNzlJMA?oc=5",
+      "publishedAt": "2026-11-11T07:14:46.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGplc3VLaGowTERKdEotRE8td1BGV2t6MEZfb3dTUTRSVmtGUzljNTJZYl80cHRqck5EaS1TTmk2TU1SNXNrS3pqT3Zuc0pQdjVfcTVVSVZVRG9pNFJRcTZFLWZPWXNHOWdwQ3I1ZVN5aVZVT0trdFRCaWRMZ1o0WVY5VW5KS3RNRTZTTXdfa1hhaGNaTGtPeC1rZW40RmJnZnFna1M3eXh1ekZnNi1TU3ZnUl8xYlIxZzN6VmEtYXBJMDBIOWVR?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cop31-el-nin-o-could-cause-11-trillion-in-global-income-losses-threaten-",
+      "title": "COP31: El Niño could cause $11 trillion in global income losses, threaten food security, IFAD warns",
+      "summary": "&nbsp;&nbsp; Down To Earth",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Down To Earth",
+      "publishedAt": "2026-11-11T06:29:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlJFeURadzdaZUZKdjg2Sk1wdnBOT0JTdW9kcmtrcGVBTlVFRThKM0dEVnpPaGxXdnlJbVpmS3RvMEZBRUxWdWFSakRKRGVqNVM4UUJhS2lfMUp5OVpZbFdBbW5URDIxaDVRMnFhM1puZFNMUklsZmcxX3Z0UW1oOE83YWhfU0RGdFJPMi11TkxFTlVUMzRYMnFaS2h3ZkVRX0FySXRFRkJrWk1qdWZ3b1RmVEVVWDgwaThiUU1mUXZpQi1HVm94Z1hTU2FVTkVMSlhxMnRZRENjX1JLVVpWb2V6MVFtdThoZTJ3UtIB7AFBVV95cUxPRlJFeURadzdaZUZKdjg2Sk1wdnBOT0JTdW9kcmtrcGVBTlVFRThKM0dEVnpPaGxXdnlJbVpmS3RvMEZBRUxWdWFSakRKRGVqNVM4UUJhS2lfMUp5OVpZbFdBbW5URDIxaDVRMnFhM1puZFNMUklsZmcxX3Z0UW1oOE83YWhfU0RGdFJPMi11TkxFTlVUMzRYMnFaS2h3ZkVRX0FySXRFRkJrWk1qdWZ3b1RmVEVVWDgwaThiUU1mUXZpQi1HVm94Z1hTU2FVTkVMSlhxMnRZRENjX1JLVVpWb2V6MVFtdThoZTJ3Ug?oc=5",
+      "sourceHome": "https://www.downtoearth.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -42,44 +241,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "broccoli-health-benefits-2026-11-10",
-      "title": "Broccoli Health Benefits | మార్కెట్లో పెరుగుతున్న ఆదరణకు కారణాలేమిటి?",
-      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhraprabha Daily",
-      "publishedAt": "2026-11-10T21:09:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEkxdmY0d1ZNci1odGxQMWxwTWszclJmZHZjeWJENWdTbUdpVGRjQ0k0SDh3RUdiOG9PZUl5R19MdUVrRnVvMjlBd2tpVVJBZUFYbjEzaWl0bEFzd1ZBdk5MU3RWZGhZLUh2aHhUMXA0N0tIUHdsLTJlWDlEV296THJWdkN4Ylh6dHNkUQ?oc=5",
-      "sourceHome": "https://prabhanews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "onion-prices-hike-80-2026-11-10",
-      "title": "Onion Prices Hike: ఉల్లి కొనాలంటే భయమే.. తెలంగాణలో కిలో రూ.80!",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-10T20:30:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkJidlpiQ2ZkUEhVY2g3S1FUS0V3Wkhya1hhSlMtSVNQaXE3ZGJad0todTE5UE9KYU1udUhlZ0IyZzNYNXFIM3N0cktxWW9RWVVKQ0h3Z0xVQ09EVkpEazVaYmN6bWRSWUFRSFkwZjZpY2dNS1dkbVJqcXlMU3lDb3ptZVFHV2xqdFh6WWFtQTVlcVBvMDBLaEtaYV9yRWF1RWxmSW5ZV2syT2k3V2RjN2FSOF9zVUZDRFE?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "haryana-registers-47-cases-for-farm-fires-21-farmers-face-red-entries-20",
       "title": "Haryana registers 47 cases for farm fires, 21 farmers face red entries",
       "summary": "&nbsp;&nbsp; The Tribune",
@@ -91,7 +252,7 @@
       "language": "en",
       "source": "The Tribune",
       "publishedAt": "2026-11-10T19:55:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1FsaTVDQmRiMVBhSXpHZjRIaWMwaFNWVGdycDRHaExsWlZSbExJU3BNUExlQVRVMkRka2x6VkpzQ1dLbkdES1Y2VkE1bmpjN1RnVGItWklQVm1ONEpHZXRXeFliN2NWNDhyYnROdFhoSTkzQzNWVGFvdEtCZHBPMHVCbEJnZlJnT3p3TTVDeGQ1cW5UdnpoNjFqQXlPN1JOSjRXT2tJa3lBTlpHUk9pdFFR0gG2AUFVX3lxTE5WZEhTQldIWUxqOHdwWF8wRTBVNWFNaHRfWDRwdUV3U21hTGdqMHhhbnFFODVwcVoybU45RExWTVFTNzdzM01fNllRdXZzcFMxWGlrXzJlZ0FURWtTdlJnWlhpOUJTLTRtTjhQX0hTaV9CMXRMcld4NE5xd1J1ZmdlV3BhQkRueDRjUERFRXZOZTZyb3ZwVndVSzdOd3pfd2dEdFNBRENhZVVHR2FUVVI0a0dZUWNB?oc=5",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIU0JXSFlMajh3cFhfMEUwVTVhTWh0X1g0cHVFd1NtYUxnajB4YW5xRTg1cHFaMm1OOURMVk1RUzc3czNNXzZZUXV2c3BTMVhpa18yZWdBVEVrU3ZSZ1pYaTlCUy00bU44UF9IU2lfQjF0THJXeDROcXdSdWZnZVdwYUJEbng0Y1BERUV2TmU2cm92cFZ3VUs3Tnd6X3dnRHRTQURDYWVVR0dhVFVSNGtHWVFjQdIBtgFBVV95cUxOVmRIU0JXSFlMajh3cFhfMEUwVTVhTWh0X1g0cHVFd1NtYUxnajB4YW5xRTg1cHFaMm1OOURMVk1RUzc3czNNXzZZUXV2c3BTMVhpa18yZWdBVEVrU3ZSZ1pYaTlCUy00bU44UF9IU2lfQjF0THJXeDROcXdSdWZnZVdwYUJEbng0Y1BERUV2TmU2cm92cFZ3VUs3Tnd6X3dnRHRTQURDYWVVR0dhVFVSNGtHWVFjQQ?oc=5",
       "sourceHome": "https://www.tribuneindia.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -115,42 +276,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farming-adilabad-farmers-overcome-losses-2026-11-10",
-      "title": "Farming: టమాటా సాగులో రైతుల కొత్త ప్లాన్.. నేలపై కాదు.. ఇలా పండిస్తూ మంచి లాభాలు..! adilabad-farmers-overcome-losses.",
-      "summary": "&nbsp;&nbsp; News18 Telugu",
-      "crop": "Tomato",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "News18 Telugu",
-      "publishedAt": "2026-11-10T15:04:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQVVVaHVWMnpVTmRGN1lYLVBVQU44ZGRubENuTGpoR2pUel80UVoxdzdqdWpYZEt3RmFWcDFrZG5ueUhKanRUSXZJM1dRbWZBYm92Z2Q3eDRnWERlT3U3YkhtV0F6WWo2X29fTHBFMWxhaWpYYzFKOTVxT210dm1zOXRuRDNnSHRwUzVYaV9WbTZLT1pBdmVhdFdFdEJUWkFHc0lKODVLb242X1lkU0FpVzUxNlNjVUc0a1hFbTgwbE01QUJDakxYVkdGT0NCbWFwTFFsbGdkRjVjNkxsWm1NdkgyVjhvajNmNVZLVlY3V3c3QQ?oc=5",
-      "sourceHome": "https://telugu.news18.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-doubles-open-market-rice-sale-target-to-5-mn-tonnes-to-cool-price",
-      "title": "Centre doubles open market rice sale target to 5 mn tonnes to cool prices",
-      "summary": "&nbsp;&nbsp; Business Standard",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-10T14:40:35.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHB6UGhVeWhVUGttdkh6czE0SmYxMm9LLW9xZHkwMW1EOHZXZjhzZDBEM3lya3hlVjlLeGN5QVRwcEtPWHZJSjM5Qm14RWluM2ZSX1YzLUNyVVFRV0lReFFZN0RrUnJ4aWM2SkVjYkpuNThIV2pvb1l3NGZpa3paYTMtN3VpWUhkT3hMSDZVVmhFSFFiS19iTUNHa2paTjBZcG1uYWwybHdOYXJ1d25VY1RqSnNmSTZZWS10eTFTcnU4OGk4dDZrb2xFeTNVX1lXamtqQVBsakR1ZEV6aXNoUHhB0gHnAUFVX3lxTE03YWJ5WnlvdkVzd3FuODlVcHV3dDE2MUExREU2c1F1Q2JOQU5HeFk5UW9UcUJyYndpMndSX3Bjd0N0M1I0eWdpSVdRX0dlTG94OS1Sbkc3d1NZTklpdll1WFFHSGNOckQ2Vm5KQU10bE9qSnpkc2hDdUo2X0VGUzNWOTRsZW9IeThXOTJMNV82RzZ0Tk1zaEZKakVkdXpZZlFONkhOcHNrQllwUW1vNUV1MlFPRWY4MnpiMGU1eEI1blhCYlNyUmxWSjlTZVIxdkJvVG9PWGpoMF96S0diYlhSR2RHdlNadw?oc=5",
-      "sourceHome": "https://www.business-standard.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-10",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
       "summary": "&nbsp;&nbsp; www.pib.gov.in",
@@ -164,59 +289,6 @@
       "publishedAt": "2026-11-10T14:16:30.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
       "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "press-note-details-press-information-bureau-2026-11-10",
-      "title": "Press Note Details: Press Information Bureau",
-      "summary": "&nbsp;&nbsp; pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "pib.gov.in",
-      "publishedAt": "2026-11-10T12:48:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeEhVTGY1SVpXcDg4dXVfcWlPcE1PeUJQZWNxZFFzX1JQX1JGRUQ0VXJ6VGpsZU15U190T09nOFZvbzlCcTFfcDRFLS1yVEczN1RBMDFmNl83aVhIQmpocWJsRGlHdDRsUGl0V0hwc05rcXpsbU9qQTJoSDI0UVMzOTNGZDRFcVNpS0VB?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "stubble-burning-karnal-admin-books-4-more-farmers-marks-red-entries-in-r",
-      "title": "Stubble burning: Karnal admin books 4 more farmers, marks red entries in revenue records",
-      "summary": "&nbsp;&nbsp; The Tribune",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Tribune",
-      "publishedAt": "2026-11-10T06:30:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnk1RmpqcGNHM3JXVm9naUoyVmxEVnVYejRtaWtnbzBJQnZtVjZnMFFUVllxeWlocFZpcG93SGRVTFRLSld3OWVzQi14eXE3M3ZyejBES0sweE9nTW1GdzRHODVZUFI5YWg2Z19BSE00cEtoS0NZdjdZaFBld2RjQXBESGR0WTh1V3FUQzR6dnlVN0NsMjZaZFowVVFvTzNON1hMLTNaTFhxVnVGa1paTkpUcktSX1dvZlJISVF6aUpvMElyUk9xRTFTMmktd9IBzgFBVV95cUxQNnk1RmpqcGNHM3JXVm9naUoyVmxEVnVYejRtaWtnbzBJQnZtVjZnMFFUVllxeWlocFZpcG93SGRVTFRLSld3OWVzQi14eXE3M3ZyejBES0sweE9nTW1GdzRHODVZUFI5YWg2Z19BSE00cEtoS0NZdjdZaFBld2RjQXBESGR0WTh1V3FUQzR6dnlVN0NsMjZaZFowVVFvTzNON1hMLTNaTFhxVnVGa1paTkpUcktSX1dvZlJISVF6aUpvMElyUk9xRTFTMmktdw?oc=5",
-      "sourceHome": "https://www.tribuneindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-2026-11-10",
-      "title": "Telangana: నాటు కోళ్ల పెంపకంతో నెలకు లక్ష ఆదాయం",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-10T06:09:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTA2M1BBd3VvRU5UWV9iSXZaZ08ycUNjcm0zQjBuaFVEY2RJblR1RUtlQkRZYkJ0N3k4SzFNTVNBQmdGSU05T1Azbzk0bFQ4Y3R1RU54X25Dc3NLZThWZnpqa2tvRldvLWE3Vm84ZjVUYVVWVnhWd3lWczZEbEZXRTVwb0xwVUhBUUdPMFFGTUVSaW5TczZjSHJ6RXh3V3gwTmlLV1VXRjVoS2NmNElPRG9ERzJ2QXB6NkQyZ243UjRVRDlndVHSAcYBQVVfeXFMUFEwNjNQQXd1b0VOVFlfYkl2WmdPMnFDY3JtM0IwbmhVRGNkSW5UdUVLZUJEWWJCdDd5OEsxTU1TQUJnRklNOU9QM285NGxUOGN0dUVOeF9uQ3NzS2U4VmZ6amtrb0ZXby1hN1ZvOGY1VGFVVlZ4Vnd5VnM2RGxGV0U1cG9McFVIQVFHTzBRRk1FUmluU3M2Y0hyekV4d1d4ME5pS1dVV0Y1aEtjZjRJT0RvREcydkFwejZEMmduN1I0VUQ5Z3VR?oc=5",
-      "sourceHome": "https://tv9telugu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -240,25 +312,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-10",
-      "title": "ఎల్‌నినో ఎఫెక్ట్.. మిల్లెట్లే బెస్ట్!",
-      "summary": "&nbsp;&nbsp; Disha daily",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Disha daily",
-      "publishedAt": "2026-11-10T02:15:52.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3JQZDZyeV9fbnhvTVNGOG4wN0l6TjIzeExkSVJKN3pWc1YtQjdRSUdxOXdWY0VYOWtjNUNZakpNNExaWWx3S1hTSlptVEU2SE9vNC0yRzlSMXJEVmdOajN5RWxDcXJ2dGdfV0lvSkdwX3lMNWlRVnFXaG9KMkVUbjRKV1JiOHFnVGZDMXNiMGQyTHBiRm1J?oc=5",
-      "sourceHome": "https://www.dishadaily.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "agricultural-films-market-size-set-to-reach-18-73-billion-by-2031-driven",
       "title": "Agricultural Films Market Size Set to Reach $18.73 Billion by 2031 Driven by Greenhouse Infrastructure and Multilayer Polyethylene Chemistries – Mordor Intelligence",
       "summary": "&nbsp;&nbsp; StreetInsider",
@@ -278,24 +331,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "a-failed-strawberry-crop-nearly-ended-his-farming-experiment-57-year-old",
-      "title": "A failed strawberry crop nearly ended his farming experiment; 57-year-old Ketan Sodha switched to soilles",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-09T16:20:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQb2l1dkNYYWVZUVlnUDJWY18wU204SndOS1VQakRfcmVvbHhtaFBXSzJ6dFJqcmpWM1ZSY0pkMmFpX1J6WVNTa1pjUjRnaVhua0hxMm00eWJMWmlhTTNrNUtDQ2ZseUd4WXZJaUtrZkYzQm1EeUZxWXlfYXZ1aUdEX190UllFVXlwdkJBM3RZQVRIamtvSFMwclBpdkU3a09qdFV5NTZzVlFpVXFVZzZyUGJEVnRZZF9UU01SRWNKcWx5Qzd6S1VBakpUZGhmVjlraDJheTVMdHN4cUlURXFUYWQwdFRNc25ibW5YZXBWeVl1b1FhOVRXa2xLdWt1ZW5YWDdJMHNOcmc2MzdiMk5aN1BMWlZQNDBwSEsyYW5tTDhUVVFRcUVBMzhZeVZpV2NBVXMzX0FfdzRPdk1KN0FLYl9ValVTOHA5VFo2MUhhbTF3ZGpBTWZBcHU0WkdUUkNacjl3R0Vkdmh2ZlFYbEFLbDBLY19yMzg2UkFpSWhSNXBpNmRwSHRqUElrMNIBiwNBVV95cUxQb2l1dkNYYWVZUVlnUDJWY18wU204SndOS1VQakRfcmVvbHhtaFBXSzJ6dFJqcmpWM1ZSY0pkMmFpX1J6WVNTa1pjUjRnaVhua0hxMm00eWJMWmlhTTNrNUtDQ2ZseUd4WXZJaUtrZkYzQm1EeUZxWXlfYXZ1aUdEX190UllFVXlwdkJBM3RZQVRIamtvSFMwclBpdkU3a09qdFV5NTZzVlFpVXFVZzZyUGJEVnRZZF9UU01SRWNKcWx5Qzd6S1VBakpUZGhmVjlraDJheTVMdHN4cUlURXFUYWQwdFRNc25ibW5YZXBWeVl1b1FhOVRXa2xLdWt1ZW5YWDdJMHNOcmc2MzdiMk5aN1BMWlZQNDBwSEsyYW5tTDhUVVFRcUVBMzhZeVZpV2NBVXMzX0FfdzRPdk1KN0FLYl9ValVTOHA5VFo2MUhhbTF3ZGpBTWZBcHU0WkdUUkNacjl3R0Vkdmh2ZlFYbEFLbDBLY19yMzg2UkFpSWhSNXBpNmRwSHRqUElrMA?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "top-10-best-agritech-companies-in-india-in-2027-2026-11-09",
       "title": "Top 10 Best Agritech Companies In India In 2027",
       "summary": "&nbsp;&nbsp; Inventiva",
@@ -310,24 +345,6 @@
       "publishedAt": "2026-11-09T08:02:58.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemVZdWk3NTZuY1E2UkVhVFNMSnJjUjNTdGdqNXluWFJOZEY4RWJ5QXg5Vkk2Z1RNQ19lbkdHVUphUlRUMmNRWXVyamRNUmhQSUphanlqNFEySm1FSVdWNmNtV2RDZzE2ei03WmlfOVk0UjZDa1ZMVmJyQlphSDNfVHNhM1VoTVhOZk1B?oc=5",
       "sourceHome": "https://www.inventiva.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "ai-brings-new-possibilities-to-tropical-farming-regional-cooperation-202",
-      "title": "AI brings new possibilities to tropical farming, regional cooperation",
-      "summary": "&nbsp;&nbsp; India's News.Net",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "India's News.Net",
-      "publishedAt": "2026-11-09T07:17:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUlpNkNqRFExTlFWYXZTQUt4SGNWdmxWR21LRXFTeFNqdkEzY1hRSjJESTdzVWZHLVA4cWRZcTBzWUZMSzQ2R1U1bExVZEEyQzRHV3ZsRDBLVnJ2Z01tQno0aXhiNEZzZGVWOHJfNXk0SHVZTmhLb0hxem5WeldhbzVkNU9STGlrRmFqc3JVLWFncGV0UGd3U2JOUW10Q0pDb1RiM3FIbWVwMVZEVFRN?oc=5",
-      "sourceHome": "https://www.indiasnews.net",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
