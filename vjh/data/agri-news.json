@@ -1,9 +1,101 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T07:29:04.345Z",
+  "generatedAt": "2026-11-13T07:00:18.570Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "from-food-security-to-food-sovereignty-why-india-needs-to-fix-the-pds-20",
+      "title": "From food security to food sovereignty: Why India needs to fix the PDS",
+      "summary": "&nbsp;&nbsp; Ideas for India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Ideas for India",
+      "publishedAt": "2026-11-13T04:29:59.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUo3ZThpQXlFSjJ1UTV5VnNuZk1pOTgyQS1sR0RfRUdxWTRyZ3pfWGpLV18wVk5lTkNsODFVaDVlcXpaVVQtbnlsRW00Z1Y1UEl3RjVBcllfSEdSa3ZMQ1lpS1dXaTBEWnZWa1ZucUtGN21QTkdtRTFLM29UV1ZtZ3VleUFSSHFjNEhRRnI1bXFYQi14RC02dVdkOURXMXF3eG5LWEFIQk1FOXhMUFZBWVFHNC1GNmdP?oc=5",
+      "sourceHome": "https://www.ideasforindia.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-13",
+      "title": "వెలుగు స్పెషల్: మాగాణి భూముల్లో ..కూరగాయల సాగుకు ప్రాధాన్యమివ్వాలి",
+      "summary": "&nbsp;&nbsp; V6 Velugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "V6 Velugu",
+      "publishedAt": "2026-11-13T01:47:23.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjlHZnBpRmZLM2ZwOXZ3dFFXMXRMVEhNQlc3cXNkVHd2aWNoRi1hM3B2V0g2WUJwWUZ2N0VVcjFFVFhBb1BvSmtiYjVscWd4TnFERmJzblNob0ZyNHVjUWxOQVpueVpwajFJYkZXZVJhcGZ3VUpDX3NyNzhQLXRieGdxbDJkT0pqNk9BMmppbnFCLWZuSEVKTzN0SjFEbzFNTkhNNkNVenhCTTRfdk5XU3R0WUY2cTQ?oc=5",
+      "sourceHome": "https://www.v6velugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "bharat-vistar-services-now-available-in-tg-thummala-2026-11-12",
+      "title": "Bharat Vistar services now available in TG: Thummala",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-11-12T19:34:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnZMYzFJVkpuQ2cxWl9wLWxtSXNXMFlPbzEwRkpZVVl1NU5RWWVrb2NFN2ZIODZDYi1Nb0xLaDVFX3Y1RXQxVnpEQnFacnZuTmpyTXNtaXV6VWRsZVJTb0h6RUh1QjcwV2dqcW5iaVR1Ykd2a3lHczRUajBiQWM5VTh3UkNleklVdUxrNVBqOF9RSWxnNkk3V2h5QlV3cHhhbkh6WERwUlpLQzhPVGk3d1Q3TjLSAbQBQVVfeXFMTXJ2TGMxSVZKbkNnMVpfcC1sbUlzVzBZT28xMEZKWVVZdTVOUVlla29jRTdmSDg2Q2ItTW9MS2g1RV92NUV0MVZ6REJxWnJ2bk5qck1zbWl1elVkbGVSU29IekVIdUI3MFdnanFuYmlUdWJHdmt5R3M0VGowYkFjOVU4d1JDZXpJVXVMazVQajhfUUlsZzZJN1doeUJVd3B4YW5IelhEcFJaS0M4T1RpN3dUN04y?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-ties-up-with-nisg-to-bring-ai-agri-advisory-bharat-vistaar-in-",
+      "title": "Telangana ties up with NISG to bring AI agri-advisory Bharat-Vistaar in Telugu",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-12T18:23:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTmljeFhMaUVlV0JKdk0xNk5ubG1WOTNmUG5EMTJSbXpfQWZ0eE5ac3RMOHgzSGFXRVdtMGNLeFg5ZS0tbDBVXzhmUE56Qzd4WDFZRFhYUk85eUlLV2J1VGxVek5vbUtXeVhTbjBkb2oxQkJxZWpLLWkzb0xrb1gzeXlITXJIZHFTSVVSSHEtLUlEOUJUVHBhWVNYNndBWEZNZ3l2MW1Xb1NZeUhWSGRwRXo1NTlfeGl3MVdQYTRObTZNOURlNmpZWjI3RWVRZW93VHhkRGhLbXJoNkwwVHE5cTZCSFFUM1J0ZEt30gHwAUFVX3lxTFBtblhXOThPbWY3Q25QUDZlcXR0U1lWaXZaczFsTFI4ZlZLUVJtdVNwTTlNMVBla2liSnRDSzR4aGNmWm9zM1Q1bVNRalR1NllrblRKdlJMUFB6M2hTMC04Skx0VTdFMWlicUlRbmd3V0wwZkZyQ3ZfUTNCYXE4RlVWcF9TeUdCcndLQ0g5TzV3c0VrQlZyR0RjM0pWLU81bGhvb25JamNsZlozUjNNRnlFMm5wTk8yOXZ6OUkwZkFsVE5wY3JGYWF5R3ljQ01nbkxPSEhEQ2ZBZ0VndU9MNlU4Y0ZvcG1wM25LeGRHX19IdQ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "smallholder-farmers-struggle-on-el-nin-o-frontline-will-the-world-help-2",
+      "title": "Smallholder farmers struggle on El Niño frontline; will the world help?",
+      "summary": "&nbsp;&nbsp; news - Mongabay",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "news - Mongabay",
+      "publishedAt": "2026-11-12T16:46:15.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmhpVmd6VWE2TW0zbmtVb3V0b29WYldzd0sweERwX0g3WG1MdDRndjhNZ0RTQ1YzQU80RjFrNm9CYjBveHNpc0txeXBQQVVuQ0otWnhETjBRTWtzdnhOVGJQNmF1ZzU1ang0RjVPclB3MXoxZXUxRkJmcDhpYTk2RFMyUENBN0VkdFMwWUplQU9rblpSdl9QdDZ6b0dXemtoQ1BpQ0ZjUdIBrAFBVV95cUxPQVpndWRkTkpfekN4bnZqcGlqR3BiaDdfckFhNFBhUGtIT3dGbUg0ZXQzTGNVVmxRdE5sZWFUZ3M2T2RNU0hMMmNsZ1lBdFQ5NWotTlZCTTFtNXdhZDZNc05aVU9VbEtnaFBxMl9qaWd1b1BLbDlxMmF3THloRFNvQzg4QkRiX3U2WE1sTnR4Z3N6ZDZpdndXZ19WT3h6clUyZWJNX2dtT3hPYm5m?oc=5",
+      "sourceHome": "https://news.mongabay.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "stubble-burning-bks-seeks-msp-for-crop-residue-withdrawal-of-fines-again",
       "title": "Stubble Burning: BKS seeks MSP for crop residue, withdrawal of fines against farmers",
@@ -22,21 +114,36 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-11",
-      "title": "వరి పంట తప్ప..!",
-      "summary": "&nbsp;&nbsp; Andhrajyothy",
-      "crop": "Paddy",
-      "type": "scheme",
+      "id": "haryana-s-farmers-fill-the-nation-s-granaries-says-cm-nayab-singh-saini-",
+      "title": "Haryana’s Farmers Fill the Nation’s Granaries, Says CM Nayab Singh Saini; Highlights Irrigation, MSP Procurement and Natural Farming",
+      "summary": "&nbsp;&nbsp; thepublicworld.com",
+      "crop": "All",
+      "type": "market",
       "regions": [
-        "telangana",
-        "south",
         "india"
       ],
-      "language": "te",
-      "source": "Andhrajyothy",
-      "publishedAt": "2026-11-11T22:36:58.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc19fb3U0OGVKbE5uVVBkT3A3SGJ1NjhjSERYdkJkUHR6R2k0S1VSMFM0ek5OdFhzWmU5Znk4ZHZEd19WQmZPQ25NTlV2aENLVEpJMXNoc3FGU2xod0g4Q05Zb0FibHlZVnItNlJtbnREUjZnZ0dQNUVsdmVYaTB6Ui0zZTJYQjNkUTc3d2hBSWZLcGlqaU91NHZZRk5PVUlrVmNySzZnNFFtYVd5RjdhWTNwY2NycmRBTVJaRXA1TFVsSnN5SjhrLVIzcVp2Zw?oc=5",
-      "sourceHome": "https://www.andhrajyothy.com",
+      "language": "en",
+      "source": "thepublicworld.com",
+      "publishedAt": "2026-11-11T22:20:27.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ieHMtOTNiZUFvRERlb3F6R29UdTNMYnUyYXlmS25KNE5mbTlQWWdjcXd1YjZQeDVSc2ZEQWIxcE1fN2JWWVAzRlZjZldDUWMxSUN0TA?oc=5",
+      "sourceHome": "https://thepublicworld.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-11",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-11T20:07:46.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjd1l1OHQyU0ZmOXBTUXg3Qm9PT1hJamQtd0dUODcyalVLQVVKVEdDc3lVUmFPOE5yc1RzbnEwa0E3V211NmFHNDVfOFVDb2FzMVlZbWNLdjB0UDV2YlNIRzI5MHBZNERPRTNPSDlMdDkzQ2FtQnpyQw?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -129,6 +236,23 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-11-11T11:59:51.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "from-importer-to-exporter-shivraj-chouhan-says-foodgrain-output-up-50-in",
       "title": "From importer to exporter: Shivraj Chouhan says foodgrain output up 50% in decade - India Today",
       "summary": "&nbsp;&nbsp; India Today",
@@ -143,44 +267,6 @@
       "publishedAt": "2026-11-11T11:43:39.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SdIB1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SQ?oc=5",
       "sourceHome": "https://www.indiatoday.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "cultivate-alternative-crops-instead-of-paddy-2026-11-11",
-      "title": "రైతులకు కలెక్టర్ కీలక సూచన.. వరి వద్దు.. ఈ పంటలు వేస్తేనే మంచిదట..! cultivate-alternative-crops-instead-of-paddy",
-      "summary": "&nbsp;&nbsp; News18 Telugu",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "News18 Telugu",
-      "publishedAt": "2026-11-11T09:59:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdF9YcjZsQXdfZFhmcHYyaV92eThHblMtOGZZZEZ4VDFNZTVkamE2aUp3X0h6S2dQQ3VvbGo3c0h5NTlxV2VKc1BHSDJ3eHRpUVB6Q0M4cW1nTlpoU2VLV1NRRHFSY0gwaF9sZFk0VDk1cWd5MWNZZUdVZzFxaEpWT0JneWViQlR1UThkbmlPSEZHNFlQazJxZ05pVTliV1hfYXhjT0lVenA2Q0Z6TjB2LVEzeWZaY0xJbWpTOUw5aU1aRVhkMk1xSGFrdG1Dc0JHX2RlcXRaaUI3NW5DVVRDV2JuNFB6MXp0MTc5bjdHVGpZSVF5S2xLbFdQYUNYbC1XX2k1RGc5Zjd5dWRxVk96OVlzVzNkYXFscHJWU3R3Q25YMjVEX1RocVdRWDdtelItUTBEN3VsRFhBWlRjaFdCSEx4cWpqUQ?oc=5",
-      "sourceHome": "https://telugu.news18.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "broccoli-health-benefits-2026-11-11",
-      "title": "Broccoli Health Benefits | మార్కెట్లో పెరుగుతున్న ఆదరణకు కారణాలేమిటి?",
-      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhraprabha Daily",
-      "publishedAt": "2026-11-11T09:36:08.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMEkxdmY0d1ZNci1odGxQMWxwTWszclJmZHZjeWJENWdTbUdpVGRjQ0k0SDh3RUdiOG9PZUl5R19MdUVrRnVvMjlBd2tpVVJBZUFYbjEzaWl0bEFzd1ZBdk5MU3RWZGhZLUh2aHhUMXA0N0tIUHdsLTJlWDlEV296THJWdkN4Ylh6dHNkUQ?oc=5",
-      "sourceHome": "https://prabhanews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -241,23 +327,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "haryana-registers-47-cases-for-farm-fires-21-farmers-face-red-entries-20",
-      "title": "Haryana registers 47 cases for farm fires, 21 farmers face red entries",
-      "summary": "&nbsp;&nbsp; The Tribune",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Tribune",
-      "publishedAt": "2026-11-10T19:55:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRIU0JXSFlMajh3cFhfMEUwVTVhTWh0X1g0cHVFd1NtYUxnajB4YW5xRTg1cHFaMm1OOURMVk1RUzc3czNNXzZZUXV2c3BTMVhpa18yZWdBVEVrU3ZSZ1pYaTlCUy00bU44UF9IU2lfQjF0THJXeDROcXdSdWZnZVdwYUJEbng0Y1BERUV2TmU2cm92cFZ3VUs3Tnd6X3dnRHRTQURDYWVVR0dhVFVSNGtHWVFjQdIBtgFBVV95cUxOVmRIU0JXSFlMajh3cFhfMEUwVTVhTWh0X1g0cHVFd1NtYUxnajB4YW5xRTg1cHFaMm1OOURMVk1RUzc3czNNXzZZUXV2c3BTMVhpa18yZWdBVEVrU3ZSZ1pYaTlCUy00bU44UF9IU2lfQjF0THJXeDROcXdSdWZnZVdwYUJEbng0Y1BERUV2TmU2cm92cFZ3VUs3Tnd6X3dnRHRTQURDYWVVR0dhVFVSNGtHWVFjQQ?oc=5",
-      "sourceHome": "https://www.tribuneindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "india-s-sugar-cane-is-too-dry-and-consumers-will-pay-the-price-2026-11-1",
       "title": "India's sugar cane is too dry and consumers will pay the price",
       "summary": "&nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
@@ -272,79 +341,6 @@
       "publishedAt": "2026-11-10T18:57:56.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTQ4dmY5YldlanZUNmNvaVZBLTdyLWdWOTFIR1QwRXZYcWZKbDJjeXJrODZFSmE3dzQtdTFmSG5xWGh1RVV0aDRScGo3cUFDMmZnR1JILUJ3SmhtczV6TGhrQUFXaGFleGU0STVSRjVLYWdJSlNMZjVzNDQzUFE5S3dSV25ZUzRSZDRvMjB1b1dUZTZEUGwyVFJKTHVpMXpIaWZXZldnOUs?oc=5",
       "sourceHome": "https://www.abc.net.au",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-10",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-10T14:16:30.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "onion-prices-2026-11-10",
-      "title": "Onion Prices: సామాన్యుడి కంట కన్నీరు.. భగ్గుమంటున్న ఉల్లి ధరలు..!",
-      "summary": "&nbsp;&nbsp; NTV Telugu",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "NTV Telugu",
-      "publishedAt": "2026-11-10T02:55:22.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXAtNFB3cHNsUFVBX1FSUTB0aHNKUF9KMzh5Yk9kc3ltUng2akhmRE96X0dPWkdrLW1IeUpmQ2pRSkY2MUFKRGpJVnJHb2VjeXgwS3JSUmROWi1qNzZQNTV4cnZ0bkNJdFZYcUhqT3JQbm55QlVzWkFSdGlzUUt3YnpJS1lMLWRyajc3c1ZNbUVuUU9ueTVOZEdpQmYzRnQ0LVB4TDVyT2ZRR3FrQlFwS1NaY9IBswFBVV95cUxQMXAtNFB3cHNsUFVBX1FSUTB0aHNKUF9KMzh5Yk9kc3ltUng2akhmRE96X0dPWkdrLW1IeUpmQ2pRSkY2MUFKRGpJVnJHb2VjeXgwS3JSUmROWi1qNzZQNTV4cnZ0bkNJdFZYcUhqT3JQbm55QlVzWkFSdGlzUUt3YnpJS1lMLWRyajc3c1ZNbUVuUU9ueTVOZEdpQmYzRnQ0LVB4TDVyT2ZRR3FrQlFwS1NaYw?oc=5",
-      "sourceHome": "https://ntvtelugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "agricultural-films-market-size-set-to-reach-18-73-billion-by-2031-driven",
-      "title": "Agricultural Films Market Size Set to Reach $18.73 Billion by 2031 Driven by Greenhouse Infrastructure and Multilayer Polyethylene Chemistries – Mordor Intelligence",
-      "summary": "&nbsp;&nbsp; StreetInsider",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "StreetInsider",
-      "publishedAt": "2026-11-10T00:46:52.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQmg5Tm9waE5rNWllS1U4dk41MWVVLXlPZXVRdWdPSlI2YzNKMEJ1RkxEa05OV1ZfaVgxbjZHMzB1ejZPQ3R5OEF5bF9QS0FFYzRsN0h3bTZVSlJ1cW5JVDQzV1k4dHhCVU5jVnFLQnppbkdveXp6cDJZMG5zX2s4OUlnLUdYb1FCQ0NnblR1aG1icVVMSFNqclhKX1czb2dkNFNlTFdvbjhyR2JLX1VWR1FvMzVDWTVqVzNTUmhrQXROYlFsQWs4cjZxaTBubnRWaFFuV1ZfMFFWMkVjUS1nM1BuVXVhNHFmS255N3dTTFBwV0lJdk5hVVpOSjZqdGtzUllaSXZ4YUFweUVoNVRqUTVRck5rVEdYYmFhTldrSWpUODVTNTI3ejRRdXNkME1wVXdBSUYxNlZWck9ubXpWQVV6bFhibFExYXc?oc=5",
-      "sourceHome": "https://www.streetinsider.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "top-10-best-agritech-companies-in-india-in-2027-2026-11-09",
-      "title": "Top 10 Best Agritech Companies In India In 2027",
-      "summary": "&nbsp;&nbsp; Inventiva",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Inventiva",
-      "publishedAt": "2026-11-09T08:02:58.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemVZdWk3NTZuY1E2UkVhVFNMSnJjUjNTdGdqNXluWFJOZEY4RWJ5QXg5Vkk2Z1RNQ19lbkdHVUphUlRUMmNRWXVyamRNUmhQSUphanlqNFEySm1FSVdWNmNtV2RDZzE2ei03WmlfOVk0UjZDa1ZMVmJyQlphSDNfVHNhM1VoTVhOZk1B?oc=5",
-      "sourceHome": "https://www.inventiva.co.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
