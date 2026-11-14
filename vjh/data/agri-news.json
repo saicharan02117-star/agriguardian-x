@@ -1,9 +1,132 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T07:00:18.570Z",
+  "generatedAt": "2026-11-14T06:49:41.186Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "bharat-vistaar-to-empower-telangana-farmers-with-six-ai-powered-agricult",
+      "title": "BHARAT-VISTAAR to Empower Telangana Farmers with Six AI-Powered Agricultural Services",
+      "summary": "&nbsp;&nbsp; Munsif News 24x7",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Munsif News 24x7",
+      "publishedAt": "2026-11-14T06:12:14.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVhQeGJXLUxfWDFuZlhiRVU2cTZ5bkxBUlUtLVdFeVhHNkkyem5xS1d3dlFMTHlNaDhxVnNKVmFOamxfYnhiMFdqZjM0YkVuWXljRy11MnE2ZmVacXpCRVVlVmlReUhFaEs4TEFXck4xWDl6Y2FGUkJyYkxsOTFYMmFtYi1CR2VxRUJsTk5ld3JvZw?oc=5",
+      "sourceHome": "https://munsifdaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cabinet-approves-higher-msp-for-14-kharif-crops-for-2026-27-marketing-se",
+      "title": "Cabinet approves higher MSP for 14 Kharif crops for 2026-27 marketing season",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-13T18:45:02.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGJSNkRGOEd6ZmVOUUlDTGxPdl9xaFIzUHZYN0pRcnc4Y1JraTRKeGliWGtyMHRpN0pWS1BCMUJwZ1RkUEpndkRwNFNqMlRJSkRqaHE4WTJnSlNnZHBUVFhfZ3BhY1o3VU1MX2NlM2l4ZFd5Y043VXRrU0JvWUNkRU43RjNpOFBodzFLdG9DeDJKTU5QRWFyUzFSZ2NGMFZJLThXQg?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
+      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-13T18:28:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "need-a-shift-from-higher-yields-to-nutrient-efficient-crops-to-cut-ferti",
+      "title": "Need a shift from higher yields to nutrient-efficient crops to cut fertiliser dependence: ICAR’s Jat",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-13T12:14:13.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbTVMRVRKSDBPZ05OLWpYaFdCd2xFSDJLbnlENFpqcWFtQUs0WWEzMzVwTWxoYzQ3VDlCc2lCaEl2dDA1ckhONnRndEp6cnZiU1BSLWpNVll5NG5xMU1HYUtaQTJRYlNpOUV1dm1XbmFQb2lCZDI4M3BwVHRQVUpEdG9RVEhrYWMwVDBobm55bjBLRnlnNVdsa1lMLTY2UGMtcmRpckRoS3FmcjFaeGk1dHpMWmZCNjM0Zm5pZmctc0NPMHMteURKY0RncHVsVW1YcjBmOXdYTmdvaldveHhqaW9TOHF1TzExVTRIV0lLZEo0bnA1MGk5b19UeVRuV1NOeDVNTVRqeEbSAY4CQVVfeXFMTko2UVV6SFNkQ0RiV29QY09WZFV0VWlsR3A4eXkwQ3kxNzlHNTdOUXN3eW5YNzVBSHA5NGpfSnQzb0pVMHhxS1dDWWVIQUJsVGs5YjhhUGpMYV9yZmptOU40Z1lGRzlUeDBySUdjVXBKaHhfdVJmUEpaemZPMF8xbjZmb3ViTVhIYWxfTlBGV0V1bFk4bC03TllKU1JvbjZJc1V5VFRnWVJUTmRxZVBaenB2d1pSckF3YlM2QUZXbHp3bGJoVS1lSkI1Z3o2YlZ5Vzc4c2JlcS1vQVVRXzJSU3FXRFFMUG5GdUQxaGd0ZE5ocEpmXzRIaFY2MEdjbjc3TTR5M1REZVdSazRqYkV3?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
+      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
+      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Indian Council Of Agricultural Research",
+      "publishedAt": "2026-11-13T11:59:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
+      "sourceHome": "https://icar.org.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "when-ai-helps-farmers-plan-better-2026-11-13",
+      "title": "When AI helps farmers plan better",
+      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-13T09:56:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWl2ZHpBQlN0dlRhZmt5VU03dl92enVESDZUZHJPbUh2QVlIRkw1c1FSMWlhVFhCemEyVXp0amtwcmVOSS1HVzhHQlhpVVVienBxeFZSemxaRzNJMVFmUTdXNUtwVE14WThFVktmc29SbFB3MDdtdTNsZVNFUGd4ZkhtOE4wdzlwRDZhcGppSzZIZ19rQWNtdFFrRnktQdIBngFBVV95cUxNQWl2ZHpBQlN0dlRhZmt5VU03dl92enVESDZUZHJPbUh2QVlIRkw1c1FSMWlhVFhCemEyVXp0amtwcmVOSS1HVzhHQlhpVVVienBxeFZSemxaRzNJMVFmUTdXNUtwVE14WThFVktmc29SbFB3MDdtdTNsZVNFUGd4ZkhtOE4wdzlwRDZhcGppSzZIZ19rQWNtdFFrRnktQQ?oc=5",
+      "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
+      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-11-13T05:55:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "from-food-security-to-food-sovereignty-why-india-needs-to-fix-the-pds-20",
       "title": "From food security to food sovereignty: Why India needs to fix the PDS",
@@ -22,9 +145,9 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-13",
-      "title": "వెలుగు స్పెషల్: మాగాణి భూముల్లో ..కూరగాయల సాగుకు ప్రాధాన్యమివ్వాలి",
-      "summary": "&nbsp;&nbsp; V6 Velugu",
+      "id": "2026-11-12",
+      "title": "ఏఐ ఆధారిత వ్యవసాయ సేవలకు ‘భారత్‌ విస్తార్‌’",
+      "summary": "&nbsp;&nbsp; Andhrajyothy",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -33,10 +156,10 @@
         "india"
       ],
       "language": "te",
-      "source": "V6 Velugu",
-      "publishedAt": "2026-11-13T01:47:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjlHZnBpRmZLM2ZwOXZ3dFFXMXRMVEhNQlc3cXNkVHd2aWNoRi1hM3B2V0g2WUJwWUZ2N0VVcjFFVFhBb1BvSmtiYjVscWd4TnFERmJzblNob0ZyNHVjUWxOQVpueVpwajFJYkZXZVJhcGZ3VUpDX3NyNzhQLXRieGdxbDJkT0pqNk9BMmppbnFCLWZuSEVKTzN0SjFEbzFNTkhNNkNVenhCTTRfdk5XU3R0WUY2cTQ?oc=5",
-      "sourceHome": "https://www.v6velugu.com",
+      "source": "Andhrajyothy",
+      "publishedAt": "2026-11-12T23:01:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOC1yMWJIRlF2U2FjV0pfYTJPOVd4N1ptMGlzeDIxTVhVSEN0dWVyREZvYWdxeWUzalpDajNocC1uVVZmZHRYTmhMTERXLU5yWEgtcFQwRXZha2tnaW5UcDNvOEoxNmxQWjNpZ2RkVnpGaGlrT0dxRS13M3Mwa0hFbmVuaVY2bFNRQ2ZLbmVnZlg5NHkxR1g5SjVGQTVUUmxyU3N6dWthOGxqdFcxcTdIMkR1c3VRTTc2U21oOU1OYWdSTVF2TWNleXd6dFdoel9DVzd5UHhJb0tHU2tKcmgzUg?oc=5",
+      "sourceHome": "https://www.andhrajyothy.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -97,57 +220,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "stubble-burning-bks-seeks-msp-for-crop-residue-withdrawal-of-fines-again",
-      "title": "Stubble Burning: BKS seeks MSP for crop residue, withdrawal of fines against farmers",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-12T05:18:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRXQ0Y3hGOF9LbTdldWlVMWpRMDFiRXhzc2Q1NUtBdmRON29HV3VWeEkyZl8yd2lBOGZZQ3hSZl9JQXFqY3RxYXZtMW43VWFqWlZyWm1tV1lFeDRRT29UekpVVFFKLU1SRk9VMEJwWl90SnBxQ2R6ZVRDM09GanlNVGxJMDRqRFNNeFc4bDlzTjJXU0tKbmNrdVVvS3JFa05zWTFzTkxpdkRDSGpzUmZUMm1KUVp2Z1ZYY25yQXVkQzRTX1VUdkx0QzFRa0NqOUE4ZXRDN2NuVk5LSWhOV3E4V3puckVOOFlxNkt3YTFyTDZkUlnSAfgBQVVfeXFMUElOX1MyV3ZvTWtLNkRxRVd2NGFUZHRTRXFUVExiWllxSFRpVTVjRXo3UTVHR09GUzNEYVN1eXBqekxPR3FjSWh0X25TMG1aMEpPV2VGMmh2aVQ4b1NQZnEyZUhDeVZYYkVsQzVGTloyME5uOVFtMkJQdmFDeGFQQV9leHZ1LW5ISmxMTE9UQzgyQ0x3alFCTnlsWHE3REhmWkRMWEJPbUdiekxXZXphQzBKZ1A4ZWtHNEJNeVpzNm1rNVBqUG9SR0dDakU3cHAzMExubDUyMEZCamRLaUxBa3FlRTdvaEZZYnU0MC1ZWnhmcWJuakZqVkg?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "haryana-s-farmers-fill-the-nation-s-granaries-says-cm-nayab-singh-saini-",
-      "title": "Haryana’s Farmers Fill the Nation’s Granaries, Says CM Nayab Singh Saini; Highlights Irrigation, MSP Procurement and Natural Farming",
-      "summary": "&nbsp;&nbsp; thepublicworld.com",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "thepublicworld.com",
-      "publishedAt": "2026-11-11T22:20:27.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ieHMtOTNiZUFvRERlb3F6R29UdTNMYnUyYXlmS25KNE5mbTlQWWdjcXd1YjZQeDVSc2ZEQWIxcE1fN2JWWVAzRlZjZldDUWMxSUN0TA?oc=5",
-      "sourceHome": "https://thepublicworld.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-11",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-11T20:07:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjd1l1OHQyU0ZmOXBTUXg3Qm9PT1hJamQtd0dUODcyalVLQVVKVEdDc3lVUmFPOE5yc1RzbnEwa0E3V211NmFHNDVfOFVDb2FzMVlZbWNLdjB0UDV2YlNIRzI5MHBZNERPRTNPSDlMdDkzQ2FtQnpyQw?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "crop-disease-detection-market-size-and-growth-report-2034-2026-11-11",
       "title": "Crop Disease Detection Market Size and Growth Report 2034",
       "summary": "&nbsp;&nbsp; Fortune Business Insights",
@@ -162,23 +234,6 @@
       "publishedAt": "2026-11-11T18:09:05.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX09sR1N1Z1RNdms4M2RpWV9NVGl2ME5VT2d3OUNRQVBGVEZHenZzOG5MWTgtc1BaZnNiTURRN1V2akw5NVlwLTRCOVlDdTQ3WkpRc1Joa2FWY3U2UF9GR1VwdHpxVGRxdjNzc0g3NV9wQzBmWHFVenpHeFFRcUpXTFBB?oc=5",
       "sourceHome": "https://www.fortunebusinessinsights.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "haryana-cm-nayab-saini-says-farm-portal-curbed-fertiliser-misuse-saved-c",
-      "title": "Haryana CM Nayab Saini says farm portal curbed fertiliser misuse, saved Centre's subsidy",
-      "summary": "&nbsp;&nbsp; India Today",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "India Today",
-      "publishedAt": "2026-11-11T16:45:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVcxLWgwY1hkVXNEdW1WSE9DZDNFSm9MTUluYUkzTlFLdUVGb3hmOEwtZjJOT2ZHMGFPRGVWLXpIOS1UMVgxbGVjaG5xckRIcTFXbGhuemlmSEZqdVBXSnQ0aU02V3JvWFVIRWxnLTJpVnB6eC1PcXpGY1MtaEhwaERMVm9rMGxsVGl1TUgzX3BsSEhEeXQtTk15THd6STNFaDdSZ0hmcnR1aW55dDBsaU4xSjl3c3hlaUllRDA4Z1RrVUltQVFxc2dXbXJodS1URGN0OVhSc9IB3AFBVV95cUxPemJPVGQ3bzlqTC1PZEdOaFFSZHRPTDMwdWtINTBiZVFzOW9kRkU1MWx6TWxkWkJQc1lYYTdIZ1U5Q1B0VlFFejUwUGlneXpCWlg2d2labVpqOUJEUlRhQ1BVNWR6amlMYU5RTk14bC1IcW9CbHFOOFBkczFhelJ6NlQ2dDd3TGxKcERTMmpPUXh3b2xtTGNjWE9nV2pFekdnQ0pNUlR3ZlhORVpfc1d0QWoyU2lrQmF2MW9ERGRRVEgwWGFMejZuV3JQQ2dEc1h5b0lLTnZUdzFVQlZN?oc=5",
-      "sourceHome": "https://www.indiatoday.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -201,23 +256,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "press-note-details-press-information-bureau-2026-11-11",
-      "title": "Press Note Details: Press Information Bureau",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-11T12:16:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3ZKS2xEek5WenljNzBUWXg3V0VLOGNOQXE1WVhOSVd1aHlMaVZRSHh1eE9TS0I0UFRfdWtOejk5MXdTZkN6YklGWGdvZENHNTBSZFY3SV9GQXpiaDIyN2RyMG1qZnJaOGNQaWIwOXBxYnRnNnk4ZmsycmZqTUNKRnJDdUEwRktnR1kteUw2V28yd1B5ZkRlZQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "86-of-india-s-farmers-own-less-than-2-hectares-of-land-why-it-matters-in",
       "title": "86% of India's farmers own less than 2 hectares of land. Why it matters - India Today",
       "summary": "&nbsp;&nbsp; India Today",
@@ -232,23 +270,6 @@
       "publishedAt": "2026-11-11T12:02:32.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkxyRFlXOFBfd2VPNVhPNGRIVFN1S0toMTliMW85ZkVvUTlJWWF5OExNRnY2XzNqc2otcnN5N241RGMxbzZCd2Q4bGo3SUlmMkk0TnEtdXBjeE14TUZpU1h3WE5vX3N4VHd6VkpPNlQtVnlHTFFLUm5uUVRBTEVNOFZvdXdfQ25hRHZvcXU2MGdBejN3bnhHakpCanY1SllfYXVJWm1nMXNxVHVGaFRiZ2xUeEYwU0lUMkpLeFRTUzVoOTFSN2xv0gHMAUFVX3lxTE1HbmEzTVY0cG1iM21ZYUxYMW92YUFnUnRfUDlMRjZPc3FlV3A0dTFCa3RWT3dnR1FPT0M1eEE0NlJpblQ3ZktYN2JNRFpNQ1Q1YVp2NlNqOFNGUHdCOUU3Mm9Rd0pQSTdYTlUxVWxlNUhOOXVLWjZNQkZZUS1CQmVKZ0NtNEZPenRkRy03UGlIN2t4LTl2U1o1LXFaUjNmZzhsZ2JOUml3eTlzTTU4MFZlVEFKV3dYU3RDY1J2cnRLeGhnNFl2eGpMZ3lySg?oc=5",
       "sourceHome": "https://www.indiatoday.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
-      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
-      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Indian Council Of Agricultural Research",
-      "publishedAt": "2026-11-11T11:59:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
-      "sourceHome": "https://icar.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -286,61 +307,6 @@
       "publishedAt": "2026-11-11T07:14:46.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGplc3VLaGowTERKdEotRE8td1BGV2t6MEZfb3dTUTRSVmtGUzljNTJZYl80cHRqck5EaS1TTmk2TU1SNXNrS3pqT3Zuc0pQdjVfcTVVSVZVRG9pNFJRcTZFLWZPWXNHOWdwQ3I1ZVN5aVZVT0trdFRCaWRMZ1o0WVY5VW5KS3RNRTZTTXdfa1hhaGNaTGtPeC1rZW40RmJnZnFna1M3eXh1ekZnNi1TU3ZnUl8xYlIxZzN6VmEtYXBJMDBIOWVR?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "cop31-el-nin-o-could-cause-11-trillion-in-global-income-losses-threaten-",
-      "title": "COP31: El Niño could cause $11 trillion in global income losses, threaten food security, IFAD warns",
-      "summary": "&nbsp;&nbsp; Down To Earth",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Down To Earth",
-      "publishedAt": "2026-11-11T06:29:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRlJFeURadzdaZUZKdjg2Sk1wdnBOT0JTdW9kcmtrcGVBTlVFRThKM0dEVnpPaGxXdnlJbVpmS3RvMEZBRUxWdWFSakRKRGVqNVM4UUJhS2lfMUp5OVpZbFdBbW5URDIxaDVRMnFhM1puZFNMUklsZmcxX3Z0UW1oOE83YWhfU0RGdFJPMi11TkxFTlVUMzRYMnFaS2h3ZkVRX0FySXRFRkJrWk1qdWZ3b1RmVEVVWDgwaThiUU1mUXZpQi1HVm94Z1hTU2FVTkVMSlhxMnRZRENjX1JLVVpWb2V6MVFtdThoZTJ3UtIB7AFBVV95cUxPRlJFeURadzdaZUZKdjg2Sk1wdnBOT0JTdW9kcmtrcGVBTlVFRThKM0dEVnpPaGxXdnlJbVpmS3RvMEZBRUxWdWFSakRKRGVqNVM4UUJhS2lfMUp5OVpZbFdBbW5URDIxaDVRMnFhM1puZFNMUklsZmcxX3Z0UW1oOE83YWhfU0RGdFJPMi11TkxFTlVUMzRYMnFaS2h3ZkVRX0FySXRFRkJrWk1qdWZ3b1RmVEVVWDgwaThiUU1mUXZpQi1HVm94Z1hTU2FVTkVMSlhxMnRZRENjX1JLVVpWb2V6MVFtdThoZTJ3Ug?oc=5",
-      "sourceHome": "https://www.downtoearth.org.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-sugar-prices-full-details-2026-11-10",
-      "title": "India Sugar Prices: Full Details",
-      "summary": "&nbsp;&nbsp; JournalArta",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "JournalArta",
-      "publishedAt": "2026-11-10T21:17:31.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3FKTExSVHJuZzRaQlkyOGdwZU5aVHlvUHZFdG5hM2l5UDd5TjZ5ODNuWFVlaFliOElPX2RqVDVPd1IzbmRjM2QtaTFIZkJQQl9YTnlhclN1WXkyLU84bFdtWDNIal9HRlBuVVRGdEN1SEhoRmRRVTJOVlJlNTJDUnppOEFZbnlGanJF?oc=5",
-      "sourceHome": "https://journalarta.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "india-s-sugar-cane-is-too-dry-and-consumers-will-pay-the-price-2026-11-1",
-      "title": "India's sugar cane is too dry and consumers will pay the price",
-      "summary": "&nbsp;&nbsp; ABC News & Headlines – Australian Broadcasting Corporation",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "publishedAt": "2026-11-10T18:57:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTQ4dmY5YldlanZUNmNvaVZBLTdyLWdWOTFIR1QwRXZYcWZKbDJjeXJrODZFSmE3dzQtdTFmSG5xWGh1RVV0aDRScGo3cUFDMmZnR1JILUJ3SmhtczV6TGhrQUFXaGFleGU0STVSRjVLYWdJSlNMZjVzNDQzUFE5S3dSV25ZUzRSZDRvMjB1b1dUZTZEUGwyVFJKTHVpMXpIaWZXZldnOUs?oc=5",
-      "sourceHome": "https://www.abc.net.au",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
