@@ -1,9 +1,100 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T06:49:41.186Z",
+  "generatedAt": "2026-11-15T06:54:25.610Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "telangana-crop-diversification-needs-a-stronger-drought-plan-2026-11-15",
+      "title": "Telangana Crop Diversification Needs a Stronger Drought Plan",
+      "summary": "&nbsp;&nbsp; Urban Acres",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Urban Acres",
+      "publishedAt": "2026-11-15T01:35:55.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlc1aDk0REZoVm9xaXlyMktNQ1lEaXMwNHkyaU14RHFteGxnWFBuQzdhU0U4WDhmRE12NVYtSHdQZ1BhTGVfemhKX0lBZG9lUlVrbmQtV2JkMTVIb0M0eFpXdXN4ckFmRnpVazlrcWdwcTdZVE1ZZzRHc2piTnFibzZjMFdqTHVCZEF0ajZaWTVaQQ?oc=5",
+      "sourceHome": "https://urbanacres.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "aiks-2026-11-14",
+      "title": "AIKS: ప్రత్యామ్నాయ పంటలకు ప్రాధాన్యత",
+      "summary": "&nbsp;&nbsp; Prajasakti",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Prajasakti",
+      "publishedAt": "2026-11-14T19:13:54.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDFvNUlnZWxiNDBpOE5sa2VmSFBjREE5clRvc3NscDhCZzhoTFpGcXV1anlhUFZIaGxUUFhSYlpfVGpPc1ZqLWFNLUc3TDFVQzR6S0VhUXNxWnAyd1VlZ1hCbnVIdVlBbWxEdDFDVklxb3NJSmpGTEhQVlRHWHZtcEdXZGVMdklZ?oc=5",
+      "sourceHome": "https://prajasakti.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "rewind-fighting-the-drought-the-reality-of-telangana-s-agricultural-cris",
+      "title": "Rewind: Fighting the drought—the reality of Telangana’s agricultural crisis",
+      "summary": "&nbsp;&nbsp; Telangana Today",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telangana Today",
+      "publishedAt": "2026-11-14T18:14:24.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWllcTVDREwxTFNxV29qWlRHcGtHN2tsdF90TzVqQ3R3S1otRlAtNmxTUlA1VllWWlhUc1IzZWFlSHQ1c1dkbG9VSllXZmNtblBTc1pXNkw5eVJlYW5KYV9hVlp4WU8tX29RV0hsT1FMWTJZUmFVdkJKR3RUN1pLOU1YeXRBZ2Zpam4wYVcyYzlMUGY1U1djbFVpOG13SUFUSFE?oc=5",
+      "sourceHome": "https://telanganatoday.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "beyond-msp-patiala-farmer-turns-wheat-paddy-into-a-rs-1-5-crore-seed-ent",
+      "title": "Beyond MSP: Patiala farmer turns wheat, paddy into a Rs 1.5-crore seed enterprise",
+      "summary": "&nbsp;&nbsp; The Indian Express",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Indian Express",
+      "publishedAt": "2026-11-14T15:32:47.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEwzajZlNV9GNnRQdktJZGduWWNwYUNFZFFPMzZlWG5hd0JrMzlObVA0dUFLcmI1eWhSVUpqVWdvaTZiSkZCYy1oT0p0ekFEOGx6dXg2bFZkU1ZXTndqMlNIWktKX3h3RjlIRUdOZWJlX1dTX0IwTnFYVFM0bVl5YUVSY05CbVY5dEJ3cjhKS1lNblo3SWNLdF9pVFM3Ti04SFVGRjAwYkt1RWR1QzRrY01tbktvR3F1NWZXRGprb0rSAccBQVVfeXFMT1pVVFhlYUdLemM0akpfdlhBVEY2UXpacTNVa21zUkJiQVBKdlJ6T0ZkaXMyZm5oRGxvcUIzRGxrbi12VEwzVVJjbWxWM0NqeFlsRTRBcXJTcU90d0lKckJ2R3FqbVg3S25ZckVXeXZhZmhDV1NzZ3ppYkxZeWZvMmFNa3BWeXFnRmFCcERWUGJwZC1JSjlkNmtYVGo4MFI1QTJudVhmLUVnQ0hhM3FjWHJFRVpPWTZhVUFRck1iclFEMkxhX2o5OA?oc=5",
+      "sourceHome": "https://indianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "centre-operationalises-portal-for-online-declaration-of-rice-paddy-stock",
+      "title": "Centre operationalises portal for online declaration of rice, paddy stock",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-14T12:39:05.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVXBFVmtJOVdjVUpObVpKbkpxdlhzZUFmdGQxYUYzR0dGOE9YSkQyaWRFcnNEdUJmVy1Da2FSR2dpRHdKQUNNbkFKVmtMWmtpV09vR3pnOW04cnIxbTFoZ3VLcURzandZVmZGVFAzLTI5UE5wZEZfNlhXaGlOc0M5eDhDWm5jMnRxdnhGQjFXRVNFZzRwTGpRSHJYY2c4TnRxc3ViQzE4SWZNaTk0RUFGN09nOXZRNEdiRWpGWmVfMkpOOHkxLWxocUYzWnhOY0VuekFnaEZ6dHhCQVRJTHd3ZzFabnJyUdIB6wFBVV95cUxQOGxKUjhSWXRmMkFSUUg2U1FxdDNpTndDMDFIZ0dReHg2alFON1ZIRnNmQmxwQnRmaXpHUlV6WEZ2SlZkWXZMMFN5OEladzdTR21oaVZNdDJZcTU4TFVkVzVoV1pHdjVuMUdTeC1jUW1kWVVyN0EwNjF2dlI1OFd3MHdkbWxMSWM4Q3NsQ2FqN2Q4cU5sNUEtSjkzWnFNSWd2cjJiTFByd2lBOG9pWEZZeWVtUV8yNDQ0RWxUZzVnNWpiR0pGYmJnWF82N0ZHNkJZMndSSndYVjF0Z1FwZElnV2VhMkFHaWNpSmhB?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "bharat-vistaar-to-empower-telangana-farmers-with-six-ai-powered-agricult",
       "title": "BHARAT-VISTAAR to Empower Telangana Farmers with Six AI-Powered Agricultural Services",
@@ -24,23 +115,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "cabinet-approves-higher-msp-for-14-kharif-crops-for-2026-27-marketing-se",
-      "title": "Cabinet approves higher MSP for 14 Kharif crops for 2026-27 marketing season",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-13T18:45:02.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGJSNkRGOEd6ZmVOUUlDTGxPdl9xaFIzUHZYN0pRcnc4Y1JraTRKeGliWGtyMHRpN0pWS1BCMUJwZ1RkUEpndkRwNFNqMlRJSkRqaHE4WTJnSlNnZHBUVFhfZ3BhY1o3VU1MX2NlM2l4ZFd5Y043VXRrU0JvWUNkRU43RjNpOFBodzFLdG9DeDJKTU5QRWFyUzFSZ2NGMFZJLThXQg?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
       "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
       "summary": "&nbsp;&nbsp; DD News",
@@ -54,23 +128,6 @@
       "publishedAt": "2026-11-13T18:28:30.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
       "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "need-a-shift-from-higher-yields-to-nutrient-efficient-crops-to-cut-ferti",
-      "title": "Need a shift from higher yields to nutrient-efficient crops to cut fertiliser dependence: ICAR’s Jat",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-13T12:14:13.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbTVMRVRKSDBPZ05OLWpYaFdCd2xFSDJLbnlENFpqcWFtQUs0WWEzMzVwTWxoYzQ3VDlCc2lCaEl2dDA1ckhONnRndEp6cnZiU1BSLWpNVll5NG5xMU1HYUtaQTJRYlNpOUV1dm1XbmFQb2lCZDI4M3BwVHRQVUpEdG9RVEhrYWMwVDBobm55bjBLRnlnNVdsa1lMLTY2UGMtcmRpckRoS3FmcjFaeGk1dHpMWmZCNjM0Zm5pZmctc0NPMHMteURKY0RncHVsVW1YcjBmOXdYTmdvaldveHhqaW9TOHF1TzExVTRIV0lLZEo0bnA1MGk5b19UeVRuV1NOeDVNTVRqeEbSAY4CQVVfeXFMTko2UVV6SFNkQ0RiV29QY09WZFV0VWlsR3A4eXkwQ3kxNzlHNTdOUXN3eW5YNzVBSHA5NGpfSnQzb0pVMHhxS1dDWWVIQUJsVGs5YjhhUGpMYV9yZmptOU40Z1lGRzlUeDBySUdjVXBKaHhfdVJmUEpaemZPMF8xbjZmb3ViTVhIYWxfTlBGV0V1bFk4bC03TllKU1JvbjZJc1V5VFRnWVJUTmRxZVBaenB2d1pSckF3YlM2QUZXbHp3bGJoVS1lSkI1Z3o2YlZ5Vzc4c2JlcS1vQVVRXzJSU3FXRFFMUG5GdUQxaGd0ZE5ocEpmXzRIaFY2MEdjbjc3TTR5M1REZVdSazRqYkV3?oc=5",
-      "sourceHome": "https://m.economictimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -111,43 +168,9 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
-      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-11-13T05:55:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "from-food-security-to-food-sovereignty-why-india-needs-to-fix-the-pds-20",
-      "title": "From food security to food sovereignty: Why India needs to fix the PDS",
-      "summary": "&nbsp;&nbsp; Ideas for India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Ideas for India",
-      "publishedAt": "2026-11-13T04:29:59.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOUo3ZThpQXlFSjJ1UTV5VnNuZk1pOTgyQS1sR0RfRUdxWTRyZ3pfWGpLV18wVk5lTkNsODFVaDVlcXpaVVQtbnlsRW00Z1Y1UEl3RjVBcllfSEdSa3ZMQ1lpS1dXaTBEWnZWa1ZucUtGN21QTkdtRTFLM29UV1ZtZ3VleUFSSHFjNEhRRnI1bXFYQi14RC02dVdkOURXMXF3eG5LWEFIQk1FOXhMUFZBWVFHNC1GNmdP?oc=5",
-      "sourceHome": "https://www.ideasforindia.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-11-12",
-      "title": "ఏఐ ఆధారిత వ్యవసాయ సేవలకు ‘భారత్‌ విస్తార్‌’",
-      "summary": "&nbsp;&nbsp; Andhrajyothy",
+      "id": "2026-11-13",
+      "title": "ఏఐ ఆధారిత వ్యవసాయ సలహాలు..తెలంగాణలో భారత్ విస్తార్ సేవలు : మంత్రి తుమ్మల",
+      "summary": "&nbsp;&nbsp; V6 Velugu",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -156,10 +179,10 @@
         "india"
       ],
       "language": "te",
-      "source": "Andhrajyothy",
-      "publishedAt": "2026-11-12T23:01:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOC1yMWJIRlF2U2FjV0pfYTJPOVd4N1ptMGlzeDIxTVhVSEN0dWVyREZvYWdxeWUzalpDajNocC1uVVZmZHRYTmhMTERXLU5yWEgtcFQwRXZha2tnaW5UcDNvOEoxNmxQWjNpZ2RkVnpGaGlrT0dxRS13M3Mwa0hFbmVuaVY2bFNRQ2ZLbmVnZlg5NHkxR1g5SjVGQTVUUmxyU3N6dWthOGxqdFcxcTdIMkR1c3VRTTc2U21oOU1OYWdSTVF2TWNleXd6dFdoel9DVzd5UHhJb0tHU2tKcmgzUg?oc=5",
-      "sourceHome": "https://www.andhrajyothy.com",
+      "source": "V6 Velugu",
+      "publishedAt": "2026-11-13T03:57:32.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmVGRWd6dHhHdmJ4c1g4UTF0R2pvSUZOemhJY1hQX1FDbFBUWTREcnpRd3EyYXNhU0V2NGNSa0I4dmc5ZUJNQ0FlamhjT2I0VmZOeXRocVZfVUhWMDRpcWtQbGVSbkR6eXpraXZPR3ExWEFUcW1ocDBzX1ZReG5pYmN3V3NPekRFNUJkdTk3Z1phdlBJekhKLUZzUUMtZ2NNU2JGZkxVVTNRVC1BRWdudmJB?oc=5",
+      "sourceHome": "https://www.v6velugu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -220,63 +243,9 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "crop-disease-detection-market-size-and-growth-report-2034-2026-11-11",
-      "title": "Crop Disease Detection Market Size and Growth Report 2034",
-      "summary": "&nbsp;&nbsp; Fortune Business Insights",
-      "crop": "All",
-      "type": "disease",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Fortune Business Insights",
-      "publishedAt": "2026-11-11T18:09:05.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX09sR1N1Z1RNdms4M2RpWV9NVGl2ME5VT2d3OUNRQVBGVEZHenZzOG5MWTgtc1BaZnNiTURRN1V2akw5NVlwLTRCOVlDdTQ3WkpRc1Joa2FWY3U2UF9GR1VwdHpxVGRxdjNzc0g3NV9wQzBmWHFVenpHeFFRcUpXTFBB?oc=5",
-      "sourceHome": "https://www.fortunebusinessinsights.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "political-tensions-rise-over-comments-on-lord-ram-and-ayodhya-temple-vis",
-      "title": "Political tensions rise over comments on Lord Ram and Ayodhya Temple visits - India Today",
-      "summary": "&nbsp;&nbsp; India Today",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "India Today",
-      "publishedAt": "2026-11-11T13:38:19.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekowTXNlUlU1Z1pVWGNpMmtWcEtJVndOV2Myb0hobVpHd3B0S2g4NmQ3akpVZjNyVlNkNmJXZXNBRk1SY1hKM3lEbjFOLWFvT3BsQ1VfWGpNb0ZjRGM0ZWpQZl8zdVNEU2JiV2hLWnFIZUNidlVyejRMamtOWWRzcEtUbU16M2kzVVd4cmE4SlUwWnlNbm9CMDRmbGhxS2k0SWoyT0h4N3Jud29YZWdkbHpfU0FtVVgwTlY4UVNRVEvSAcYBQVVfeXFMUEJNQVJiM0x4NF91WmhaWFJaNHpKZlRLUXUzS3VPNzdBU3Z1Ykp4emlLOXN4NGpTOXliV0NoRm9XYjFaaHRiZndNTzY5X0Q0MDZRYVkwWGhHWlBJcFJmdGZldzBrSE1Qa2JVVFNWVUhQNU10NGEzNTItbmlXd29JdDdQQThwMFhjRzF6em1uVURsd2xZdlVGMDhnbXNydGY4XzQ2RURtT3BCODY2VjhROVM4UEdNbFhJekNpSXVQTjA3cHRjeFB3?oc=5",
-      "sourceHome": "https://www.indiatoday.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "86-of-india-s-farmers-own-less-than-2-hectares-of-land-why-it-matters-in",
-      "title": "86% of India's farmers own less than 2 hectares of land. Why it matters - India Today",
-      "summary": "&nbsp;&nbsp; India Today",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "India Today",
-      "publishedAt": "2026-11-11T12:02:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkxyRFlXOFBfd2VPNVhPNGRIVFN1S0toMTliMW85ZkVvUTlJWWF5OExNRnY2XzNqc2otcnN5N241RGMxbzZCd2Q4bGo3SUlmMkk0TnEtdXBjeE14TUZpU1h3WE5vX3N4VHd6VkpPNlQtVnlHTFFLUm5uUVRBTEVNOFZvdXdfQ25hRHZvcXU2MGdBejN3bnhHakpCanY1SllfYXVJWm1nMXNxVHVGaFRiZ2xUeEYwU0lUMkpLeFRTUzVoOTFSN2xv0gHMAUFVX3lxTE1HbmEzTVY0cG1iM21ZYUxYMW92YUFnUnRfUDlMRjZPc3FlV3A0dTFCa3RWT3dnR1FPT0M1eEE0NlJpblQ3ZktYN2JNRFpNQ1Q1YVp2NlNqOFNGUHdCOUU3Mm9Rd0pQSTdYTlUxVWxlNUhOOXVLWjZNQkZZUS1CQmVKZ0NtNEZPenRkRy03UGlIN2t4LTl2U1o1LXFaUjNmZzhsZ2JOUml3eTlzTTU4MFZlVEFKV3dYU3RDY1J2cnRLeGhnNFl2eGpMZ3lySg?oc=5",
-      "sourceHome": "https://www.indiatoday.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "from-importer-to-exporter-shivraj-chouhan-says-foodgrain-output-up-50-in",
-      "title": "From importer to exporter: Shivraj Chouhan says foodgrain output up 50% in decade - India Today",
-      "summary": "&nbsp;&nbsp; India Today",
+      "id": "uneven-weather-leaves-alberta-farmers-with-mixed-harvest-fortunes-2026-1",
+      "title": "Uneven weather leaves Alberta farmers with mixed harvest fortunes",
+      "summary": "&nbsp;&nbsp; LakelandToday.ca",
       "crop": "All",
       "type": "weather",
       "regions": [
@@ -284,29 +253,28 @@
         "india"
       ],
       "language": "en",
-      "source": "India Today",
-      "publishedAt": "2026-11-11T11:43:39.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SdIB1wFBVV95cUxOenU1Q09lX0NsWV9mUzVwVDdBUVRsSFhobEJxWTZGN0d2cFFDcEdPdkN3S0VfWGROc2pHd1NWVk1KNVRCa0VaU2ZxRS13MEdzanNoQWRweUxUN1hJWG5neUx0NnNadk1TQnhTcUhyRXM4N2cyQmlxWWdMZ2tFclRZaV90WWFIdG5CdFh0VlJvRjN4eHFDNk5UdkRGQlhEZ3kxVjBMY1BfSjY0Z3ozUEdsM29lMGU3aDNrV3pmZ2dTMFBvSHdaUTg3MTl3WFV4ZEhnVWR1dDI1SQ?oc=5",
-      "sourceHome": "https://www.indiatoday.in",
+      "source": "LakelandToday.ca",
+      "publishedAt": "2026-11-12T14:24:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnllVElld2ZvUFByeGpxQjdoMHNxT05zaTVBMG5FOFNhd09SZWxXQzcyeHBtX1o3NjlZSXJIZ2xsUjJQVEtJelo0SGNQMVRnZ1pYZUNXaV9UMXdlX2lnUWNwMFdhdEhNcVZUVlVULW1DOE9xLU4wNjBWeWRucTRQNThjNk1nOGJDeVZPMjVCX01CSy04cndBT0FHTU1SdU41bG9IRVU2Rlk2aXhmMG5VZktRd2o?oc=5",
+      "sourceHome": "https://www.lakelandtoday.ca",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "mancherial-2026-11-11",
-      "title": "Mancherial: ఎల్‌నినో ఎఫెక్ట్.. మిర్చి రైతులకు కష్టకాలం..!",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
+      "id": "what-are-the-major-challenges-of-growing-cotton-2026-11-12",
+      "title": "What Are the Major Challenges of Growing Cotton?",
+      "summary": "&nbsp;&nbsp; Farmonaut",
+      "crop": "Cotton",
       "type": "scheme",
       "regions": [
-        "telangana",
         "south",
         "india"
       ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-11T07:14:46.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGplc3VLaGowTERKdEotRE8td1BGV2t6MEZfb3dTUTRSVmtGUzljNTJZYl80cHRqck5EaS1TTmk2TU1SNXNrS3pqT3Zuc0pQdjVfcTVVSVZVRG9pNFJRcTZFLWZPWXNHOWdwQ3I1ZVN5aVZVT0trdFRCaWRMZ1o0WVY5VW5KS3RNRTZTTXdfa1hhaGNaTGtPeC1rZW40RmJnZnFna1M3eXh1ekZnNi1TU3ZnUl8xYlIxZzN6VmEtYXBJMDBIOWVR?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
+      "language": "en",
+      "source": "Farmonaut",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnJwVWFXd2Nsa0hOYjIyZHRwZFF0aVMwczRCNEJqb1YtaHhrOHVCRDBtcVBhYzlVdUZzLWltWDBCdXU2OFA3TkJtM0ZmN05Od0dSZFJKY0pNeDFNTFVMeXBWTzZaNmkwbUVYeHJ5STBHamVOV3RSZXNRVHdFbkllaGhybUVCcE0?oc=5",
+      "sourceHome": "https://farmonaut.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
