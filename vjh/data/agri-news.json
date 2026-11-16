@@ -1,11 +1,104 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T06:54:25.610Z",
+  "generatedAt": "2026-11-16T06:58:28.464Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "telangana-crop-diversification-needs-a-stronger-drought-plan-2026-11-15",
+      "id": "rice-prices-100-2026-11-16",
+      "title": "Rice Prices: కిలో సన్నబియ్యం రూ.100.. ప్రభుత్వం రేట్లు పెట్టినా తగ్గని ధరలు",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-16T02:44:55.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmxQS1REVFpvQkV4VXlIOFZDOVBidkRuXzNmLUNzbnRaQ3hGNFk5LXVzQnBUME5vZERpc3RYUVU3T3U0NWtyWDlKOUluMFZCaEw3QTR1WklxZFRJTEN2aGdUN0VkTTFHM0JBdzZoUk5pMFNjVHF2OUVfUW0wcXBLa2p3YnhuTzR3RDRwX01tdlVtTUxjc2xmOXFmV2xlSWZqZkFUeGF2ME5NeUtiZ1M0VFJZcGcxc3NPcnFWZnhxLS1OUnd10gHEAUFVX3lxTE1mbFBLVERUWm9CRXhVeUg4VkM5UGJ2RG5fM2YtQ3NudFpDeEY0WTktdXNCcFQwTm9kRGlzdFhRVTdPdTQ1a3JYOUo5SW4wVkJoTDdBNHVaSXFkVElMQ3ZoZ1Q3RWRNMUczQkF3NmhSTmkwU2NUcXY5RV9RbTBxcEtrandieG5PNHdENHBfTW12VW1NTGNzbGY5cWZXbGVJZmpmQVR4YXYwTk15S2JnUzRUUllwZzFzc09ycVZmeHEtLU5Sd3U?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pepsico-2026-11-15",
+      "title": "PepsiCo : వాతావరణ మార్పులను తట్టుకునే మొక్కజొన్న సాగుకు పెప్సికో బాసట.. !",
+      "summary": "&nbsp;&nbsp; Vaartha Telugu",
+      "crop": "Maize",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Vaartha Telugu",
+      "publishedAt": "2026-11-15T14:13:50.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xZM3YzaHVLeTd0NHcyeUFZQ3B2V3NKcFF4X3UzRlZ3NFpNTTVULUhsbmZFSlFIMzVBcnBMMTZDMzRERlZpdTlnQUNpR2RHMTZEczF6cER3T003dldhczR5NGJmOVE5ajAxWnZtUHFCblVMeHRYeUp5c2VYQl9sTXV4Tlktb1pSNTVXZnljVG4xeVNBMEN2S9IBmAFBVV95cUxPY2xZM3YzaHVLeTd0NHcyeUFZQ3B2V3NKcFF4X3UzRlZ3NFpNTTVULUhsbmZFSlFIMzVBcnBMMTZDMzRERlZpdTlnQUNpR2RHMTZEczF6cER3T003dldhczR5NGJmOVE5ajAxWnZtUHFCblVMeHRYeUp5c2VYQl9sTXV4Tlktb1pSNTVXZnljVG4xeVNBMEN2Sw?oc=5",
+      "sourceHome": "https://vaartha.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-15",
+      "title": "వాతావరణ మార్పులను తట్టుకునే మొక్కజొన్న సాగుకు పెప్సికో బాసట!",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
+      "crop": "Maize",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-11-15T12:20:27.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13M0d0Y2pFQWxQcGNUdnJpSTdCU1B5dXdJQ2VtYkNLUml5R2RLNDBKXzktOVFITFB5NHMxWDhZV241SldxMVVuNm90SFhlYkFkeGpWeExiQ0VORE1DVTVaZTloa3F3LTFsci1QOXBVZUtkTWxzMkNQWHBBSi0?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-15",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-15T12:03:26.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jOGpOaEZEb1ZRYzFiQUc0c2NUOGRKNjNsNEN0OW5OeTlPcHpaT0laNkdWdEFfbHpQbk5DaDRkOFl6TjBMZGdFU3JYWENPb002TElrcjVqMC1SOVNhV0FwZk5uX1kzeTk0cTVEajlFSGd1WjdyRUJmZQ?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "when-the-rains-fail-horse-gram-delivers-in-telangana-2026-11-15",
+      "title": "When the rains fail, horse gram delivers in Telangana",
+      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "crop": "Pulses",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-15T04:28:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXViWmppMFlZUGR4MWllYjFDN2dTdjRwWjlMWlFKWnEyRUhnN19HZFlKTFNUdFRGLUlMVm9DMVZvVzdtYjlXb2RqdHVTOWxlYWhTYXpmVkdkcDgyem9nX1FGMVZVQ0xvbHlFRS03YkstZDl6SFpkY25Hc09HdHpvbTRfUXg1SnpGZjFvMDRzVWVpaEt1OGVra2wzT1psV3RRbHZHLUV6UkxrTjU0NURDRDItelo1TlM20gG4AUFVX3lxTFAxdWJaamkwWVlQZHgxaWViMUM3Z1N2NHBaOUxaUUpacTJFSGc3X0dkWUpMU1R0VEYtSUxWb0MxVm9XN21iOVdvZGp0dVM5bGVhaFNhemZWR2RwODJ6b2dfUUYxVlVDTG9seUVFLTdiSy1kOXpIWmRjbkdzT0d0em9tNF9ReDVKekZmMW8wNHNVZWloS3U4ZWtrbDNPWmxXdFFsdkctRXpSTGtONTQ1RENEMi16WjVOUzY?oc=5",
+      "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-crop-diversification-needs-a-stronger-drought-plan-2026-11-14",
       "title": "Telangana Crop Diversification Needs a Stronger Drought Plan",
       "summary": "&nbsp;&nbsp; Urban Acres",
       "crop": "All",
@@ -17,7 +110,7 @@
       ],
       "language": "en",
       "source": "Urban Acres",
-      "publishedAt": "2026-11-15T01:35:55.000Z",
+      "publishedAt": "2026-11-14T19:43:43.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlc1aDk0REZoVm9xaXlyMktNQ1lEaXMwNHkyaU14RHFteGxnWFBuQzdhU0U4WDhmRE12NVYtSHdQZ1BhTGVfemhKX0lBZG9lUlVrbmQtV2JkMTVIb0M0eFpXdXN4ckFmRnpVazlrcWdwcTdZVE1ZZzRHc2piTnFibzZjMFdqTHVCZEF0ajZaWTVaQQ?oc=5",
       "sourceHome": "https://urbanacres.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -43,6 +136,23 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "himachal-hikes-msp-for-naturally-grown-ginger-by-33-to-rs-40-per-kg-2026",
+      "title": "Himachal hikes MSP for naturally grown ginger by 33% to Rs 40 per kg",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-14T18:32:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSVlVVm1YUzVqd202UUNMLWxwemYzdUZ2T0FnWU5ITC1xQktidXBMMHB1OGVsdGNOWElMWUdyVWowelpMREJWSkZmTjFCTnVSSXN3ZEZraDVHM0RfV1ZYSzlOY1BfdUE3SFJRRGw5TlUtc0UwbjlITU5VMU5LOWlUNVg1SmVOT1lNeXo3cUNSRlRuVG5pUF9FajRIX2Q3bVBWYUtuazdrWHNra2NqS3BsS0JHanpaX21na2tnUjhDVUdEVi1PV0V1NGU4MUlNUGgwc0hmTWVHWUdVSkhkSHfSAeMBQVVfeXFMTlJtZ0lDTVBTWktiX2F4YzRqc3d1VWlBM2dUVVY4b1RYMkVLdndaRlE0SnQyczlxenNra0xqVGwyRTBDRWxvcXFraXZvc0hjdk82WkhHMUlyUnpfbkV6cTJoajdYb0N6OGgzdjZ1S19HTWJPanVzc0pPTkw5V0t3akIwRFdkM1BsUWZ4SGNYSEdjZ3BLMTRQWmtEcXYxQjdZNjBBWDQ0eWNMOFRKaThnaG1zRG5QM1h6dTMweTJTblFqU0RHVU9GbTMyRTFHc3pmV1p2QXczVW5KLW1qSHZPbzhzNjA?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "rewind-fighting-the-drought-the-reality-of-telangana-s-agricultural-cris",
       "title": "Rewind: Fighting the drought—the reality of Telangana’s agricultural crisis",
       "summary": "&nbsp;&nbsp; Telangana Today",
@@ -62,19 +172,21 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "beyond-msp-patiala-farmer-turns-wheat-paddy-into-a-rs-1-5-crore-seed-ent",
-      "title": "Beyond MSP: Patiala farmer turns wheat, paddy into a Rs 1.5-crore seed enterprise",
-      "summary": "&nbsp;&nbsp; The Indian Express",
-      "crop": "Paddy",
-      "type": "market",
+      "id": "kumaram-bheem-asifabad-2026-11-14",
+      "title": "kumaram bheem asifabad- రోజూ రాబడే..",
+      "summary": "&nbsp;&nbsp; Andhrajyothy",
+      "crop": "All",
+      "type": "scheme",
       "regions": [
+        "telangana",
+        "south",
         "india"
       ],
-      "language": "en",
-      "source": "The Indian Express",
-      "publishedAt": "2026-11-14T15:32:47.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEwzajZlNV9GNnRQdktJZGduWWNwYUNFZFFPMzZlWG5hd0JrMzlObVA0dUFLcmI1eWhSVUpqVWdvaTZiSkZCYy1oT0p0ekFEOGx6dXg2bFZkU1ZXTndqMlNIWktKX3h3RjlIRUdOZWJlX1dTX0IwTnFYVFM0bVl5YUVSY05CbVY5dEJ3cjhKS1lNblo3SWNLdF9pVFM3Ti04SFVGRjAwYkt1RWR1QzRrY01tbktvR3F1NWZXRGprb0rSAccBQVVfeXFMT1pVVFhlYUdLemM0akpfdlhBVEY2UXpacTNVa21zUkJiQVBKdlJ6T0ZkaXMyZm5oRGxvcUIzRGxrbi12VEwzVVJjbWxWM0NqeFlsRTRBcXJTcU90d0lKckJ2R3FqbVg3S25ZckVXeXZhZmhDV1NzZ3ppYkxZeWZvMmFNa3BWeXFnRmFCcERWUGJwZC1JSjlkNmtYVGo4MFI1QTJudVhmLUVnQ0hhM3FjWHJFRVpPWTZhVUFRck1iclFEMkxhX2o5OA?oc=5",
-      "sourceHome": "https://indianexpress.com",
+      "language": "te",
+      "source": "Andhrajyothy",
+      "publishedAt": "2026-11-14T16:53:29.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GeDEtcS1PTmFFZFZ1dTRWb2l2TVU4ZWZwTnNDZnFyTGZ4VHpoZ1lkU3hSMy1vMDZuLTM3dmtNUmpkZVhQbm9LZjBYTU14U1hxRXFxTjlySFYtcGNLd3NrX3N6R0lEdnJQbks2LUh4Z0xRRmF1SFZ2RGZXMA?oc=5",
+      "sourceHome": "https://www.andhrajyothy.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -92,59 +204,6 @@
       "publishedAt": "2026-11-14T12:39:05.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVXBFVmtJOVdjVUpObVpKbkpxdlhzZUFmdGQxYUYzR0dGOE9YSkQyaWRFcnNEdUJmVy1Da2FSR2dpRHdKQUNNbkFKVmtMWmtpV09vR3pnOW04cnIxbTFoZ3VLcURzandZVmZGVFAzLTI5UE5wZEZfNlhXaGlOc0M5eDhDWm5jMnRxdnhGQjFXRVNFZzRwTGpRSHJYY2c4TnRxc3ViQzE4SWZNaTk0RUFGN09nOXZRNEdiRWpGWmVfMkpOOHkxLWxocUYzWnhOY0VuekFnaEZ6dHhCQVRJTHd3ZzFabnJyUdIB6wFBVV95cUxQOGxKUjhSWXRmMkFSUUg2U1FxdDNpTndDMDFIZ0dReHg2alFON1ZIRnNmQmxwQnRmaXpHUlV6WEZ2SlZkWXZMMFN5OEladzdTR21oaVZNdDJZcTU4TFVkVzVoV1pHdjVuMUdTeC1jUW1kWVVyN0EwNjF2dlI1OFd3MHdkbWxMSWM4Q3NsQ2FqN2Q4cU5sNUEtSjkzWnFNSWd2cjJiTFByd2lBOG9pWEZZeWVtUV8yNDQ0RWxUZzVnNWpiR0pGYmJnWF82N0ZHNkJZMndSSndYVjF0Z1FwZElnV2VhMkFHaWNpSmhB?oc=5",
       "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "bharat-vistaar-to-empower-telangana-farmers-with-six-ai-powered-agricult",
-      "title": "BHARAT-VISTAAR to Empower Telangana Farmers with Six AI-Powered Agricultural Services",
-      "summary": "&nbsp;&nbsp; Munsif News 24x7",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Munsif News 24x7",
-      "publishedAt": "2026-11-14T06:12:14.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVhQeGJXLUxfWDFuZlhiRVU2cTZ5bkxBUlUtLVdFeVhHNkkyem5xS1d3dlFMTHlNaDhxVnNKVmFOamxfYnhiMFdqZjM0YkVuWXljRy11MnE2ZmVacXpCRVVlVmlReUhFaEs4TEFXck4xWDl6Y2FGUkJyYkxsOTFYMmFtYi1CR2VxRUJsTk5ld3JvZw?oc=5",
-      "sourceHome": "https://munsifdaily.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
-      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-13T18:28:30.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "icar-nrcb-tiruchirappalli-organizes-a-brainstorming-session-on-farmer-pr",
-      "title": "ICAR-NRCB, Tiruchirappalli organizes a brainstorming session on “Farmer Producer Organizations in Tamil Nadu: Performance, Sustainability, Challenges and Future Prospects | ICAR",
-      "summary": "&nbsp;&nbsp; Indian Council Of Agricultural Research",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Indian Council Of Agricultural Research",
-      "publishedAt": "2026-11-13T11:59:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXVZOVFqcHJ6V2ZKeW43YVplbktYUkswZUFEVW1Zd0hXX0wyMmJ3aWtqaHg5LVc0STR3WW1vTFRoQmhYc2k3aG9mUWpINExTOWxMbUF1NjF3NHBHUGlSRVpOY1RESlpTckY3ZVFOUHpCcnJYNEdiNnNMaHVZeDJtNG1xakhUc2tVSkwyMGs0cWNnRDV1Vk0wQXRYbHhsOF9IV0hwcDNsVXpiX0Fpa3JpV29QandOVnZqTzNienRR?oc=5",
-      "sourceHome": "https://icar.org.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -168,113 +227,20 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-13",
-      "title": "ఏఐ ఆధారిత వ్యవసాయ సలహాలు..తెలంగాణలో భారత్ విస్తార్ సేవలు : మంత్రి తుమ్మల",
-      "summary": "&nbsp;&nbsp; V6 Velugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "V6 Velugu",
-      "publishedAt": "2026-11-13T03:57:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcmVGRWd6dHhHdmJ4c1g4UTF0R2pvSUZOemhJY1hQX1FDbFBUWTREcnpRd3EyYXNhU0V2NGNSa0I4dmc5ZUJNQ0FlamhjT2I0VmZOeXRocVZfVUhWMDRpcWtQbGVSbkR6eXpraXZPR3ExWEFUcW1ocDBzX1ZReG5pYmN3V3NPekRFNUJkdTk3Z1phdlBJekhKLUZzUUMtZ2NNU2JGZkxVVTNRVC1BRWdudmJB?oc=5",
-      "sourceHome": "https://www.v6velugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "bharat-vistar-services-now-available-in-tg-thummala-2026-11-12",
-      "title": "Bharat Vistar services now available in TG: Thummala",
-      "summary": "&nbsp;&nbsp; The Hans India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Hans India",
-      "publishedAt": "2026-11-12T19:34:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnZMYzFJVkpuQ2cxWl9wLWxtSXNXMFlPbzEwRkpZVVl1NU5RWWVrb2NFN2ZIODZDYi1Nb0xLaDVFX3Y1RXQxVnpEQnFacnZuTmpyTXNtaXV6VWRsZVJTb0h6RUh1QjcwV2dqcW5iaVR1Ykd2a3lHczRUajBiQWM5VTh3UkNleklVdUxrNVBqOF9RSWxnNkk3V2h5QlV3cHhhbkh6WERwUlpLQzhPVGk3d1Q3TjLSAbQBQVVfeXFMTXJ2TGMxSVZKbkNnMVpfcC1sbUlzVzBZT28xMEZKWVVZdTVOUVlla29jRTdmSDg2Q2ItTW9MS2g1RV92NUV0MVZ6REJxWnJ2bk5qck1zbWl1elVkbGVSU29IekVIdUI3MFdnanFuYmlUdWJHdmt5R3M0VGowYkFjOVU4d1JDZXpJVXVMazVQajhfUUlsZzZJN1doeUJVd3B4YW5IelhEcFJaS0M4T1RpN3dUN04y?oc=5",
-      "sourceHome": "https://www.thehansindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-ties-up-with-nisg-to-bring-ai-agri-advisory-bharat-vistaar-in-",
-      "title": "Telangana ties up with NISG to bring AI agri-advisory Bharat-Vistaar in Telugu",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-12T18:23:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTmljeFhMaUVlV0JKdk0xNk5ubG1WOTNmUG5EMTJSbXpfQWZ0eE5ac3RMOHgzSGFXRVdtMGNLeFg5ZS0tbDBVXzhmUE56Qzd4WDFZRFhYUk85eUlLV2J1VGxVek5vbUtXeVhTbjBkb2oxQkJxZWpLLWkzb0xrb1gzeXlITXJIZHFTSVVSSHEtLUlEOUJUVHBhWVNYNndBWEZNZ3l2MW1Xb1NZeUhWSGRwRXo1NTlfeGl3MVdQYTRObTZNOURlNmpZWjI3RWVRZW93VHhkRGhLbXJoNkwwVHE5cTZCSFFUM1J0ZEt30gHwAUFVX3lxTFBtblhXOThPbWY3Q25QUDZlcXR0U1lWaXZaczFsTFI4ZlZLUVJtdVNwTTlNMVBla2liSnRDSzR4aGNmWm9zM1Q1bVNRalR1NllrblRKdlJMUFB6M2hTMC04Skx0VTdFMWlicUlRbmd3V0wwZkZyQ3ZfUTNCYXE4RlVWcF9TeUdCcndLQ0g5TzV3c0VrQlZyR0RjM0pWLU81bGhvb25JamNsZlozUjNNRnlFMm5wTk8yOXZ6OUkwZkFsVE5wY3JGYWF5R3ljQ01nbkxPSEhEQ2ZBZ0VndU9MNlU4Y0ZvcG1wM25LeGRHX19IdQ?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "smallholder-farmers-struggle-on-el-nin-o-frontline-will-the-world-help-2",
-      "title": "Smallholder farmers struggle on El Niño frontline; will the world help?",
-      "summary": "&nbsp;&nbsp; news - Mongabay",
-      "crop": "All",
-      "type": "scheme",
+      "id": "demand-bulls-lift-soybean-prices-2026-11-13",
+      "title": "Demand bulls lift soybean prices",
+      "summary": "&nbsp;&nbsp; Farm Progress",
+      "crop": "Paddy",
+      "type": "market",
       "regions": [
         "south",
         "india"
       ],
       "language": "en",
-      "source": "news - Mongabay",
-      "publishedAt": "2026-11-12T16:46:15.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmhpVmd6VWE2TW0zbmtVb3V0b29WYldzd0sweERwX0g3WG1MdDRndjhNZ0RTQ1YzQU80RjFrNm9CYjBveHNpc0txeXBQQVVuQ0otWnhETjBRTWtzdnhOVGJQNmF1ZzU1ang0RjVPclB3MXoxZXUxRkJmcDhpYTk2RFMyUENBN0VkdFMwWUplQU9rblpSdl9QdDZ6b0dXemtoQ1BpQ0ZjUdIBrAFBVV95cUxPQVpndWRkTkpfekN4bnZqcGlqR3BiaDdfckFhNFBhUGtIT3dGbUg0ZXQzTGNVVmxRdE5sZWFUZ3M2T2RNU0hMMmNsZ1lBdFQ5NWotTlZCTTFtNXdhZDZNc05aVU9VbEtnaFBxMl9qaWd1b1BLbDlxMmF3THloRFNvQzg4QkRiX3U2WE1sTnR4Z3N6ZDZpdndXZ19WT3h6clUyZWJNX2dtT3hPYm5m?oc=5",
-      "sourceHome": "https://news.mongabay.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "uneven-weather-leaves-alberta-farmers-with-mixed-harvest-fortunes-2026-1",
-      "title": "Uneven weather leaves Alberta farmers with mixed harvest fortunes",
-      "summary": "&nbsp;&nbsp; LakelandToday.ca",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "LakelandToday.ca",
-      "publishedAt": "2026-11-12T14:24:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnllVElld2ZvUFByeGpxQjdoMHNxT05zaTVBMG5FOFNhd09SZWxXQzcyeHBtX1o3NjlZSXJIZ2xsUjJQVEtJelo0SGNQMVRnZ1pYZUNXaV9UMXdlX2lnUWNwMFdhdEhNcVZUVlVULW1DOE9xLU4wNjBWeWRucTRQNThjNk1nOGJDeVZPMjVCX01CSy04cndBT0FHTU1SdU41bG9IRVU2Rlk2aXhmMG5VZktRd2o?oc=5",
-      "sourceHome": "https://www.lakelandtoday.ca",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "what-are-the-major-challenges-of-growing-cotton-2026-11-12",
-      "title": "What Are the Major Challenges of Growing Cotton?",
-      "summary": "&nbsp;&nbsp; Farmonaut",
-      "crop": "Cotton",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Farmonaut",
-      "publishedAt": "2026-11-12T08:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnJwVWFXd2Nsa0hOYjIyZHRwZFF0aVMwczRCNEJqb1YtaHhrOHVCRDBtcVBhYzlVdUZzLWltWDBCdXU2OFA3TkJtM0ZmN05Od0dSZFJKY0pNeDFNTFVMeXBWTzZaNmkwbUVYeHJ5STBHamVOV3RSZXNRVHdFbkllaGhybUVCcE0?oc=5",
-      "sourceHome": "https://farmonaut.com",
+      "source": "Farm Progress",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
