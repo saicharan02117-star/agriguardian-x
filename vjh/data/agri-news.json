@@ -1,9 +1,65 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T08:14:31.780Z",
+  "generatedAt": "2026-11-18T07:47:25.077Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "ai-guided-agriculture-and-the-race-for-the-global-food-supply-2026-11-17",
+      "title": "AI-Guided Agriculture and the Race for the Global Food Supply",
+      "summary": "&nbsp;&nbsp; The McGill International Review",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The McGill International Review",
+      "publishedAt": "2026-11-17T22:52:18.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTc3RHpaSzVNMHpoSjV0a0lGaklZb29XS2FaZXBrV253UEV2b0dNNF8yd0l4M3dvNzh1XzJQQUlPMkF6V19rT3UxM2oxbGhSY0xVaExkbHVvQnYxdU5uaUU2TjlLSXlfWUVmS1BnVGgxOWV1MkJBaDFhcHBBQ2N2d2VNY3lDTG84LWFz?oc=5",
+      "sourceHome": "https://mironline.ca",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "jagadeevapur-2026-11-17",
+      "title": "Jagadeevapur: ఆరుతడి పంటల సాగుపై రైతులు దృష్టి సారించాలి",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-17T15:21:51.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWw0VGo5UmxhOHZRd0p1cGRpUkpmTW94RXprRm12MGRUMmlaVkFMQUhfYzJ6a0VKbGZidkNJek1vcnAtRWdzR2lvZ2ExcEowTWtpS0NQTHR2Q1VfSDhxSEJZM3BWOWFDY1N5MVo4bWRmQ1hmTlV6U3JZUFBvODZkaFlBQTFLbXMyNG40SnFySzF0V3RQWDdHZjlrd3JMNDk1czY4VmdyM09EMkY4Q3ZSWld30gGyAUFVX3lxTFBRbDRUajlSbGE4dlF3SnVwZGlSSmZNb3hFemtGbXYwZFQyaVpWQUxBSF9jMnprRUpsZmJ2Q0l6TW9ycC1FZ3NHaW9nYTFwSjBNa2lLQ1BMdHZDVV9IOHFIQlkzcFY5YUNjU3kxWjhtZGZDWGZOVXpTcllQUG84NmRoWUFBMUttczI0bjRKcXJLMXRXdFBYN0dmOWt3ckw0OTVzNjhWZ3IzT0QyRjhDdlJaV3c?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "17-bks-2026-11-17",
+      "title": "17 అంశాలతో కేంద్ర ఆర్థిక మంత్రికి మెమోరండం సమర్పించిన BKS",
+      "summary": "&nbsp;&nbsp; VSK Telangana",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "VSK Telangana",
+      "publishedAt": "2026-11-17T11:08:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3RreUMyREMwNXgyQU1XUmk2djFkeEVsMnBuaXVrbDJ0X2ZtS0FsWGZmOFkzYXVhc0JNWXdYWE5JUFJ0R1lfWGN1SXd5YnVWZm5ibXdNdEc5VmhxamJKSGhQT2U3cVRWX2JfWVZCT0xGRnZ0bTZOUldJYVlTTTZlYWpBY0NLZDNrcUg1NDVHQUxHdU1vS1gzRHhDdE1iQjNDUTZ3XzMwTms4WUdWdzJIcnlkQTFWNllYcWxEWVVQVlN4dw?oc=5",
+      "sourceHome": "https://www.vsktelangana.org",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "sircilla-2026-11-17",
       "title": "Sircilla: తంగళ్లపల్లిలో ఖేత్ బచావో అభియాన్.. రైతులకు ఎల్ నినోపై అవగాహన!",
@@ -24,21 +80,22 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
-      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "market",
+      "id": "top-10-best-agritech-startups-in-india-in-2027-2026-11-17",
+      "title": "Top 10 Best Agritech Startups In India In 2027",
+      "summary": "&nbsp;&nbsp; Inventiva",
+      "crop": "All",
+      "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-11-17T05:05:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
+      "source": "Inventiva",
+      "publishedAt": "2026-11-17T00:25:21.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZwZ1RCcFhsYTJBd2FrSjZRa1BVWXpLcmNyN1VfM0puVi1jY1FzZThLS0VRVW9fRVBrOENpVGVwREhKX19QYzlNUGlfdFQ2d0piczF3enhYNG5iQkxfbnZCOFRfYXVaTUJNNFpyMkNPTW1WMVQ3bV9weVdKbXRIQzR3NkRKaHpvRlE?oc=5",
+      "sourceHome": "https://www.inventiva.co.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     },
     {
       "id": "bks-seeks-higher-pm-kisan-100-pulses-procurement-in-budget-2026-11-16",
@@ -51,8 +108,8 @@
       ],
       "language": "en",
       "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-11-16T16:40:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX29rR2hkd1owUUM5NS16Y21WR2ZEQ3owWGtBUDdMQ3V2RHJ5dW1qSU9Sd2VERWowc3BPcUZFSlhJX2NHUVR0NW1NOTJJMXZ4LWJVUzF0UmJ4UW1wR09nbVNvYUxrVU54RzJrdE9EbU9uS2pnU3pKajR2anNtZ2pHZF9WdU4zdUpYT0xYalN1MFVhUlMxcFVsVkFSZFY4QTZwUk1ydTJPRDA4OE1Rd0hWREpnTnXSAbQBQVVfeXFMT19va0doZHdaMFFDOTUtemNtVkdmREN6MFhrQVA3TEN1dkRyeXVtaklPUndlREVqMHNwT3FGRUpYSV9jR1FUdDVtTTkySTF2eC1iVVMxdFJieFFtcEdPZ21Tb2FMa1VOeEcya3RPRG1PbktqZ1N6Smo0dmpzbWdqR2RfVnVOM3VKWE9MWGpTdTBVYVJTMXBVbFZBUmRWOEE2cFJNcnUyT0QwODhNUXdIVkRKZ051?oc=5",
+      "publishedAt": "2026-11-16T16:40:19.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEVfc1hkd0d5NWJVWFJJSmhwcVVwZ0NYWnlXSU1xWUNkMlpGUVotSDlObUxoUzlKTjFVbzd6TTc3SlNtNHlzTlN4T3hoUnJUMnZ2WXpTS3AwZV9WQV95ZVZkU2wwUWYyaTRDaHA2RU9VX1JJT1YtRmpBSXhrWGxXVGF3WnZ4SkxEeldxelZjNUVxQnZ6Y21pYmlDMkY1UGUxQ3dZMmx5Y0hZWG90YXE00gG0AUFVX3lxTE9fb2tHaGR3WjBRQzk1LXpjbVZHZkRDejBYa0FQN0xDdXZEcnl1bWpJT1J3ZURFajBzcE9xRkVKWElfY0dRVHQ1bU05MkkxdngtYlVTMXRSYnhRbXBHT2dtU29hTGtVTnhHMmt0T0RtT25LamdTekpqNHZqc21nakdkX1Z1TjN1SlhPTFhqU3UwVWFSUzFwVWxWQVJkVjhBNnBSTXJ1Mk9EMDg4TVF3SFZESmdOdQ?oc=5",
       "sourceHome": "https://money.rediff.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
@@ -96,6 +153,25 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "farming-ideas-10-2026-11-16",
+      "title": "Farming Ideas: 10 రోజుల్లో పంట చేతికి.. నెలలో మూడు కాపులు.. ఏడాది పొడవున ఆదాయం",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-16T11:48:48.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQdIB2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQQ?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-16",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
       "summary": "&nbsp;&nbsp; www.pib.gov.in",
@@ -109,8 +185,8 @@
       "publishedAt": "2026-11-16T09:20:36.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
       "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
     },
     {
       "id": "el-nino-may-cut-telangana-gst-revenue-by-500-crore-2026-11-16",
@@ -132,23 +208,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "from-output-to-income-pm-modi-s-farm-agenda-now-turns-to-the-last-villag",
-      "title": "From output to income: PM Modi’s farm agenda now turns to the last village",
-      "summary": "&nbsp;&nbsp; Bureaucrats India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Bureaucrats India",
-      "publishedAt": "2026-11-16T05:30:05.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG1zQ0FUQkdWNWJWaXZuS1padW1ER01lOURxRUQ4QVNsWjdRanJ3SDNsR1RfbDdiQ0tDczhvZ085OGFLbk9pdmtRTFF1THVHeDdYMm4zVnQxX2xsNmc4NTc4bVlLUW1rRURtdWJXU0Zxd0h6QmZOanJCSDNSOGJLVVRGWGtZWWU5UjVLMVdocy1FRjlUZWgzSmhrQkJIb2pCWDVpak1PWXd1RFdPbDQ3MGk1NkxNU2otWXc?oc=5",
-      "sourceHome": "https://bureaucratsindia.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "rice-prices-100-2026-11-16",
       "title": "Rice Prices: కిలో సన్నబియ్యం రూ.100.. ప్రభుత్వం రేట్లు పెట్టినా తగ్గని ధరలు",
       "summary": "&nbsp;&nbsp; HMTV",
@@ -164,101 +223,8 @@
       "publishedAt": "2026-11-16T02:44:55.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmxQS1REVFpvQkV4VXlIOFZDOVBidkRuXzNmLUNzbnRaQ3hGNFk5LXVzQnBUME5vZERpc3RYUVU3T3U0NWtyWDlKOUluMFZCaEw3QTR1WklxZFRJTEN2aGdUN0VkTTFHM0JBdzZoUk5pMFNjVHF2OUVfUW0wcXBLa2p3YnhuTzR3RDRwX01tdlVtTUxjc2xmOXFmV2xlSWZqZkFUeGF2ME5NeUtiZ1M0VFJZcGcxc3NPcnFWZnhxLS1OUnd10gHEAUFVX3lxTE1mbFBLVERUWm9CRXhVeUg4VkM5UGJ2RG5fM2YtQ3NudFpDeEY0WTktdXNCcFQwTm9kRGlzdFhRVTdPdTQ1a3JYOUo5SW4wVkJoTDdBNHVaSXFkVElMQ3ZoZ1Q3RWRNMUczQkF3NmhSTmkwU2NUcXY5RV9RbTBxcEtrandieG5PNHdENHBfTW12VW1NTGNzbGY5cWZXbGVJZmpmQVR4YXYwTk15S2JnUzRUUllwZzFzc09ycVZmeHEtLU5Sd3U?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
-    },
-    {
-      "id": "blogdescription-2026-11-15",
-      "title": "BlogDescription",
-      "summary": "&nbsp;&nbsp; pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "pib.gov.in",
-      "publishedAt": "2026-11-15T23:30:50.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBidVJmQTBtQ1ZhdnFmY3pXSTlGTlVsNlRuQXAwVVprZXAweXhNdGxwUGh5TElENUF1bUVFUUNzOWhvRUo1ODdYeng4RFJMT2hibHVVSkdJQVdOR29hVnY0V1Y4RUNKUQ?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
-    },
-    {
-      "id": "pepsico-2026-11-15",
-      "title": "PepsiCo : వాతావరణ మార్పులను తట్టుకునే మొక్కజొన్న సాగుకు పెప్సికో బాసట.. !",
-      "summary": "&nbsp;&nbsp; Vaartha Telugu",
-      "crop": "Maize",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Vaartha Telugu",
-      "publishedAt": "2026-11-15T14:13:50.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xZM3YzaHVLeTd0NHcyeUFZQ3B2V3NKcFF4X3UzRlZ3NFpNTTVULUhsbmZFSlFIMzVBcnBMMTZDMzRERlZpdTlnQUNpR2RHMTZEczF6cER3T003dldhczR5NGJmOVE5ajAxWnZtUHFCblVMeHRYeUp5c2VYQl9sTXV4Tlktb1pSNTVXZnljVG4xeVNBMEN2S9IBmAFBVV95cUxPY2xZM3YzaHVLeTd0NHcyeUFZQ3B2V3NKcFF4X3UzRlZ3NFpNTTVULUhsbmZFSlFIMzVBcnBMMTZDMzRERlZpdTlnQUNpR2RHMTZEczF6cER3T003dldhczR5NGJmOVE5ajAxWnZtUHFCblVMeHRYeUp5c2VYQl9sTXV4Tlktb1pSNTVXZnljVG4xeVNBMEN2Sw?oc=5",
-      "sourceHome": "https://vaartha.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "when-the-rains-fail-horse-gram-delivers-in-telangana-2026-11-15",
-      "title": "When the rains fail, horse gram delivers in Telangana",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
-      "crop": "Pulses",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-11-15T04:28:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXViWmppMFlZUGR4MWllYjFDN2dTdjRwWjlMWlFKWnEyRUhnN19HZFlKTFNUdFRGLUlMVm9DMVZvVzdtYjlXb2RqdHVTOWxlYWhTYXpmVkdkcDgyem9nX1FGMVZVQ0xvbHlFRS03YkstZDl6SFpkY25Hc09HdHpvbTRfUXg1SnpGZjFvMDRzVWVpaEt1OGVra2wzT1psV3RRbHZHLUV6UkxrTjU0NURDRDItelo1TlM20gG4AUFVX3lxTFAxdWJaamkwWVlQZHgxaWViMUM3Z1N2NHBaOUxaUUpacTJFSGc3X0dkWUpMU1R0VEYtSUxWb0MxVm9XN21iOVdvZGp0dVM5bGVhaFNhemZWR2RwODJ6b2dfUUYxVlVDTG9seUVFLTdiSy1kOXpIWmRjbkdzT0d0em9tNF9ReDVKekZmMW8wNHNVZWloS3U4ZWtrbDNPWmxXdFFsdkctRXpSTGtONTQ1RENEMi16WjVOUzY?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-crop-diversification-needs-a-stronger-drought-plan-2026-11-14",
-      "title": "Telangana Crop Diversification Needs a Stronger Drought Plan",
-      "summary": "&nbsp;&nbsp; Urban Acres",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Urban Acres",
-      "publishedAt": "2026-11-14T19:43:43.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlc1aDk0REZoVm9xaXlyMktNQ1lEaXMwNHkyaU14RHFteGxnWFBuQzdhU0U4WDhmRE12NVYtSHdQZ1BhTGVfemhKX0lBZG9lUlVrbmQtV2JkMTVIb0M0eFpXdXN4ckFmRnpVazlrcWdwcTdZVE1ZZzRHc2piTnFibzZjMFdqTHVCZEF0ajZaWTVaQQ?oc=5",
-      "sourceHome": "https://urbanacres.in",
-      "imageUrl": "/vjh/assets/catalog/soil.jpg",
-      "imageKind": "category-fallback"
-    },
-    {
-      "id": "aiks-2026-11-14",
-      "title": "AIKS: ప్రత్యామ్నాయ పంటలకు ప్రాధాన్యత",
-      "summary": "&nbsp;&nbsp; Prajasakti",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Prajasakti",
-      "publishedAt": "2026-11-14T19:13:54.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDFvNUlnZWxiNDBpOE5sa2VmSFBjREE5clRvc3NscDhCZzhoTFpGcXV1anlhUFZIaGxUUFhSYlpfVGpPc1ZqLWFNLUc3TDFVQzR6S0VhUXNxWnAyd1VlZ1hCbnVIdVlBbWxEdDFDVklxb3NJSmpGTEhQVlRHWHZtcEdXZGVMdklZ?oc=5",
-      "sourceHome": "https://prajasakti.com",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
     }
   ]
 }
