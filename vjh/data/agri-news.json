@@ -1,9 +1,130 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T07:47:25.077Z",
+  "generatedAt": "2026-11-19T07:42:49.175Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "project-unnati-strengthens-farmer-livelihoods-and-long-term-viability-of",
+      "title": "Project Unnati Strengthens Farmer Livelihoods and Long-Term Viability of Mango Cultivation in Andhra Pradesh",
+      "summary": "&nbsp;&nbsp; ANI News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "ANI News",
+      "publishedAt": "2026-11-19T05:24:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0VpUjZtRW5MelZWZG9aUGJrVzhRYVlaN0ZIS1ZwWi1CcFNLVzVvbFJpVGo4dkNPUUZxYjF5ZklvWkRYNVlaajRTX1M5R3dMVnlDakhvOWdIRHRNcUdja0lIVTlHQldyOVdXTXdVOUNIVHh1Y2RIcWtma2pRc0lGMEM0TG5tYVRmcFNUdHhZU2tFUWFBQ2t6amY5SVJnLXJZYWpNaWgwZ0JrTmI4LUVwQ2JNV0hJN3M1SHlVRlVoYXAxNWZWcEJJMTFWdHMyOENoY0hvY29MMlQwOEp0ZGdhV2pDYnlhSGxPQmtlN3NqMUM?oc=5",
+      "sourceHome": "https://www.aninews.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "high-pulse-rate-nearly-10-lakh-tonnes-of-tur-in-buffer-stocks-yet-prices",
+      "title": "High pulse rate: Nearly 10 lakh tonnes of tur in buffer stocks, yet prices keep rising. Why?",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-19T05:15:27.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVHRTUmI2VVlINUo1dENvOGRrNzhZakNWTENvcTNvbC1YNzMyc0Q1WVVyXzd0T0drR3dYYkdrMjFDX0ZvR2FiNnhpY0taSmt1MlJzdWJVTGNIRDRTVHRpYklUOHBPUEc5ZmFGWE5sbkZtS1IxN2hON2stYmIyMGFOYUpqOXVYUjZGZmFJbi1MMTM1aVdRUUZodDJaRGZPLTFab2lKeU1NclJVaFNtUTFhTUp6TWxMX05PaUxETkgzeUpvOFA2U2hwbWpTMGNtOXVsTGRxV1RKdjRzU0Rpd011bmc3SlF5VFVCeG5CWjdiNnpydFJ4QTNXenF2b9IBgAJBVV95cUxQNlJnYUxQTUJGRUxpOWVua25rUHJ3RDBaUEVFZzY2aF9ZVUtBV2tXZ2l2eTR5cldVLUUxSGRnUE4zcWt4MVFoV0VEdEQ4X3lvRTZySVlGQjJaeVB4UVFQb2dYODVWcWJpS1RaWjBheTdpSW1yNUVQb211RzFuMThzNGI5TkotRW4xOUtld1BkN1RRVjhFUUllaFdkRXU5M0oxZTE5TVdaU0VSSk5SbS1SOWF1MTU5UG9sN043c2o1RkhtSlNHZFBrNTdyY1FLQmRwanktR05TVFVYNlpZbDVVM0t2UkxGcnZiTzJsNmlySmRhcHl6Yk5PZ0VjbVQwYlN5?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agriculture-to-become-profitable-venture-in-himachal-cm-sukhu-2026-11-19",
+      "title": "Agriculture to become profitable venture in Himachal: CM Sukhu",
+      "summary": "&nbsp;&nbsp; Big News Network.com",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Big News Network.com",
+      "publishedAt": "2026-11-19T03:32:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWVaeFY2VndBQk94bzUwbjdWSnVyYXFKUjNnMU9ZcVVjbTNnVVpIQ3dXRUNSYUYxWHRyMm94N3dWblJfVzZ2YllwOE5mNGxZWDBaMExpYmZBdHJIZ0VvVVo0ZkhMdmJTNHNvMzNKZ2lnMkVUZW9mVFNiR1M0Q21YQ1psM1E4MldiRmxPcUN5Y1VNN1pvUngxSHltUTUwaDAyYmdGMXZMdnctTmc?oc=5",
+      "sourceHome": "https://www.bignewsnetwork.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "don-t-sell-land-embrace-natural-farming-sukhu-to-farmers-2026-11-18",
+      "title": "Don’t sell land, embrace natural farming: Sukhu to farmers",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-18T18:42:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3pUWE84NWlnVVdsdzlrMkdHaHpMZzYzQ0ZQalJHZHJvU21PU25VdnlPR1ZhMmV2SjFPMXNmWFprYjBqSVJNWDgza0hPZ2hZY2ltMlZERG9LdXZaVjdVSTlHSFhhUmdmWWJiS1lfbkRaQ2FPYU1zVTdScW1WamFZaGxrZjNxM1RDTm5STDVibHdIOHBWZ2YwRGJsd2FnaC1RSVNYdzE4RFh6c1Z4Ylo3ZHhDdmNCdnhKWThwOVB4S2ZqcjVSQVpjemttMXlNQdIB0wFBVV95cUxOdzZDaVNPRHdKZ3c3NEp2Qk11eld4MVBfeS1yQkd1RnFucHlRR3pXa1M3TGFlR2hkeVhpUW9xMC1LblFFbnpkTnJtN1FWN1pubmZIM3h6cUJkWnBmVFJSQWFabUs5SEJjOExpRkxfT191Yk0xcTFQTTgzSy1rcXQtRjctYWpHbS1ldjFhSHV4akt5M3lXakJuNWZteW5QRHpCSEdpdEZMckpaYTZxa0ltd285Z0NnRWtSSS1sZGt5dGxBMnRCQ0hQVGRHNVVtcHkteXVz?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "very-very-important-news-received-from-director-public-relations-shimla-",
+      "title": "VERY VERY IMPORTANT NEWS RECEIVED FROM DIRECTOR PUBLIC RELATIONS SHIMLA FOCUSING CM THAKUR SUKHVINDER SINGH AND HIS ASSOCIATES",
+      "summary": "&nbsp;&nbsp; :: India News Calling ::",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": ":: India News Calling ::",
+      "publishedAt": "2026-11-18T15:45:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU1cxRi1OTENGQmdrV0JQaWhWd1NEa2x6RzFQN0R5NlRDVmNhMndOYlNrR0FyQ0xxSTVjalZ6d1I1bWFQV1luUExEZzhHQy1hMmNESHJrbDU4Ym5JV1VrUURuZVJKbW10SkRibUttUFNWVHpUaGwyZVRsV0R2M1RHQ1NYdlo0UlZRSUZGSDU5LVJMdmJLQWVxZTJxVlJaU0V1Wm5xeGNfRzkwMHZnb2I5Z3JyaHJEbnc3MEZoMXdWTTBtX2IzUUdvTjl6b19qWHpDLXVMX1BsTWIzeWYwMjhmUkxXQ1VGTmJpWlphQ3l5UQ?oc=5",
+      "sourceHome": "https://www.indianewscalling.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "coca-cola-india-foundation-s-project-unnati-strengthens-mango-cultivatio",
+      "title": "Coca-Cola India Foundation’s Project Unnati Strengthens Mango Cultivation and Farmer Livelihoods in Andhra Pradesh",
+      "summary": "&nbsp;&nbsp; Telugu Times",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telugu Times",
+      "publishedAt": "2026-11-18T13:25:09.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUGxBYUlDOWhYX0g1bE84ZHlvVWROYUI0ZHlOdG9YNzJrS2d1Q2NaeTJPUE4wbFZVT01rS3BBbWR2aXlLUXJvaC1SbHBOckZfcnJyazNoU0FubWY1SVBYS0lGNk1SQmFCcUdCeFlRMmFtdGhsN2xodkhtNjNxVGNRVV83NWtfalBpTXFiSDFFbTVVVFhUOFJGX0ZpaHVCRENjSTZkelpZVlJCbG4xX1k5dW94RkFUdFVGbGVVTGVuNTBvRURndkl3Yi13dDhBcWMydTJjSmFSc0hkQWJicFNudnlTS1dSZjZvLTIwNjRNLTdwY1h4?oc=5",
+      "sourceHome": "https://www.telugutimes.net",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-18",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-18T11:01:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "ai-guided-agriculture-and-the-race-for-the-global-food-supply-2026-11-17",
       "title": "AI-Guided Agriculture and the Race for the Global Food Supply",
@@ -98,23 +219,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "bks-seeks-higher-pm-kisan-100-pulses-procurement-in-budget-2026-11-16",
-      "title": "BKS Seeks Higher PM-KISAN, 100% Pulses Procurement in Budget",
-      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
-      "crop": "Pulses",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-11-16T16:40:19.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObEVfc1hkd0d5NWJVWFJJSmhwcVVwZ0NYWnlXSU1xWUNkMlpGUVotSDlObUxoUzlKTjFVbzd6TTc3SlNtNHlzTlN4T3hoUnJUMnZ2WXpTS3AwZV9WQV95ZVZkU2wwUWYyaTRDaHA2RU9VX1JJT1YtRmpBSXhrWGxXVGF3WnZ4SkxEeldxelZjNUVxQnZ6Y21pYmlDMkY1UGUxQ3dZMmx5Y0hZWG90YXE00gG0AUFVX3lxTE9fb2tHaGR3WjBRQzk1LXpjbVZHZkRDejBYa0FQN0xDdXZEcnl1bWpJT1J3ZURFajBzcE9xRkVKWElfY0dRVHQ1bU05MkkxdngtYlVTMXRSYnhRbXBHT2dtU29hTGtVTnhHMmt0T0RtT25LamdTekpqNHZqc21nakdkX1Z1TjN1SlhPTFhqU3UwVWFSUzFwVWxWQVJkVjhBNnBSTXJ1Mk9EMDg4TVF3SFZESmdOdQ?oc=5",
-      "sourceHome": "https://money.rediff.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "rewind-fighting-the-drought-the-reality-of-telangana-s-agricultural-cris",
       "title": "Rewind: Fighting the drought—the reality of Telangana’s agricultural crisis",
       "summary": "&nbsp;&nbsp; Telangana Today",
@@ -168,61 +272,6 @@
       "publishedAt": "2026-11-16T11:48:48.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQdIB2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQQ?oc=5",
       "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-16",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-16T09:20:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "el-nino-may-cut-telangana-gst-revenue-by-500-crore-2026-11-16",
-      "title": "El Nino may cut Telangana GST revenue by ₹ 500 crore",
-      "summary": "&nbsp;&nbsp; Hyderabad Mail",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Hyderabad Mail",
-      "publishedAt": "2026-11-16T06:16:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TVUFpMmlUX0pza0k4aW10N0ZGNWdaclJXeHBUal9NNncwYlptMVdicHBDWHA0TmhHR1N1c2EyX1FvUTdPVjFWZ2hFSFN5VzkxMWNseW1LRFV0T3NZM3Q0dWM4WFZpWkw1eGFHMzhFTlAwUUpKU1hXNXQ2OA?oc=5",
-      "sourceHome": "https://hyderabadmail.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "rice-prices-100-2026-11-16",
-      "title": "Rice Prices: కిలో సన్నబియ్యం రూ.100.. ప్రభుత్వం రేట్లు పెట్టినా తగ్గని ధరలు",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-16T02:44:55.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmxQS1REVFpvQkV4VXlIOFZDOVBidkRuXzNmLUNzbnRaQ3hGNFk5LXVzQnBUME5vZERpc3RYUVU3T3U0NWtyWDlKOUluMFZCaEw3QTR1WklxZFRJTEN2aGdUN0VkTTFHM0JBdzZoUk5pMFNjVHF2OUVfUW0wcXBLa2p3YnhuTzR3RDRwX01tdlVtTUxjc2xmOXFmV2xlSWZqZkFUeGF2ME5NeUtiZ1M0VFJZcGcxc3NPcnFWZnhxLS1OUnd10gHEAUFVX3lxTE1mbFBLVERUWm9CRXhVeUg4VkM5UGJ2RG5fM2YtQ3NudFpDeEY0WTktdXNCcFQwTm9kRGlzdFhRVTdPdTQ1a3JYOUo5SW4wVkJoTDdBNHVaSXFkVElMQ3ZoZ1Q3RWRNMUczQkF3NmhSTmkwU2NUcXY5RV9RbTBxcEtrandieG5PNHdENHBfTW12VW1NTGNzbGY5cWZXbGVJZmpmQVR4YXYwTk15S2JnUzRUUllwZzFzc09ycVZmeHEtLU5Sd3U?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
