@@ -1,9 +1,100 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T07:42:49.175Z",
+  "generatedAt": "2026-11-20T07:35:03.070Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "2026-11-20",
+      "title": "ఖరీఫ్ రైతులకు గుడ్ న్యూస్.. ఎల్ నినో దెబ్బకు పంటలు నష్టపోకుండా కేంద్రం మాస్టర్ ప్లాన్!",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-20T05:49:18.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWjFuSWo2ZEFrbVBIOFJYQWJYam8xNndzR29TQzllV1RxQ0NqWDNvRm5OeEQ5aURjQkduRmRnUDNVb1V0YjhXQ2J0WmlkTXlROFlzdWZGTS1rbS1SVV9aVU1ZTEJya2VsOXpiRUd2RngtemNDUnFsNWpRUUpwSm1PeFNkemtIVldRODh3WkI2dzZ4SjF2UUcwYTNUTy1ZcjZkbzBDcGRfUUwtUDU0MUhHRjV5dUVTcmduV0xfNzlQOFFwS1R5Nk5fZVc3ZFBKYURsTEpRMmc1aDV3Zl8xV1JV0gHkAUFVX3lxTFBvWkZ2TkJzUGhRNlRuUktseWxOcTlqOHJ3Wm1XMXFPYkxGM3BaajY3YVJSejYtYXFfdGFPZHp2YVB5eXNlU2ZEWTVsM3lNd2dwZ1FLTkNPWnlwOTQwbjNGeWp2TnFlU1VLb1NBZGsxN1BwcE5EWGFueWxWUnNhOEFLOE9lbThjX3QxVHBZaHJQVXZ4MTFyamdDQ3FDTmJ1aS1WRGNIWXJWSVllTnp3TXhVSXJHb1dXWEdWNHdhTE42anFJdDBGM2hwRzJXbDFOVzA2RUhuZkRxSE83YkhucHRXQ2Z2cw?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "provide-insurance-cover-for-all-major-crops-and-farming-regions-ryots-ur",
+      "title": "Provide insurance cover for all major crops and farming regions, ryots urge govt",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-19T18:40:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2FzVXYyd2lSNVNLYWZHZUdLWkF4QmFQMEE5eV9Mc3ZFTXhpbkpCbVhGNUxFN1lJNDRPMjRNQWg0cUhEa0FSTVBtN05zSGdUSHBjSnFnRHZ3T0NUa3JETnlUb29GR2FZUS1uRFRNQjNvWHFhc0hCY1FzWnN4aE8ycUprS05MYl9xUUhwSl9fQ182dFg1N2piZmZGN3pWNVM1ZDhzMFIxSWtWQ3FqdWx4WElqdWs3VnNZc2c0S21wN3lUclF6Y1NUelVNUjBQT1hxb2RXWEhrQVlKTnFZc2Q5YTZ3ZFBteV9TNW9pNdIB8gFBVV95cUxPVjFwZGJzcV91MThwVGJ0bDRodk5LMWhaWTdoS0lmTGlSaktQQ3lUOGxmQ1AwamNTOXNydmhiX0l6djdLSE5pWW9UWURxZF9lRGlrblVIaHdNU09mdG9WVlZDTHVyYXRaTkdyY3JNRVdza0w2U3F4TlN5NkRneEdfaWNUNEFCWThiREhfd2VZeVdYOVhsRWtKc2VoaHBYMzRBNnlFZmhoQTRoVHZyemtPVG9IaE9mQzVUdmJhQWpCMDZubXFTYXEzQk5uMWhHMTZRcVBNMWM4eXVRY3JLSklQUlF4RWJPZU5KNTRjVXkySkdMUQ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "himachal-pradesh-raises-msp-for-natural-farming-turmeric-to-rs-170-and-w",
+      "title": "Himachal Pradesh Raises MSP for Natural Farming Turmeric to Rs. 170 and Wheat to Rs. 90/kg",
+      "summary": "&nbsp;&nbsp; RuralVoice",
+      "crop": "Wheat",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "RuralVoice",
+      "publishedAt": "2026-11-19T10:19:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3VkTy1yZWxjSkdjZU5lQ0NQeVNQM1RyUnRtWC1HZlhRejVLNk16UmIzX25rNUx4YTQ0VENIRkM0cVRPcWh6eG9ELW1fVUgtbGhoSkRtRVUyN3FWd2xDUTRSQzNpUW5KVlE3Tnd1YjVXc2VxMWt6amRkUmp4SDJPcGJUdl9vRGMwNGFxSTVGQ25wNWlZeGpVSk1UbFF1MjhFVFN3UTJZdDd2MFM5Z0JCYUoxT05YMU1FcFNGaGFIdVpMNUtrTkhfMNIBzgFBVV95cUxQLTNOU2N4VGIwcHRzOXNDV2RkYlRtUkpCRk1qSGtLcjBZMWxfS2JZU1NnWXFvSDJSdnNPMnRVMy1MUUxieFpWN0owVlZCSVkwaGlwcHJhVTY2VlVQSjNyVXViWEoyZ2V1X2pmVjgzcGxkc0k2YzlkTXNxdVg3U0YyaGlxWHhpbXYzVlpua2FGR1FxQno2dGpNaXY4STJLcXlZRU5QdjBOV084VHh6R2s2YWxmOE8ycEp6eDNzRWdZc2ZFY0MyU1hXY1ZBbEJLdw?oc=5",
+      "sourceHome": "https://eng.ruralvoice.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "devarakonda-2026-11-19",
+      "title": "Devarakonda: ఉచిత కూరగాయల విత్తనాల పంపిణీతో రైతులకు ప్రోత్సాహం!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-19T08:42:51.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcG9pVm5SMTJQOFFpUzVlelBDVXA4dk0tNDB2Z0JpRGtMN3dLc1FzLWw5QVdCTFFWSThtS25RSk1VN0dyTmRySGVCSEhOSmh4bWtibzF5Y1Q2a0JHQ2JrY3hIVmtPbGJ6UW9mNVdBdmdSYUZlblMwOUI0cDhCTTV5LVdnbW0wVnNOdmprWnRPTFc3cE16dFI2dmpWLUVlSXNIbWZBODhDaWV3ZkZhSVBfeVRRQmdBX3JZ0gG-AUFVX3lxTE1NXzVBRm1NWEVENFExV2J6T25DNE8xQ0tkdkNmQW1hR3hId2ptVEFBbDM1WTVGNHpvaWg4RFdleW9XRHRucWJ1UERqb1ZZWVlnakgwd3llWm93OFpsNzhTYkFrVFljZ0FXTG5ySGlEOW5mRHMyazNVbnhsVUJaZ3RmQW50VkxOLUtibm45R3Y4UHI1SU5JUG9sSGRITG9YNUhHbzhQZTJuaVdwR2xteTBYNnV2SmFRakpCTkhXcWc?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
+      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-19T07:37:45.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "project-unnati-strengthens-farmer-livelihoods-and-long-term-viability-of",
       "title": "Project Unnati Strengthens Farmer Livelihoods and Long-Term Viability of Mango Cultivation in Andhra Pradesh",
@@ -40,19 +131,19 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "agriculture-to-become-profitable-venture-in-himachal-cm-sukhu-2026-11-19",
+      "id": "agriculture-to-become-profitable-venture-in-himachal-cm-sukhu-2026-11-18",
       "title": "Agriculture to become profitable venture in Himachal: CM Sukhu",
-      "summary": "&nbsp;&nbsp; Big News Network.com",
+      "summary": "&nbsp;&nbsp; https://www.indiagazette.com/",
       "crop": "All",
       "type": "scheme",
       "regions": [
         "india"
       ],
       "language": "en",
-      "source": "Big News Network.com",
-      "publishedAt": "2026-11-19T03:32:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWVaeFY2VndBQk94bzUwbjdWSnVyYXFKUjNnMU9ZcVVjbTNnVVpIQ3dXRUNSYUYxWHRyMm94N3dWblJfVzZ2YllwOE5mNGxZWDBaMExpYmZBdHJIZ0VvVVo0ZkhMdmJTNHNvMzNKZ2lnMkVUZW9mVFNiR1M0Q21YQ1psM1E4MldiRmxPcUN5Y1VNN1pvUngxSHltUTUwaDAyYmdGMXZMdnctTmc?oc=5",
-      "sourceHome": "https://www.bignewsnetwork.com",
+      "source": "https://www.indiagazette.com/",
+      "publishedAt": "2026-11-18T23:02:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWl5QXV3OG9pVm1vTDRHVUI0YkJzWTQwWGRZS09mR0dEZkM1LXVsamVTWFN2WUc2bjRrSVJHRWFsNjRObmtFMS1ZdlNBeUduSjRrQ3A1OENtMnVzeWg5LW5MeTZZbGp5ZkVkRU5aZ0JVVGIzVGhVZE1IdWJlUFVGWXVoVHBxQkVCcXJQbHptdXhoRmwtTlhCWjg2Rkk0ME05Zm1id1k3ZHk?oc=5",
+      "sourceHome": "https://www.indiagazette.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -70,41 +161,6 @@
       "publishedAt": "2026-11-18T18:42:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3pUWE84NWlnVVdsdzlrMkdHaHpMZzYzQ0ZQalJHZHJvU21PU25VdnlPR1ZhMmV2SjFPMXNmWFprYjBqSVJNWDgza0hPZ2hZY2ltMlZERG9LdXZaVjdVSTlHSFhhUmdmWWJiS1lfbkRaQ2FPYU1zVTdScW1WamFZaGxrZjNxM1RDTm5STDVibHdIOHBWZ2YwRGJsd2FnaC1RSVNYdzE4RFh6c1Z4Ylo3ZHhDdmNCdnhKWThwOVB4S2ZqcjVSQVpjemttMXlNQdIB0wFBVV95cUxOdzZDaVNPRHdKZ3c3NEp2Qk11eld4MVBfeS1yQkd1RnFucHlRR3pXa1M3TGFlR2hkeVhpUW9xMC1LblFFbnpkTnJtN1FWN1pubmZIM3h6cUJkWnBmVFJSQWFabUs5SEJjOExpRkxfT191Yk0xcTFQTTgzSy1rcXQtRjctYWpHbS1ldjFhSHV4akt5M3lXakJuNWZteW5QRHpCSEdpdEZMckpaYTZxa0ltd285Z0NnRWtSSS1sZGt5dGxBMnRCQ0hQVGRHNVVtcHkteXVz?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "very-very-important-news-received-from-director-public-relations-shimla-",
-      "title": "VERY VERY IMPORTANT NEWS RECEIVED FROM DIRECTOR PUBLIC RELATIONS SHIMLA FOCUSING CM THAKUR SUKHVINDER SINGH AND HIS ASSOCIATES",
-      "summary": "&nbsp;&nbsp; :: India News Calling ::",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": ":: India News Calling ::",
-      "publishedAt": "2026-11-18T15:45:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU1cxRi1OTENGQmdrV0JQaWhWd1NEa2x6RzFQN0R5NlRDVmNhMndOYlNrR0FyQ0xxSTVjalZ6d1I1bWFQV1luUExEZzhHQy1hMmNESHJrbDU4Ym5JV1VrUURuZVJKbW10SkRibUttUFNWVHpUaGwyZVRsV0R2M1RHQ1NYdlo0UlZRSUZGSDU5LVJMdmJLQWVxZTJxVlJaU0V1Wm5xeGNfRzkwMHZnb2I5Z3JyaHJEbnc3MEZoMXdWTTBtX2IzUUdvTjl6b19qWHpDLXVMX1BsTWIzeWYwMjhmUkxXQ1VGTmJpWlphQ3l5UQ?oc=5",
-      "sourceHome": "https://www.indianewscalling.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "coca-cola-india-foundation-s-project-unnati-strengthens-mango-cultivatio",
-      "title": "Coca-Cola India Foundation’s Project Unnati Strengthens Mango Cultivation and Farmer Livelihoods in Andhra Pradesh",
-      "summary": "&nbsp;&nbsp; Telugu Times",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Telugu Times",
-      "publishedAt": "2026-11-18T13:25:09.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUGxBYUlDOWhYX0g1bE84ZHlvVWROYUI0ZHlOdG9YNzJrS2d1Q2NaeTJPUE4wbFZVT01rS3BBbWR2aXlLUXJvaC1SbHBOckZfcnJyazNoU0FubWY1SVBYS0lGNk1SQmFCcUdCeFlRMmFtdGhsN2xodkhtNjNxVGNRVV83NWtfalBpTXFiSDFFbTVVVFhUOFJGX0ZpaHVCRENjSTZkelpZVlJCbG4xX1k5dW94RkFUdFVGbGVVTGVuNTBvRURndkl3Yi13dDhBcWMydTJjSmFSc0hkQWJicFNudnlTS1dSZjZvLTIwNjRNLTdwY1h4?oc=5",
-      "sourceHome": "https://www.telugutimes.net",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -159,119 +215,6 @@
       "publishedAt": "2026-11-17T15:21:51.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWw0VGo5UmxhOHZRd0p1cGRpUkpmTW94RXprRm12MGRUMmlaVkFMQUhfYzJ6a0VKbGZidkNJek1vcnAtRWdzR2lvZ2ExcEowTWtpS0NQTHR2Q1VfSDhxSEJZM3BWOWFDY1N5MVo4bWRmQ1hmTlV6U3JZUFBvODZkaFlBQTFLbXMyNG40SnFySzF0V3RQWDdHZjlrd3JMNDk1czY4VmdyM09EMkY4Q3ZSWld30gGyAUFVX3lxTFBRbDRUajlSbGE4dlF3SnVwZGlSSmZNb3hFemtGbXYwZFQyaVpWQUxBSF9jMnprRUpsZmJ2Q0l6TW9ycC1FZ3NHaW9nYTFwSjBNa2lLQ1BMdHZDVV9IOHFIQlkzcFY5YUNjU3kxWjhtZGZDWGZOVXpTcllQUG84NmRoWUFBMUttczI0bjRKcXJLMXRXdFBYN0dmOWt3ckw0OTVzNjhWZ3IzT0QyRjhDdlJaV3c?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "17-bks-2026-11-17",
-      "title": "17 అంశాలతో కేంద్ర ఆర్థిక మంత్రికి మెమోరండం సమర్పించిన BKS",
-      "summary": "&nbsp;&nbsp; VSK Telangana",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "VSK Telangana",
-      "publishedAt": "2026-11-17T11:08:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3RreUMyREMwNXgyQU1XUmk2djFkeEVsMnBuaXVrbDJ0X2ZtS0FsWGZmOFkzYXVhc0JNWXdYWE5JUFJ0R1lfWGN1SXd5YnVWZm5ibXdNdEc5VmhxamJKSGhQT2U3cVRWX2JfWVZCT0xGRnZ0bTZOUldJYVlTTTZlYWpBY0NLZDNrcUg1NDVHQUxHdU1vS1gzRHhDdE1iQjNDUTZ3XzMwTms4WUdWdzJIcnlkQTFWNllYcWxEWVVQVlN4dw?oc=5",
-      "sourceHome": "https://www.vsktelangana.org",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "sircilla-2026-11-17",
-      "title": "Sircilla: తంగళ్లపల్లిలో ఖేత్ బచావో అభియాన్.. రైతులకు ఎల్ నినోపై అవగాహన!",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-17T07:10:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRk9FbHdrWi1OX2NmZ0ZVVUxLX1R6c1A2X1ZsWmRFdmQ5RElHdWR0c0FKblJLcWxOUV9PTGFkSUFFV0Z6WXB0QVZiX0IySzZkS25QbFlnZTJSNGZYaTFsUjdCX2ZjaTBYamtZN0xZNDBuZTVfUV9weFVVT1lVWUk2ZmxySG9IMkdLQ3pqeF9MT2xLa0tucUY4YUtCZGpCTkNWUlk4clZIMS1OWmI4MmtDRWxzenI5cmt2eURF0gHAAUFVX3lxTE9rb3NnWlFKdFpxeTJJQmFCN3J1c1RxdWxiLVJBdHhZU01jdUE4eWFSUDcyVzljS2JRY1VFb2hLTmNhSHdtYzAyejhQbi1NRVU2c2ZkM1JMaXRGXzRUQ3RUa0ZXbXI2M3dLaURJVmJ2cElfOUFDQkFkMGFtSGJVODJ6d3dYYkJXMUlrMGVIdlBUQ2Nka2hyOENCc3AxMXduc2hNYmhRaGhWZm5BYmdOcVpMQWctcEVjazdad3UtSTlxYg?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "top-10-best-agritech-startups-in-india-in-2027-2026-11-17",
-      "title": "Top 10 Best Agritech Startups In India In 2027",
-      "summary": "&nbsp;&nbsp; Inventiva",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Inventiva",
-      "publishedAt": "2026-11-17T00:25:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0ZwZ1RCcFhsYTJBd2FrSjZRa1BVWXpLcmNyN1VfM0puVi1jY1FzZThLS0VRVW9fRVBrOENpVGVwREhKX19QYzlNUGlfdFQ2d0piczF3enhYNG5iQkxfbnZCOFRfYXVaTUJNNFpyMkNPTW1WMVQ3bV9weVdKbXRIQzR3NkRKaHpvRlE?oc=5",
-      "sourceHome": "https://www.inventiva.co.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "rewind-fighting-the-drought-the-reality-of-telangana-s-agricultural-cris",
-      "title": "Rewind: Fighting the drought—the reality of Telangana’s agricultural crisis",
-      "summary": "&nbsp;&nbsp; Telangana Today",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Telangana Today",
-      "publishedAt": "2026-11-16T14:22:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWllcTVDREwxTFNxV29qWlRHcGtHN2tsdF90TzVqQ3R3S1otRlAtNmxTUlA1VllWWlhUc1IzZWFlSHQ1c1dkbG9VSllXZmNtblBTc1pXNkw5eVJlYW5KYV9hVlp4WU8tX29RV0hsT1FMWTJZUmFVdkJKR3RUN1pLOU1YeXRBZ2Zpam4wYVcyYzlMUGY1U1djbFVpOG13SUFUSFE?oc=5",
-      "sourceHome": "https://telanganatoday.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-11-16",
-      "title": "ఎల్‌నినో ప్రభావంతో కరువు పరిస్థితులు.. రైతులు అప్రమత్తంగా ఉండాలి: మంత్రి తుమ్మల",
-      "summary": "&nbsp;&nbsp; Andhrajyothy",
-      "crop": "All",
-      "type": "weather",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhrajyothy",
-      "publishedAt": "2026-11-16T13:50:59.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRFBSb3N4SFlPRzB1ZS1QdTJaeVUxWTZ3VVRxTFNCa1NPTmlabWpkY2d1NVJIMUpZMVNNRVdoVVB0MEtENEFzSWpiNWoyNDh0Vk5rSk5VMktXcnNHejR6ZDZtMUJTd182NWN3UHQwTXZhZzVFUTBlSmdPYXBiT0M4elRpVVBZZVZLYXJsYlFCS0U5V3MxRlRfVTNEN2hjVjh3YmZUb2tFX0ZxNmNyaTBMNHBOZVN6S2lQRW9ySEhERUx4MWxUMXRsbFgtcGIzVUhtU191MjVDWWRQM3B5Y0J6ZXZIajU1ZlRESDNrTDEyYjU?oc=5",
-      "sourceHome": "https://www.andhrajyothy.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "farming-ideas-10-2026-11-16",
-      "title": "Farming Ideas: 10 రోజుల్లో పంట చేతికి.. నెలలో మూడు కాపులు.. ఏడాది పొడవున ఆదాయం",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-16T11:48:48.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQdIB2gFBVV95cUxPdGk0QzJINnBURXM0X1doN1RWOWhUREJJdFJIOHZ2MlZnbmJSVkhOUGFqbl9KTEhZcGFzNTNwclpEdmF5OU1MMFhHLVdqNGRWUmJxb1Nwa3BVbUxSQTMwR1Z0OTRqS2dKdFhxR2FESnZlZ3QtTllPSWJFbU1yV09pLVBCM0VEZ1g1akNQVEdzM2pueDcyUWZaTEtOVzhSZXN5LVVaZ2pON2NVd3otcU4xTFRMVEtUSFR1LWd5RmEtVlU1QlVobWE5RmRGU3V4YW9XQ0ZpLTJKbzkyQQ?oc=5",
-      "sourceHome": "https://tv9telugu.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
