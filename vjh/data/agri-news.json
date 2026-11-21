@@ -1,13 +1,138 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T07:35:03.070Z",
+  "generatedAt": "2026-11-21T07:31:02.138Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "2026-11-20",
-      "title": "ఖరీఫ్ రైతులకు గుడ్ న్యూస్.. ఎల్ నినో దెబ్బకు పంటలు నష్టపోకుండా కేంద్రం మాస్టర్ ప్లాన్!",
+      "id": "bibifathima-swa-sahaya-sangham-2018-shgs-as-agents-of-community-led-clim",
+      "title": "Bibifathima Swa-Sahaya Sangham(2018): SHGs as Agents of Community-Led Climate Governance",
+      "summary": "&nbsp;&nbsp; IMPRI Impact and Policy Research Institute",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "IMPRI Impact and Policy Research Institute",
+      "publishedAt": "2026-11-21T04:27:56.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vcnhYRDZtWVRiTmdHRUVxZlBWbDJFbkNtdVYyd18xWElpa0MzdTVNS1BOdUxjSms4eURkQUVSMmRfLTlmT3oxQ1RWcy1sX3hmbkFwZm5ZSC1wdWpOZW1SYXowa2EyT0gtLXhKekNXQQ?oc=5",
+      "sourceHome": "https://www.impriindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "too-much-smoke-and-some-farm-fires-2026-11-21",
+      "title": "Too Much Smoke And Some Farm Fires",
+      "summary": "&nbsp;&nbsp; ETV Bharat",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "ETV Bharat",
+      "publishedAt": "2026-11-21T00:32:04.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWc1ODQ3ZnA4RUhkMU15ZVFrNGlhQVVCcXRrenFVMklWSVlGemJYMEtwOGIwdjFQZDFveE0weVZfZjJhSjBaVGpLU2JQbDFwaGt1Y0NkengwODNSbE1Hb0pzckFoRDdmUk9qRktSd2x5NkZ2ejBVYkJZaHVqM1dla0oyVnRONTZPVVFONV96WdIBlAFBVV95cUxQb0wxR3hGUnRIMG5vdmRVOGpKMUlTclVqOE1yYk10QktVWjEycV9MZ3BGRndnUW55S2Zfd0NBNnhPN0c4TkFpZkQ3UnY4c25qV3IweWJzd2ZIT3RCTDJWRXEyQ0hWa29Qd1M5OTAyLUhOcm9HcFJGRks3TnVBRXJuejFHX0JxZXBDS0J3ZnF4X1pLZGU0?oc=5",
+      "sourceHome": "https://www.etvbharat.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "telangana-2026-11-20",
+      "title": "Telangana : కరవు దెబ్బకు కుదేలైన పశుపోషణ.. మేత లేక సగం ధరకే అమ్మేసుకుంటున్న రైతులు!",
       "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-20T15:58:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeE8wVlpNeV9jZ2hrdXJaTUc1MkhmdHFzVWdPNnNSZ0tWRndBMW8xdVRNbldGeWpmMkhjcDJ4dHdUZEVkOU9GQzdpOUt6alVwN05IcmllMGtWQkMzQVA3QnJkT0J3VXFwQUNiMk93dGd2TWh3TUFJXzk4VVBvVG5WYkp4UlYwZ2RZbzZ2OE1BaFY4dTExSmpOS3pwVGstUU5ZVzFuSldmbmsycXo4aWV0bVRHYTRlTExqbEF4MjFkWWEzTzZSTDRsTkZWQWRSaW9VMDlLMFNjZlTSAd4BQVVfeXFMTlhXOXJtRE1OWm5teTQ2MkFXVDk5Qmk4dXg1TnlUQ2NLNC04YkswdmF6Wk91ZDRyX1FzdHhneFF4LVhYdzhIM3VDLUpxTERLVkZsb3YxOWlZSFcteTY1cU5fMkx1Z3NIV29mM1lwRXNfOEg4d1NBRFVWVTRLS0poOWpiRlNWZkpoY2dWUnFvSVRWcFpUUGV5UWVwR0NoUFJ6V1BKbmphdWU1bk82ZENSSVpfNE1nVW1PeDJITGhPRWl1bDBkbVhaRTh1TXZBV1RzeXpweUhrR0VLZVUzam53?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "asparagus-blight-pushes-new-jersey-growers-to-spray-more-2026-11-20",
+      "title": "Asparagus Blight Pushes New Jersey Growers to Spray More",
+      "summary": "&nbsp;&nbsp; Wisevoter",
+      "crop": "All",
+      "type": "disease",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Wisevoter",
+      "publishedAt": "2026-11-20T15:43:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkZIZkozMWo2MER3VC1jMTFBV1Y4b2p0WDNvMUY1TEdaaEw2NFNlOUtmenBFQ0pNdUstdkJiTFpXQ1dXcXUzWVQwb2pkNTl0Y3JhTWNWaHJrMjdUMkpVcWRlaW5oUmFiYnVoWjJKamlxVFlfVHliQWxYaXFCcjlJQ2F6dHpLMkg0RUN2OVRTeFZxdTQ?oc=5",
+      "sourceHome": "https://wisevoter.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "counting-real-cost-of-climate-variability-for-farmers-2026-11-20",
+      "title": "Counting real cost of climate variability for farmers",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-11-20T15:31:49.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakpnMnN3Z2tRYjF4blR5dXI2SFFwWVZ1NlppUUhDMVY1YzR1MTFWOVJzSlozS0xtNWZ3a3VpR1psdDctbHc2NHNDZjIzTGt0Z3lpRmphODdtckRNS2w0OUNTeTd3MFNjMFoxNlRxMjBINUttNUV1VFJDUVVna05ocHNBRklLWGVvdG04dmNXeDJTTlVMeEJmT1YyM0JuTHd5RmVpMDNWY1R2TE5l?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-20",
+      "title": "తక్కువ నీటితో సాగు.. ఎక్కువ దిగుబడి! మార్కెట్‌లో మంచి డిమాండ్ ఉన్న బెస్ట్‌ పంటలు ఇవే!",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-20T12:10:26.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnU4Vk9mc0tNaG12WjJYZjFkYWFNbmdlVW95dnA4R2haMDdFRVA0djBkRVMzdG1zMFlnaWVBT1VtcGg2cFAyRFBfS2hBdFNWWHoxNXBMYmYwYzEwbE11eFRTY25mNUNFeXJOaUtRbUJUdFQxdS1zcTRYXzd2cG1SSm1mMzRrc3FVWTJMTmJMTklDV1VrZE4tMFdQX3M4X1dfd2dOa2NmTXRrYmEtQmZhQmt0NGdONzcxOEN6dkxrSdIBxAFBVV95cUxQYjF0X25mTy1uLVExUkZTNmZxX28xRWJyQ3J0SzR2Z3ZPREVBd0k4ajExVGdHdGQwWTFxNlJGNWU2SWVSOThvS2t5R1FQWlZ0TldBR28yWFFycVpyQktjalpuMDBXY0VILWtTUy1oRkwxQkZXamQxOVpmR3lyeFB6c01pRS1lam1YZWQ3cFp3aU1MTWZMblNaS0ZaMi1fVTRwaXpxY3hWdTlsWlNHN0JzYzBFaDFxd1VjcDdNUTdDOE5pbmpY?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-20",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-20T10:07:12.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "wet-crops-2026-11-20",
+      "title": "Wet crops | ఆరుతడి పంటల సాగుపై రైతులకు అవగాహన",
+      "summary": "&nbsp;&nbsp; Namasthe Telangana",
       "crop": "All",
       "type": "scheme",
       "regions": [
@@ -16,10 +141,100 @@
         "india"
       ],
       "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-20T05:49:18.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWjFuSWo2ZEFrbVBIOFJYQWJYam8xNndzR29TQzllV1RxQ0NqWDNvRm5OeEQ5aURjQkduRmRnUDNVb1V0YjhXQ2J0WmlkTXlROFlzdWZGTS1rbS1SVV9aVU1ZTEJya2VsOXpiRUd2RngtemNDUnFsNWpRUUpwSm1PeFNkemtIVldRODh3WkI2dzZ4SjF2UUcwYTNUTy1ZcjZkbzBDcGRfUUwtUDU0MUhHRjV5dUVTcmduV0xfNzlQOFFwS1R5Nk5fZVc3ZFBKYURsTEpRMmc1aDV3Zl8xV1JV0gHkAUFVX3lxTFBvWkZ2TkJzUGhRNlRuUktseWxOcTlqOHJ3Wm1XMXFPYkxGM3BaajY3YVJSejYtYXFfdGFPZHp2YVB5eXNlU2ZEWTVsM3lNd2dwZ1FLTkNPWnlwOTQwbjNGeWp2TnFlU1VLb1NBZGsxN1BwcE5EWGFueWxWUnNhOEFLOE9lbThjX3QxVHBZaHJQVXZ4MTFyamdDQ3FDTmJ1aS1WRGNIWXJWSVllTnp3TXhVSXJHb1dXWEdWNHdhTE42anFJdDBGM2hwRzJXbDFOVzA2RUhuZkRxSE83YkhucHRXQ2Z2cw?oc=5",
-      "sourceHome": "https://tv9telugu.com",
+      "source": "Namasthe Telangana",
+      "publishedAt": "2026-11-20T10:07:06.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE5RTllHNmVXN3pJVkFnMExwUmd6YWtGV2dzVXR4Q2h1YXZxSUZ6T2N3MU13TmhYa3ZHUDZzSkdkT1BUTGZHQlBpTFZhY0hSY0doTmpOdE16dFNVUzZzTUI4bGw3bTFtaGtNMDMxampodC1WN3U0RWg4NVRXLURMSkZoTGRsemp6bl83N3hMNDA3ZnpYSWo5b2VlT0Rva2s?oc=5",
+      "sourceHome": "https://www.ntnews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "agritech-in-india-how-precision-farming-and-digital-platforms-are-transf",
+      "title": "AgriTech in India: How Precision Farming and Digital Platforms Are Transforming Agricultural Businesses",
+      "summary": "&nbsp;&nbsp; Business News This Week",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Business News This Week",
+      "publishedAt": "2026-11-20T09:06:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYy1Cck4xYVN6QzJtTmJFOWxDOWprbUVIQ0pVdmhrZ1ZsRkJhVS0wRlpTUDdjcllFRlIwOVRDVUpNTHBPN2NRQXNaUFhFeFd6dkNMRHZBWjhfcmRwY3pqMnNmNl81eF9UcloyRk1IbVE4LXloOWRRNGtpUVFxOUpUUXBycXhMc1lIQ3Y5MGhjeU5tX1FPYVpxbG5Ea2ViYnNvT293SDB3bzVrMW9hRG90MzFtM0Q5eW1HUlhuUkVqaU9qbFVxa1BGcGdwNXBoZnItRWFDRGFOZEZtWVY4a1E?oc=5",
+      "sourceHome": "https://businessnewsthisweek.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "8-2026-11-20",
+      "title": "పొలాల్లో కాల్చే గడ్డితో కోట్ల వ్యాపారం.. రూ.8 కోట్ల అమ్మకాలతో ఇద్దరు స్నేహితులు సక్సెస్!",
+      "summary": "&nbsp;&nbsp; మన తెలంగాణ",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "మన తెలంగాణ",
+      "publishedAt": "2026-11-20T07:07:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2N5VC03WGhrVl9ZMEdHN0htSW1SdXNwdzJTd3l4UXdLc2t6Q1Z1WFcyU3RNRnAwamYyY3NSQlhPRXA4UVNmb0R4UlJPQTNDeVRXa0hhZzVHQzlGRDV2dnp2ZTl2Y1Znd1JnVHlLbmJzcGdPYTB6WXl4UWhpSlREM2t1NkV1SFB1QUkzaDVxYWJDb051Yi11U0RtaEU1cHdyZVl3d0hVTVZUU2VBbWQ4ck94SE00b2NHOEg2TnhkcmXSAcABQVVfeXFMT2NjeVQtN1hoa1ZfWTBHRzdIbUltUnVzcHcyU3d5eFF3S3NrekNWdVhXMlN0TUZwMGpmMmNzUkJYT0VwOFFTZm9EeFJST0EzQ3lUV2tIYWc1R0M5RkQ1dnZ6dmU5dmNWZ3dSZ1R5S25ic3BnT2Ewell5eFFoaUpURDNrdTZFdUhQdUFJM2g1cWFiQ29OdWItdVNEbWhFNXB3cmVZd3dIVU1WVFNlQW1kOHJPeEhNNG9jRzhINk54ZHJl?oc=5",
+      "sourceHome": "https://www.manatelangana.news",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "farmers-seek-immediate-implementation-of-onion-price-stabilisation-measu",
+      "title": "Farmers seek immediate implementation of onion price stabilisation measures",
+      "summary": "&nbsp;&nbsp; The New Indian Express",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The New Indian Express",
+      "publishedAt": "2026-11-20T04:03:17.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFdYNHNBMU55eHFodzVhRXRKVk85Nkp6T19pUFl1Y2NQSW5YaGJoWldmMXNtSVczd29KVkNEa2xxUmxpaGl3WDJ6TE9nNktCNHVfN21yTFl4c2FMWWdOU2QyeFh4OXIweWcxNWFkdWFnVmxaVllfS2FVMGlWYnhYRDZzOVI3RkJBNVM0Sy1LUTVTQ3NLYno0NE9CUG5WXzBwMG9kQkw5REI1YjBWN1pNd2Y2VTFxeEpsSG5jQXBWVnJTVTJ4SUFBSFdNZEd3cmx2UFFhSkFmZ9IB5AFBVV95cUxPeDc4QXVXbVMxNXNMOER5Ujh0SGdlMHFPbGg3c1RKV01Ga2pUMWp1VTVlX0NLZ1V3dXFuODVqSkhNWWFab3lDNmlJMmUzc242cld4Q3RzVVRnbU4yR1d1d1NSZkQwSUV0RlhuaVBQUnhoMEhSQnRrbVpidy1HS3ppY19pTFpqcm9sOEFLd3hNS0Y2a29QSjBzam9KNkd5TGw1QzczTGN5YW4xYjVfdjlvRGwyTEVKa2kwNkdWd2RmQU5jV2ppWjUzV19vbXIwVFI3RXQ5eHNhUHNGWC05eDR4QXRZc0Y?oc=5",
+      "sourceHome": "https://www.newindianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "from-output-to-income-pm-modi-s-farm-agenda-now-turns-to-the-last-villag",
+      "title": "From output to income: PM Modi’s farm agenda now turns to the last village",
+      "summary": "&nbsp;&nbsp; Bureaucrats India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Bureaucrats India",
+      "publishedAt": "2026-11-20T03:58:23.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG1zQ0FUQkdWNWJWaXZuS1padW1ER01lOURxRUQ4QVNsWjdRanJ3SDNsR1RfbDdiQ0tDczhvZ085OGFLbk9pdmtRTFF1THVHeDdYMm4zVnQxX2xsNmc4NTc4bVlLUW1rRURtdWJXU0Zxd0h6QmZOanJCSDNSOGJLVVRGWGtZWWU5UjVLMVdocy1FRjlUZWgzSmhrQkJIb2pCWDVpak1PWXd1RFdPbDQ3MGk1NkxNU2otWXc?oc=5",
+      "sourceHome": "https://bureaucratsindia.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "centre-rolls-out-action-plan-to-safeguard-kharif-harvest-2026-11-19",
+      "title": "Centre rolls out action plan to safeguard kharif harvest",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-11-19T20:23:12.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWF9fZVZMeHlXRWxDYWk3RU5QNDBadmRhWWJJWTJhdEdmRUdqZ3FhLWlJeWVEZmxwVUxoUV9ybXhmdGd5cURHT184VVZ6MXpYVHM5b2JqS3pzY05tTEk3TjlLYXV5S0J1OHFLOVVaaUpGaktLR21xTnZockFLQ1Vyb1pRY1pQdldOdE5yUElLeVNBSlBTNWRGeV9qajBTZWJqRHNTV1RNY3VZdkdpdUlVdlNVa0x0UdIBuwFBVV95cUxPQl9UTFhGaFZ4QWlnVlFzR18yVy1UcnRJVjgxazBKaFM4QW9ETmtSYmx0b3h0dTRwNWxzLUpjUWlZVFpNRzRXU1hMdGtqZ0l4WGVaR2taMFVRMVRFVl9mS3NKN2lvaS1LWFBOcE9RVll4WFNZaGNQR1FOdEw5azd4cFMtNXNTTFpwSS1XSHE5ZndZN1Z5d2dGaGM5TEh0T0NlWlVmbjVTdWVadE9LUmVPVEFTTkY2WHppbG5j?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -110,111 +325,6 @@
       "publishedAt": "2026-11-19T05:24:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0VpUjZtRW5MelZWZG9aUGJrVzhRYVlaN0ZIS1ZwWi1CcFNLVzVvbFJpVGo4dkNPUUZxYjF5ZklvWkRYNVlaajRTX1M5R3dMVnlDakhvOWdIRHRNcUdja0lIVTlHQldyOVdXTXdVOUNIVHh1Y2RIcWtma2pRc0lGMEM0TG5tYVRmcFNUdHhZU2tFUWFBQ2t6amY5SVJnLXJZYWpNaWgwZ0JrTmI4LUVwQ2JNV0hJN3M1SHlVRlVoYXAxNWZWcEJJMTFWdHMyOENoY0hvY29MMlQwOEp0ZGdhV2pDYnlhSGxPQmtlN3NqMUM?oc=5",
       "sourceHome": "https://www.aninews.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "high-pulse-rate-nearly-10-lakh-tonnes-of-tur-in-buffer-stocks-yet-prices",
-      "title": "High pulse rate: Nearly 10 lakh tonnes of tur in buffer stocks, yet prices keep rising. Why?",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-19T05:15:27.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVHRTUmI2VVlINUo1dENvOGRrNzhZakNWTENvcTNvbC1YNzMyc0Q1WVVyXzd0T0drR3dYYkdrMjFDX0ZvR2FiNnhpY0taSmt1MlJzdWJVTGNIRDRTVHRpYklUOHBPUEc5ZmFGWE5sbkZtS1IxN2hON2stYmIyMGFOYUpqOXVYUjZGZmFJbi1MMTM1aVdRUUZodDJaRGZPLTFab2lKeU1NclJVaFNtUTFhTUp6TWxMX05PaUxETkgzeUpvOFA2U2hwbWpTMGNtOXVsTGRxV1RKdjRzU0Rpd011bmc3SlF5VFVCeG5CWjdiNnpydFJ4QTNXenF2b9IBgAJBVV95cUxQNlJnYUxQTUJGRUxpOWVua25rUHJ3RDBaUEVFZzY2aF9ZVUtBV2tXZ2l2eTR5cldVLUUxSGRnUE4zcWt4MVFoV0VEdEQ4X3lvRTZySVlGQjJaeVB4UVFQb2dYODVWcWJpS1RaWjBheTdpSW1yNUVQb211RzFuMThzNGI5TkotRW4xOUtld1BkN1RRVjhFUUllaFdkRXU5M0oxZTE5TVdaU0VSSk5SbS1SOWF1MTU5UG9sN043c2o1RkhtSlNHZFBrNTdyY1FLQmRwanktR05TVFVYNlpZbDVVM0t2UkxGcnZiTzJsNmlySmRhcHl6Yk5PZ0VjbVQwYlN5?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "agriculture-to-become-profitable-venture-in-himachal-cm-sukhu-2026-11-18",
-      "title": "Agriculture to become profitable venture in Himachal: CM Sukhu",
-      "summary": "&nbsp;&nbsp; https://www.indiagazette.com/",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "https://www.indiagazette.com/",
-      "publishedAt": "2026-11-18T23:02:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWl5QXV3OG9pVm1vTDRHVUI0YkJzWTQwWGRZS09mR0dEZkM1LXVsamVTWFN2WUc2bjRrSVJHRWFsNjRObmtFMS1ZdlNBeUduSjRrQ3A1OENtMnVzeWg5LW5MeTZZbGp5ZkVkRU5aZ0JVVGIzVGhVZE1IdWJlUFVGWXVoVHBxQkVCcXJQbHptdXhoRmwtTlhCWjg2Rkk0ME05Zm1id1k3ZHk?oc=5",
-      "sourceHome": "https://www.indiagazette.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "don-t-sell-land-embrace-natural-farming-sukhu-to-farmers-2026-11-18",
-      "title": "Don’t sell land, embrace natural farming: Sukhu to farmers",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-18T18:42:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3pUWE84NWlnVVdsdzlrMkdHaHpMZzYzQ0ZQalJHZHJvU21PU25VdnlPR1ZhMmV2SjFPMXNmWFprYjBqSVJNWDgza0hPZ2hZY2ltMlZERG9LdXZaVjdVSTlHSFhhUmdmWWJiS1lfbkRaQ2FPYU1zVTdScW1WamFZaGxrZjNxM1RDTm5STDVibHdIOHBWZ2YwRGJsd2FnaC1RSVNYdzE4RFh6c1Z4Ylo3ZHhDdmNCdnhKWThwOVB4S2ZqcjVSQVpjemttMXlNQdIB0wFBVV95cUxOdzZDaVNPRHdKZ3c3NEp2Qk11eld4MVBfeS1yQkd1RnFucHlRR3pXa1M3TGFlR2hkeVhpUW9xMC1LblFFbnpkTnJtN1FWN1pubmZIM3h6cUJkWnBmVFJSQWFabUs5SEJjOExpRkxfT191Yk0xcTFQTTgzSy1rcXQtRjctYWpHbS1ldjFhSHV4akt5M3lXakJuNWZteW5QRHpCSEdpdEZMckpaYTZxa0ltd285Z0NnRWtSSS1sZGt5dGxBMnRCQ0hQVGRHNVVtcHkteXVz?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-18",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-18T11:01:33.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "ai-guided-agriculture-and-the-race-for-the-global-food-supply-2026-11-17",
-      "title": "AI-Guided Agriculture and the Race for the Global Food Supply",
-      "summary": "&nbsp;&nbsp; The McGill International Review",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The McGill International Review",
-      "publishedAt": "2026-11-17T22:52:18.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTc3RHpaSzVNMHpoSjV0a0lGaklZb29XS2FaZXBrV253UEV2b0dNNF8yd0l4M3dvNzh1XzJQQUlPMkF6V19rT3UxM2oxbGhSY0xVaExkbHVvQnYxdU5uaUU2TjlLSXlfWUVmS1BnVGgxOWV1MkJBaDFhcHBBQ2N2d2VNY3lDTG84LWFz?oc=5",
-      "sourceHome": "https://mironline.ca",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "jagadeevapur-2026-11-17",
-      "title": "Jagadeevapur: ఆరుతడి పంటల సాగుపై రైతులు దృష్టి సారించాలి",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-17T15:21:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWw0VGo5UmxhOHZRd0p1cGRpUkpmTW94RXprRm12MGRUMmlaVkFMQUhfYzJ6a0VKbGZidkNJek1vcnAtRWdzR2lvZ2ExcEowTWtpS0NQTHR2Q1VfSDhxSEJZM3BWOWFDY1N5MVo4bWRmQ1hmTlV6U3JZUFBvODZkaFlBQTFLbXMyNG40SnFySzF0V3RQWDdHZjlrd3JMNDk1czY4VmdyM09EMkY4Q3ZSWld30gGyAUFVX3lxTFBRbDRUajlSbGE4dlF3SnVwZGlSSmZNb3hFemtGbXYwZFQyaVpWQUxBSF9jMnprRUpsZmJ2Q0l6TW9ycC1FZ3NHaW9nYTFwSjBNa2lLQ1BMdHZDVV9IOHFIQlkzcFY5YUNjU3kxWjhtZGZDWGZOVXpTcllQUG84NmRoWUFBMUttczI0bjRKcXJLMXRXdFBYN0dmOWt3ckw0OTVzNjhWZ3IzT0QyRjhDdlJaV3c?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
