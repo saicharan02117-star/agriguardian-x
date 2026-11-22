@@ -1,9 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T07:31:02.138Z",
+  "generatedAt": "2026-11-22T07:12:04.843Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "rs-368-crore-msp-loss-behind-bjp-s-poll-setback-farm-body-2026-11-21",
+      "title": "Rs 368 crore MSP loss behind BJP’s poll setback: Farm body",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-21T19:16:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHh6RlRLdS1RdHBQa1FOM1NjOVNwcF95WjVEVktqSlN5MmlvMUxKWFpRUDRHb3dUZldGTlM2SU5odkFNSTVzeFNrRTJKSmFMYmhyQ21hdVNWS1JvYkZxeXhoOEFsVzNwMXdtM0hLZFBSQ1BURjFhUWp3MTkycjlEZlJ2RUhoV3c5eG1fVEZqcnBHc2pfNnpHZXdCdGd5ZlJzQnEyT0tmYVU0M1JNZ2oxMjJHQ0pPRnY5OUR1V2NseHRRNWhORVM5cjln0gHPAUFVX3lxTE1mNTR0Ui1RekhSNU9uUGdndXd5U0E3NWZJWGs2V003NkZUT0thTGQweVlWX3htdlM2aUZXWVQ5V1kwek5mbnY1eURsT0tlVTAzUlcxdllWc05BRWJnQVJlSFhWSHljTW9XdnlGMkVRUk16WFBYUkpHNWZYSjJJcENsV3FGMWRIaXZDVnB2SDNpaXFMVWNzM1NEaDNmYWhVZWwtZWM5bnl5NW5RTGxFdUx1R0JfbDZCY0tJYlZBbWVsZWJ2R0VlRnMwUmkzT2xCQQ?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "bibifathima-swa-sahaya-sangham-2018-shgs-as-agents-of-community-led-clim",
       "title": "Bibifathima Swa-Sahaya Sangham(2018): SHGs as Agents of Community-Led Climate Governance",
@@ -113,6 +130,23 @@
       "imageKind": "publisher-thumbnail"
     },
     {
+      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
+      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-20T11:20:33.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
       "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-20",
       "title": "The New Era of Indian Agriculture and Allied Sectors",
       "summary": "&nbsp;&nbsp; www.pib.gov.in",
@@ -149,20 +183,19 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "agritech-in-india-how-precision-farming-and-digital-platforms-are-transf",
-      "title": "AgriTech in India: How Precision Farming and Digital Platforms Are Transforming Agricultural Businesses",
-      "summary": "&nbsp;&nbsp; Business News This Week",
+      "id": "from-output-to-income-pm-modi-s-farm-agenda-now-turns-to-the-last-villag",
+      "title": "From output to income: PM Modi’s farm agenda now turns to the last village",
+      "summary": "&nbsp;&nbsp; Bureaucrats India",
       "crop": "All",
       "type": "scheme",
       "regions": [
-        "south",
         "india"
       ],
       "language": "en",
-      "source": "Business News This Week",
-      "publishedAt": "2026-11-20T09:06:43.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYy1Cck4xYVN6QzJtTmJFOWxDOWprbUVIQ0pVdmhrZ1ZsRkJhVS0wRlpTUDdjcllFRlIwOVRDVUpNTHBPN2NRQXNaUFhFeFd6dkNMRHZBWjhfcmRwY3pqMnNmNl81eF9UcloyRk1IbVE4LXloOWRRNGtpUVFxOUpUUXBycXhMc1lIQ3Y5MGhjeU5tX1FPYVpxbG5Ea2ViYnNvT293SDB3bzVrMW9hRG90MzFtM0Q5eW1HUlhuUkVqaU9qbFVxa1BGcGdwNXBoZnItRWFDRGFOZEZtWVY4a1E?oc=5",
-      "sourceHome": "https://businessnewsthisweek.com",
+      "source": "Bureaucrats India",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG1zQ0FUQkdWNWJWaXZuS1padW1ER01lOURxRUQ4QVNsWjdRanJ3SDNsR1RfbDdiQ0tDczhvZ085OGFLbk9pdmtRTFF1THVHeDdYMm4zVnQxX2xsNmc4NTc4bVlLUW1rRURtdWJXU0Zxd0h6QmZOanJCSDNSOGJLVVRGWGtZWWU5UjVLMVdocy1FRjlUZWgzSmhrQkJIb2pCWDVpak1PWXd1RFdPbDQ3MGk1NkxNU2otWXc?oc=5",
+      "sourceHome": "https://bureaucratsindia.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -182,40 +215,6 @@
       "publishedAt": "2026-11-20T07:07:07.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2N5VC03WGhrVl9ZMEdHN0htSW1SdXNwdzJTd3l4UXdLc2t6Q1Z1WFcyU3RNRnAwamYyY3NSQlhPRXA4UVNmb0R4UlJPQTNDeVRXa0hhZzVHQzlGRDV2dnp2ZTl2Y1Znd1JnVHlLbmJzcGdPYTB6WXl4UWhpSlREM2t1NkV1SFB1QUkzaDVxYWJDb051Yi11U0RtaEU1cHdyZVl3d0hVTVZUU2VBbWQ4ck94SE00b2NHOEg2TnhkcmXSAcABQVVfeXFMT2NjeVQtN1hoa1ZfWTBHRzdIbUltUnVzcHcyU3d5eFF3S3NrekNWdVhXMlN0TUZwMGpmMmNzUkJYT0VwOFFTZm9EeFJST0EzQ3lUV2tIYWc1R0M5RkQ1dnZ6dmU5dmNWZ3dSZ1R5S25ic3BnT2Ewell5eFFoaUpURDNrdTZFdUhQdUFJM2g1cWFiQ29OdWItdVNEbWhFNXB3cmVZd3dIVU1WVFNlQW1kOHJPeEhNNG9jRzhINk54ZHJl?oc=5",
       "sourceHome": "https://www.manatelangana.news",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "farmers-seek-immediate-implementation-of-onion-price-stabilisation-measu",
-      "title": "Farmers seek immediate implementation of onion price stabilisation measures",
-      "summary": "&nbsp;&nbsp; The New Indian Express",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The New Indian Express",
-      "publishedAt": "2026-11-20T04:03:17.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFdYNHNBMU55eHFodzVhRXRKVk85Nkp6T19pUFl1Y2NQSW5YaGJoWldmMXNtSVczd29KVkNEa2xxUmxpaGl3WDJ6TE9nNktCNHVfN21yTFl4c2FMWWdOU2QyeFh4OXIweWcxNWFkdWFnVmxaVllfS2FVMGlWYnhYRDZzOVI3RkJBNVM0Sy1LUTVTQ3NLYno0NE9CUG5WXzBwMG9kQkw5REI1YjBWN1pNd2Y2VTFxeEpsSG5jQXBWVnJTVTJ4SUFBSFdNZEd3cmx2UFFhSkFmZ9IB5AFBVV95cUxPeDc4QXVXbVMxNXNMOER5Ujh0SGdlMHFPbGg3c1RKV01Ga2pUMWp1VTVlX0NLZ1V3dXFuODVqSkhNWWFab3lDNmlJMmUzc242cld4Q3RzVVRnbU4yR1d1d1NSZkQwSUV0RlhuaVBQUnhoMEhSQnRrbVpidy1HS3ppY19pTFpqcm9sOEFLd3hNS0Y2a29QSjBzam9KNkd5TGw1QzczTGN5YW4xYjVfdjlvRGwyTEVKa2kwNkdWd2RmQU5jV2ppWjUzV19vbXIwVFI3RXQ5eHNhUHNGWC05eDR4QXRZc0Y?oc=5",
-      "sourceHome": "https://www.newindianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "from-output-to-income-pm-modi-s-farm-agenda-now-turns-to-the-last-villag",
-      "title": "From output to income: PM Modi’s farm agenda now turns to the last village",
-      "summary": "&nbsp;&nbsp; Bureaucrats India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "Bureaucrats India",
-      "publishedAt": "2026-11-20T03:58:23.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG1zQ0FUQkdWNWJWaXZuS1padW1ER01lOURxRUQ4QVNsWjdRanJ3SDNsR1RfbDdiQ0tDczhvZ085OGFLbk9pdmtRTFF1THVHeDdYMm4zVnQxX2xsNmc4NTc4bVlLUW1rRURtdWJXU0Zxd0h6QmZOanJCSDNSOGJLVVRGWGtZWWU5UjVLMVdocy1FRjlUZWgzSmhrQkJIb2pCWDVpak1PWXd1RFdPbDQ3MGk1NkxNU2otWXc?oc=5",
-      "sourceHome": "https://bureaucratsindia.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -258,23 +257,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "himachal-pradesh-raises-msp-for-natural-farming-turmeric-to-rs-170-and-w",
-      "title": "Himachal Pradesh Raises MSP for Natural Farming Turmeric to Rs. 170 and Wheat to Rs. 90/kg",
-      "summary": "&nbsp;&nbsp; RuralVoice",
-      "crop": "Wheat",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "RuralVoice",
-      "publishedAt": "2026-11-19T10:19:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3VkTy1yZWxjSkdjZU5lQ0NQeVNQM1RyUnRtWC1HZlhRejVLNk16UmIzX25rNUx4YTQ0VENIRkM0cVRPcWh6eG9ELW1fVUgtbGhoSkRtRVUyN3FWd2xDUTRSQzNpUW5KVlE3Tnd1YjVXc2VxMWt6amRkUmp4SDJPcGJUdl9vRGMwNGFxSTVGQ25wNWlZeGpVSk1UbFF1MjhFVFN3UTJZdDd2MFM5Z0JCYUoxT05YMU1FcFNGaGFIdVpMNUtrTkhfMNIBzgFBVV95cUxQLTNOU2N4VGIwcHRzOXNDV2RkYlRtUkpCRk1qSGtLcjBZMWxfS2JZU1NnWXFvSDJSdnNPMnRVMy1MUUxieFpWN0owVlZCSVkwaGlwcHJhVTY2VlVQSjNyVXViWEoyZ2V1X2pmVjgzcGxkc0k2YzlkTXNxdVg3U0YyaGlxWHhpbXYzVlpua2FGR1FxQno2dGpNaXY4STJLcXlZRU5QdjBOV084VHh6R2s2YWxmOE8ycEp6eDNzRWdZc2ZFY0MyU1hXY1ZBbEJLdw?oc=5",
-      "sourceHome": "https://eng.ruralvoice.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "devarakonda-2026-11-19",
       "title": "Devarakonda: ఉచిత కూరగాయల విత్తనాల పంపిణీతో రైతులకు ప్రోత్సాహం!",
       "summary": "&nbsp;&nbsp; HMTV",
@@ -290,41 +272,6 @@
       "publishedAt": "2026-11-19T08:42:51.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcG9pVm5SMTJQOFFpUzVlelBDVXA4dk0tNDB2Z0JpRGtMN3dLc1FzLWw5QVdCTFFWSThtS25RSk1VN0dyTmRySGVCSEhOSmh4bWtibzF5Y1Q2a0JHQ2JrY3hIVmtPbGJ6UW9mNVdBdmdSYUZlblMwOUI0cDhCTTV5LVdnbW0wVnNOdmprWnRPTFc3cE16dFI2dmpWLUVlSXNIbWZBODhDaWV3ZkZhSVBfeVRRQmdBX3JZ0gG-AUFVX3lxTE1NXzVBRm1NWEVENFExV2J6T25DNE8xQ0tkdkNmQW1hR3hId2ptVEFBbDM1WTVGNHpvaWg4RFdleW9XRHRucWJ1UERqb1ZZWVlnakgwd3llWm93OFpsNzhTYkFrVFljZ0FXTG5ySGlEOW5mRHMyazNVbnhsVUJaZ3RmQW50VkxOLUtibm45R3Y4UHI1SU5JUG9sSGRITG9YNUhHbzhQZTJuaVdwR2xteTBYNnV2SmFRakpCTkhXcWc?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
-      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-19T07:37:45.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "project-unnati-strengthens-farmer-livelihoods-and-long-term-viability-of",
-      "title": "Project Unnati Strengthens Farmer Livelihoods and Long-Term Viability of Mango Cultivation in Andhra Pradesh",
-      "summary": "&nbsp;&nbsp; ANI News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "ANI News",
-      "publishedAt": "2026-11-19T05:24:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU0VpUjZtRW5MelZWZG9aUGJrVzhRYVlaN0ZIS1ZwWi1CcFNLVzVvbFJpVGo4dkNPUUZxYjF5ZklvWkRYNVlaajRTX1M5R3dMVnlDakhvOWdIRHRNcUdja0lIVTlHQldyOVdXTXdVOUNIVHh1Y2RIcWtma2pRc0lGMEM0TG5tYVRmcFNUdHhZU2tFUWFBQ2t6amY5SVJnLXJZYWpNaWgwZ0JrTmI4LUVwQ2JNV0hJN3M1SHlVRlVoYXAxNWZWcEJJMTFWdHMyOENoY0hvY29MMlQwOEp0ZGdhV2pDYnlhSGxPQmtlN3NqMUM?oc=5",
-      "sourceHome": "https://www.aninews.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
