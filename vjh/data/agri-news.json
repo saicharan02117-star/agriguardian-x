@@ -1,11 +1,65 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T07:12:04.843Z",
+  "generatedAt": "2026-11-23T07:57:29.837Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
     {
-      "id": "rs-368-crore-msp-loss-behind-bjp-s-poll-setback-farm-body-2026-11-21",
+      "id": "shabad-2026-11-23",
+      "title": "Shabad: హైతాబాద్ రైతు వేదికలో 'ఖేత్ బచావో అభియాన్' అవగాహన కార్యక్రమం!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-23T06:22:45.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWks0c3BIVU1tZWFkYjByc2VXQWM3dnVpUWpTeld6S3FkUGRyVk5UZFltd0tZemQ0SGhlUkZwSzZoM2J0cV9acXp4WnNyR1pfWS1iZll6MDZTd2JXZUlRWk1ZWTl2Mnh0VUhJOUV1RGJEaHZWYjF5blY5dWtveUU2a2ZMWm0tR0VZc05wMWRldW9mSHVHem44VGgxT2hwRFlHSVd6dmo1b3YzVkVrdHRrR3Y4OHQySDg5OU5z0gG7AUFVX3lxTE9aSzRzcEhVTW1lYWRiMHJzZVdBYzd2dWlRalN6V3pLcWRQZHJWTlRkWW13S1l6ZDRIaGVSRnBLNmgzYnRxX1pxenhac3JHWl9ZLWJmWXowNlN3YldlSVFaTVlZOXYyeHRVSEk5RXVEYkRodlZiMXluVjl1a295RTZrZkxabS1HRVlzTnAxZGV1b2ZIdUd6bjhUaDFPaHBEWUdJV3p2ajVvdjNWRWt0dGtHdjg4dDJIODk5TnM?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-22",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-22T21:13:03.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "why-basmati-farmers-have-reasons-to-be-happy-despite-drought-across-much",
+      "title": "Why basmati farmers have reasons to be happy despite drought across much of India",
+      "summary": "&nbsp;&nbsp; The Indian Express",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Indian Express",
+      "publishedAt": "2026-11-22T14:00:01.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanh3YnVHemJBZlpSVW1sUHl0akt1bjBleTB1UEg4OGplV1ROR2h0MHBmVzNUbWJBYm1sZFdJaW8zQUItVHNPQ2FkNHdUbFoyUUpPTDVoQS1IZk5QV09XZEstYlVKNlk3WHFmN1diSnF6WjVETU9TQ2hIUVR1QnRXa2pLZF9faXJ0dlpZaWNEbkE3ZzhWbzdobzBPUkxTRWtsMG5qQUFJTGNWNUhkWUNxeEZNVDBNZ2tCVHRmZGdVVWNISXA0MWV0a3VCREt0UlVQcS1jNlhjUdIB3gFBVV95cUxOa2dBdVUwdkdlWEFJLWdydlF6d1dmOVVfcW5nb0JNdk5GdmFjNllwcFFDeHoyektTeFM4OUxtNVZ5NkhOZGJaTEpLU0JSbHFOQVB1eF9VSlBhcU8wWEhLeVVBT2dFRnJ0V2dPcUhKdUQtQVpJbExXZ0o5S0JVN3VhOE9VZkZqWWJLNzVOYmZUSVI3enlhV2tFV0E0NDRfMlk0UVpaN081WWxxNXZyOThXRWZLSzRHUzVpQW5keEN6MWFQeDlrZnlnY29ackw1NU9qSlhheVNNS1oxcW9vNkE?oc=5",
+      "sourceHome": "https://indianexpress.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "rs-368-crore-msp-loss-behind-bjp-s-poll-setback-farm-body-2026-11-22",
       "title": "Rs 368 crore MSP loss behind BJP’s poll setback: Farm body",
       "summary": "&nbsp;&nbsp; The Times of India",
       "crop": "All",
@@ -15,43 +69,27 @@
       ],
       "language": "en",
       "source": "The Times of India",
-      "publishedAt": "2026-11-21T19:16:00.000Z",
+      "publishedAt": "2026-11-22T10:52:00.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHh6RlRLdS1RdHBQa1FOM1NjOVNwcF95WjVEVktqSlN5MmlvMUxKWFpRUDRHb3dUZldGTlM2SU5odkFNSTVzeFNrRTJKSmFMYmhyQ21hdVNWS1JvYkZxeXhoOEFsVzNwMXdtM0hLZFBSQ1BURjFhUWp3MTkycjlEZlJ2RUhoV3c5eG1fVEZqcnBHc2pfNnpHZXdCdGd5ZlJzQnEyT0tmYVU0M1JNZ2oxMjJHQ0pPRnY5OUR1V2NseHRRNWhORVM5cjln0gHPAUFVX3lxTE1mNTR0Ui1RekhSNU9uUGdndXd5U0E3NWZJWGs2V003NkZUT0thTGQweVlWX3htdlM2aUZXWVQ5V1kwek5mbnY1eURsT0tlVTAzUlcxdllWc05BRWJnQVJlSFhWSHljTW9XdnlGMkVRUk16WFBYUkpHNWZYSjJJcENsV3FGMWRIaXZDVnB2SDNpaXFMVWNzM1NEaDNmYWhVZWwtZWM5bnl5NW5RTGxFdUx1R0JfbDZCY0tJYlZBbWVsZWJ2R0VlRnMwUmkzT2xCQQ?oc=5",
       "sourceHome": "https://timesofindia.indiatimes.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "bibifathima-swa-sahaya-sangham-2018-shgs-as-agents-of-community-led-clim",
-      "title": "Bibifathima Swa-Sahaya Sangham(2018): SHGs as Agents of Community-Led Climate Governance",
-      "summary": "&nbsp;&nbsp; IMPRI Impact and Policy Research Institute",
+      "id": "ai-could-help-pakistani-farmers-manage-crops-but-adoption-faces-major-hu",
+      "title": "AI could help Pakistani farmers manage crops, but adoption faces major hurdles",
+      "summary": "&nbsp;&nbsp; UrduPoint",
       "crop": "All",
       "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "IMPRI Impact and Policy Research Institute",
-      "publishedAt": "2026-11-21T04:27:56.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vcnhYRDZtWVRiTmdHRUVxZlBWbDJFbkNtdVYyd18xWElpa0MzdTVNS1BOdUxjSms4eURkQUVSMmRfLTlmT3oxQ1RWcy1sX3hmbkFwZm5ZSC1wdWpOZW1SYXowa2EyT0gtLXhKekNXQQ?oc=5",
-      "sourceHome": "https://www.impriindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "too-much-smoke-and-some-farm-fires-2026-11-21",
-      "title": "Too Much Smoke And Some Farm Fires",
-      "summary": "&nbsp;&nbsp; ETV Bharat",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "ETV Bharat",
-      "publishedAt": "2026-11-21T00:32:04.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWc1ODQ3ZnA4RUhkMU15ZVFrNGlhQVVCcXRrenFVMklWSVlGemJYMEtwOGIwdjFQZDFveE0weVZfZjJhSjBaVGpLU2JQbDFwaGt1Y0NkengwODNSbE1Hb0pzckFoRDdmUk9qRktSd2x5NkZ2ejBVYkJZaHVqM1dla0oyVnRONTZPVVFONV96WdIBlAFBVV95cUxQb0wxR3hGUnRIMG5vdmRVOGpKMUlTclVqOE1yYk10QktVWjEycV9MZ3BGRndnUW55S2Zfd0NBNnhPN0c4TkFpZkQ3UnY4c25qV3IweWJzd2ZIT3RCTDJWRXEyQ0hWa29Qd1M5OTAyLUhOcm9HcFJGRks3TnVBRXJuejFHX0JxZXBDS0J3ZnF4X1pLZGU0?oc=5",
-      "sourceHome": "https://www.etvbharat.com",
+      "source": "UrduPoint",
+      "publishedAt": "2026-11-22T09:45:07.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2k2NHlTSDNzbmRzVlFqY0FHcms3U0xBRGtPekptaE1kaTJ1WjVrWTNJbmQyMmswRGZIckFDdXZ6LWpMUjNnX2wyS1dCSjYyV2VUNHlsQ0FKTmt3TGdOUVJzNXFVWG1qT0ExYzJ5bXRHOUhFNGhhVld0N1hlNzFiSjdKV0tzYWo4NkZSX196cGdEd3dFYWVtZl9Mcw?oc=5",
+      "sourceHome": "https://www.urdupoint.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -89,8 +127,8 @@
       "publishedAt": "2026-11-20T15:43:38.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkZIZkozMWo2MER3VC1jMTFBV1Y4b2p0WDNvMUY1TEdaaEw2NFNlOUtmenBFQ0pNdUstdkJiTFpXQ1dXcXUzWVQwb2pkNTl0Y3JhTWNWaHJrMjdUMkpVcWRlaW5oUmFiYnVoWjJKamlxVFlfVHliQWxYaXFCcjlJQ2F6dHpLMkg0RUN2OVRTeFZxdTQ?oc=5",
       "sourceHome": "https://wisevoter.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
+      "imageUrl": "/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg",
+      "imageKind": "category-fallback"
     },
     {
       "id": "counting-real-cost-of-climate-variability-for-farmers-2026-11-20",
@@ -130,40 +168,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "pm-modi-launches-projects-worth-rs-19-480-crore-in-assam-s-guwahati-rele",
-      "title": "PM Modi launches projects worth Rs 19,480 crore in Assam’s Guwahati; releases Rs 18,000 crore under PM-Kisan",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-20T11:20:33.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXVWMmZaN1Z2alB2RFVvTkRZZG9NNnZXOWF4LXIwTGxtLWlCOUNkeEEtem0xMVhEVFlTNVVyZklZVmZURlR1VTNPMzFzYnRLenBoX2duTDUwLWJ2QXlINElreXA5YkRMNlRUWlk2RU5KcU5rQ044bVBKek1td2RhQkxROWtoX1NvSU1Yenc3WkgyOWdsU2V3dEJ0Y1gwbjVUeEVaOVJaUkpyMm52UDdnQjBNa1hMWWpZWXJHcG50dzdmX05GNy1wY3B3?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-20",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-20T10:07:12.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "wet-crops-2026-11-20",
       "title": "Wet crops | ఆరుతడి పంటల సాగుపై రైతులకు అవగాహన",
       "summary": "&nbsp;&nbsp; Namasthe Telangana",
@@ -183,95 +187,38 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "from-output-to-income-pm-modi-s-farm-agenda-now-turns-to-the-last-villag",
-      "title": "From output to income: PM Modi’s farm agenda now turns to the last village",
-      "summary": "&nbsp;&nbsp; Bureaucrats India",
-      "crop": "All",
+      "id": "origins-of-agriculture-japan-rice-farming-shifting-cultivation-2026-11-2",
+      "title": "Origins of agriculture - Japan, Rice Farming, Shifting Cultivation",
+      "summary": "&nbsp;&nbsp; Britannica",
+      "crop": "Paddy",
       "type": "scheme",
       "regions": [
+        "south",
         "india"
       ],
       "language": "en",
-      "source": "Bureaucrats India",
+      "source": "Britannica",
       "publishedAt": "2026-11-20T08:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG1zQ0FUQkdWNWJWaXZuS1padW1ER01lOURxRUQ4QVNsWjdRanJ3SDNsR1RfbDdiQ0tDczhvZ085OGFLbk9pdmtRTFF1THVHeDdYMm4zVnQxX2xsNmc4NTc4bVlLUW1rRURtdWJXU0Zxd0h6QmZOanJCSDNSOGJLVVRGWGtZWWU5UjVLMVdocy1FRjlUZWgzSmhrQkJIb2pCWDVpak1PWXd1RFdPbDQ3MGk1NkxNU2otWXc?oc=5",
-      "sourceHome": "https://bureaucratsindia.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
+      "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wd2YzeUdNLWNvTXdoZVFYbXI4RWxqbFVvZjZER3V1TXdtanY0QVg5VDlnQVNxUTRlQUwwOW5JejBnZkw0S3hOLUY3Vl9wV1J6MVNVaTdrOU9LMWFteUVJ?oc=5",
+      "sourceHome": "https://www.britannica.com",
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
     },
     {
-      "id": "8-2026-11-20",
-      "title": "పొలాల్లో కాల్చే గడ్డితో కోట్ల వ్యాపారం.. రూ.8 కోట్ల అమ్మకాలతో ఇద్దరు స్నేహితులు సక్సెస్!",
-      "summary": "&nbsp;&nbsp; మన తెలంగాణ",
-      "crop": "All",
-      "type": "scheme",
+      "id": "give-thanks-for-this-corn-price-trend-2026-11-20",
+      "title": "Give thanks for this corn price trend",
+      "summary": "&nbsp;&nbsp; Farm Progress",
+      "crop": "Maize",
+      "type": "market",
       "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "మన తెలంగాణ",
-      "publishedAt": "2026-11-20T07:07:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2N5VC03WGhrVl9ZMEdHN0htSW1SdXNwdzJTd3l4UXdLc2t6Q1Z1WFcyU3RNRnAwamYyY3NSQlhPRXA4UVNmb0R4UlJPQTNDeVRXa0hhZzVHQzlGRDV2dnp2ZTl2Y1Znd1JnVHlLbmJzcGdPYTB6WXl4UWhpSlREM2t1NkV1SFB1QUkzaDVxYWJDb051Yi11U0RtaEU1cHdyZVl3d0hVTVZUU2VBbWQ4ck94SE00b2NHOEg2TnhkcmXSAcABQVVfeXFMT2NjeVQtN1hoa1ZfWTBHRzdIbUltUnVzcHcyU3d5eFF3S3NrekNWdVhXMlN0TUZwMGpmMmNzUkJYT0VwOFFTZm9EeFJST0EzQ3lUV2tIYWc1R0M5RkQ1dnZ6dmU5dmNWZ3dSZ1R5S25ic3BnT2Ewell5eFFoaUpURDNrdTZFdUhQdUFJM2g1cWFiQ29OdWItdVNEbWhFNXB3cmVZd3dIVU1WVFNlQW1kOHJPeEhNNG9jRzhINk54ZHJl?oc=5",
-      "sourceHome": "https://www.manatelangana.news",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "centre-rolls-out-action-plan-to-safeguard-kharif-harvest-2026-11-19",
-      "title": "Centre rolls out action plan to safeguard kharif harvest",
-      "summary": "&nbsp;&nbsp; The Hans India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
         "south",
         "india"
       ],
       "language": "en",
-      "source": "The Hans India",
-      "publishedAt": "2026-11-19T20:23:12.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWF9fZVZMeHlXRWxDYWk3RU5QNDBadmRhWWJJWTJhdEdmRUdqZ3FhLWlJeWVEZmxwVUxoUV9ybXhmdGd5cURHT184VVZ6MXpYVHM5b2JqS3pzY05tTEk3TjlLYXV5S0J1OHFLOVVaaUpGaktLR21xTnZockFLQ1Vyb1pRY1pQdldOdE5yUElLeVNBSlBTNWRGeV9qajBTZWJqRHNTV1RNY3VZdkdpdUlVdlNVa0x0UdIBuwFBVV95cUxPQl9UTFhGaFZ4QWlnVlFzR18yVy1UcnRJVjgxazBKaFM4QW9ETmtSYmx0b3h0dTRwNWxzLUpjUWlZVFpNRzRXU1hMdGtqZ0l4WGVaR2taMFVRMVRFVl9mS3NKN2lvaS1LWFBOcE9RVll4WFNZaGNQR1FOdEw5azd4cFMtNXNTTFpwSS1XSHE5ZndZN1Z5d2dGaGM5TEh0T0NlWlVmbjVTdWVadE9LUmVPVEFTTkY2WHppbG5j?oc=5",
-      "sourceHome": "https://www.thehansindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "provide-insurance-cover-for-all-major-crops-and-farming-regions-ryots-ur",
-      "title": "Provide insurance cover for all major crops and farming regions, ryots urge govt",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-19T18:40:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2FzVXYyd2lSNVNLYWZHZUdLWkF4QmFQMEE5eV9Mc3ZFTXhpbkpCbVhGNUxFN1lJNDRPMjRNQWg0cUhEa0FSTVBtN05zSGdUSHBjSnFnRHZ3T0NUa3JETnlUb29GR2FZUS1uRFRNQjNvWHFhc0hCY1FzWnN4aE8ycUprS05MYl9xUUhwSl9fQ182dFg1N2piZmZGN3pWNVM1ZDhzMFIxSWtWQ3FqdWx4WElqdWs3VnNZc2c0S21wN3lUclF6Y1NUelVNUjBQT1hxb2RXWEhrQVlKTnFZc2Q5YTZ3ZFBteV9TNW9pNdIB8gFBVV95cUxPVjFwZGJzcV91MThwVGJ0bDRodk5LMWhaWTdoS0lmTGlSaktQQ3lUOGxmQ1AwamNTOXNydmhiX0l6djdLSE5pWW9UWURxZF9lRGlrblVIaHdNU09mdG9WVlZDTHVyYXRaTkdyY3JNRVdza0w2U3F4TlN5NkRneEdfaWNUNEFCWThiREhfd2VZeVdYOVhsRWtKc2VoaHBYMzRBNnlFZmhoQTRoVHZyemtPVG9IaE9mQzVUdmJhQWpCMDZubXFTYXEzQk5uMWhHMTZRcVBNMWM4eXVRY3JLSklQUlF4RWJPZU5KNTRjVXkySkdMUQ?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "devarakonda-2026-11-19",
-      "title": "Devarakonda: ఉచిత కూరగాయల విత్తనాల పంపిణీతో రైతులకు ప్రోత్సాహం!",
-      "summary": "&nbsp;&nbsp; HMTV",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "HMTV",
-      "publishedAt": "2026-11-19T08:42:51.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcG9pVm5SMTJQOFFpUzVlelBDVXA4dk0tNDB2Z0JpRGtMN3dLc1FzLWw5QVdCTFFWSThtS25RSk1VN0dyTmRySGVCSEhOSmh4bWtibzF5Y1Q2a0JHQ2JrY3hIVmtPbGJ6UW9mNVdBdmdSYUZlblMwOUI0cDhCTTV5LVdnbW0wVnNOdmprWnRPTFc3cE16dFI2dmpWLUVlSXNIbWZBODhDaWV3ZkZhSVBfeVRRQmdBX3JZ0gG-AUFVX3lxTE1NXzVBRm1NWEVENFExV2J6T25DNE8xQ0tkdkNmQW1hR3hId2ptVEFBbDM1WTVGNHpvaWg4RFdleW9XRHRucWJ1UERqb1ZZWVlnakgwd3llWm93OFpsNzhTYkFrVFljZ0FXTG5ySGlEOW5mRHMyazNVbnhsVUJaZ3RmQW50VkxOLUtibm45R3Y4UHI1SU5JUG9sSGRITG9YNUhHbzhQZTJuaVdwR2xteTBYNnV2SmFRakpCTkhXcWc?oc=5",
-      "sourceHome": "https://www.hmtvlive.com",
+      "source": "Farm Progress",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
