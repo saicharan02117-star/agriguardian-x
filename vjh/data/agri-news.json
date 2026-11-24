@@ -1,9 +1,84 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T07:57:29.837Z",
+  "generatedAt": "2026-11-24T10:12:05.792Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "2026-11-24",
+      "title": "తెలంగాణలో కొత్త పంటగా స్టీవియా సాగు.. చక్కెరకు సహజ ప్రత్యామ్నాయం, రైతులకు మంచి ఆదాయం",
+      "summary": "&nbsp;&nbsp; Samayam Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Samayam Telugu",
+      "publishedAt": "2026-11-24T04:41:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUtRbGNnNjFXMzdiNFNLYWtmMS1CWHZGSnl0SzRJTWZnM2NTVWVLOXB5bUszem1TSlk4dTVtZDY4RndJQmNqOV9yNHlSNDJQM2pYWDZlQVA0YW1BN0lHVFcxWVpENW9uamdJXzdTR3U1b3RZUkNnOUtTSkk0cGZyTVJKYlBQYTNubVFaaFQyVXI3ejhxWXlnanJPVkJJTTNaSUVydWkyQWIwQ2pncXBOQ1I2ZEw4VkQ2NW9HV3gxN3dzWlB3YmVfZURjZWszbGJSLWlXYTRvcnp4Wmc0Q3ZfQ1FlaVdSUWQ2anRhdG5DVk7SAfYBQVVfeXFMT29wVWNRak5aWVJkbHZudlhlUTR4MTU0TTByWXVVSjIzVzNCVzFzTXd4cjhic0JjWFcxbmtPWEJMQWF1Y0pHbms3WkhENE5yUndxS0hrUlhNVEZOVUZMcWFZOEVIZmF6UmpRYXdSM3FTRUtpX2lJSUxlS1k1VEpuaGtaZ1FNck1CengzZ1VWOHBYOFl0bUNlZXFpYXd0Mi1NZU9uOGNQOXF6MVJ6MHlDUHhBZnYzSFlBMGVFVVJiS1cxMUcwTGp0SkxGRWxuR0piajMyZG44aDlkeEZRTWVwNGdxZHhERGRnRmhuYWp4MzNtTW1HalVB?oc=5",
+      "sourceHome": "https://telugu.samayam.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "review-links-climate-disruption-to-severe-psychological-distress-among-e",
+      "title": "Review Links Climate Disruption to Severe Psychological Distress Among Eastern Cape Farmers",
+      "summary": "&nbsp;&nbsp; Bioengineer.org",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-23T15:28:34.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkJuNUk2cTFOTWJyS2ZRYXQ2RlZyd2tMMVk0N0VZVVlGeEJOblI0T2pFd0RuZnQzZDFyWnh5clBLazI2M3BDRXJsU25NQVZXSVA5VEl5b1p3aFFYaXM1UzIyaTFXS0d4dGlPcDJub3MzaFFMNzNzcEhCS2hsUXNqRXk3dXQzUDY2dl9LOTBCMXJVNUFwdF83RkM2T1NjM3JKYmdsSGJEZlhReUZpallYMlpJNFJYSE0?oc=5",
+      "sourceHome": "https://bioengineer.org",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "63-2026-11-23",
+      "title": "వ్యవసాయ పరిశోధనకు రూ.63 కోట్ల బాసట",
+      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Andhraprabha Daily",
+      "publishedAt": "2026-11-23T13:12:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1k2Q1lqTktqdVZ6TUswbmZKUUMzWmgxSU9hVWlLcWZWcWViZFNsemZfV3FUUDNOaF81bDlERWFlY2thd2o5WjhwS2RQRU5VMUt0T2Q5cXN5NVZlY0pVeWlvU2JPRlVqVUdRcExhNWxxOEU1TWJTQzcwUUdqMmQ3RU9CYW1VdWR2bnJ0LU5MQQ?oc=5",
+      "sourceHome": "https://prabhanews.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "peddapalli-2026-11-23",
+      "title": "Peddapalli: వరి సాగు తగ్గించి ఆరుతడి పంటలు వేయండి.. రైతులకు అవగాహన!",
+      "summary": "&nbsp;&nbsp; HMTV",
+      "crop": "Paddy",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "HMTV",
+      "publishedAt": "2026-11-23T07:25:50.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2FIZDdmODdvbDA4d1luMmJmdENkLXBVY01NTm1hZ0wtV2JuZHg5TlI3M3BTSlhRUjNLbk5SMEJMVGc5Rno4MFFSYWlodWNCYnhWV2ZLM3BMamJsdF9lcng2V1p5T1NBWEFpTDdxdGRMbjR6TFJpc2RDbmJVVjM3d0FBNEFHTlR2Y2hyUVNUaml6RHExRjdSbXdES1RyZnFsMEtyd3QyMDVkcjJRX1NOalZQSTVOaGFpSi1teXJXMjZoSGR5alN1RWNR0gHKAUFVX3lxTFBHYUhkN2Y4N29sMDh3WW4yYmZ0Q2QtcFVjTU1ObWFnTC1XYm5keDlOUjczcFNKWFFSM0tuTlIwQkxUZzlGejgwUVJhaWh1Y0JieFZXZkszcExqYmx0X2VyeDZXWnlPU0FYQWlMN3F0ZExuNHpMUmlzZENuYlVWMzd3QUE0QUdOVHZjaHJRU1RqaXpEcTFGN1Jtd0RLVHJmcWwwS3J3dDIwNWRyMlFfU05qVlBJNU5oYWlKLW15clcyNmhIZHlqU3VFY1E?oc=5",
+      "sourceHome": "https://www.hmtvlive.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "shabad-2026-11-23",
       "title": "Shabad: హైతాబాద్ రైతు వేదికలో 'ఖేత్ బచావో అభియాన్' అవగాహన కార్యక్రమం!",
@@ -20,23 +95,6 @@
       "publishedAt": "2026-11-23T06:22:45.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWks0c3BIVU1tZWFkYjByc2VXQWM3dnVpUWpTeld6S3FkUGRyVk5UZFltd0tZemQ0SGhlUkZwSzZoM2J0cV9acXp4WnNyR1pfWS1iZll6MDZTd2JXZUlRWk1ZWTl2Mnh0VUhJOUV1RGJEaHZWYjF5blY5dWtveUU2a2ZMWm0tR0VZc05wMWRldW9mSHVHem44VGgxT2hwRFlHSVd6dmo1b3YzVkVrdHRrR3Y4OHQySDg5OU5z0gG7AUFVX3lxTE9aSzRzcEhVTW1lYWRiMHJzZVdBYzd2dWlRalN6V3pLcWRQZHJWTlRkWW13S1l6ZDRIaGVSRnBLNmgzYnRxX1pxenhac3JHWl9ZLWJmWXowNlN3YldlSVFaTVlZOXYyeHRVSEk5RXVEYkRodlZiMXluVjl1a295RTZrZkxabS1HRVlzTnAxZGV1b2ZIdUd6bjhUaDFPaHBEWUdJV3p2ajVvdjNWRWt0dGtHdjg4dDJIODk5TnM?oc=5",
       "sourceHome": "https://www.hmtvlive.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-22",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-22T21:13:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -59,23 +117,6 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "rs-368-crore-msp-loss-behind-bjp-s-poll-setback-farm-body-2026-11-22",
-      "title": "Rs 368 crore MSP loss behind BJP’s poll setback: Farm body",
-      "summary": "&nbsp;&nbsp; The Times of India",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-22T10:52:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeHh6RlRLdS1RdHBQa1FOM1NjOVNwcF95WjVEVktqSlN5MmlvMUxKWFpRUDRHb3dUZldGTlM2SU5odkFNSTVzeFNrRTJKSmFMYmhyQ21hdVNWS1JvYkZxeXhoOEFsVzNwMXdtM0hLZFBSQ1BURjFhUWp3MTkycjlEZlJ2RUhoV3c5eG1fVEZqcnBHc2pfNnpHZXdCdGd5ZlJzQnEyT0tmYVU0M1JNZ2oxMjJHQ0pPRnY5OUR1V2NseHRRNWhORVM5cjln0gHPAUFVX3lxTE1mNTR0Ui1RekhSNU9uUGdndXd5U0E3NWZJWGs2V003NkZUT0thTGQweVlWX3htdlM2aUZXWVQ5V1kwek5mbnY1eURsT0tlVTAzUlcxdllWc05BRWJnQVJlSFhWSHljTW9XdnlGMkVRUk16WFBYUkpHNWZYSjJJcENsV3FGMWRIaXZDVnB2SDNpaXFMVWNzM1NEaDNmYWhVZWwtZWM5bnl5NW5RTGxFdUx1R0JfbDZCY0tJYlZBbWVsZWJ2R0VlRnMwUmkzT2xCQQ?oc=5",
-      "sourceHome": "https://timesofindia.indiatimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
       "id": "ai-could-help-pakistani-farmers-manage-crops-but-adoption-faces-major-hu",
       "title": "AI could help Pakistani farmers manage crops, but adoption faces major hurdles",
       "summary": "&nbsp;&nbsp; UrduPoint",
@@ -90,135 +131,6 @@
       "publishedAt": "2026-11-22T09:45:07.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2k2NHlTSDNzbmRzVlFqY0FHcms3U0xBRGtPekptaE1kaTJ1WjVrWTNJbmQyMmswRGZIckFDdXZ6LWpMUjNnX2wyS1dCSjYyV2VUNHlsQ0FKTmt3TGdOUVJzNXFVWG1qT0ExYzJ5bXRHOUhFNGhhVld0N1hlNzFiSjdKV0tzYWo4NkZSX196cGdEd3dFYWVtZl9Mcw?oc=5",
       "sourceHome": "https://www.urdupoint.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "telangana-2026-11-20",
-      "title": "Telangana : కరవు దెబ్బకు కుదేలైన పశుపోషణ.. మేత లేక సగం ధరకే అమ్మేసుకుంటున్న రైతులు!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-20T15:58:03.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeE8wVlpNeV9jZ2hrdXJaTUc1MkhmdHFzVWdPNnNSZ0tWRndBMW8xdVRNbldGeWpmMkhjcDJ4dHdUZEVkOU9GQzdpOUt6alVwN05IcmllMGtWQkMzQVA3QnJkT0J3VXFwQUNiMk93dGd2TWh3TUFJXzk4VVBvVG5WYkp4UlYwZ2RZbzZ2OE1BaFY4dTExSmpOS3pwVGstUU5ZVzFuSldmbmsycXo4aWV0bVRHYTRlTExqbEF4MjFkWWEzTzZSTDRsTkZWQWRSaW9VMDlLMFNjZlTSAd4BQVVfeXFMTlhXOXJtRE1OWm5teTQ2MkFXVDk5Qmk4dXg1TnlUQ2NLNC04YkswdmF6Wk91ZDRyX1FzdHhneFF4LVhYdzhIM3VDLUpxTERLVkZsb3YxOWlZSFcteTY1cU5fMkx1Z3NIV29mM1lwRXNfOEg4d1NBRFVWVTRLS0poOWpiRlNWZkpoY2dWUnFvSVRWcFpUUGV5UWVwR0NoUFJ6V1BKbmphdWU1bk82ZENSSVpfNE1nVW1PeDJITGhPRWl1bDBkbVhaRTh1TXZBV1RzeXpweUhrR0VLZVUzam53?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "asparagus-blight-pushes-new-jersey-growers-to-spray-more-2026-11-20",
-      "title": "Asparagus Blight Pushes New Jersey Growers to Spray More",
-      "summary": "&nbsp;&nbsp; Wisevoter",
-      "crop": "All",
-      "type": "disease",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Wisevoter",
-      "publishedAt": "2026-11-20T15:43:38.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWkZIZkozMWo2MER3VC1jMTFBV1Y4b2p0WDNvMUY1TEdaaEw2NFNlOUtmenBFQ0pNdUstdkJiTFpXQ1dXcXUzWVQwb2pkNTl0Y3JhTWNWaHJrMjdUMkpVcWRlaW5oUmFiYnVoWjJKamlxVFlfVHliQWxYaXFCcjlJQ2F6dHpLMkg0RUN2OVRTeFZxdTQ?oc=5",
-      "sourceHome": "https://wisevoter.com",
-      "imageUrl": "/vjh/assets/diagnosis/agx-diagnosis-sheet.jpg",
-      "imageKind": "category-fallback"
-    },
-    {
-      "id": "counting-real-cost-of-climate-variability-for-farmers-2026-11-20",
-      "title": "Counting real cost of climate variability for farmers",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-11-20T15:31:49.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNakpnMnN3Z2tRYjF4blR5dXI2SFFwWVZ1NlppUUhDMVY1YzR1MTFWOVJzSlozS0xtNWZ3a3VpR1psdDctbHc2NHNDZjIzTGt0Z3lpRmphODdtckRNS2w0OUNTeTd3MFNjMFoxNlRxMjBINUttNUV1VFJDUVVna05ocHNBRklLWGVvdG04dmNXeDJTTlVMeEJmT1YyM0JuTHd5RmVpMDNWY1R2TE5l?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "2026-11-20",
-      "title": "తక్కువ నీటితో సాగు.. ఎక్కువ దిగుబడి! మార్కెట్‌లో మంచి డిమాండ్ ఉన్న బెస్ట్‌ పంటలు ఇవే!",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "market",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-20T12:10:26.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnU4Vk9mc0tNaG12WjJYZjFkYWFNbmdlVW95dnA4R2haMDdFRVA0djBkRVMzdG1zMFlnaWVBT1VtcGg2cFAyRFBfS2hBdFNWWHoxNXBMYmYwYzEwbE11eFRTY25mNUNFeXJOaUtRbUJUdFQxdS1zcTRYXzd2cG1SSm1mMzRrc3FVWTJMTmJMTklDV1VrZE4tMFdQX3M4X1dfd2dOa2NmTXRrYmEtQmZhQmt0NGdONzcxOEN6dkxrSdIBxAFBVV95cUxQYjF0X25mTy1uLVExUkZTNmZxX28xRWJyQ3J0SzR2Z3ZPREVBd0k4ajExVGdHdGQwWTFxNlJGNWU2SWVSOThvS2t5R1FQWlZ0TldBR28yWFFycVpyQktjalpuMDBXY0VILWtTUy1oRkwxQkZXamQxOVpmR3lyeFB6c01pRS1lam1YZWQ3cFp3aU1MTWZMblNaS0ZaMi1fVTRwaXpxY3hWdTlsWlNHN0JzYzBFaDFxd1VjcDdNUTdDOE5pbmpY?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "wet-crops-2026-11-20",
-      "title": "Wet crops | ఆరుతడి పంటల సాగుపై రైతులకు అవగాహన",
-      "summary": "&nbsp;&nbsp; Namasthe Telangana",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Namasthe Telangana",
-      "publishedAt": "2026-11-20T10:07:06.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE5RTllHNmVXN3pJVkFnMExwUmd6YWtGV2dzVXR4Q2h1YXZxSUZ6T2N3MU13TmhYa3ZHUDZzSkdkT1BUTGZHQlBpTFZhY0hSY0doTmpOdE16dFNVUzZzTUI4bGw3bTFtaGtNMDMxampodC1WN3U0RWg4NVRXLURMSkZoTGRsemp6bl83N3hMNDA3ZnpYSWo5b2VlT0Rva2s?oc=5",
-      "sourceHome": "https://www.ntnews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "origins-of-agriculture-japan-rice-farming-shifting-cultivation-2026-11-2",
-      "title": "Origins of agriculture - Japan, Rice Farming, Shifting Cultivation",
-      "summary": "&nbsp;&nbsp; Britannica",
-      "crop": "Paddy",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Britannica",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Wd2YzeUdNLWNvTXdoZVFYbXI4RWxqbFVvZjZER3V1TXdtanY0QVg5VDlnQVNxUTRlQUwwOW5JejBnZkw0S3hOLUY3Vl9wV1J6MVNVaTdrOU9LMWFteUVJ?oc=5",
-      "sourceHome": "https://www.britannica.com",
-      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
-      "imageKind": "category-fallback"
-    },
-    {
-      "id": "give-thanks-for-this-corn-price-trend-2026-11-20",
-      "title": "Give thanks for this corn price trend",
-      "summary": "&nbsp;&nbsp; Farm Progress",
-      "crop": "Maize",
-      "type": "market",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Farm Progress",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
-      "sourceHome": "https://www.farmprogress.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
