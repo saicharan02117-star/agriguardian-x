@@ -1,9 +1,183 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T10:12:05.792Z",
+  "generatedAt": "2026-11-25T08:57:02.774Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "punjab-govt-should-roll-out-centre-s-crop-insurance-scheme-for-farmers-m",
+      "title": "Punjab govt should roll out Centre's crop insurance scheme for farmers: Minister",
+      "summary": "&nbsp;&nbsp; The Hawk",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hawk",
+      "publishedAt": "2026-11-25T08:12:36.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTQzdUNKbTQydTJCc00yckpILXFodU5zaXI2dW52YWRnaVl6elNRQzNsSzdReWVMOFNGRzFydGxGTVBhTEVGY194SFlTcjZURS1Wank0b0V3WDBNdVpfSUFzS3ZFcEI4ZUJHaWh5YWd5b3F4Z3FjYUhsaTFjQkJfUW5MQmEyNUpqQXpaOHp5S3VPVEJ0dGZYbWdtcWFLZG1vWWFCaXRMWDJRYXhYR3drbGhn?oc=5",
+      "sourceHome": "https://www.thehawk.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
+      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
+      "summary": "&nbsp;&nbsp; AgroSpectrum India",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "AgroSpectrum India",
+      "publishedAt": "2026-11-25T03:40:37.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
+      "sourceHome": "https://agrospectrumindia.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "farmers-organisations-call-for-protest-on-december-2-seeking-better-crop",
+      "title": "Farmers’ organisations call for protest on December 2 seeking better crop price",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "Paddy",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-24T19:15:40.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMHhYUHl3U05uZjcwM1dpQlVyNU1yQ0FwYm5SR29wcDFEX0pvaUwycWdfVUFjSkRpVFEwZDlKdG9rQk1OdGY3TTBpNDk4b3NCdjNLY3J3blBnMEJWcy14Z1QtSzJPeUtfTEEyLUNfRlFWM1pkVTQxaDBDMExEbFA1V1NUUHdhNFNDZVhFNTRvRmVCVFExLXZPYWRMV3QyVXdYRzNkMDMxQW1Hb2dPZV9rYXBYQTBmMHpqdVVxTUt1bWVMVEtLSnBhTjdSeGFFLXJBd1JpM21ZZDRIem8tNXR3RUlnb2PSAeQBQVVfeXFMTjB4WFB5d1NObmY3MDNXaUJVcjVNckNBcGJuUkdvcHAxRF9Kb2lMMnFnX1VBY0pEaVRRMGQ5SnRva0JNTnRmN00waTQ5OG9zQnYzS2Nyd25QZzBCVnMteGdULUsyT3lLX0xBMi1DX0ZRVjNaZFU0MWgwQzBMRGxQNVdTVFB3YTRTQ2VYRTU0b0ZlQlRRMS12T2FkTFd0MlV3WEczZDAzMUFtR29nT2Vfa2FwWEEwZjB6anVVcU1LdW1lTFRLS0pwYU43UnhhRS1yQXdSaTNtWWQ0SHpvLTV0d0VJZ29j?oc=5",
+      "sourceHome": "https://www.thehindu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-24",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-24T17:37:44.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "naidu-seeks-early-crop-calendar-to-shield-farmers-from-cyclones-in-ap-20",
+      "title": "Naidu seeks early crop calendar to shield farmers from cyclones in AP",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-24T17:10:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2xKbFRwSmxBYTR0THZKNi14dk5hQk8zRWhBVDVOSW5rMzA5d25NSWRfMTVQOWl2dVVaSkhhM3ZJeENBTm5YQU1UYThOckw0MzVOczJOenFHVnYxWlVJNXZaOGhMUnpVTC1aekU4VjJDOV9ILTZ4ZExlS3Z2MHoweUlnWGVwOHQ5SFF1NFdOaHVnd2h2VkhmSkZ0ZTFjblgwS1NoRS16blJxVWw2dF9oZ1R3TlVJeVpWbXBKRml5U2hmUW9GWGhjdXZ1TFJwNnlzUDhtdTRsa0oxdUpVODFHZtIB5gFBVV95cUxOMC1OYVZSdzB1YmQxbDMxay1EdjQydFdTWHF5Z3J0bVlyeV90SmQza0dNbmFfTXlOSDBmNjJYMEx6WHpWckdpcGQ2YmtrR0hLdkNUWTl5X0s4UmZoeXhXbXVsZ09FZk1DVXVBNjZyVnNjRUw2RWlITkF0bEhKczBGZWFyT0ZUbDlXNHJmTUNkbG9ON05IMmU1WEZNRWJqRFhidzVrbVVFVkxXVE1LbmUyQkdPQ1hJQVBRcnN0bFlUZEJVTnB0Tmp2ZDR0QzZnZWV2NlhiTUFXREJwa1ppeXpQaktxT0Yxdw?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-isb-playbook-for-farming-how-andhra-pradesh-can-build-a-world-class-",
+      "title": "The ISB Playbook For Farming: How Andhra Pradesh Can Build A World-Class Indian School Of Agriculture",
+      "summary": "&nbsp;&nbsp; ETV Bharat",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "ETV Bharat",
+      "publishedAt": "2026-11-24T16:37:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkJDWWpRWFNqcjhSY0VoeGhON1ozLWMtand4RkFibXdUenppcDVQV1RRSF9KY0Vob0hhR1NvanEwcDBlRmJPRTNXNXpPVTY1akt1X0dZT3I0VnkyLUZ2NXhOSUh6dHRBa0p3dGE2dlNDRVVOd1kzSnAzMl9qWEp0SDFxSVlYdEpPbXlqMEsta3E5dW9za0JFZHJPYkMxM3NPVGZtY0Q5RDF3Nl83aWVJQU5wYkoxaVIxbXN0Mi0yT0Q0NUw5ZTFBVmZXejdEZFdJUGI0bTZ1a243NE1rM0JUQVF0bmZrNGfSAewBQVVfeXFMUDZWRUFFdlVHeGxUaXVEMXNKMHV1V1ZlcHBvYkwtTV9YWXBBdlRwRDJjWThqTlBRb1hxcUhSNmg5VFg3MTA3aDZyRVRiXzNqVFNKa3Y3Ylo5VzNxUGRVOUhfemxCN1VSOFFMMFB5aWZSRU5fckpZZk83bWQya0U0eW93UUpvMVNDQjZ1VkNVdGFjXzBfUzVNVTZvRktQYUt1S1Rtd2FubHRoay1ZYTBwRW9qVlY2X19nU1N4b3RvQkNQSWRncXFTdXJsUk9FV1pfQ3pTN0pSRldPXzhwZ3RSNFpFVHFBTXNqWkxvU3E?oc=5",
+      "sourceHome": "https://www.etvbharat.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "organise-a-special-horticulture-summit-to-promote-and-attract-investment",
+      "title": "Organise a special Horticulture Summit to promote and attract investments:CM",
+      "summary": "&nbsp;&nbsp; Telugu Times",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Telugu Times",
+      "publishedAt": "2026-11-24T16:21:02.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmhVTVhvT1ZtRmQ2OHlyM3NhTEI1U3Y5QkNGS2F6OHRYTXFHWC1LSmhON3pvejRUaFRoZ0RPNXZUSUZKZFNqaDMyYk85aC1QYm00ZkU2UlJDOFBVcTZxdFE0eVp0dDZTMWRCZFlwN1NFcU1kRldvNTQwbDFVcjdRQ01CV0Vxb2VJdGdXRUJwdjdiUXFWRFRoYWpsd2tOVlJIWHg3NUo2eGpwVi1EdUNWWi1vcC00c1F0Qi1RR25WbTZuMjdMa2h4VXNXOHZ0VW1iZ3NJ?oc=5",
+      "sourceHome": "https://www.telugutimes.net",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "shivraj-chouhan-urges-punjab-to-adopt-crop-insurance-scheme-2026-11-24",
+      "title": "Shivraj Chouhan Urges Punjab to Adopt Crop Insurance Scheme",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-24T15:45:43.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDc0eE1Cb0JMSnNOUjc5ajFISXI5Z0laMGV5TEdCQUZzSUJnelg3aW1CdGpUcXgtTkRCdVAwV3RWbHNpSklqb0xkZklINUVPcnpOcWZXTnpGQU9pa3VoV0hhSW44bEZ0ZUpZWm54Rl9rZ3pLbHh4WTI2WmEwczBFRUpVQlVKVGdLNk5TcjhmVV80bXUwekZnSWtqTldmcTEzZnRjMnFIcTFTNmpnMzNTTdIBtgFBVV95cUxOVHg0RGhjRnJSVGMzdWU1bTJkWWgyR05fMDM1MV9uZGhMdXBMUUY3OTl3M3ZGNVZubUVOQURnSkNYZ1VBTW01WVJ2SVRwOWRqcENtN3czSVJQLUdaU3B5bVNpakZUVUdaQlhhZGptc0FLWXMzM200YlplYkV5dnRrbzdNSjBnUXFFWUFlRnF6bXRQaEl2MXVnTi1INFNWRVJqU04xd2NxMWZRQjYxMU5zMmwtRzRTUQ?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "nitin-gadkari-has-a-plan-to-make-india-s-biggest-waste-to-wealth-project",
+      "title": "Nitin Gadkari has a plan to make India's biggest waste-to-wealth project; Nagpur could soon turn municipal",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-24T10:59:57.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSGRPcVF2c0x6bzMtdXkwd3dmTnNmOHBXYnZPdkVLRzFuUEQtS3AtRG9ZMFFicngxNl9tcVl2Uy1rN2dVWTJROThBMzhjdTQxSXljU0tvR1c1ZHdpRGNxOFhGMjZETTZIUzNjbktfMzc2UEplT09FVXJDRVJaUXZYTXQtX1BkUFJaTzE3NUlMUmZIQTctVkhZZVNXVW9RMFJBV0E3R1NtV19rNkxqS0FWM2FpUHlpcndJaXFGUlM1MmpqYTJMUDgyc2ZSLWRudGZZNVRIcWRzSTVBY0lEdmZqNE5lYUVBLUhFdzhzZU1RbGhSMlEtZUdHMjVKWVlhbVpwLVIzak5fYzVkajFWU0E3TGFMcXV5ZE42T0pyMGVWSzRFbkhBTHFpb3VlbFhSdFNEZTNMVUQ5WkctcW1rMzJXWmNIUS1PUFnSAcwCQVVfeXFMTjdSdHBxd3c0TDVuMS1PYlA1YTU2eVFZWk5tRDNuYnJTdHlIRnQ4b1Z4eE5zSmJwRDA3U2FObUNGaXdwTnRING4wSUhwVjZOaVdTMmJYb3F3TGRISmswRVdCTHFQZWpLMF9nSnhJUzhMblowdkRWbWoyb0ltcW5yQWRmdmhFd1JYRDNSOHo0VGd1UmZ0WTdjM2E2anhlNExCOURkbnQ5cXZrME9hWU4tRG50RjRnZGNNa1hoR2c1cG02UXdyeVhMUjU5a1QxdUJ3Qk50NzZ3YWJYV1UtTEdEQ29IVTVkbWZVckVaQkphM3lIUGEySWpTVjNnaktpdUhZQ0Z4eXh1anA4YXliWS1zM1FYR2lDcVhfdmZLenpCZ2ZKbkpzR1ZmWFZCSDR1UXpTTWY5aVRSeGoxQU55QVRDbHROVHRFWXpaeEhoV2E?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "cultivating-carbon-democratizing-climate-markets-for-india-s-smallholder",
+      "title": "Cultivating Carbon: Democratizing Climate Markets for India’s Smallholders",
+      "summary": "&nbsp;&nbsp; RuralVoice",
+      "crop": "All",
+      "type": "market",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "RuralVoice",
+      "publishedAt": "2026-11-24T05:51:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVFJNnNxMERiNUtkX2lfMmtLRmtMZXR2d3kySkcxUUdtU2QzaVVYVGRzTFZMbmt0ejg5TnZRX3E4NER5WlZzQWhsNFY2V2NoQS04N0gyNkc1c2c1TmhCaEozRWFfZTVscjQwSXdKRE1JdkpMWHVmZEZJSVVIdzNMUEhUX1VxTjlCVDMyNk9sbDRHbFkwcDdSUmtacnZfZFZ4cUFteFdoVjZNMUpKTnlmU9IBtgFBVV95cUxNUnhLbURMNVFoSjhGUTRJYmstYXRKMGU3cWxfZFhqenMwUGNWbkpkNHNsdEx6cV9vU1MySHpXRWt4eTlZc0dJQnRmckxPUEQ4TU9LRXBQRk00WDBlby1GSHczYkVKRTM0aXF2STJEQjh6dEljSXEyYWVCd3EwYzVldEtzUmlveVFyZWhibjA0WmFBZXI2Y3VmbzUzekxvTkxldkxONld6OFVMVWY2ZHpHN3RNY1k0Zw?oc=5",
+      "sourceHome": "https://eng.ruralvoice.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
     {
       "id": "2026-11-24",
       "title": "తెలంగాణలో కొత్త పంటగా స్టీవియా సాగు.. చక్కెరకు సహజ ప్రత్యామ్నాయం, రైతులకు మంచి ఆదాయం",
@@ -38,25 +212,6 @@
       "publishedAt": "2026-11-23T15:28:34.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkJuNUk2cTFOTWJyS2ZRYXQ2RlZyd2tMMVk0N0VZVVlGeEJOblI0T2pFd0RuZnQzZDFyWnh5clBLazI2M3BDRXJsU25NQVZXSVA5VEl5b1p3aFFYaXM1UzIyaTFXS0d4dGlPcDJub3MzaFFMNzNzcEhCS2hsUXNqRXk3dXQzUDY2dl9LOTBCMXJVNUFwdF83RkM2T1NjM3JKYmdsSGJEZlhReUZpallYMlpJNFJYSE0?oc=5",
       "sourceHome": "https://bioengineer.org",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "63-2026-11-23",
-      "title": "వ్యవసాయ పరిశోధనకు రూ.63 కోట్ల బాసట",
-      "summary": "&nbsp;&nbsp; Andhraprabha Daily",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "Andhraprabha Daily",
-      "publishedAt": "2026-11-23T13:12:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1k2Q1lqTktqdVZ6TUswbmZKUUMzWmgxSU9hVWlLcWZWcWViZFNsemZfV3FUUDNOaF81bDlERWFlY2thd2o5WjhwS2RQRU5VMUt0T2Q5cXN5NVZlY0pVeWlvU2JPRlVqVUdRcExhNWxxOEU1TWJTQzcwUUdqMmQ3RU9CYW1VdWR2bnJ0LU5MQQ?oc=5",
-      "sourceHome": "https://prabhanews.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -113,24 +268,6 @@
       "publishedAt": "2026-11-22T14:00:01.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanh3YnVHemJBZlpSVW1sUHl0akt1bjBleTB1UEg4OGplV1ROR2h0MHBmVzNUbWJBYm1sZFdJaW8zQUItVHNPQ2FkNHdUbFoyUUpPTDVoQS1IZk5QV09XZEstYlVKNlk3WHFmN1diSnF6WjVETU9TQ2hIUVR1QnRXa2pLZF9faXJ0dlpZaWNEbkE3ZzhWbzdobzBPUkxTRWtsMG5qQUFJTGNWNUhkWUNxeEZNVDBNZ2tCVHRmZGdVVWNISXA0MWV0a3VCREt0UlVQcS1jNlhjUdIB3gFBVV95cUxOa2dBdVUwdkdlWEFJLWdydlF6d1dmOVVfcW5nb0JNdk5GdmFjNllwcFFDeHoyektTeFM4OUxtNVZ5NkhOZGJaTEpLU0JSbHFOQVB1eF9VSlBhcU8wWEhLeVVBT2dFRnJ0V2dPcUhKdUQtQVpJbExXZ0o5S0JVN3VhOE9VZkZqWWJLNzVOYmZUSVI3enlhV2tFV0E0NDRfMlk0UVpaN081WWxxNXZyOThXRWZLSzRHUzVpQW5keEN6MWFQeDlrZnlnY29ackw1NU9qSlhheVNNS1oxcW9vNkE?oc=5",
       "sourceHome": "https://indianexpress.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "ai-could-help-pakistani-farmers-manage-crops-but-adoption-faces-major-hu",
-      "title": "AI could help Pakistani farmers manage crops, but adoption faces major hurdles",
-      "summary": "&nbsp;&nbsp; UrduPoint",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "UrduPoint",
-      "publishedAt": "2026-11-22T09:45:07.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX2k2NHlTSDNzbmRzVlFqY0FHcms3U0xBRGtPekptaE1kaTJ1WjVrWTNJbmQyMmswRGZIckFDdXZ6LWpMUjNnX2wyS1dCSjYyV2VUNHlsQ0FKTmt3TGdOUVJzNXFVWG1qT0ExYzJ5bXRHOUhFNGhhVld0N1hlNzFiSjdKV0tzYWo4NkZSX196cGdEd3dFYWVtZl9Mcw?oc=5",
-      "sourceHome": "https://www.urdupoint.com",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
