@@ -1,9 +1,210 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T08:41:55.993Z",
+  "generatedAt": "2026-11-27T08:53:26.781Z",
   "refreshPolicy": "Daily at 00:30 UTC (06:00 IST) through GitHub Actions",
   "sourcePolicy": "Headlines, publisher names, publish times and links come from indexed news RSS. Original publishers remain authoritative.",
   "items": [
+    {
+      "id": "farming-idea-70-10-2026-11-27",
+      "title": "Farming Idea: 70 రోజుల్లో కాపు.. ఎకరానికి 10 టన్నుల దిగుబడి! రైతును రాజును చేసే పంట!",
+      "summary": "&nbsp;&nbsp; TV9 Telugu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "TV9 Telugu",
+      "publishedAt": "2026-11-27T08:08:29.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbThGR2YxdXlpT2R0UTg4Zkh5cFEyRkJJcm5KRzNfX0JFNVlxNmRYN1kzWFNhNzItbnN4VnRTcWZWbXFiczZBNGd2dlJMbW5VdDBrLXR2bGxTNlo4Qk10bGZqSmZqLTlRNGNQWmVKVGtxZ096UWJULUF5WnJYQThaOHZWYVJlU1VDcm1sdmtzbjd3MlRDak5XZDJvUWY3SmllczhiMG91bHFZbmYwM1N0dkRvWUxfdW1fZlpfbTFZZFLSAcYBQVVfeXFMTlM5d3R4bjRTVFA4cXFTbk5TT2FqWHlPOGJTYkJOREEwMmx6Vm5XTnY1TmFoWW0tbm1HNmNYV1lKLUVZU1BrQlRfLXFyN1NpSDRjZkdWQnkwX0FHS19Db1J0QzloOEdkZnh2a0FnQS0zbkduNENaTWFvbUEzUmhkeGtUclhpTmZlcUhmNFQ4S0FkSXNVSVVjYlJ3dmNjM0hrNmY3dzRrYm1vemZGWVA5LUpHd0ZKX0RQLVRWa29GamtFLVBQeEpR?oc=5",
+      "sourceHome": "https://tv9telugu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "from-unpredictable-monsoons-to-expensive-groceries-how-climate-change-is",
+      "title": "From Unpredictable Monsoons to Expensive Groceries: How Climate Change Is Reshaping India's Food Economy",
+      "summary": "&nbsp;&nbsp; Dainik Jagran MP CG",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Dainik Jagran MP CG",
+      "publishedAt": "2026-11-27T07:39:01.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLWNDcEdfSTVoLWtkY3g5ZjIyOU45Ul9zektlUG1MNlk3WHZHdTdkejhlYTVOS1lQQ0M1eVByanZaalhnMG5UTTF2MW15QnU1NHhRLXVuN1lHMGc3WmcyWmlrWGozTW01WEJUVTc3UWxqSGN5Q0p6VnR4LXV1TnBNRnZxdDBEX2pFNHV4TTdkLXhNYWMxdTJ2UmNrN3daZWlsQUs2TUZOVjNuZGZKVW1qbDBnU1I4RFo1NkZJVklsMA?oc=5",
+      "sourceHome": "https://english.dainikjagranmpcg.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "2026-11-27",
+      "title": "ఎల్‌నినో ముప్పు.. కౌలు రైతులపై పిడుగు",
+      "summary": "&nbsp;&nbsp; Disha daily",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "te",
+      "source": "Disha daily",
+      "publishedAt": "2026-11-27T02:51:50.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDFRRG5KX0x4cXozN0tzQVVwS3ZUanlicndJUldiSlFlemw0bGpvMVNEc3lVVzFlbVNkZXZ0OWVzcjlJbE5KTGhsWGV6d1lmb3VfcHZXa0xsRUVIZDR1cUxuTWhEenhPanVtaWdnWk9WUVV5OUlUeW1YYVJvdHNZTmgzR1ZNeFZpa0RnT2Z3QWVqMVNNbGlyWmRaOEgteUJNVDlEdVRULVNPWEQy?oc=5",
+      "sourceHome": "https://www.dishadaily.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "sklthu-vc-prof-raji-reddy-conferred-with-honorary-fellowship-in-agromete",
+      "title": "SKLTHU VC Prof Raji Reddy conferred with honorary fellowship in Agrometeorology",
+      "summary": "&nbsp;&nbsp; The Hans India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hans India",
+      "publishedAt": "2026-11-26T23:19:42.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEtDZHpNLS10RHdkaUhla3JpTFdUeldtUHJjTWpmcW0xT1I3SWtMZEdmTTU1cEE2QW5MTHZHYURLSlR3cURNUmZsMk4tRjJPOXdnQjF2a29LVml1UWdOSmhhTWlsblJzcXR1MzFYN1BBOTMyTkREWEM3LUluQWdtbm4yU0ZLdE5uV0gyU3VTOERPTXZmaWtmSndNTmxqdjdSZTAydUV5VnFuV2M4ZzFqVnl1aGRzNHBYOHRad0pZNFdzeDBISzJKSU5XZk1yTC0zdER0LVY2eEVEUdIB2gFBVV95cUxNNEtDZHpNLS10RHdkaUhla3JpTFdUeldtUHJjTWpmcW0xT1I3SWtMZEdmTTU1cEE2QW5MTHZHYURLSlR3cURNUmZsMk4tRjJPOXdnQjF2a29LVml1UWdOSmhhTWlsblJzcXR1MzFYN1BBOTMyTkREWEM3LUluQWdtbm4yU0ZLdE5uV0gyU3VTOERPTXZmaWtmSndNTmxqdjdSZTAydUV5VnFuV2M4ZzFqVnl1aGRzNHBYOHRad0pZNFdzeDBISzJKSU5XZk1yTC0zdER0LVY2eEVEUQ?oc=5",
+      "sourceHome": "https://www.thehansindia.com",
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
+    },
+    {
+      "id": "natural-sweetener-stevia-offers-new-farm-to-industry-opportunity-for-tel",
+      "title": "Natural sweetener stevia offers new farm-to-industry opportunity for Telangana",
+      "summary": "&nbsp;&nbsp; The Times of India",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-26T22:02:00.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSjNPWTNVWFZIcWZrcG55bHNjQlNKdGlvUDRfUk43T3ktSnB6SW5NS1AwUEVHY0VXUi1JNGVoVTk0QzhzRXE5UEkyRzc3ZUhjRFJYZkJFY2t2QTkwRmJsRXNtZjFkVTJHSDBVWUw5U0k3T0xwSFJ4TU0tc3FSdDUtQ0VZdzUxWlNLZlZNQUN6Mk10c2ZYdXVzYXVXQXF0TGpacHFLM2hXS2laN0FBXzVaUy1ETi1IZmFuQ21ZN3lXSVpnbEJyVXJPaXYwZm5jTGE4MmdSczhJaHNlV0dwTF9SWWpNWEhZOXNQM2ZR0gHwAUFVX3lxTE1FWHc2T091dlpvS3N6Y0lyaXlhVTlCUzlOMS1BTjNka1liSVZXUzlBc2NiRl9zVEI0WVBpQ1R5b2NRMFNfSHNnUDJnUnVRSzZvc1pXc1ZWUmtwU3BiSm5UR3luZVJuZGw4aWhLWVZTNTVBbXN4N3kwOUNZZjdlUjV6YjZyVjJyU0VIdERPTFMyZnR6UDNKZkt1SGwtTUZtcmphc1pwMkxad19tclJjUS1PenhrbUhYQU1ab3NXQ0haYnFBaFZZXzdGUkFEdkJqMnFxb0NLekJPUEdaeEFhMlZSTllzeXdiaUNyLVFMTDdZaA?oc=5",
+      "sourceHome": "https://timesofindia.indiatimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "foodgrain-production-stands-tall-against-el-nino-headwinds-2026-11-26",
+      "title": "Foodgrain production stands tall against El Nino headwinds",
+      "summary": "&nbsp;&nbsp; The Economic Times",
+      "crop": "All",
+      "type": "weather",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-26T18:51:59.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXBkbmdZenBZVVlDTFVMUnhIcFRhV183b25lUkhZbnlzUFVvVkMzeEZHd21pa1pYNVNZcDJaRnp1cE5MS1hWM3o1YnI0dUliUlFCRGhIbURjSzZGNWIybXVRTmhDZE9CZEZNZE10bFl2ellreElxR1d1NGUwRUVrN0kyZkcxSElFV09SSF9TWG9fS3huZ2laWnR6Uy1zdGxuTU1tRkUwWFhXN3VSY0Z5OGx3TTBGeHlxYjl1elBJcThqRjVPdEt5OHhrX29jWGhEY2NV0gHYAUFVX3lxTE40N0UwbGYzTEN1LTBjRTZ0aUcxLWZhVmxHNGJVXzNLMkNrOUlmOTVFTHY3Z3dJYU5CdlFCVGo4czdMY2dtdG5aV040UUU4a0h2RlVQS25lYnlBNlF2Z2F1d0tFeU9tZXQzend3elVHaXYwS3FURWhER3plMktXTktSQnFQNHZNRlFUU3V6Q2c2QXdkWHNvVTdUQUV0Z3pHMGtwaVJpZ0ptT1VveV9POGRkdnY1QXBKLUs1SlZmbmp6ZzJpb0pwcEFZeFl3UDR3bUNXZEQyb1U0ag?oc=5",
+      "sourceHome": "https://m.economictimes.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "enumerate-telangana-tenant-farmers-in-crop-loss-survey-support-financial",
+      "title": "Enumerate Telangana tenant farmers in crop loss survey; support financially distressed farmers: Committee",
+      "summary": "&nbsp;&nbsp; The Hindu",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "telangana",
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "The Hindu",
+      "publishedAt": "2026-11-26T14:48:38.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMk9adGprUnhQaXFYODE3T2FmTG1RVmV1MTJiQXY4UnBQUEJPdlhQSDJGbGZzZWhobWFGbG9oWWR1bTFOVjFURW5VRnBFd0ZUZlVIWUtKa05zbU04VUVmNUFyc1VsbEJDUW95UnJ4cGt6NEZvZ0YtSmF0d2daSWNsSkRsOUpsTnBYNTYxT0tsTnhkRUlvSkttcUJkLXBlZW8teExnY0hMNFNuU1Jwb0tabzh4eVVfWWxDeXpFYUxqUWRSc3RNcDJkcnVWZ295bVQ2UDM2ZElvRWk5VnRocXdIVThDSHl0QWFnRkk1amhkRHV4U25wcUhUWnlmU1FZUW9WV3fSAYgCQVVfeXFMTU1BTGhwcFJNTUxqVmZ3R1F0SUw0S0QyZTVwN09sc0tCYnUtUElSM2pJdUJxWG9YSDk5OEdkNGxRT0RaaURPblEydXdwdFdsel90YzN3Y1JsQXdrTzh6ZDZxTzRQNlUwTkJSS0hmWi01a01fengtN2Rtcmd3a2h5cERGd2VkZE9oZnV1VVduNG5keWhsSlhiTlRFZFNTVEhhQzE0R1RINHU5WG9SZ3ZQdjc3SnBZakZsamkzS0tQUjByS3lGNVUyRHN5X2ZJSVB5cjhacEJtME4wX0pjdkh5SzRsdnk0RXA0NVEzQmxZUnk5bDN3Ulo4Qm5ha2phMU82ZG4wRXNBS21I?oc=5",
+      "sourceHome": "https://www.thehindu.com",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-26",
+      "title": "The New Era of Indian Agriculture and Allied Sectors",
+      "summary": "&nbsp;&nbsp; www.pib.gov.in",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "www.pib.gov.in",
+      "publishedAt": "2026-11-26T12:27:11.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "sourceHome": "https://www.pib.gov.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "sesame-seeds-high-prices-shift-in-buying-and-plant-diseases-2026-11-26",
+      "title": "Sesame seeds: high prices, shift in buying and plant diseases",
+      "summary": "&nbsp;&nbsp; Mundus Agri",
+      "crop": "Paddy",
+      "type": "disease",
+      "regions": [
+        "south",
+        "india"
+      ],
+      "language": "en",
+      "source": "Mundus Agri",
+      "publishedAt": "2026-11-26T12:07:32.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHd1c1pScl9zTkFCMnpVb1o0Z3hWd09XS29wSXdPMVRjREVLZ0p5SFk3SE9sdW11bUJZVGRuUkpEdV9qb0dvZy1fcGhyNFhjQXN5Y3BfSHlMYkpJOGpiazJzSV9XNy1zS3BCTTUyRENtM0xkeHNMcmpMYm9LT3pvdkdOSGdkcUo5WkhUc2JoNUJfSGt5emhBQTZ6Y2M?oc=5",
+      "sourceHome": "https://www.mundus-agri.eu",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "rs-5-000-for-unemployed-farm-loan-waiver-big-promises-in-akhilesh-yadav-",
+      "title": "Rs 5,000 for unemployed, farm loan waiver: Big promises in Akhilesh Yadav's manifesto",
+      "summary": "&nbsp;&nbsp; India Today",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "India Today",
+      "publishedAt": "2026-11-26T11:33:59.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVGRUaXRDbWNLUlRUYlFObG43RGVVR3VjUXY4N0Y3RUN2TFF3Qmh6emxnSDVrd3ljbWoxV3NQajBWU21vd0pVSzBQazdGemtRWFVmRDc4NndqNFVTUll0SmJrVXA0VWNMd2JqWFZNRjFsZmtnSTB2UFBCckwxbmFkckN5U1VUallqamE4cjZDc2dxcmRVLWVQUnIwVjU1NUpncEZlOVZZaUdKb3B1dGplQXgyRnl1cVRGTkEtb1hHMmZCdUxPS2JEN1BvY2IyUnJvd0g1Z0t4WTZpYTlTMWJZczI5VWx6SHZ3YzdTTF8wODJYR1BkV29KcVVzc9IBgAJBVV95cUxNbUwwYnJsMXc1dkNmdnFoZWxYNGhPSUxkQ1QzbkZDVzNROXdIbm9JTjBSbUo2SEFKT2hLMlFsX0xnT1dRbFByazItQTNFWjhrRjNKaTk5ZTdrMGFibHhJQkZlaE5oMTZEa3I0c3JUSVUwZU1TaDJHcTVta0hucHNrd3lJZDlmUFFQeVBDeHhlSFdXaW5VWUdGUnFzRHZEemVMNDVuVF9vNER5a1g1NWFZV1lCenAtS1VzSVFXQzY0TExKTW1SdmZDOTVIam9PS3RXanBmUjVfRVBIQ0hsRUxkbFFVdjFWTkt2dXVobWFZbUljYUt6YkdCa0ZaWjBabWtZ?oc=5",
+      "sourceHome": "https://www.indiatoday.in",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageKind": "publisher-thumbnail"
+    },
+    {
+      "id": "chouhan-counters-ramesh-on-rural-distress-attacks-congress-2026-11-26",
+      "title": "Chouhan Counters Ramesh on Rural Distress, Attacks Congress",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
+      "crop": "All",
+      "type": "scheme",
+      "regions": [
+        "india"
+      ],
+      "language": "en",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-26T09:45:30.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZmtxUzZRd0xodVoxQzFudFduT1BPRXoxa3R0ekk5LTg0T2tpdTBlU295aVdXcXI5aFp3Z0o2a0ZHTUdnZVhHaDdyM29MNkRHdDdHZ3AtXzQ4dy1OMkJiaHktWmRvdkdfVHNMM3d4UHczaWlJcGtPdTRvbFVGNHY3MnFFV2k5YXJqclVEaGUxRG5XVjk4TnRHLWFxV2xHV1VZNUJCV3BZeGY1cUVXUGxR0gG0AUFVX3lxTE5lRlhvWVBZSm9OQlhXTUMtNnJWMEtWR1Y2eFdTdnVhanEwZDZYZUNaWkZPQllISUZDeTQ0elVUTkdHeE9KMUo0c1I4aEF5cHR0SDJ0cFFmLXhZWUxnbHFGQlNKYWtrSHRwMFZpOFJMLUNLdEhqM3d5VmcxdUJuWDdhNm9ZQlJjN3dhOEJUS2tKZHktQnRrMi1qNTJaaENCRDdKMWdlVkxDRC1aeERiZm8taWZtMQ?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
+    },
     {
       "id": "four-visits-in-four-months-can-chouhan-s-outreach-help-bjp-woo-punjab-fa",
       "title": "Four visits in four months: Can Chouhan's outreach help BJP woo Punjab farmers?",
@@ -22,59 +223,38 @@
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "2026-11-26",
-      "title": "తెలంగాణలో ‘స్టీవియా’ సాగుకు అడుగులు.. అన్నదాతకు సరికొత్త ఆదాయ వనరు",
-      "summary": "&nbsp;&nbsp; Disha daily",
-      "crop": "All",
-      "type": "scheme",
+      "id": "centre-clears-large-scale-potato-chana-and-tur-procurement-to-stabilise-",
+      "title": "Centre clears large-scale potato, chana and tur procurement to stabilise prices, support farmers",
+      "summary": "&nbsp;&nbsp; DD News",
+      "crop": "Paddy",
+      "type": "market",
       "regions": [
-        "telangana",
-        "south",
         "india"
       ],
-      "language": "te",
-      "source": "Disha daily",
-      "publishedAt": "2026-11-26T01:44:40.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZDkzNGJ2aERfNFoxMzN1Z2NVb0xhZ1ZTblVvT0p4WHFUYzhHdTlfMHM3Z2ZQNFpfUTc3X01XOURfOWlaS093Y1plTncwVlhRQXBYVDlUcGZRcXhDWnlyTlVwTThkNWFQSF9wa0dXZ0FxSWN6Qk40UUR5cVF5MWZwUlo0c1NyWUxZRzAzR3QwVDFINC1iOFJxVENJNTRsV3d6TlhiYUNRQ0NjYkJaR0VwMDN1TnFsbGFvOUxDMjlLZHM?oc=5",
-      "sourceHome": "https://www.dishadaily.com",
+      "language": "en",
+      "source": "DD News",
+      "publishedAt": "2026-11-25T18:49:31.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmI3UWxpcTZRWjZiWGZiZFQwNk5BWFhIWllQdG5sWVdKZ0R6X1Nud1dPdmQxRWFvMGZEYlk2a1JFRG4xTTJUNGV6SWxmVzZCMzlaYnk4cC1KMlZrUjNNVzJvTjM4akRsQzNadnlfalZIREdNZXdfZllGaTkzYnFVc3Fnb3ZOdkJ3QldsUTRpaE4wYWpsTmo4VkVZV2Z5MGgxNVVCQ0ZVblY0a09EaVBPaFpJMmRqSk1ycmlsWg?oc=5",
+      "sourceHome": "https://ddnews.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
     {
-      "id": "farming-ideas-60-2026-11-25",
-      "title": "Farming Ideas: రైతును రెండు నెలల్లో లక్షాధికారిని చేసే పంట.. జస్ట్‌ 60 రోజుల్లోనే చేతికి",
-      "summary": "&nbsp;&nbsp; TV9 Telugu",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "telangana",
-        "south",
-        "india"
-      ],
-      "language": "te",
-      "source": "TV9 Telugu",
-      "publishedAt": "2026-11-25T09:29:22.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORkF4VHZKbUxqeUJGVzJlQmlpRGxsR2syMkFFZktFWGhrdWNVQ1FLNG10MG1tX01EVmJuazFrUFBSeDZzRVFtelVTQmdMZ3JWWHRmcDZEal9hWXNXbU1mNWJwRGFpWjFjR1ZqR25HNG1DSnZpaTFFTS1JMDd6MVNLSU5wRy0taDdMM2phMjRNZWk5ZlhYcEZvdXN3a3lGYzVMcnBtbzcwaUtIVk5jaXBHLTZUblFGa2xYMGkzYjZEOF9fTV81NnRRdnZ30gHPAUFVX3lxTE5aMllkaEFSdFFuNHBXRk5weS1zMGtVSTExWUZoS2pIN3ViZldtMWtvV1Jyb184TGpRNExRSnBMYmdoXzJmUzZFaDJ5TWVMaEdiZWpJNXZyVE1HeGRTR28yZDdEM3FNZWRrb21XSzlJMFpaeTdPeDNNY0FDcGJKYWtlR3JYNmdfbU8tVGZzQkJtZWJGMWdlUVRaVXJmb2RUSjBEOHZ4UUVfbEREYUVGRkV3bDkwZFF1NlpWQUlHUTc3Nl9DZldfMHFiNHJWWkhpaw?oc=5",
-      "sourceHome": "https://tv9telugu.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "punjab-govt-should-roll-out-centre-s-crop-insurance-scheme-for-farmers-m",
-      "title": "Punjab govt should roll out Centre's crop insurance scheme for farmers: Minister",
-      "summary": "&nbsp;&nbsp; The Hawk",
+      "id": "centre-assures-support-for-assam-agri-makhana-oil-palm-push-2026-11-25",
+      "title": "Centre Assures Support for Assam Agri: Makhana, Oil Palm Push",
+      "summary": "&nbsp;&nbsp; Rediff MoneyWiz",
       "crop": "All",
       "type": "scheme",
       "regions": [
         "india"
       ],
       "language": "en",
-      "source": "The Hawk",
-      "publishedAt": "2026-11-25T08:12:36.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTQzdUNKbTQydTJCc00yckpILXFodU5zaXI2dW52YWRnaVl6elNRQzNsSzdReWVMOFNGRzFydGxGTVBhTEVGY194SFlTcjZURS1Wank0b0V3WDBNdVpfSUFzS3ZFcEI4ZUJHaWh5YWd5b3F4Z3FjYUhsaTFjQkJfUW5MQmEyNUpqQXpaOHp5S3VPVEJ0dGZYbWdtcWFLZG1vWWFCaXRMWDJRYXhYR3drbGhn?oc=5",
-      "sourceHome": "https://www.thehawk.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-25T16:24:01.000Z",
+      "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZjZWQlppVE1nQkctcW5nNlpTY1BlUzU1SHd6MXVsa2wzNHJSdFotTk1yYmlWa2Zjb2cwQXlKX0tSX0FqWXgyWGdXTGU5d1N1QTZlUkVsNThVcXhjNHlXcVMzWm5zVlJTUllPSUJjZVBXMlJVNDY0SXJQMWhrVFdyQ1VqWno0TzNDOTNwaDdRd25oYzV4T0F3QVEwRmlDSUhHdVByYXJ3MHlidW1kUi1IYklWaHZ6UdIBtgFBVV95cUxQZjZWQlppVE1nQkctcW5nNlpTY1BlUzU1SHd6MXVsa2wzNHJSdFotTk1yYmlWa2Zjb2cwQXlKX0tSX0FqWXgyWGdXTGU5d1N1QTZlUkVsNThVcXhjNHlXcVMzWm5zVlJTUllPSUJjZVBXMlJVNDY0SXJQMWhrVFdyQ1VqWno0TzNDOTNwaDdRd25oYzV4T0F3QVEwRmlDSUhHdVByYXJ3MHlidW1kUi1IYklWaHZ6UQ?oc=5",
+      "sourceHome": "https://money.rediff.com",
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
     },
     {
       "id": "india-s-next-agricultural-revolution-will-be-ai-driven-jitendra-singh-20",
@@ -91,57 +271,6 @@
       "publishedAt": "2026-11-25T06:50:05.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnRlYnh5MXRqWUlJMkU1YmVBZ2prVy02UXlVZUlMV0FtZzV2TVA0TzRkSUM4OHd2Tmg4a3VfRXgzbVhBMXVOSDJCTVVkN2Z5ZGxWWXFkOTNBN0RaMUZRbU1UeW54MHdiSjM3ckg5RXEtcGpHYVFQcGp4UHVhRUJuSGh4WEQ1ajZGREhnMk9ubDIxUUtOMDduMi1n?oc=5",
       "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "pm-aasha-explained-from-msp-procurement-to-price-deficiency-payments-202",
-      "title": "PM-AASHA explained: From MSP procurement to price-deficiency payments",
-      "summary": "&nbsp;&nbsp; DD News",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "DD News",
-      "publishedAt": "2026-11-25T06:29:32.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN1eGRtVW9BNGt3UTB4QnBpblFtbVVGRFE4akZ5OWtGaXhja3p0ajc3aHh2a1h2WXdjWEpOYTNTcXJmZ2pidERMazZkMlVlOVEteTBSSG9FUmg1SjdyaTRXRkFxUG9mRktMUGNUQlIwRkQ4TXZnMVlpMThEcDVpQ0E5ckxIRVhodEZ5SkFEVzJNREd2QlFNM2JR?oc=5",
-      "sourceHome": "https://ddnews.gov.in",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "6-crops-trade-below-msp-as-ragi-prices-plunge-32-and-bajra-falls-19-2026",
-      "title": "6 crops trade below MSP as ragi prices plunge 32% and bajra falls 19%",
-      "summary": "&nbsp;&nbsp; AgroSpectrum India",
-      "crop": "Paddy",
-      "type": "market",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "AgroSpectrum India",
-      "publishedAt": "2026-11-25T03:40:37.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBtZFZFXzMzbWVkRzBIcF9TY2ZQT21XR0Znak15ckU5NWMtd0VJZTUwaTZCM19Yc2s0T3pxS0tzVUZmX2xqUkFyNVBheGJKa0RQWnR1a21aa3hPSG8xYTBqbXp4X2dCbGpYcDlBVmY0Z2dGbGFvNWhJU0x6aGZJVjNJS2FlX2hUQndWczNxSlYwSWg3d3VLYTd4eVJ1V0czOWNaVEdYbUY4bmJJRl9KU254cVdNek0?oc=5",
-      "sourceHome": "https://agrospectrumindia.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "the-new-era-of-indian-agriculture-and-allied-sectors-2026-11-24",
-      "title": "The New Era of Indian Agriculture and Allied Sectors",
-      "summary": "&nbsp;&nbsp; www.pib.gov.in",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "www.pib.gov.in",
-      "publishedAt": "2026-11-24T17:37:44.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "sourceHome": "https://www.pib.gov.in",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     },
@@ -178,25 +307,8 @@
       "publishedAt": "2026-11-24T16:37:43.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkJDWWpRWFNqcjhSY0VoeGhON1ozLWMtand4RkFibXdUenppcDVQV1RRSF9KY0Vob0hhR1NvanEwcDBlRmJPRTNXNXpPVTY1akt1X0dZT3I0VnkyLUZ2NXhOSUh6dHRBa0p3dGE2dlNDRVVOd1kzSnAzMl9qWEp0SDFxSVlYdEpPbXlqMEsta3E5dW9za0JFZHJPYkMxM3NPVGZtY0Q5RDF3Nl83aWVJQU5wYkoxaVIxbXN0Mi0yT0Q0NUw5ZTFBVmZXejdEZFdJUGI0bTZ1a243NE1rM0JUQVF0bmZrNGfSAewBQVVfeXFMUDZWRUFFdlVHeGxUaXVEMXNKMHV1V1ZlcHBvYkwtTV9YWXBBdlRwRDJjWThqTlBRb1hxcUhSNmg5VFg3MTA3aDZyRVRiXzNqVFNKa3Y3Ylo5VzNxUGRVOUhfemxCN1VSOFFMMFB5aWZSRU5fckpZZk83bWQya0U0eW93UUpvMVNDQjZ1VkNVdGFjXzBfUzVNVTZvRktQYUt1S1Rtd2FubHRoay1ZYTBwRW9qVlY2X19nU1N4b3RvQkNQSWRncXFTdXJsUk9FV1pfQ3pTN0pSRldPXzhwZ3RSNFpFVHFBTXNqWkxvU3E?oc=5",
       "sourceHome": "https://www.etvbharat.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "shivraj-singh-chouhan-urges-punjab-govt-to-implement-centre-s-crop-insur",
-      "title": "Shivraj Singh Chouhan urges Punjab govt to implement Centre’s crop insurance scheme",
-      "summary": "&nbsp;&nbsp; PSU Watch",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "PSU Watch",
-      "publishedAt": "2026-11-24T16:26:21.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWt2QVIyTUxTZ3hQWVJaR1QtUlF1NU5GOEFPVmQ2YTJyRndxT2Jjek1kWW93U3lWbmVMOEhfekp4QmFQb2VtemJvVmhHQTdDTzY1amZEWmowOEdyMGhrNkwzNVhiUmExVXBBS05yMURVZGEtWlJiaEFCVnpvWjRJTGxiX1RUaWpOd1ZQWGZLNTVOSVp2R1Y5RU1kelB2YjdfMEFGZGdUSzFoOGlyZFdpOU9nTDZGYUkycFk5enNkSTNzSmvSAcMBQVVfeXFMTXFrdkFSMk1MU2d4UFlSWkdULVJRdTVORjhBT1ZkNmEyckZ3cU9iY3pNZFlvd1N5Vm5lTDhIX3pKeEJhUG9lbXpib1ZoR0E3Q082NWpmRFpqMDhHcjBoazZMMzVYYlJhMVVwQUtOcjFEVWRhLVpSYmhBQlZ6b1o0SUxsYl9UVGlqTndWUFhmSzU1TkladkdWOUVNZHpQdmI3XzBBRmRnVEsxaDhpcmRXaTlPZ0w2RmFJMnBZOXpzZEkzc0pr?oc=5",
-      "sourceHome": "https://psuwatch.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
     },
     {
       "id": "organise-a-special-horticulture-summit-to-promote-and-attract-investment",
@@ -214,8 +326,8 @@
       "publishedAt": "2026-11-24T16:21:02.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmhVTVhvT1ZtRmQ2OHlyM3NhTEI1U3Y5QkNGS2F6OHRYTXFHWC1LSmhON3pvejRUaFRoZ0RPNXZUSUZKZFNqaDMyYk85aC1QYm00ZkU2UlJDOFBVcTZxdFE0eVp0dDZTMWRCZFlwN1NFcU1kRldvNTQwbDFVcjdRQ01CV0Vxb2VJdGdXRUJwdjdiUXFWRFRoYWpsd2tOVlJIWHg3NUo2eGpwVi1EdUNWWi1vcC00c1F0Qi1RR25WbTZuMjdMa2h4VXNXOHZ0VW1iZ3NJ?oc=5",
       "sourceHome": "https://www.telugutimes.net",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
+      "imageUrl": "/vjh/assets/catalog/agriculture.jpg",
+      "imageKind": "category-fallback"
     },
     {
       "id": "40-2026-11-24",
@@ -233,41 +345,6 @@
       "publishedAt": "2026-11-24T16:02:11.000Z",
       "articleUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOeTZHMU1LU0trWW53MnJ3Q3AtemNOMFREQ2RSRFJBbEl3QnBTNGtlZkxGSnoyeGxYd2ZDcXdiREJZTjV6OTJMM2lKc1FtT3V4Um40UmlhYXlBOG94TENFUGZEN25Oc0FUdmE5Rm9IWlRHVFhYRk5BQXVPOS1wOVhyY2FFOGtJbWJ5cUlodGtVZ2dORnZESE4xaW41X29xbnRHOF9RS0VWcERkWmhKb1lEUU5yMzdCbjFQQWphUWxEdnY1cEZHVmlGamNUSUVPeWItZVJKbmlqQUVRak1pbDRCcFdZNkp3UlNlMjFLeDRCYTc4eFR3TFVKRGhmVVh5Ump0TWxCLUMxX0wtX0dxOUhZUVNtSE04NDVsaGdPRzBhYll5UVRKUjY2cU9CY9IBsAJBVV95cUxPaDktZEYxWFJrUGFRYnRla0l0NTcteHhVdVVfZkxCSkZFTWp4N2R0bVgtMWtGUTk4QzRTeENlQmh4MjZhQlRYdmVNMXdkZ05tSmpMODltWkpUM0ZJcGw5dktsUHhDbGR1VkRlZnZ5Q2o3SFZua2RHSjMteXduSVBwNHlKYzk1VTltTEFCMWlHX2RJaF90UXV3cVIwMEd6aE1CRzVXNFZxdElzeUlBOHZJUURES3JfY2QwWEVHaXh1RHdudWFKMG0wRVJsbXNUMlVUbWpvTkhEYzJHYl85YXl2akhLZzZwQWJoeGhONzBOcHNDRWFSQmpPNXlpSlRBX0xleERjSjdqTF85dVl5d1dpbnVPNDZCdkNJM2hWV1h3aGx5QldXeFdqWkFkaUhCSWc2?oc=5",
       "sourceHome": "https://telugu.timesnownews.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "nitin-gadkari-has-a-plan-to-make-india-s-biggest-waste-to-wealth-project",
-      "title": "Nitin Gadkari has a plan to make India's biggest waste-to-wealth project; Nagpur could soon turn municipal",
-      "summary": "&nbsp;&nbsp; The Economic Times",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "india"
-      ],
-      "language": "en",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-24T10:59:57.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSGRPcVF2c0x6bzMtdXkwd3dmTnNmOHBXYnZPdkVLRzFuUEQtS3AtRG9ZMFFicngxNl9tcVl2Uy1rN2dVWTJROThBMzhjdTQxSXljU0tvR1c1ZHdpRGNxOFhGMjZETTZIUzNjbktfMzc2UEplT09FVXJDRVJaUXZYTXQtX1BkUFJaTzE3NUlMUmZIQTctVkhZZVNXVW9RMFJBV0E3R1NtV19rNkxqS0FWM2FpUHlpcndJaXFGUlM1MmpqYTJMUDgyc2ZSLWRudGZZNVRIcWRzSTVBY0lEdmZqNE5lYUVBLUhFdzhzZU1RbGhSMlEtZUdHMjVKWVlhbVpwLVIzak5fYzVkajFWU0E3TGFMcXV5ZE42T0pyMGVWSzRFbkhBTHFpb3VlbFhSdFNEZTNMVUQ5WkctcW1rMzJXWmNIUS1PUFnSAcwCQVVfeXFMTjdSdHBxd3c0TDVuMS1PYlA1YTU2eVFZWk5tRDNuYnJTdHlIRnQ4b1Z4eE5zSmJwRDA3U2FObUNGaXdwTnRING4wSUhwVjZOaVdTMmJYb3F3TGRISmswRVdCTHFQZWpLMF9nSnhJUzhMblowdkRWbWoyb0ltcW5yQWRmdmhFd1JYRDNSOHo0VGd1UmZ0WTdjM2E2anhlNExCOURkbnQ5cXZrME9hWU4tRG50RjRnZGNNa1hoR2c1cG02UXdyeVhMUjU5a1QxdUJ3Qk50NzZ3YWJYV1UtTEdEQ29IVTVkbWZVckVaQkphM3lIUGEySWpTVjNnaktpdUhZQ0Z4eXh1anA4YXliWS1zM1FYR2lDcVhfdmZLenpCZ2ZKbkpzR1ZmWFZCSDR1UXpTTWY5aVRSeGoxQU55QVRDbHROVHRFWXpaeEhoV2E?oc=5",
-      "sourceHome": "https://m.economictimes.com",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageKind": "publisher-thumbnail"
-    },
-    {
-      "id": "review-links-climate-disruption-to-severe-psychological-distress-among-e",
-      "title": "Review Links Climate Disruption to Severe Psychological Distress Among Eastern Cape Farmers",
-      "summary": "&nbsp;&nbsp; Bioengineer.org",
-      "crop": "All",
-      "type": "scheme",
-      "regions": [
-        "south",
-        "india"
-      ],
-      "language": "en",
-      "source": "Bioengineer.org",
-      "publishedAt": "2026-11-23T15:28:34.000Z",
-      "articleUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkJuNUk2cTFOTWJyS2ZRYXQ2RlZyd2tMMVk0N0VZVVlGeEJOblI0T2pFd0RuZnQzZDFyWnh5clBLazI2M3BDRXJsU25NQVZXSVA5VEl5b1p3aFFYaXM1UzIyaTFXS0d4dGlPcDJub3MzaFFMNzNzcEhCS2hsUXNqRXk3dXQzUDY2dl9LOTBCMXJVNUFwdF83RkM2T1NjM3JKYmdsSGJEZlhReUZpallYMlpJNFJYSE0?oc=5",
-      "sourceHome": "https://bioengineer.org",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageKind": "publisher-thumbnail"
     }
